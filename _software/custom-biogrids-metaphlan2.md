@@ -1,0 +1,11 @@
+---
+parser: "custom"
+uid: "custom/biogrids/metaphlan2"
+url: "https://huttenhower.sph.harvard.edu/metaphlan"
+timestamp: "2022-07-18 17:45:46.925161"
+description: "(Metagenomic Phylogenetic Analysis) is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data."
+repo_url: "https://huttenhower.sph.harvard.edu/metaphlan"
+title: "MetaPhlAn2"
+tags: ["metagenomic-sequencing-analysis", "high-throughput-sequencing"]
+date: "2022-07-18 21:23:31.780895"
+---

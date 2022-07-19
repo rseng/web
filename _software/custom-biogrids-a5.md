@@ -1,0 +1,12 @@
+---
+parser: "custom"
+uid: "custom/biogrids/a5"
+url: "https://sourceforge.net/projects/ngopt/"
+timestamp: "2022-07-18 17:43:16.001465"
+description: "A5-miseq is a pipeline for assembling DNA sequence data generated on the Illumina sequencing platform. A5-miseq can produce high-quality microbial genome assemblies on a laptop computer without any parameter tuning by automating the process of adapter trimming, quality filtering, error correction, contig and scaffold generation and detection of misassemblies."
+repo_url: "https://sourceforge.net/projects/ngopt/"
+title: "A5"
+credit: ["David Coil", "Aaron E Darling", "Guillaume Jospin"]
+tags: ["genome-assembly", "high-throughput-sequencing", "metagenomic-sequencing-analysis", "genomics"]
+date: "2022-07-18 21:23:31.774113"
+---

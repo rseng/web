@@ -1,0 +1,12 @@
+---
+parser: "custom"
+uid: "custom/biogrids/qiime-2"
+url: "https://qiime2.org"
+timestamp: "2022-07-18 17:46:31.331811"
+description: "a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. QIIME 2 enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results."
+repo_url: "https://qiime2.org"
+title: "QIIME 2"
+credit: ["Greg Caporaso", "Rideout Jai Ram", "Rob Knight"]
+tags: ["metagenomic-sequencing-analysis", "high-throughput-sequencing"]
+date: "2022-07-18 21:23:31.821225"
+---
