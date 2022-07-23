@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 77
 owner: {"html_url": "https://github.com/mne-tools", "avatar_url": "https://avatars.githubusercontent.com/u/583875?v=4", "login": "mne-tools", "type": "Organization"}
 topics: ["python", "neuroscience", "electroencephalography", "magnetoencephalography", "electrocorticography", "machine-learning", "statistics", "visualization", "eeg", "meg", "ecog", "neuroimaging"]
-date: "2022-07-18 21:23:32.664873"
+date: "2022-07-23 02:24:08.811748"
 ---

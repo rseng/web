@@ -1,0 +1,26 @@
+---
+parser: "gitlab"
+uid: "gitlab/rki_bioinformatics/purple"
+url: "https://gitlab.com/rki_bioinformatics/purple"
+timestamp: "2022-07-20 17:28:37.073543"
+description: "Picking Unique Relevant Peptides for viraL Experiments    Authors: Johanna Lechner [@LechnerJ], Pauline Hiortand Felix Hartkopf [@HartkopfF]    Support: https://gitlab.com/HartkopfF/Purple    Download: https://gitlab.com/HartkopfF/Purple/releases"
+avatar: "https://gitlab.com/uploads/-/system/project/avatar/11392663/Purple_128.png"
+repo_url: "https://gitlab.com/rki_bioinformatics/purple"
+title: "Purple"
+doi: "https://www.mdpi.com/1999-4915/11/6/536"
+id: 11392663
+name: "Purple"
+name_with_namespace: "rki_bioinformatics / Purple"
+path: "purple"
+path_with_namespace: "rki_bioinformatics/purple"
+created_at: "2019-03-19T12:28:27.265Z"
+default_branch: "master"
+ssh_url_to_repo: "git@gitlab.com:rki_bioinformatics/purple.git"
+http_url_to_repo: "https://gitlab.com/rki_bioinformatics/purple.git"
+web_url: "https://gitlab.com/rki_bioinformatics/purple"
+readme_url: "https://gitlab.com/rki_bioinformatics/purple/-/blob/master/README.md"
+avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/11392663/Purple_128.png"
+last_activity_at: "2020-03-18T21:59:22.673Z"
+namespace: {"id": 1056929, "name": "rki_bioinformatics", "path": "rki_bioinformatics", "kind": "group", "full_path": "rki_bioinformatics", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/rki_bioinformatics"}
+date: "2022-07-23 02:24:08.698608"
+---

@@ -21,5 +21,5 @@ open_issues_count: 16
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/JuliaMatrices", "avatar_url": "https://avatars.githubusercontent.com/u/20272228?v=4", "login": "JuliaMatrices", "type": "Organization"}
-date: "2022-07-18 21:23:32.341340"
+date: "2022-07-23 02:24:09.416484"
 ---

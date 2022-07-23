@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/adrn", "avatar_url": "https://avatars.githubusercontent.com/u/583379?v=4", "login": "adrn", "type": "User"}
 topics: ["gaia", "astronomy", "data-structures", "python"]
-date: "2022-07-18 21:23:33.162040"
+date: "2022-07-23 02:24:09.256007"
 ---
