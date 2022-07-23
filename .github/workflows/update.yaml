@@ -1,6 +1,6 @@
 name: Update
 on:
-  workflow_dispatch
+  workflow_dispatch:
   schedule:
     # Once a week on Saturday
     - cron: '0 0 * * 7'
