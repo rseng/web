@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # Once a week on Saturday
-    - cron: '0 0 * * 7'
+    - cron: '5 14 * * 6'
 
 jobs:
   update:
