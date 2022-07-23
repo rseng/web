@@ -21,5 +21,5 @@ open_issues_count: 33
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["taxonomy", "data", "api", "biodiversity", "biology", "rstats", "nomenclature", "darwincore", "taxize", "api-wrapper", "r", "r-package", "API", "api-client", "identifiers", "JSON", "names", "species", "web"]
-date: "2022-07-23 02:24:08.997401"
+date: "2022-07-23 14:24:17.760516"
 ---

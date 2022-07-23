@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/symmy596", "avatar_url": "https://avatars.githubusercontent.com/u/26469895?v=4", "login": "symmy596", "type": "User"}
 topics: ["monte-carlo-simulation", "molecular-dynamics-simulation", "materials-science", "solid-state-chemistry", "solid-state-physics", "simulation", "chemistry"]
-date: "2022-07-23 02:24:08.830540"
+date: "2022-07-23 14:24:17.497331"
 ---

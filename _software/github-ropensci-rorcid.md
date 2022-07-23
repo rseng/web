@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["api-wrapper", "orcid", "doi", "scholarly-metadata", "identifiers", "rstats", "r", "orcid-api", "r-package", "citations", "literature", "people", "publications", "scholarly", "literature"]
-date: "2022-07-23 02:24:08.932609"
+date: "2022-07-23 14:24:17.653939"
 ---

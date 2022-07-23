@@ -18,5 +18,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/pyBRAvo", "avatar_url": "https://avatars3.githubusercontent.com/u/71509894?v=4", "login": "pyBRAvo", "type": "Organization"}
-date: "2022-07-23 02:24:09.648451"
+date: "2022-07-23 14:24:18.759279"
 ---

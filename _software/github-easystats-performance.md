@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/easystats", "avatar_url": "https://avatars.githubusercontent.com/u/47102598?v=4", "login": "easystats", "type": "Organization"}
 topics: ["r2", "aic", "performance", "models", "loo", "r", "easystats", "mixed-models"]
-date: "2022-07-23 02:24:09.050350"
+date: "2022-07-23 14:24:17.843831"
 ---

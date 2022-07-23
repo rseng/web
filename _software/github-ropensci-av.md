@@ -21,5 +21,5 @@ open_issues_count: 14
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "r-package", "rstats", "image-processing"]
-date: "2022-07-23 02:24:08.909859"
+date: "2022-07-23 14:24:17.619815"
 ---
