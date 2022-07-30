@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/mcfrith/lamassemble/-/blob/master/README.md"
 star_count: 1
 last_activity_at: "2022-05-05T04:29:34.904Z"
 namespace: {"id": 744022, "name": "Martin Frith", "path": "mcfrith", "kind": "user", "full_path": "mcfrith", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/c3fbdbb8e0bf1cd10256495e870fce10?s=80&d=identicon", "web_url": "https://gitlab.com/mcfrith"}
-date: "2022-07-23 14:24:17.323993"
+date: "2022-07-30 14:23:48.995354"
 ---

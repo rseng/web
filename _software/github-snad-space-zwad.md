@@ -22,5 +22,5 @@ open_issues_count: 17
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/snad-space", "avatar_url": "https://avatars.githubusercontent.com/u/63704930?v=4", "login": "snad-space", "type": "Organization"}
-date: "2022-07-23 14:24:19.019003"
+date: "2022-07-30 14:23:49.925252"
 ---

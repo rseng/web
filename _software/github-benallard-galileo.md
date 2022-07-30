@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/benallard", "avatar_url": "https://avatars.githubusercontent.com/u/178188?v=4", "login": "benallard", "type": "User"}
 topics: ["python", "fitbit", "synchronization"]
-date: "2022-07-23 14:24:18.370621"
+date: "2022-07-30 14:23:49.565629"
 ---

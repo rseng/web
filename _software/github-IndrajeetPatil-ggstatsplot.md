@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 41
 owner: {"html_url": "https://github.com/IndrajeetPatil", "avatar_url": "https://avatars.githubusercontent.com/u/11330453?v=4", "login": "IndrajeetPatil", "type": "User"}
 topics: ["ggplot-extension", "statistical-tests", "dataviz", "r", "statistical-analysis", "visualization", "datascience", "violin-plot", "plot", "bayes-factors", "regression-models", "correlation", "correlation-matrices", "tidy-data", "effect-size", "mixed-models", "robust-statistics", "non-parametric-statistics", "parametric", "meta-analysis"]
-date: "2022-07-23 14:24:17.598901"
+date: "2022-07-30 14:23:49.146877"
 ---

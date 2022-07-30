@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 12
 owner: {"html_url": "https://github.com/BIMSBbioinfo", "avatar_url": "https://avatars.githubusercontent.com/u/6482905?v=4", "login": "BIMSBbioinfo", "type": "Organization"}
 topics: ["rnaseq", "pipeline", "snakemake", "guix", "reproducibility"]
-date: "2022-07-23 14:24:18.348601"
+date: "2022-07-30 14:23:49.553079"
 ---

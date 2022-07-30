@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["cru", "climate-data", "cru-cl2", "temperature", "rainfall", "elevation", "r", "data-access", "wind", "relative-humidity", "solar-radiation", "diurnal-temperature", "frost", "rstats", "r-package", "peer-reviewed", "anglia-cru"]
-date: "2022-07-23 14:24:17.702606"
+date: "2022-07-30 14:23:49.200576"
 ---

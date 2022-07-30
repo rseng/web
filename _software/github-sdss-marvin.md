@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 10
 owner: {"html_url": "https://github.com/sdss", "avatar_url": "https://avatars.githubusercontent.com/u/22940388?v=4", "login": "sdss", "type": "Organization"}
 topics: ["astronomy", "manga", "marvin", "sdss"]
-date: "2022-07-23 14:24:18.883425"
+date: "2022-07-30 14:23:49.851941"
 ---

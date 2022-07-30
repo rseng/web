@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["taxonomy", "taxonomic-databases", "itis", "rstats", "taxize", "r", "r-package"]
-date: "2022-07-23 14:24:17.644504"
+date: "2022-07-30 14:23:49.171674"
 ---

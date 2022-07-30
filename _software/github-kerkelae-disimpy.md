@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/kerkelae", "avatar_url": "https://avatars3.githubusercontent.com/u/15076450?v=4", "login": "kerkelae", "type": "User"}
 topics: ["diffusion-mri", "diffusion-mri-simulation", "monte-carlo-simulation", "gpu-computing", "cuda"]
-date: "2022-07-23 14:24:19.270986"
+date: "2022-07-30 14:23:50.061933"
 ---
