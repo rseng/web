@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/csinva", "avatar_url": "https://avatars.githubusercontent.com/u/4960970?v=4", "login": "csinva", "type": "User"}
 topics: ["interpretability", "machine-learning", "data-science", "artificial-intelligence", "ml", "ai", "statistics", "scikit-learn", "python", "bayesian-rule-lists", "optimal-classification-tree", "rulefit", "uncertainty", "demo", "tutorial", "imodels", "rule-learning", "supervised-learning"]
-date: "2022-07-30 14:23:49.739716"
+date: "2022-08-06 14:23:51.880449"
 ---

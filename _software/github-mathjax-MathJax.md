@@ -23,5 +23,5 @@ topics: ["javascript", "mathematics", "latex", "asciimath-notation", "mathml", "
 timestamp: "2020-07-04 13:22:46.350579"
 avatar: "https://avatars1.githubusercontent.com/u/252187?v=4"
 repo_url: "https://github.com/mathjax/MathJax"
-date: "2022-07-30 14:23:49.885221"
+date: "2022-08-06 14:23:52.132786"
 ---

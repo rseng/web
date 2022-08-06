@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["elasticsearch", "http", "database", "database-wrapper", "json", "rstats", "r", "r-package", "data-science", "etl", "API", "documents", "Elasticsearch", "HTTP", "Java", "JSON", "NoSQL", "search", "databases"]
-date: "2022-07-30 14:23:49.168321"
+date: "2022-08-06 14:23:50.895948"
 ---

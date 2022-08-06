@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SeamusClarke", "avatar_url": "https://avatars.githubusercontent.com/u/34774908?v=4", "login": "SeamusClarke", "type": "User"}
 topics: ["astrophysics", "fitting-algorithm", "spectra"]
-date: "2022-07-30 14:23:49.531352"
+date: "2022-08-06 14:23:51.530340"
 ---

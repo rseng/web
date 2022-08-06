@@ -19,5 +19,5 @@ watchers_count: 36
 language: "R"
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "api-wrapper", "geocoder", "postcode", "uk", "geographic-data", "rstats", "r-package", "peer-reviewed", "geospatial"]
-date: "2022-07-30 14:23:49.233792"
+date: "2022-08-06 14:23:51.006579"
 ---

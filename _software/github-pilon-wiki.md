@@ -6,5 +6,5 @@ timestamp: "2022-07-18 17:46:22.067066"
 description: "Pilon is a software tool which can be used to automatically improve draft assemblies and find variation among strains, including large event detection."
 title: "Pilon"
 tags: ["genome-assembly", "high-throughput-sequencing"]
-date: "2022-07-30 14:23:49.953148"
+date: "2022-08-06 14:23:52.253508"
 ---

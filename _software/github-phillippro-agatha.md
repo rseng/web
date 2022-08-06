@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/phillippro", "avatar_url": "https://avatars.githubusercontent.com/u/3751474?v=4", "login": "phillippro", "type": "User"}
 topics: ["periodogram", "time-series", "periodicity", "data-analysis", "data-science"]
-date: "2022-07-30 14:23:49.865060"
+date: "2022-08-06 14:23:52.089785"
 ---

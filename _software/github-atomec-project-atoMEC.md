@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/atomec-project", "avatar_url": "https://avatars.githubusercontent.com/u/85865234?v=4", "login": "atomec-project", "type": "Organization"}
 topics: ["electronic-structure", "warm-dense-matter", "density-functional-theory", "atomic-physics", "plasma-physics"]
-date: "2022-07-30 14:23:49.484488"
+date: "2022-08-06 14:23:51.448934"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/mpi4jax", "avatar_url": "https://avatars.githubusercontent.com/u/81360121?v=4", "login": "mpi4jax", "type": "Organization"}
 topics: ["mpi", "jax", "jit", "xla", "gpu", "parallel-computing", "high-performance-computing"]
-date: "2022-07-30 14:23:49.463875"
+date: "2022-08-06 14:23:51.414549"
 ---

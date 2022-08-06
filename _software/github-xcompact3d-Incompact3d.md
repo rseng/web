@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/xcompact3d", "avatar_url": "https://avatars.githubusercontent.com/u/37588006?v=4", "login": "xcompact3d", "type": "Organization"}
 topics: ["navier-stokes", "computational-fluid-dynamics", "cfd", "direct-numerical-simulation", "large-eddy-simulation"]
-date: "2022-07-30 14:23:50.035807"
+date: "2022-08-06 14:23:52.394736"
 ---

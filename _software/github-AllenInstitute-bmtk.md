@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 21
 owner: {"html_url": "https://github.com/AllenInstitute", "avatar_url": "https://avatars.githubusercontent.com/u/1848392?v=4", "login": "AllenInstitute", "type": "Organization"}
 topics: ["neuroscience", "modeling", "simulation", "python", "neural-networks", "neuroinformatics", "neuron"]
-date: "2022-07-30 14:23:49.810989"
+date: "2022-08-06 14:23:51.996216"
 ---
