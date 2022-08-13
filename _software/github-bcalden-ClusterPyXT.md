@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 11
 owner: {"html_url": "https://github.com/bcalden", "avatar_url": "https://avatars.githubusercontent.com/u/10778805?v=4", "login": "bcalden", "type": "User"}
 topics: ["galaxy-clusters", "pipeline", "astronomy", "x-ray-astronomy", "astrophysics", "spectral-analysis", "cosmology"]
-date: "2022-08-06 14:23:51.315970"
+date: "2022-08-13 14:24:02.911340"
 ---

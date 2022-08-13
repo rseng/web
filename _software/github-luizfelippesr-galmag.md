@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/luizfelippesr", "avatar_url": "https://avatars.githubusercontent.com/u/11710467?v=4", "login": "luizfelippesr", "type": "User"}
 topics: ["galactic-magnetic-fields", "astrophysics", "mean-field-dynamo", "python"]
-date: "2022-08-06 14:23:50.871644"
+date: "2022-08-13 14:24:02.489943"
 ---

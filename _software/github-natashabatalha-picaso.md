@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/natashabatalha", "avatar_url": "https://avatars.githubusercontent.com/u/6554465?v=4", "login": "natashabatalha", "type": "User"}
 topics: ["exoplanets", "atmospheric-science", "planetary-science", "scattering", "atmospheres", "direct-imaging", "transmission", "emission", "reflected-light"]
-date: "2022-08-06 14:23:52.081524"
+date: "2022-08-13 14:24:03.674174"
 ---

@@ -5,5 +5,5 @@ url: "https://varlociraptor.github.io"
 timestamp: "2022-07-18 17:47:24.062410"
 description: "flexible, arbitrary-scenario, uncertainty-aware variant calling with parameter free filtration via FDR control."
 title: "varlociraptor"
-date: "2022-08-06 14:23:51.415780"
+date: "2022-08-13 14:24:03.002831"
 ---

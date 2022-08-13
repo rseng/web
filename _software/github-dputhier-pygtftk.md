@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/dputhier", "avatar_url": "https://avatars.githubusercontent.com/u/1831198?v=4", "login": "dputhier", "type": "User"}
 topics: ["bioinformatics", "gene", "gtf", "bed", "bigwig", "genomics", "transcript", "exon", "cds", "genomic", "tss", "tts", "splicing", "dna-sequences", "intron", "ngs", "chip-seq", "rna-seq"]
-date: "2022-08-06 14:23:51.646093"
+date: "2022-08-13 14:24:03.242514"
 ---

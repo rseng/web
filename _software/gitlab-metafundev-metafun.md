@@ -19,5 +19,5 @@ web_url: "https://gitlab.com/metafundev/metafun"
 readme_url: "https://gitlab.com/metafundev/metafun/-/blob/master/README.md"
 last_activity_at: "2019-10-18T13:32:27.694Z"
 namespace: {"id": 4510084, "name": "MetaFunDev", "path": "metafundev", "kind": "group", "full_path": "metafundev", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/metafundev"}
-date: "2022-08-06 14:23:50.606481"
+date: "2022-08-13 14:24:02.233408"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["cloud-speech-api", "cloud-translation-api", "translation-api", "googleauthr", "google-api-client", "r", "rstats", "google-cloud-speech", "google-cloud", "sentiment-analysis", "google-nlp", "natural-language-processing", "speech-api", "r-package", "peer-reviewed", "literature"]
-date: "2022-08-06 14:23:51.013287"
+date: "2022-08-13 14:24:02.624751"
 ---
