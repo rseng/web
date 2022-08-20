@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "raster", "landscape", "landscape-ecology", "visualization", "workflow", "r-package", "geospatial"]
-date: "2022-08-13 14:24:02.552554"
+date: "2022-08-20 14:24:08.582342"
 ---

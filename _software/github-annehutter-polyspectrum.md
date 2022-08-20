@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/annehutter", "avatar_url": "https://avatars.githubusercontent.com/u/13774169?v=4", "login": "annehutter", "type": "User"}
 topics: ["polyspectrum", "powerspectrum", "bispectrum", "mpi"]
-date: "2022-08-13 14:24:03.108960"
+date: "2022-08-20 14:24:08.811540"
 ---

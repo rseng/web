@@ -24,5 +24,5 @@ topics: ["heatmap", "tidyverse", "r", "rstudio", "tidy", "plotting", "tidy-data-
 timestamp: "2020-08-09 00:18:51.031454"
 avatar: "https://avatars2.githubusercontent.com/u/7232890?v=4"
 repo_url: "https://github.com/stemangiola/tidyHeatmap"
-date: "2022-08-13 14:24:03.064747"
+date: "2022-08-20 14:24:09.164023"
 ---

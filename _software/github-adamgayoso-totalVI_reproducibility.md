@@ -15,5 +15,5 @@ clone_url: "https://github.com/adamgayoso/totalVI_reproducibility.git"
 size: 81
 language: "Jupyter Notebook"
 owner: {"html_url": "https://github.com/adamgayoso", "avatar_url": "https://avatars.githubusercontent.com/u/10859440?v=4", "login": "adamgayoso", "type": "User"}
-date: "2022-08-13 14:24:02.819873"
+date: "2022-08-20 14:24:09.844918"
 ---

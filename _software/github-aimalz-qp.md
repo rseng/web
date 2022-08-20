@@ -22,5 +22,5 @@ open_issues_count: 12
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/aimalz", "avatar_url": "https://avatars.githubusercontent.com/u/8606810?v=4", "login": "aimalz", "type": "User"}
-date: "2022-08-13 14:24:03.433168"
+date: "2022-08-20 14:24:08.323074"
 ---
