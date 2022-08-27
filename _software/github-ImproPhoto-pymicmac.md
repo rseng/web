@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-05 00:17:18.598148"
 avatar: "https://avatars3.githubusercontent.com/u/19147158?v=4"
 repo_url: "https://github.com/ImproPhoto/pymicmac"
-date: "2022-08-20 14:24:08.325922"
+date: "2022-08-27 14:24:12.153158"
 ---

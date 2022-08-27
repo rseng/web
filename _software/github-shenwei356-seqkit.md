@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 28
 owner: {"html_url": "https://github.com/shenwei356", "avatar_url": "https://avatars.githubusercontent.com/u/2655946?v=4", "login": "shenwei356", "type": "User"}
 topics: ["bioinformatics", "cross-platform", "fasta", "golang", "sequence", "toolkit", "fastq", "tool", "manipulation"]
-date: "2022-08-20 14:24:09.024726"
+date: "2022-08-27 14:24:12.649320"
 ---

@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-05 00:17:08.985805"
 avatar: "https://avatars2.githubusercontent.com/u/20970511?v=4"
 repo_url: "https://github.com/AA-ALERT/AstroData"
-date: "2022-08-20 14:24:08.887005"
+date: "2022-08-27 14:24:12.548410"
 ---

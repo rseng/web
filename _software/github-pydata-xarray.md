@@ -23,5 +23,5 @@ topics: ["python", "netcdf", "numpy", "pandas", "xarray", "dask"]
 timestamp: "2020-07-04 13:22:26.591135"
 avatar: "https://avatars0.githubusercontent.com/u/1284191?v=4"
 repo_url: "https://github.com/pydata/xarray"
-date: "2022-08-20 14:24:08.239821"
+date: "2022-08-27 14:24:12.090722"
 ---

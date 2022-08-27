@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:13.604195"
 avatar: "https://avatars3.githubusercontent.com/u/26790167?v=4"
 repo_url: "https://github.com/online-behaviour/find-journalists"
-date: "2022-08-20 14:24:10.132197"
+date: "2022-08-27 14:24:13.373519"
 ---
