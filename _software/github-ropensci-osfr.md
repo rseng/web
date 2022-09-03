@@ -21,5 +21,5 @@ open_issues_count: 13
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["osf", "open-science", "reproducible-research", "scalereprod"]
-date: "2022-08-27 14:24:12.285626"
+date: "2022-09-03 14:25:01.185650"
 ---

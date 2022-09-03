@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/jobovy", "avatar_url": "https://avatars.githubusercontent.com/u/1044876?v=4", "login": "jobovy", "type": "User"}
 topics: ["density-estimation", "machine-learning", "gaussian-mixture-models", "python", "c", "uncertainty"]
-date: "2022-08-27 14:24:12.858745"
+date: "2022-09-03 14:25:01.676586"
 ---

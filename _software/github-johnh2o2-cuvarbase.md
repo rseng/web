@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/johnh2o2", "avatar_url": "https://avatars.githubusercontent.com/u/5678551?v=4", "login": "johnh2o2", "type": "User"}
 topics: ["time-series", "nfft", "lomb-scargle-periodogram", "fourier-methods", "cuda", "python", "python-3", "gpu-computing", "gpu"]
-date: "2022-08-27 14:24:13.421084"
+date: "2022-09-03 14:25:02.159155"
 ---

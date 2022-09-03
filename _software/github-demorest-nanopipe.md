@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/demorest", "avatar_url": "https://avatars.githubusercontent.com/u/159985?v=4", "login": "demorest", "type": "User"}
-date: "2022-08-27 14:24:12.489379"
+date: "2022-09-03 14:25:01.361238"
 ---

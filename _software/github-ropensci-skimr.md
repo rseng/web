@@ -20,5 +20,5 @@ language: "HTML"
 open_issues_count: 21
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["unconf17", "r", "summary-statistics", "ropensci", "unconf", "r-package", "rstats", "peer-reviewed", "scalereprod"]
-date: "2022-08-27 14:24:12.270086"
+date: "2022-09-03 14:25:01.172338"
 ---
