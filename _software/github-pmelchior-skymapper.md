@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/pmelchior", "avatar_url": "https://avatars.githubusercontent.com/u/1463403?v=4", "login": "pmelchior", "type": "User"}
 topics: ["matplotlib", "maps", "projection-mapping", "astronomy"]
-date: "2022-09-03 14:25:02.148463"
+date: "2022-09-10 14:26:32.287797"
 ---

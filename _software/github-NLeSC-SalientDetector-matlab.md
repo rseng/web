@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:20.718634"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/SalientDetector-matlab"
-date: "2022-09-03 14:25:01.605029"
+date: "2022-09-10 14:26:31.508051"
 ---

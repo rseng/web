@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/telegraphic", "avatar_url": "https://avatars.githubusercontent.com/u/713251?v=4", "login": "telegraphic", "type": "User"}
-date: "2022-09-03 14:25:01.684469"
+date: "2022-09-10 14:26:31.618375"
 ---

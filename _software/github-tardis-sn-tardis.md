@@ -23,5 +23,5 @@ open_issues_count: 148
 subscribers_count: 31
 owner: {"html_url": "https://github.com/tardis-sn", "avatar_url": "https://avatars.githubusercontent.com/u/6108234?v=4", "login": "tardis-sn", "type": "Organization"}
 topics: ["science", "astrophysics", "python", "supernova", "radiative-transfer"]
-date: "2022-09-03 14:25:01.455254"
+date: "2022-09-10 14:26:31.293202"
 ---

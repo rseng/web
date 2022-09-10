@@ -6,5 +6,5 @@ timestamp: "2022-07-18 17:43:32.865909"
 description: "BLASR (Basic Local Alignment with Successive Refinement) maps Single Molecule Sequencing (SMS) reads that are thousands of bases long, with divergence between the read and genome dominated by insertion and deletion error."
 title: "BLASR"
 tags: ["high-throughput-sequencing"]
-date: "2022-09-03 14:25:01.512900"
+date: "2022-09-10 14:26:31.374936"
 ---

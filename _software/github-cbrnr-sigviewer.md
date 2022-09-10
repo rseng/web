@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 18
 owner: {"html_url": "https://github.com/cbrnr", "avatar_url": "https://avatars.githubusercontent.com/u/4377312?v=4", "login": "cbrnr", "type": "User"}
 topics: ["eeg", "visualization"]
-date: "2022-09-03 14:25:01.528625"
+date: "2022-09-10 14:26:31.397738"
 ---

@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mattpitkin", "avatar_url": "https://avatars.githubusercontent.com/u/1421092?v=4", "login": "mattpitkin", "type": "User"}
 topics: ["integral", "gsl", "gsl-functions", "python", "wrapper"]
-date: "2022-09-03 14:25:01.082078"
+date: "2022-09-10 14:26:30.751504"
 ---

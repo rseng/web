@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:11.917351"
 avatar: "https://avatars1.githubusercontent.com/u/10065955?v=4"
 repo_url: "https://github.com/libdynd/dynd-python"
-date: "2022-09-03 14:25:01.570913"
+date: "2022-09-10 14:26:31.458965"
 ---

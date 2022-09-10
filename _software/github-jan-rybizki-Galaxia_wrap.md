@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 2
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/jan-rybizki", "avatar_url": "https://avatars.githubusercontent.com/u/25322899?v=4", "login": "jan-rybizki", "type": "User"}
-date: "2022-09-03 14:25:01.685996"
+date: "2022-09-10 14:26:31.620833"
 ---
