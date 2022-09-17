@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["gists", "github-api", "api-wrapper", "rstats", "r", "github-gist", "gist", "r-package", "API", "code", "GitHub", "GitHubAPI", "http", "https", "script", "snippet", "web-services", "scalereprod"]
-date: "2022-09-10 14:26:30.886739"
+date: "2022-09-17 14:26:36.347201"
 ---

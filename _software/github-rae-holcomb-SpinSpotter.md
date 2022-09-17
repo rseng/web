@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/rae-holcomb", "avatar_url": "https://avatars.githubusercontent.com/u/69921202?v=4", "login": "rae-holcomb", "type": "User"}
-date: "2022-09-10 14:26:31.805775"
+date: "2022-09-17 14:26:36.983131"
 ---

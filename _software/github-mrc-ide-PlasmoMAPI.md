@@ -21,5 +21,5 @@ language: "R"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mrc-ide", "avatar_url": "https://avatars.githubusercontent.com/u/25453642?v=4", "login": "mrc-ide", "type": "Organization"}
-date: "2022-09-10 14:26:31.288909"
+date: "2022-09-17 14:26:36.620150"
 ---

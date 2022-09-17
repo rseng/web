@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/nickhand", "avatar_url": "https://avatars.githubusercontent.com/u/2262496?v=4", "login": "nickhand", "type": "User"}
 topics: ["astrophysics", "galaxies", "cosmology", "large-scale-structure", "python", "c-plus-plus", "power-spectrum"]
-date: "2022-09-10 14:26:31.291120"
+date: "2022-09-17 14:26:36.621707"
 ---

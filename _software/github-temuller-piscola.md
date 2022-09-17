@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/temuller", "avatar_url": "https://avatars.githubusercontent.com/u/20286110?v=4", "login": "temuller", "type": "User"}
 topics: ["python", "supernova", "lightcurves", "gaussian-processes", "reproducible-science", "data-science", "data-driven", "supernovae"]
-date: "2022-09-10 14:26:31.698787"
+date: "2022-09-17 14:26:36.907084"
 ---
