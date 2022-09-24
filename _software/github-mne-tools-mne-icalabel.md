@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/mne-tools", "avatar_url": "https://avatars.githubusercontent.com/u/583875?v=4", "login": "mne-tools", "type": "Organization"}
 topics: ["eeg", "ica", "neuroscience", "python"]
-date: "2022-09-17 14:26:36.492195"
+date: "2022-09-24 14:26:42.981771"
 ---

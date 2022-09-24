@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 22
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["public-health-england", "fingertips", "health", "open-data", "public-health", "cran", "api-wrapper", "r", "rstats", "r-package", "peer-reviewed", "data-access"]
-date: "2022-09-17 14:26:36.328445"
+date: "2022-09-24 14:26:42.746591"
 ---

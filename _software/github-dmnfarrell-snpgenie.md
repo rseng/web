@@ -18,5 +18,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dmnfarrell", "avatar_url": "https://avatars0.githubusercontent.com/u/7859189?v=4", "login": "dmnfarrell", "type": "User"}
 topics: ["bioinformatics", "genomics", "ngs-pipeline", "python", "pyside2"]
-date: "2022-09-17 14:26:36.971105"
+date: "2022-09-24 14:26:43.655827"
 ---

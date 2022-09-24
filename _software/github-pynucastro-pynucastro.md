@@ -22,5 +22,5 @@ open_issues_count: 43
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/pynucastro", "avatar_url": "https://avatars.githubusercontent.com/u/17711850?v=4", "login": "pynucastro", "type": "Organization"}
-date: "2022-09-17 14:26:36.641977"
+date: "2022-09-24 14:26:43.195593"
 ---

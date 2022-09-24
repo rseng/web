@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 15
 owner: {"html_url": "https://github.com/SHTOOLS", "avatar_url": "https://avatars.githubusercontent.com/u/8998566?v=4", "login": "SHTOOLS", "type": "Organization"}
 topics: ["spherical-harmonics", "spectral-analysis", "python", "fortran", "gravity-field", "magnetic-field", "topography", "slepian-functions"]
-date: "2022-09-17 14:26:37.211264"
+date: "2022-09-24 14:26:43.994438"
 ---
