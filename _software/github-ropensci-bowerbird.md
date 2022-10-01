@@ -21,5 +21,5 @@ open_issues_count: 12
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "peer-reviewed", "Antarctic", "climate", "data", "environmental", "ropensci", "satellite", "SouthernOcean", "scalereprod"]
-date: "2022-09-24 14:26:42.841809"
+date: "2022-10-01 14:30:50.994660"
 ---

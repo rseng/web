@@ -20,5 +20,5 @@ language: "R"
 subscribers_count: 16
 owner: {"html_url": "https://github.com/ropensci-archive", "avatar_url": "https://avatars.githubusercontent.com/u/68704009?v=4", "login": "ropensci-archive", "type": "Organization"}
 topics: ["monkeylearn", "nlp", "nlp-machine-learning", "extractor", "classifier", "r", "rstats", "r-package", "peer-reviewed", "classifier", "extractor", "monkeylearn", "nlp", "nlp-machine-learning", "peer-reviewed", "data-access"]
-date: "2022-09-24 14:26:42.656954"
+date: "2022-10-01 14:30:51.206190"
 ---

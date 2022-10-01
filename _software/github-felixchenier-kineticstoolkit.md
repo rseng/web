@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/felixchenier", "avatar_url": "https://avatars.githubusercontent.com/u/34967663?v=4", "login": "felixchenier", "type": "User"}
 topics: ["biomechanics", "kinematics", "toolbox", "api", "python", "kinetics"]
-date: "2022-09-24 14:26:44.129914"
+date: "2022-10-01 14:30:52.044673"
 ---

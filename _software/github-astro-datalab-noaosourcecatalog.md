@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/astro-datalab", "avatar_url": "https://avatars.githubusercontent.com/u/38049825?v=4", "login": "astro-datalab", "type": "Organization"}
-date: "2022-09-24 14:26:43.941792"
+date: "2022-10-01 14:30:50.675830"
 ---

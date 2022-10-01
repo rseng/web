@@ -20,5 +20,5 @@ watchers_count: 3
 language: "TeX"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/sfeeney", "avatar_url": "https://avatars.githubusercontent.com/u/7850768?v=4", "login": "sfeeney", "type": "User"}
-date: "2022-09-24 14:26:43.236226"
+date: "2022-10-01 14:30:50.695904"
 ---

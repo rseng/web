@@ -22,5 +22,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/SAMI-Galaxy-Survey", "avatar_url": "https://avatars.githubusercontent.com/u/64873436?v=4", "login": "SAMI-Galaxy-Survey", "type": "Organization"}
-date: "2022-09-24 14:26:42.719814"
+date: "2022-10-01 14:30:51.117367"
 ---

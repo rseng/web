@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/cogent3", "avatar_url": "https://avatars.githubusercontent.com/u/55074560?v=4", "login": "cogent3", "type": "Organization"}
 topics: ["bioinformatics", "pycogent", "statistics", "data-science", "biology", "genomics", "evolution", "biopython", "markov-chain", "molecular-evolution", "non-stationary", "phylogenetic-trees", "phylogenetics", "python", "parallel", "signal-processing", "maximum-likelihood", "biological-sequence-analysis", "sequence-alignment"]
-date: "2022-09-24 14:26:42.586547"
+date: "2022-10-01 14:30:51.371073"
 ---

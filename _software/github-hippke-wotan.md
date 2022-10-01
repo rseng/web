@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/hippke", "avatar_url": "https://avatars.githubusercontent.com/u/11958117?v=4", "login": "hippke", "type": "User"}
 topics: ["light", "curve", "transit", "outlier", "detrend", "exoplanets", "robust-estimators", "exoplanet"]
-date: "2022-09-24 14:26:43.979147"
+date: "2022-10-01 14:30:51.535173"
 ---
