@@ -20,5 +20,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JuliaSmoothOptimizers", "avatar_url": "https://avatars.githubusercontent.com/u/15710294?v=4", "login": "JuliaSmoothOptimizers", "type": "Organization"}
-date: "2022-10-01 14:30:51.763269"
+date: "2022-10-08 14:32:57.859477"
 ---

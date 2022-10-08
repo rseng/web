@@ -24,5 +24,5 @@ topics: ["credit", "research-software-engineering", "citation"]
 timestamp: "2020-07-05 00:17:24.043016"
 avatar: "https://avatars2.githubusercontent.com/u/32704278?v=4"
 repo_url: "https://github.com/citation-file-format/cff-initializer-javascript"
-date: "2022-10-01 14:30:52.129826"
+date: "2022-10-08 14:32:58.124451"
 ---
