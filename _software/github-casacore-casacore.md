@@ -23,5 +23,5 @@ open_issues_count: 72
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 19
 owner: {"html_url": "https://github.com/casacore", "avatar_url": "https://avatars.githubusercontent.com/u/11732311?v=4", "login": "casacore", "type": "Organization"}
-date: "2022-10-08 14:32:57.938951"
+date: "2022-10-15 14:31:05.158129"
 ---

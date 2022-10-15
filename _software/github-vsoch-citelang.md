@@ -23,5 +23,5 @@ license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MP
 subscribers_count: 1
 owner: {"html_url": "https://github.com/vsoch", "avatar_url": "https://avatars.githubusercontent.com/u/814322?v=4", "login": "vsoch", "type": "User"}
 topics: ["citation", "rseng", "research-software-engineering", "credit", "publication", "doi"]
-date: "2022-10-08 14:32:57.387819"
+date: "2022-10-15 14:31:04.480040"
 ---

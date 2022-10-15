@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/guillochon", "avatar_url": "https://avatars.githubusercontent.com/u/4998058?v=4", "login": "guillochon", "type": "User"}
 topics: ["astronomy", "python", "supernovae", "transients"]
-date: "2022-10-08 14:32:56.961812"
+date: "2022-10-15 14:31:03.956834"
 ---

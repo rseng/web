@@ -24,5 +24,5 @@ topics: ["asteroseismology", "mcmc", "bayesian-inference", "pymc3", "astronomy",
 timestamp: "2020-07-12 00:26:29.866199"
 avatar: "https://avatars0.githubusercontent.com/u/38233719?v=4"
 repo_url: "https://github.com/danhey/maelstrom"
-date: "2022-10-08 14:32:58.052053"
+date: "2022-10-15 14:31:05.299361"
 ---

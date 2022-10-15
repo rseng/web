@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:09.143818"
 avatar: "https://avatars3.githubusercontent.com/u/7782231?v=4"
 repo_url: "https://github.com/c-martinez/BeyondTheBook"
-date: "2022-10-08 14:32:57.594380"
+date: "2022-10-15 14:31:04.729476"
 ---
