@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/temken", "avatar_url": "https://avatars.githubusercontent.com/u/29034913?v=4", "login": "temken", "type": "User"}
 topics: ["darkmatter", "atomic-physics", "directdetection", "physics"]
-date: "2022-10-15 14:31:05.239734"
+date: "2022-10-22 14:31:39.337375"
 ---

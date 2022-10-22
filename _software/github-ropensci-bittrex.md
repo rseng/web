@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 2
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["crypto-currency-exchanges", "finance", "r", "rstats", "r-package", "peer-reviewed", "cryptocurency-exchange", "cryptocurrency", "data-access"]
-date: "2022-10-15 14:31:04.306751"
+date: "2022-10-22 14:31:39.270983"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/tmcclintock", "avatar_url": "https://avatars.githubusercontent.com/u/10226392?v=4", "login": "tmcclintock", "type": "User"}
 topics: ["cosmology", "galaxy-clusters", "simulations", "numerical-calculations"]
-date: "2022-10-15 14:31:05.086144"
+date: "2022-10-22 14:31:39.594470"
 ---

@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Goobley", "avatar_url": "https://avatars.githubusercontent.com/u/9143392?v=4", "login": "Goobley", "type": "User"}
-date: "2022-10-15 14:31:04.905670"
+date: "2022-10-22 14:31:39.623650"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 4
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 78
 owner: {"html_url": "https://github.com/conda", "avatar_url": "https://avatars.githubusercontent.com/u/6392739?v=4", "login": "conda", "type": "Organization"}
-date: "2022-10-15 14:31:05.236878"
+date: "2022-10-22 14:31:39.507984"
 ---

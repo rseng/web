@@ -20,5 +20,5 @@ language: "C"
 open_issues_count: 3
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["antiword", "extract-text", "r", "rstats", "r-package", "literature"]
-date: "2022-10-15 14:31:04.374535"
+date: "2022-10-22 14:31:39.253565"
 ---

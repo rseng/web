@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/gausspy", "avatar_url": "https://avatars.githubusercontent.com/u/22684473?v=4", "login": "gausspy", "type": "User"}
 topics: ["hacktoberfest"]
-date: "2022-10-15 14:31:04.002889"
+date: "2022-10-22 14:31:38.672155"
 ---

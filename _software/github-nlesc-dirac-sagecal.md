@@ -24,5 +24,5 @@ topics: ["lofar", "ska", "calibration", "admm", "cuda", "nonlinear-optimization"
 timestamp: "2020-07-05 00:17:20.238519"
 avatar: "https://avatars0.githubusercontent.com/u/26144311?v=4"
 repo_url: "https://github.com/nlesc-dirac/sagecal"
-date: "2022-10-15 14:31:03.951761"
+date: "2022-10-22 14:31:39.493796"
 ---
