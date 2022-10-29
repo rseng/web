@@ -18,5 +18,5 @@ language: "Rust"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/stevenweaver", "avatar_url": "https://avatars.githubusercontent.com/u/535261?v=4", "login": "stevenweaver", "type": "User"}
-date: "2022-10-22 14:31:39.563713"
+date: "2022-10-29 14:27:10.221160"
 ---

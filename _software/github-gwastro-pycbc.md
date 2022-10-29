@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 43
 owner: {"html_url": "https://github.com/gwastro", "avatar_url": "https://avatars.githubusercontent.com/u/11262917?v=4", "login": "gwastro", "type": "Organization"}
 topics: ["astronomy", "physics", "gravity", "ligo", "gravitational-waves", "pycbc", "analysis", "python", "black-hole", "neutron-star", "gwastro", "virgo", "signal-processing", "open-science", "cosmic-explorer", "einstein-telescope", "lisa"]
-date: "2022-10-22 14:31:38.672969"
+date: "2022-10-29 14:27:09.221738"
 ---

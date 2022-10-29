@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/connectomicslab", "avatar_url": "https://avatars.githubusercontent.com/u/49934994?v=4", "login": "connectomicslab", "type": "Organization"}
 topics: ["bids", "bidsapp", "dmri", "fmri", "connectome", "bids-apps", "pipelines", "chuv", "brain", "parcellation", "python", "eeg"]
-date: "2022-10-22 14:31:39.544014"
+date: "2022-10-29 14:27:10.199041"
 ---

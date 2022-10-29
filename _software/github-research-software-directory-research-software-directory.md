@@ -24,5 +24,5 @@ topics: ["fair-for-software", "reproducible-research", "research-software-engine
 timestamp: "2020-07-05 00:17:19.753649"
 avatar: "https://avatars1.githubusercontent.com/u/35487281?v=4"
 repo_url: "https://github.com/research-software-directory/research-software-directory"
-date: "2022-10-22 14:31:39.562958"
+date: "2022-10-29 14:27:10.220294"
 ---

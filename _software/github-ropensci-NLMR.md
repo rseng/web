@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 12
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "spatial", "landscape-ecology", "neutral-landscape-model", "rstats", "r-package", "peer-reviewed", "geospatial"]
-date: "2022-10-22 14:31:39.235962"
+date: "2022-10-29 14:27:09.853651"
 ---

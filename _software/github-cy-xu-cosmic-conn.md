@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cy-xu", "avatar_url": "https://avatars.githubusercontent.com/u/24612082?v=4", "login": "cy-xu", "type": "User"}
 topics: ["astronomy-data-reduction", "cosmic-rays", "ccd-observation", "neural-networks", "classification", "deep-learning", "convolutional-neural-networks"]
-date: "2022-10-22 14:31:39.085365"
+date: "2022-10-29 14:27:09.683325"
 ---
