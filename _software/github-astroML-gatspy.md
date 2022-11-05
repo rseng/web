@@ -22,5 +22,5 @@ open_issues_count: 10
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/astroML", "avatar_url": "https://avatars.githubusercontent.com/u/1971246?v=4", "login": "astroML", "type": "Organization"}
-date: "2022-10-29 14:27:09.233841"
+date: "2022-11-05 14:24:01.907968"
 ---

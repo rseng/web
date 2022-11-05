@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/VeinsOfTheEarth", "avatar_url": "https://avatars.githubusercontent.com/u/88787335?v=4", "login": "VeinsOfTheEarth", "type": "Organization"}
 topics: ["python", "manuscript"]
-date: "2022-10-29 14:27:10.183700"
+date: "2022-11-05 14:24:03.372769"
 ---

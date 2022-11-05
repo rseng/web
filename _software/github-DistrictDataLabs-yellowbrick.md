@@ -23,5 +23,5 @@ topics: ["machine-learning", "visual-analysis", "model-selection", "visualizatio
 timestamp: "2020-07-04 13:22:25.114567"
 avatar: "https://avatars2.githubusercontent.com/u/7107115?v=4"
 repo_url: "https://github.com/DistrictDataLabs/yellowbrick"
-date: "2022-10-29 14:27:10.218984"
+date: "2022-11-05 14:24:03.424263"
 ---

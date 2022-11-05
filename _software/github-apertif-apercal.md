@@ -21,5 +21,5 @@ open_issues_count: 10
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/apertif", "avatar_url": "https://avatars.githubusercontent.com/u/38492619?v=4", "login": "apertif", "type": "User"}
-date: "2022-10-29 14:27:09.380759"
+date: "2022-11-05 14:24:02.130276"
 ---
