@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["continuous-integration", "circle-ci", "api-client", "continuous-deployment", "scalereprod"]
-date: "2022-11-05 14:24:02.826722"
+date: "2022-11-12 14:24:32.482792"
 ---

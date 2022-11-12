@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "r-package", "cran", "terrainr", "rstats", "usgs", "map", "mapping", "national-map", "unity-rendering-engine", "unity", "map-tiles", "progressr", "peer-reviewed", "retrieve-data", "orthoimagery", "dems", "datasets", "nhd"]
-date: "2022-11-05 14:24:02.820128"
+date: "2022-11-12 14:24:32.477389"
 ---

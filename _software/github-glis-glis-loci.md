@@ -18,5 +18,5 @@ language: "Jupyter Notebook"
 license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0", "node_id": "MDc6TGljZW5zZTE0"}
 owner: {"html_url": "https://github.com/glis-glis", "avatar_url": "https://avatars.githubusercontent.com/u/31037208?v=4", "login": "glis-glis", "type": "User"}
 topics: ["c", "python", "jupyter-notebook", "interpolation", "grid", "cubic", "local"]
-date: "2022-11-05 14:24:02.170007"
+date: "2022-11-12 14:24:31.946852"
 ---

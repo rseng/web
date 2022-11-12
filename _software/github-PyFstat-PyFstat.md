@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/PyFstat", "avatar_url": "https://avatars.githubusercontent.com/u/60369643?v=4", "login": "PyFstat", "type": "Organization"}
 topics: ["python3", "gravitational-waves", "ligo", "neutron-star", "virgo", "gravity", "astrophysics", "pycuda"]
-date: "2022-11-05 14:24:01.846922"
+date: "2022-11-12 14:24:31.665628"
 ---

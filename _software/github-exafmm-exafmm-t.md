@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/exafmm", "avatar_url": "https://avatars.githubusercontent.com/u/12694304?v=4", "login": "exafmm", "type": "Organization"}
-date: "2022-11-05 14:24:01.993777"
+date: "2022-11-12 14:24:31.793198"
 ---

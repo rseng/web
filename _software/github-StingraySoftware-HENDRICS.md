@@ -23,5 +23,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/StingraySoftware", "avatar_url": "https://avatars.githubusercontent.com/u/17048750?v=4", "login": "StingraySoftware", "type": "Organization"}
-date: "2022-11-05 14:24:02.481939"
+date: "2022-11-12 14:24:32.194978"
 ---

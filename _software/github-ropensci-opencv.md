@@ -21,5 +21,5 @@ open_issues_count: 14
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["unconf18", "opencv", "opencv-library", "r", "r-package", "rstats", "unconf", "image-processing"]
-date: "2022-11-05 14:24:02.932266"
+date: "2022-11-12 14:24:32.564326"
 ---
