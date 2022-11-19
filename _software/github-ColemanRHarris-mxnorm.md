@@ -19,5 +19,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ColemanRHarris", "avatar_url": "https://avatars.githubusercontent.com/u/29362888?v=4", "login": "ColemanRHarris", "type": "User"}
 topics: ["r", "package", "cran"]
-date: "2022-11-12 14:24:31.726391"
+date: "2022-11-19 14:23:27.559482"
 ---

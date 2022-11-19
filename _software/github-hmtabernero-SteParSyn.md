@@ -22,5 +22,5 @@ language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/hmtabernero", "avatar_url": "https://avatars.githubusercontent.com/u/46009226?v=4", "login": "hmtabernero", "type": "User"}
 topics: ["stellar-parameters", "stellar-atmospheres", "stellar-astrophysics"]
-date: "2022-11-12 14:24:32.571597"
+date: "2022-11-19 14:23:28.249896"
 ---

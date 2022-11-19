@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 9
 owner: {"html_url": "https://github.com/mdshw5", "avatar_url": "https://avatars.githubusercontent.com/u/819554?v=4", "login": "mdshw5", "type": "User"}
 topics: ["python", "bioinformatics", "fasta", "indexing", "dna", "protein", "genomics", "bgzf", "samtools"]
-date: "2022-11-12 14:24:32.995136"
+date: "2022-11-19 14:23:28.599014"
 ---

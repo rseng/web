@@ -22,5 +22,5 @@ open_issues_count: 19
 subscribers_count: 1
 owner: {"html_url": "https://github.com/wtraylor", "avatar_url": "https://avatars.githubusercontent.com/u/32058827?v=4", "login": "wtraylor", "type": "User"}
 topics: ["herbivores", "dgvm", "ecosystem-model", "mammoth"]
-date: "2022-11-12 14:24:31.577297"
+date: "2022-11-19 14:23:27.434652"
 ---

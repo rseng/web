@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/johnveitch", "avatar_url": "https://avatars.githubusercontent.com/u/3687399?v=4", "login": "johnveitch", "type": "User"}
 topics: ["bayesian-inference", "python", "nested-sampling"]
-date: "2022-11-12 14:24:32.147619"
+date: "2022-11-19 14:23:27.899083"
 ---

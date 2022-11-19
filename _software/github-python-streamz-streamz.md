@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 33
 owner: {"html_url": "https://github.com/python-streamz", "avatar_url": "https://avatars.githubusercontent.com/u/49496449?v=4", "login": "python-streamz", "type": "Organization"}
 topics: ["streaming-data", "python", "async", "real-time"]
-date: "2022-11-12 14:24:32.074845"
+date: "2022-11-19 14:23:27.837798"
 ---

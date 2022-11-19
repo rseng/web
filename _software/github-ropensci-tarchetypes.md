@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["reproducibility", "high-performance-computing", "r", "data-science", "rstats", "pipeline", "r-package", "workflow", "targets", "r-targetopia", "peer-reviewed", "scalereprod"]
-date: "2022-11-12 14:24:32.542072"
+date: "2022-11-19 14:23:28.225783"
 ---

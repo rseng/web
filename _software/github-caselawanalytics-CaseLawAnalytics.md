@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:09.733202"
 avatar: "https://avatars1.githubusercontent.com/u/30318106?v=4"
 repo_url: "https://github.com/caselawanalytics/CaseLawAnalytics"
-date: "2022-11-12 14:24:32.720661"
+date: "2022-11-19 14:23:28.370225"
 ---

@@ -24,5 +24,5 @@ topics: ["cookiecutter", "python"]
 timestamp: "2020-07-05 00:17:23.839872"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/python-template"
-date: "2022-11-12 14:24:32.112319"
+date: "2022-11-19 14:23:27.869654"
 ---

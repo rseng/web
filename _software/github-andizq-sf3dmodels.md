@@ -21,5 +21,5 @@ watchers_count: 11
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/andizq", "avatar_url": "https://avatars.githubusercontent.com/u/33854784?v=4", "login": "andizq", "type": "User"}
-date: "2022-11-12 14:24:33.092062"
+date: "2022-11-19 14:23:28.676017"
 ---

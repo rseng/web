@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/fabian-sp", "avatar_url": "https://avatars.githubusercontent.com/u/51907567?v=4", "login": "fabian-sp", "type": "User"}
 topics: ["graphical-models", "optimization", "latent-variable-models", "network-inference", "graphical-lasso"]
-date: "2022-11-12 14:24:32.727780"
+date: "2022-11-19 14:23:28.375813"
 ---

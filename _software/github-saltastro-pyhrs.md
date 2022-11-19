@@ -19,5 +19,5 @@ language: "Python"
 open_issues_count: 32
 subscribers_count: 4
 owner: {"html_url": "https://github.com/saltastro", "avatar_url": "https://avatars.githubusercontent.com/u/736730?v=4", "login": "saltastro", "type": "Organization"}
-date: "2022-11-12 14:24:31.663263"
+date: "2022-11-19 14:23:27.508161"
 ---

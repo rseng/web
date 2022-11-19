@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 7
 owner: {"html_url": "https://github.com/glotzerlab", "avatar_url": "https://avatars.githubusercontent.com/u/25832198?v=4", "login": "glotzerlab", "type": "Organization"}
 topics: ["geometry", "shapes", "physics", "computational-geometry", "polyhedra", "polygons"]
-date: "2022-11-12 14:24:32.129444"
+date: "2022-11-19 14:23:27.883876"
 ---
