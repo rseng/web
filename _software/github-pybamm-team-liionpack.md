@@ -21,5 +21,5 @@ open_issues_count: 14
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/pybamm-team", "avatar_url": "https://avatars.githubusercontent.com/u/48961907?v=4", "login": "pybamm-team", "type": "Organization"}
-date: "2022-11-19 14:23:27.711197"
+date: "2022-11-26 14:21:41.792859"
 ---

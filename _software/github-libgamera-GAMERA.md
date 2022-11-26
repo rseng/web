@@ -22,5 +22,5 @@ language: "C"
 open_issues_count: 3
 subscribers_count: 9
 owner: {"html_url": "https://github.com/libgamera", "avatar_url": "https://avatars.githubusercontent.com/u/48202577?v=4", "login": "libgamera", "type": "Organization"}
-date: "2022-11-19 14:23:27.729513"
+date: "2022-11-26 14:21:41.898111"
 ---

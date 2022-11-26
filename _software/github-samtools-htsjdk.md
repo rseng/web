@@ -22,5 +22,5 @@ open_issues_count: 283
 subscribers_count: 50
 owner: {"html_url": "https://github.com/samtools", "avatar_url": "https://avatars.githubusercontent.com/u/1518450?v=4", "login": "samtools", "type": "Organization"}
 topics: ["genomics", "sequencing", "dna", "ngs", "bam", "cram", "sam", "fasta", "vcf", "java-api", "java"]
-date: "2022-11-19 14:23:27.748012"
+date: "2022-11-26 14:21:41.547640"
 ---

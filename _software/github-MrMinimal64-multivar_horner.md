@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/MrMinimal64", "avatar_url": "https://avatars3.githubusercontent.com/u/15111305?v=4", "login": "MrMinimal64", "type": "User"}
 topics: ["math", "mathematics", "polynomials", "horner-scheme", "multivariate", "multivariate-polynomials", "hornerscheme-solver", "horner", "python", "python3", "factorization", "polynomial", "polynomial-evaluation", "evaluation"]
-date: "2022-11-19 14:23:28.254708"
+date: "2022-11-26 14:21:41.966883"
 ---

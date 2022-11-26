@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 13
 owner: {"html_url": "https://github.com/silx-kit", "avatar_url": "https://avatars.githubusercontent.com/u/14869885?v=4", "login": "silx-kit", "type": "Organization"}
 topics: ["python", "diffraction", "science"]
-date: "2022-11-19 14:23:27.797837"
+date: "2022-11-26 14:21:41.426503"
 ---

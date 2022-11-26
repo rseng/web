@@ -23,5 +23,5 @@ topics: ["statistics", "robust-statistics", "python", "r", "hypothesis-testing",
 timestamp: "2020-07-04 13:22:10.361063"
 avatar: "https://avatars1.githubusercontent.com/u/4624246?v=4"
 repo_url: "https://github.com/Alcampopiano/hypothesize"
-date: "2022-11-19 14:23:27.855335"
+date: "2022-11-26 14:21:41.822717"
 ---

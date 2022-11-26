@@ -20,5 +20,5 @@ language: "C++"
 open_issues_count: 4
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["cld", "cld3", "language-detection", "language-detector", "r", "rstats", "r-package", "literature"]
-date: "2022-11-19 14:23:28.197064"
+date: "2022-11-26 14:21:42.103983"
 ---

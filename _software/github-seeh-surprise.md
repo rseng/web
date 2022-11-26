@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/seeh", "avatar_url": "https://avatars.githubusercontent.com/u/6814175?v=4", "login": "seeh", "type": "User"}
-date: "2022-11-19 14:23:28.380483"
+date: "2022-11-26 14:21:41.565776"
 ---

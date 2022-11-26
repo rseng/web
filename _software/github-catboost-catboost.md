@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 193
 owner: {"html_url": "https://github.com/catboost", "avatar_url": "https://avatars.githubusercontent.com/u/29043415?v=4", "login": "catboost", "type": "Organization"}
 topics: ["machine-learning", "decision-trees", "gradient-boosting", "gbm", "gbdt", "python", "r", "kaggle", "gpu-computing", "catboost", "tutorial", "categorical-features", "gpu", "coreml", "data-science", "big-data", "cuda", "data-mining"]
-date: "2022-11-19 14:23:28.142255"
+date: "2022-11-26 14:21:41.518295"
 ---

@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jfalconbarroso", "avatar_url": "https://avatars.githubusercontent.com/u/41444018?v=4", "login": "jfalconbarroso", "type": "User"}
-date: "2022-11-19 14:23:28.623291"
+date: "2022-11-26 14:21:41.033886"
 ---
