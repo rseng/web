@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/williamjameshandley", "avatar_url": "https://avatars.githubusercontent.com/u/3708486?v=4", "login": "williamjameshandley", "type": "User"}
 topics: ["bayesian-inference", "astrostatistics", "astrophysics", "cosmology", "statistics", "matplotlib", "plotting"]
-date: "2022-11-26 14:21:41.225455"
+date: "2022-12-03 14:20:37.809317"
 ---

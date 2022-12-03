@@ -23,5 +23,5 @@ topics: ["polynomials", "quadratures", "least-squares", "interpolation", "approx
 timestamp: "2020-07-04 13:22:18.914509"
 avatar: "https://avatars3.githubusercontent.com/u/20475765?v=4"
 repo_url: "https://github.com/Effective-Quadratures/Effective-Quadratures"
-date: "2022-11-26 14:21:41.657116"
+date: "2022-12-03 14:20:38.725786"
 ---

@@ -24,5 +24,5 @@ topics: ["nlp", "cwl", "workflow", "pipeline", "text-mining"]
 timestamp: "2020-07-05 00:17:16.799272"
 avatar: "https://avatars3.githubusercontent.com/u/25154063?v=4"
 repo_url: "https://github.com/nlppln/nlppln"
-date: "2022-11-26 14:21:41.277223"
+date: "2022-12-03 14:20:38.242301"
 ---

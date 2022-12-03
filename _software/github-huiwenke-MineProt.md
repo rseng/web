@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/huiwenke", "avatar_url": "https://avatars.githubusercontent.com/u/43511097?v=4", "login": "huiwenke", "type": "User"}
 topics: ["alphafold", "protein", "server", "colabfold", "protein-structure"]
-date: "2022-11-26 14:21:41.647346"
+date: "2022-12-03 14:20:38.906632"
 ---

@@ -23,5 +23,5 @@ topics: ["linear-algebra", "finite-fields", "multiprecision", "blackbox", "linea
 timestamp: "2020-07-05 00:17:53.988082"
 avatar: "https://avatars1.githubusercontent.com/u/13101892?v=4"
 repo_url: "https://github.com/linbox-team/linbox"
-date: "2022-11-26 14:21:41.856373"
+date: "2022-12-03 14:20:38.050198"
 ---

@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/milnus", "avatar_url": "https://avatars.githubusercontent.com/u/44769523?v=4", "login": "milnus", "type": "User"}
 topics: ["insertion-sites", "annotations", "mobile-genetic-elements", "bacterial-genomes", "prokaryotic-genomes"]
-date: "2022-11-26 14:21:41.365100"
+date: "2022-12-03 14:20:38.014756"
 ---

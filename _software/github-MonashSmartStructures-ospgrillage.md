@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/MonashSmartStructures", "avatar_url": "https://avatars.githubusercontent.com/u/53598771?v=4", "login": "MonashSmartStructures", "type": "Organization"}
 topics: ["bridge-engineering", "structural-analysis", "finite-element-analysis", "bridges", "structural-engineering"]
-date: "2022-11-26 14:21:41.878564"
+date: "2022-12-03 14:20:38.240061"
 ---

@@ -23,5 +23,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/aboucaud", "avatar_url": "https://avatars.githubusercontent.com/u/3065310?v=4", "login": "aboucaud", "type": "User"}
-date: "2022-11-26 14:21:41.491839"
+date: "2022-12-03 14:20:37.908942"
 ---

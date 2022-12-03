@@ -20,5 +20,5 @@ language: "Jupyter Notebook"
 open_issues_count: 10
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mzechmeister", "avatar_url": "https://avatars.githubusercontent.com/u/32583239?v=4", "login": "mzechmeister", "type": "User"}
-date: "2022-11-26 14:21:41.360597"
+date: "2022-12-03 14:20:38.283705"
 ---

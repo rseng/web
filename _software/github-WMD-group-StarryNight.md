@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/WMD-group", "avatar_url": "https://avatars.githubusercontent.com/u/1716969?v=4", "login": "WMD-group", "type": "Organization"}
 topics: ["monte-carlo-codes", "ferroelectric-domains", "perovskite", "photovoltaic", "monte-carlo", "dipole-domains", "recombination", "semiconductor"]
-date: "2022-11-26 14:21:40.968510"
+date: "2022-12-03 14:20:38.361937"
 ---

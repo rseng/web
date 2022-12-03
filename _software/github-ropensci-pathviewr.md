@@ -20,5 +20,5 @@ language: "HTML"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["movement-data", "motion", "animal-movement", "optitrack", "flydra", "visual-guidance", "visual-perception", "rstats", "rstats-package", "trajectory-analysis", "trajectories", "data-extraction"]
-date: "2022-11-26 14:21:42.085236"
+date: "2022-12-03 14:20:38.514291"
 ---

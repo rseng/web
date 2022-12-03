@@ -22,5 +22,5 @@ open_issues_count: 9
 subscribers_count: 7
 owner: {"html_url": "https://github.com/bthorne93", "avatar_url": "https://avatars.githubusercontent.com/u/16899444?v=4", "login": "bthorne93", "type": "User"}
 topics: ["dust", "polarization", "planck", "intensity", "ame", "sky", "cmb"]
-date: "2022-11-26 14:21:41.016088"
+date: "2022-12-03 14:20:37.904324"
 ---
