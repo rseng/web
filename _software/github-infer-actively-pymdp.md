@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 18
 owner: {"html_url": "https://github.com/infer-actively", "avatar_url": "https://avatars.githubusercontent.com/u/75545318?v=4", "login": "infer-actively", "type": "Organization"}
-date: "2022-12-03 14:20:37.678866"
+date: "2022-12-10 14:21:10.939541"
 ---
