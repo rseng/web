@@ -20,5 +20,5 @@ open_issues_count: 8
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/putonti", "avatar_url": "https://avatars.githubusercontent.com/u/10090771?v=4", "login": "putonti", "type": "User"}
-date: "2022-12-10 14:21:12.179761"
+date: "2022-12-17 14:19:30.423955"
 ---

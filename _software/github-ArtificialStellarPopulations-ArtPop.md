@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/ArtificialStellarPopulations", "avatar_url": "https://avatars.githubusercontent.com/u/71847255?v=4", "login": "ArtificialStellarPopulations", "type": "Organization"}
-date: "2022-12-10 14:21:12.156828"
+date: "2022-12-17 14:19:30.730998"
 ---

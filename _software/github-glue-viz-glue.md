@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 35
 owner: {"html_url": "https://github.com/glue-viz", "avatar_url": "https://avatars.githubusercontent.com/u/1926209?v=4", "login": "glue-viz", "type": "Organization"}
 topics: ["python", "visualization", "data-science", "linked-data"]
-date: "2022-12-10 14:21:12.265642"
+date: "2022-12-17 14:19:30.624596"
 ---

@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 9
 owner: {"html_url": "https://github.com/pysat", "avatar_url": "https://avatars.githubusercontent.com/u/54805292?v=4", "login": "pysat", "type": "Organization"}
 topics: ["space", "satellite-data", "space-science", "measurements", "python", "netcdf", "nasa-data", "science-research", "ionosphere", "magnetosphere", "thermosphere", "radar-measurements", "nasa", "cubesat", "plasma", "electric-fields"]
-date: "2022-12-10 14:21:12.495731"
+date: "2022-12-17 14:19:29.968502"
 ---

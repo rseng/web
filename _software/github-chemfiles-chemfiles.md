@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 13
 owner: {"html_url": "https://github.com/chemfiles", "avatar_url": "https://avatars.githubusercontent.com/u/15002707?v=4", "login": "chemfiles", "type": "Organization"}
 topics: ["computational-chemistry", "library", "files", "compchem", "cheminformatics", "chemistry", "hacktoberfest"]
-date: "2022-12-10 14:21:12.504239"
+date: "2022-12-17 14:19:30.041220"
 ---

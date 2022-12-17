@@ -22,5 +22,5 @@ open_issues_count: 27
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 17
 owner: {"html_url": "https://github.com/fmihpc", "avatar_url": "https://avatars.githubusercontent.com/u/6056775?v=4", "login": "fmihpc", "type": "Organization"}
-date: "2022-12-10 14:21:12.182231"
+date: "2022-12-17 14:19:29.973810"
 ---
