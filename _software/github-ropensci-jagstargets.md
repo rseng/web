@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "reproducibility", "high-performance-computing", "bayesian", "jags", "rjags", "statistics", "targets", "make", "rstats-package", "r-targetopia"]
-date: "2022-12-17 14:19:29.925695"
+date: "2022-12-24 14:19:45.588567"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/miRTop", "avatar_url": "https://avatars.githubusercontent.com/u/15463928?v=4", "login": "miRTop", "type": "Organization"}
 topics: ["mirna", "isomirs", "formatter", "gff", "smallrna-seq"]
-date: "2022-12-17 14:19:30.404908"
+date: "2022-12-24 14:19:45.948754"
 ---

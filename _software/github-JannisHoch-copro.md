@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JannisHoch", "avatar_url": "https://avatars.githubusercontent.com/u/10956703?v=4", "login": "JannisHoch", "type": "User"}
 topics: ["climate", "conflict", "risk", "projection", "security", "environment"]
-date: "2022-12-17 14:19:29.832981"
+date: "2022-12-24 14:19:45.519875"
 ---

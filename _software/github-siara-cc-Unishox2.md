@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 9
 owner: {"html_url": "https://github.com/siara-cc", "avatar_url": "https://avatars.githubusercontent.com/u/12986780?v=4", "login": "siara-cc", "type": "User"}
 topics: ["compression", "arduino", "string-compression-algorithms", "string-compression", "database-compression", "iot", "short-string", "json-compression", "xml-compression", "cost-optimization", "bandwidth-saver", "storage-saving", "cloud-cost-intelligence"]
-date: "2022-12-17 14:19:30.240399"
+date: "2022-12-24 14:19:45.824650"
 ---

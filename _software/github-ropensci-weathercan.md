@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["weather-data", "environment-canada", "weather-downloader", "r", "rstats", "r-package", "peer-reviewed", "data-access"]
-date: "2022-12-17 14:19:29.864967"
+date: "2022-12-24 14:19:45.543700"
 ---
