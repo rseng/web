@@ -23,5 +23,5 @@ open_issues_count: 35
 subscribers_count: 4
 owner: {"html_url": "https://github.com/PetroFit", "avatar_url": "https://avatars.githubusercontent.com/u/80787894?v=4", "login": "PetroFit", "type": "Organization"}
 topics: ["petrosian", "fitting", "galfit", "sersic", "python", "petrofit"]
-date: "2022-12-24 14:19:45.702352"
+date: "2022-12-31 14:19:41.119765"
 ---

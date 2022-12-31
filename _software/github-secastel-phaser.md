@@ -22,5 +22,5 @@ open_issues_count: 13
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/secastel", "avatar_url": "https://avatars.githubusercontent.com/u/9827367?v=4", "login": "secastel", "type": "User"}
-date: "2022-12-24 14:19:45.118446"
+date: "2022-12-31 14:19:40.366346"
 ---

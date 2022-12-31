@@ -23,5 +23,5 @@ license: {"key": "bsl-1.0", "name": "Boost Software License 1.0", "spdx_id": "BS
 subscribers_count: 129
 owner: {"html_url": "https://github.com/STEllAR-GROUP", "avatar_url": "https://avatars1.githubusercontent.com/u/1780988?v=4", "login": "STEllAR-GROUP", "type": "Organization"}
 topics: ["c-plus-plus", "distributed", "cross-platform", "parallelism", "concurrency", "cpp"]
-date: "2022-12-24 14:19:45.484493"
+date: "2022-12-31 14:19:40.836152"
 ---

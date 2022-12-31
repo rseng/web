@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:09.586598"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/case-law-app"
-date: "2022-12-24 14:19:45.995060"
+date: "2022-12-31 14:19:41.499973"
 ---
