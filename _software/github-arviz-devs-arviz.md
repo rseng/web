@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:20.416780"
 avatar: "https://avatars2.githubusercontent.com/u/13554846?v=4"
 repo_url: "https://github.com/arviz-devs/arviz"
-date: "2022-12-31 14:19:41.188510"
+date: "2023-01-07 14:20:05.845805"
 ---

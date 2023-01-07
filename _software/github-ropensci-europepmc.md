@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 9
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["europe-pmc", "r", "rstats", "bibliometrics", "scientific-literature", "scientific-publications", "r-package", "pubmed", "pubmedcentral", "literature"]
-date: "2022-12-31 14:19:40.970244"
+date: "2023-01-07 14:20:05.676756"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/comprna", "avatar_url": "https://avatars0.githubusercontent.com/u/23315864?v=4", "login": "comprna", "type": "Organization"}
 topics: ["long-read-sequencing", "nanopore-sequencing", "deep-learning", "convolutional-neural-networks", "multilayer-perceptron-network", "machine-learning"]
-date: "2022-12-31 14:19:41.309415"
+date: "2023-01-07 14:20:05.939859"
 ---

@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 19
 owner: {"html_url": "https://github.com/dfm", "avatar_url": "https://avatars.githubusercontent.com/u/350282?v=4", "login": "dfm", "type": "User"}
 topics: ["python", "plotting", "data-analysis", "data-visualization"]
-date: "2022-12-31 14:19:40.706357"
+date: "2023-01-07 14:20:05.468675"
 ---

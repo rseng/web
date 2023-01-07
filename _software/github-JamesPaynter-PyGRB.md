@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JamesPaynter", "avatar_url": "https://avatars2.githubusercontent.com/u/45152710?v=4", "login": "JamesPaynter", "type": "User"}
 topics: ["gamma-ray-burst", "gamma-ray-astronomy", "astrophysics"]
-date: "2022-12-31 14:19:41.415016"
+date: "2023-01-07 14:20:06.022522"
 ---

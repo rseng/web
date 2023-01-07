@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 13
 owner: {"html_url": "https://github.com/spacetelescope", "avatar_url": "https://avatars.githubusercontent.com/u/2751928?v=4", "login": "spacetelescope", "type": "Organization"}
 topics: ["astronomy", "python", "astropy", "synthetic-photometry", "synphot", "hst", "jwst"]
-date: "2022-12-31 14:19:41.520750"
+date: "2023-01-07 14:20:06.104909"
 ---

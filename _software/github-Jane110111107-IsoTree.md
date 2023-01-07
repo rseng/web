@@ -7,5 +7,5 @@ description: "an efficient de novo trascriptome assembler for RNA-Seq data. It c
 title: "IsoTree"
 credit: ["Jin Zhao"]
 tags: ["high-throughput-sequencing", "rna-sequencing"]
-date: "2022-12-31 14:19:40.589148"
+date: "2023-01-07 14:20:05.376516"
 ---

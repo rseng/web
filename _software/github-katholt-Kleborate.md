@@ -22,5 +22,5 @@ open_issues_count: 22
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/katholt", "avatar_url": "https://avatars.githubusercontent.com/u/832158?v=4", "login": "katholt", "type": "User"}
-date: "2022-12-31 14:19:41.302020"
+date: "2023-01-07 14:20:05.934192"
 ---

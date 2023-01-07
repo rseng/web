@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/upb-lea", "avatar_url": "https://avatars.githubusercontent.com/u/55782224?v=4", "login": "upb-lea", "type": "Organization"}
 topics: ["reinforcement-learning", "openai-gym-environments", "machinelearning", "openai-gym", "openai", "gym-environment", "pmsm", "motor-models", "converters", "benchmark", "electrical-engineering", "electric-drive"]
-date: "2022-12-31 14:19:40.857532"
+date: "2023-01-07 14:20:05.588322"
 ---

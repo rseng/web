@@ -7,5 +7,5 @@ description: "a program package designed to provide easily accessible methods fo
 title: "VCFtools"
 credit: ["Adam Auton", "Petr Danecek", "Tony Marcketta"]
 tags: ["high-throughput-sequencing", "variant-aggregation/summarization", "wgs-analysis"]
-date: "2022-12-31 14:19:40.787369"
+date: "2023-01-07 14:20:05.532457"
 ---

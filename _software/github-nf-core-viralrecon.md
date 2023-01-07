@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 22
 owner: {"html_url": "https://github.com/nf-core", "avatar_url": "https://avatars.githubusercontent.com/u/35520196?v=4", "login": "nf-core", "type": "Organization"}
 topics: ["viral", "metagenomics", "amplicon", "assembly", "variant-calling", "illumina", "pipeline", "workflow", "nextflow", "nf-core", "covid-19", "covid19", "virus", "sars-cov-2", "nanopore", "ont", "artic", "long-read-sequencing", "oxford-nanopore"]
-date: "2022-12-31 14:19:41.036056"
+date: "2023-01-07 14:20:05.727799"
 ---
