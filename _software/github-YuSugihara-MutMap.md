@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 3
 subscribers_count: 1
 owner: {"html_url": "https://github.com/YuSugihara", "avatar_url": "https://avatars.githubusercontent.com/u/34593586?v=4", "login": "YuSugihara", "type": "User"}
-date: "2023-01-07 14:20:05.851846"
+date: "2023-01-14 14:20:15.444447"
 ---

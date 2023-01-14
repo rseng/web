@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/1313e", "avatar_url": "https://avatars.githubusercontent.com/u/30159027?v=4", "login": "1313e", "type": "User"}
 topics: ["python", "colormaps", "data-visualization", "plotting", "matplotlib", "utility-functions"]
-date: "2023-01-07 14:20:05.181831"
+date: "2023-01-14 14:20:16.472873"
 ---

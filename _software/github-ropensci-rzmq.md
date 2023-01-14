@@ -20,5 +20,5 @@ language: "C++"
 open_issues_count: 10
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["zmq", "zeromq", "r", "rstats", "r-package", "scalereprod"]
-date: "2023-01-07 14:20:05.659532"
+date: "2023-01-14 14:20:15.855577"
 ---
