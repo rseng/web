@@ -22,5 +22,5 @@ open_issues_count: 6
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/soichiro-hattori", "avatar_url": "https://avatars.githubusercontent.com/u/4204544?v=4", "login": "soichiro-hattori", "type": "User"}
-date: "2023-01-14 14:20:16.341528"
+date: "2023-01-21 14:19:59.412102"
 ---

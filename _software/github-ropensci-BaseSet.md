@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "sets", "package", "r-package", "bioconductor-package", "bioconductor", "scalereprod"]
-date: "2023-01-14 14:20:15.915856"
+date: "2023-01-21 14:19:59.651519"
 ---

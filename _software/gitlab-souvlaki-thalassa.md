@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/souvlaki/thalassa/-/blob/master/README.md"
 star_count: 4
 last_activity_at: "2020-12-31T00:26:18.377Z"
 namespace: {"id": 1551631, "name": "Davide Amato", "path": "souvlaki", "kind": "user", "full_path": "souvlaki", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/1292034/avatar.png", "web_url": "https://gitlab.com/souvlaki"}
-date: "2023-01-14 14:20:16.641451"
+date: "2023-01-21 14:20:00.568829"
 ---
