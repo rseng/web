@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "ropensci", "ramlegacy", "stock-assessment", "marine-biology", "fisheries", "data-access"]
-date: "2023-01-21 14:19:59.645389"
+date: "2023-01-28 14:20:18.361097"
 ---

@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/AstroAccelerateOrg", "avatar_url": "https://avatars.githubusercontent.com/u/25104377?v=4", "login": "AstroAccelerateOrg", "type": "Organization"}
 topics: ["gpu", "cuda", "radio-astronomy"]
-date: "2023-01-21 14:20:00.452516"
+date: "2023-01-28 14:20:19.257487"
 ---

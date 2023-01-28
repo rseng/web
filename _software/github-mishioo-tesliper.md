@@ -20,5 +20,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mishioo", "avatar_url": "https://avatars.githubusercontent.com/u/28956908?v=4", "login": "mishioo", "type": "User"}
 topics: ["python", "chemistry", "spectroscopy", "chemical-computing", "optical-spectroscopy", "spectral-simulations", "gaussian", "workflow-automation", "batch-processing"]
-date: "2023-01-21 14:19:59.714016"
+date: "2023-01-28 14:20:18.437784"
 ---
