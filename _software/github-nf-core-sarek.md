@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 65
 owner: {"html_url": "https://github.com/nf-core", "avatar_url": "https://avatars.githubusercontent.com/u/35520196?v=4", "login": "nf-core", "type": "Organization"}
 topics: ["nextflow", "workflow", "pipeline", "bioinformatics", "genomics", "cancer", "next-generation-sequencing", "conda", "reproducible-research", "containers", "germline", "somatic", "variant-calling", "nf-core", "gatk4", "annotation", "whole-genome-sequencing", "whole-exome-sequencing", "pre-processing", "target-panels"]
-date: "2023-01-28 14:20:18.624369"
+date: "2023-02-04 14:20:12.377860"
 ---

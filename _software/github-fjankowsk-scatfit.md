@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/fjankowsk", "avatar_url": "https://avatars.githubusercontent.com/u/10989149?v=4", "login": "fjankowsk", "type": "User"}
 topics: ["astronomy", "astrophysics", "fastradiobursts", "pulsars", "ionised-media", "radio-astronomy"]
-date: "2023-01-28 14:20:19.156854"
+date: "2023-02-04 14:20:12.915859"
 ---

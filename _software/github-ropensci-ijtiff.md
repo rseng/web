@@ -19,5 +19,5 @@ watchers_count: 13
 language: "R"
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "tiff-files", "imagej", "tiff-images", "image-manipulation", "r-package", "peer-reviewed", "image-processing"]
-date: "2023-01-28 14:20:18.315048"
+date: "2023-02-04 14:20:12.071450"
 ---

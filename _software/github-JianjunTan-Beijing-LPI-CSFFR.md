@@ -18,5 +18,5 @@ watchers_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JianjunTan-Beijing", "avatar_url": "https://avatars.githubusercontent.com/u/74161640?v=4", "login": "JianjunTan-Beijing", "type": "User"}
 topics: ["deep-learning", "rpis", "rna-protein-interactions", "cnn", "serial-feature-fusion", "keras"]
-date: "2023-01-28 14:20:18.795165"
+date: "2023-02-04 14:20:12.555432"
 ---
