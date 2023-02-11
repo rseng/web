@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Social-Evolution-and-Behavior", "avatar_url": "https://avatars.githubusercontent.com/u/16811010?v=4", "login": "Social-Evolution-and-Behavior", "type": "Organization"}
 topics: ["video-tracking", "behavioral-tracking", "collective-behavior", "social-behavior", "social-insects", "ants", "machine-vision", "machine-learning", "tensorflow"]
-date: "2023-02-04 14:20:12.881485"
+date: "2023-02-11 14:20:54.039029"
 ---

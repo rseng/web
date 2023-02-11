@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/oliverphilcox", "avatar_url": "https://avatars.githubusercontent.com/u/30410089?v=4", "login": "oliverphilcox", "type": "User"}
 topics: ["large-scale-structure", "bispectrum", "power-spectrum", "cosmology", "parameter-inference", "boss-dr12"]
-date: "2023-02-04 14:20:12.839783"
+date: "2023-02-11 14:20:53.996624"
 ---

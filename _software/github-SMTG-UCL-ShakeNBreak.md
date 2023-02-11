@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SMTG-UCL", "avatar_url": "https://avatars.githubusercontent.com/u/14860406?v=4", "login": "SMTG-UCL", "type": "Organization"}
 topics: ["materials", "materials-informatics", "point-defects", "science", "computational-chemistry", "pymatgen", "python3", "symmetry-breaking", "structure-searching", "vasp", "distortions", "ab-initio", "dft", "materials-design", "semiconductors"]
-date: "2023-02-04 14:20:11.954667"
+date: "2023-02-11 14:20:53.118364"
 ---
