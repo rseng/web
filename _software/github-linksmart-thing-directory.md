@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/linksmart", "avatar_url": "https://avatars.githubusercontent.com/u/41904448?v=4", "login": "linksmart", "type": "Organization"}
 topics: ["wot", "web-of-things", "w3c", "thing-description-directory", "tdd", "thing-description"]
-date: "2023-02-11 14:20:53.084655"
+date: "2023-02-18 14:21:05.256808"
 ---

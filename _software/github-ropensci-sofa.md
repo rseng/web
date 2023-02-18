@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["couchdb", "couchdb-client", "cloudant", "database", "r", "rstats", "r-package", "CouchDB", "documents", "NoSQL", "databases"]
-date: "2023-02-11 14:20:53.274405"
+date: "2023-02-18 14:21:04.526273"
 ---

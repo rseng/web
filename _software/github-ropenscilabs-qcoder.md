@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 16
 owner: {"html_url": "https://github.com/ropenscilabs", "avatar_url": "https://avatars.githubusercontent.com/u/16314060?v=4", "login": "ropenscilabs", "type": "Organization"}
 topics: ["unconf18", "r", "r-package", "rstats", "unconf", "unconf", "unconf18", "data-extraction"]
-date: "2023-02-11 14:20:53.491212"
+date: "2023-02-18 14:21:05.289849"
 ---
