@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/mrc-ide", "avatar_url": "https://avatars.githubusercontent.com/u/25453642?v=4", "login": "mrc-ide", "type": "Organization"}
 topics: ["r", "r-package", "rstats", "epidemiology", "agent-based-modeling", "individual-based-modelling", "infectious-diseases"]
-date: "2023-02-18 14:21:05.061048"
+date: "2023-02-25 14:21:30.436212"
 ---
