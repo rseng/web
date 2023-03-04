@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/FlowModelingControl", "avatar_url": "https://avatars.githubusercontent.com/u/89638677?v=4", "login": "FlowModelingControl", "type": "Organization"}
 topics: ["machine-learning", "dynamic-mode-decomposition", "proper-orthogonal-decomposition", "pytorch", "jupyter", "openfoam", "netcdf", "tau", "davis", "csv", "hdf5", "ipsp", "dmd", "pod", "cnm"]
-date: "2023-02-25 14:21:30.239812"
+date: "2023-03-04 14:21:48.708216"
 ---

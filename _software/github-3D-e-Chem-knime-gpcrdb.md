@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:14.880978"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-gpcrdb"
-date: "2023-02-25 14:21:30.347552"
+date: "2023-03-04 14:21:48.799129"
 ---
