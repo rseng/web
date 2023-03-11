@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/quatrope", "avatar_url": "https://avatars.githubusercontent.com/u/53583309?v=4", "login": "quatrope", "type": "Organization"}
 topics: ["machine-learning", "feature-extraction", "timeseries", "astronomy", "python2", "python3", "scipy", "astropy"]
-date: "2023-03-04 14:21:49.094279"
+date: "2023-03-11 14:20:19.647011"
 ---

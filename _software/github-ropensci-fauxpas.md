@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["http", "error-handling", "rstats", "r", "r-package", "API", "curl", "error", "errors", "https", "web-services", "http-tools"]
-date: "2023-03-04 14:21:48.412090"
+date: "2023-03-11 14:20:19.406673"
 ---

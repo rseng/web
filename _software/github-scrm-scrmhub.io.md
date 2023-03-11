@@ -6,5 +6,5 @@ timestamp: "2022-07-18 17:46:44.675027"
 description: "a coalescent simulator for biological sequences."
 title: "scrm"
 tags: ["utilities", "high-throughput-sequencing"]
-date: "2023-03-04 14:21:49.618017"
+date: "2023-03-11 14:20:19.767712"
 ---
