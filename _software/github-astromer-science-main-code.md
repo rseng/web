@@ -19,5 +19,5 @@ stargazers_count: 2
 watchers_count: 2
 language: "Jupyter Notebook"
 owner: {"html_url": "https://github.com/astromer-science", "avatar_url": "https://avatars.githubusercontent.com/u/102744454?v=4", "login": "astromer-science", "type": "Organization"}
-date: "2023-03-11 14:20:19.813898"
+date: "2023-03-18 14:20:44.753583"
 ---
