@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:15.362481"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-sstea"
-date: "2023-03-25 14:19:35.919852"
+date: "2023-04-01 14:18:50.911141"
 ---

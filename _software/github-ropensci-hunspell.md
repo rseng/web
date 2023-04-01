@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["spellchecker", "hunspell", "stemmer", "tokenizer", "spell-check", "r", "rstats", "r-package", "literature"]
-date: "2023-03-25 14:19:35.974300"
+date: "2023-04-01 14:18:50.959402"
 ---

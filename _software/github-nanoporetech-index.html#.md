@@ -5,5 +5,5 @@ url: "https://nanoporetech.github.io/tombo/index.html#"
 timestamp: "2022-07-18 17:47:14.852532"
 description: "a suite of tools primarily for the identification of modified nucleotides from nanopore sequencing data."
 title: "Tombo"
-date: "2023-03-25 14:19:35.533534"
+date: "2023-04-01 14:18:50.568144"
 ---

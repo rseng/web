@@ -6,5 +6,5 @@ timestamp: "2022-07-18 17:47:19.838229"
 description: "a comprehensive annotation suite designed for automatic functional annotation of transcriptomes, particularly de novo assembled transcriptomes, from model or non-model organisms."
 title: "Trinotate"
 tags: ["high-throughput-sequencing"]
-date: "2023-03-25 14:19:35.107865"
+date: "2023-04-01 14:18:50.190153"
 ---

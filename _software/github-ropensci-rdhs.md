@@ -21,5 +21,5 @@ open_issues_count: 37
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["dataset", "survey-data", "dhs", "extract", "dhs-api", "peer-reviewed", "r", "r-package", "rstats", "data-access"]
-date: "2023-03-25 14:19:35.987935"
+date: "2023-04-01 14:18:50.971319"
 ---
