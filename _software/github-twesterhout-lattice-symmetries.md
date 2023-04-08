@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/twesterhout", "avatar_url": "https://avatars.githubusercontent.com/u/14264576?v=4", "login": "twesterhout", "type": "User"}
 topics: ["lattice-symmetries", "symmetries", "symmetry-groups", "c", "cpp17", "quantum-mechanics", "many-body-physics", "exact-diagonalization", "permutation", "bit-manipulation", "neural-network"]
-date: "2023-04-01 14:18:51.082793"
+date: "2023-04-08 14:18:57.619216"
 ---

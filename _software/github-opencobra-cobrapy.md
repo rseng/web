@@ -24,5 +24,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 39
 owner: {"html_url": "https://github.com/opencobra", "avatar_url": "https://avatars.githubusercontent.com/u/2708410?v=4", "login": "opencobra", "type": "Organization"}
 topics: ["modeling", "metabolic-models", "metabolic-network", "metabolism", "flux", "bioinformatics", "biochemistry", "computational-biology", "systems-biology", "cell-design", "strain-engineering", "python", "cobra", "sbml", "sbml-model", "sbml-simulation"]
-date: "2023-04-01 14:18:50.133610"
+date: "2023-04-08 14:18:57.466361"
 ---
