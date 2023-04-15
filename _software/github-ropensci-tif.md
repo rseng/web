@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 4
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["text-processing", "corpus", "term-frequency", "tokenizer", "natural-language-processing", "r-package", "r", "rstats", "literature"]
-date: "2023-04-08 14:18:57.357079"
+date: "2023-04-15 14:19:42.031958"
 ---
