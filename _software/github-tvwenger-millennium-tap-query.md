@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tvwenger", "avatar_url": "https://avatars.githubusercontent.com/u/5921304?v=4", "login": "tvwenger", "type": "User"}
-date: "2023-04-15 14:19:42.324917"
+date: "2023-04-22 14:19:44.674350"
 ---

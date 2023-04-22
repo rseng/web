@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/UCD4IDS", "avatar_url": "https://avatars.githubusercontent.com/u/82732920?v=4", "login": "UCD4IDS", "type": "Organization"}
 topics: ["julia", "wavelet-transform", "signal-processing", "wavelet", "filter", "ac-wavelets", "stationary-wavelets"]
-date: "2023-04-15 14:19:42.790769"
+date: "2023-04-22 14:19:45.146230"
 ---
