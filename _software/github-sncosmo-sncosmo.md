@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 11
 owner: {"html_url": "https://github.com/sncosmo", "avatar_url": "https://avatars.githubusercontent.com/u/5490746?v=4", "login": "sncosmo", "type": "Organization"}
 topics: ["python", "supernovae", "cosmology", "astronomy", "astrophysics"]
-date: "2023-04-22 14:19:44.717731"
+date: "2023-04-29 14:19:10.296433"
 ---

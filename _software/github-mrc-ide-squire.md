@@ -22,5 +22,5 @@ open_issues_count: 22
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/mrc-ide", "avatar_url": "https://avatars.githubusercontent.com/u/25453642?v=4", "login": "mrc-ide", "type": "Organization"}
-date: "2023-04-22 14:19:44.183989"
+date: "2023-04-29 14:19:10.046021"
 ---

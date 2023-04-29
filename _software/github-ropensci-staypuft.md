@@ -21,5 +21,5 @@ open_issues_count: 4
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["marshmallow", "data-structures", "serialization", "deserialization", "validation", "r", "rstats", "r-port", "r-package", "data", "schema", "serlialization", "types", "scalereprod"]
-date: "2023-04-22 14:19:44.372673"
+date: "2023-04-29 14:19:10.145958"
 ---

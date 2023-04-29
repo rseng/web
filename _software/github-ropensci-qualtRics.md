@@ -21,5 +21,5 @@ open_issues_count: 25
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["qualtrics", "qualtrics-api", "survey", "r", "r-package", "api", "rstats", "survey-data", "data-access"]
-date: "2023-04-22 14:19:44.369832"
+date: "2023-04-29 14:19:10.160868"
 ---

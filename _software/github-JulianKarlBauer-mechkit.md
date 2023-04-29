@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JulianKarlBauer", "avatar_url": "https://avatars.githubusercontent.com/u/55383008?v=4", "login": "JulianKarlBauer", "type": "User"}
 topics: ["mechanics", "mechanics-of-materials", "python", "continuum-mechanics"]
-date: "2023-04-22 14:19:44.620805"
+date: "2023-04-29 14:19:09.718928"
 ---

@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-19 00:17:19.805717"
 avatar: "https://avatars3.githubusercontent.com/u/39052119?v=4"
 repo_url: "https://github.com/davidebolo1993/TRiCoLOR"
-date: "2023-04-22 14:19:44.889676"
+date: "2023-04-29 14:19:09.832374"
 ---

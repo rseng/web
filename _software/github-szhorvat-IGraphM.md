@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 15
 owner: {"html_url": "https://github.com/szhorvat", "avatar_url": "https://avatars.githubusercontent.com/u/1212871?v=4", "login": "szhorvat", "type": "User"}
 topics: ["igraph", "mathematica", "mathematics", "network-graph", "graph-theory", "raspberry-pi", "network-analysis", "graph-algorithms", "wolfram-language"]
-date: "2023-04-22 14:19:44.009194"
+date: "2023-04-29 14:19:10.385752"
 ---

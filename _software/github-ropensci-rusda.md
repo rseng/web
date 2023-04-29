@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 7
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "data-access"]
-date: "2023-04-22 14:19:44.372392"
+date: "2023-04-29 14:19:10.113526"
 ---
