@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 41
 owner: {"html_url": "https://github.com/nwchemgit", "avatar_url": "https://avatars.githubusercontent.com/u/33767317?v=4", "login": "nwchemgit", "type": "User"}
 topics: ["computational-chemistry", "parallel-computing", "electronic-structure-calculations", "molecular-simulation", "density-functional-theory", "nwchem", "chemistry", "hartree-fock", "quantum-chemistry"]
-date: "2023-04-29 14:19:10.581957"
+date: "2023-05-06 14:19:21.563953"
 ---

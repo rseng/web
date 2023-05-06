@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/nhejazi", "avatar_url": "https://avatars.githubusercontent.com/u/8527276?v=4", "login": "nhejazi", "type": "User"}
 topics: ["causal-inference", "mediation-analysis", "stochastic-interventions", "machine-learning", "targeted-learning", "inverse-probability-weights", "treatment-effects", "r-package", "r", "causal-machine-learning"]
-date: "2023-04-29 14:19:09.507137"
+date: "2023-05-06 14:19:20.624524"
 ---

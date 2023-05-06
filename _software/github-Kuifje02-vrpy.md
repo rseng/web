@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Kuifje02", "avatar_url": "https://avatars0.githubusercontent.com/u/19840033?v=4", "login": "Kuifje02", "type": "User"}
 topics: ["optimization", "cspy", "column-generation", "vrp", "cvrp", "vrptw", "python", "networkx", "pulp", "coinor"]
-date: "2023-04-29 14:19:10.329448"
+date: "2023-05-06 14:19:21.341091"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/barahona-research-group", "avatar_url": "https://avatars.githubusercontent.com/u/51328597?v=4", "login": "barahona-research-group", "type": "Organization"}
 topics: ["networks", "feature-extraction", "classification-algorithm", "graph-features", "interpretable-features", "graph-analysis-toolbox", "graph-embedding"]
-date: "2023-04-29 14:19:09.199179"
+date: "2023-05-06 14:19:20.352676"
 ---
