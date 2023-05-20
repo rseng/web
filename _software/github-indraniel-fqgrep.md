@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https://api.github.com/licenses/isc", "node_id": "MDc6TGljZW5zZTEw"}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/indraniel", "avatar_url": "https://avatars.githubusercontent.com/u/42710?v=4", "login": "indraniel", "type": "User"}
-date: "2023-05-13 14:18:53.717574"
+date: "2023-05-20 14:19:56.498480"
 ---

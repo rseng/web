@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["taxonomy", "wikipedia-api", "wikispecies", "r", "rstats", "r-package", "taxize", "API", "species", "vernacular", "web-services", "Wikicommons", "Wikipedia", "Wikispecies"]
-date: "2023-05-13 14:18:53.946893"
+date: "2023-05-20 14:19:56.747647"
 ---

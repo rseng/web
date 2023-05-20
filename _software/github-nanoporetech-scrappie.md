@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0", "node_id": "MDc6TGljZW5zZTE0"}
 subscribers_count: 52
 owner: {"html_url": "https://github.com/nanoporetech", "avatar_url": "https://avatars.githubusercontent.com/u/7668184?v=4", "login": "nanoporetech", "type": "Organization"}
-date: "2023-05-13 14:18:54.170506"
+date: "2023-05-20 14:19:56.992413"
 ---
