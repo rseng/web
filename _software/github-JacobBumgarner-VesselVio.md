@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JacobBumgarner", "avatar_url": "https://avatars.githubusercontent.com/u/70919881?v=4", "login": "JacobBumgarner", "type": "User"}
 topics: ["open-source", "visualization", "analysis"]
-date: "2023-05-20 14:19:56.422584"
+date: "2023-05-27 14:19:50.587489"
 ---

@@ -17,5 +17,5 @@ size: 263
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/macrocosme", "avatar_url": "https://avatars.githubusercontent.com/u/569279?v=4", "login": "macrocosme", "type": "User"}
-date: "2023-05-20 14:19:57.003628"
+date: "2023-05-27 14:19:51.180042"
 ---

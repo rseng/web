@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/afarahi", "avatar_url": "https://avatars.githubusercontent.com/u/1308461?v=4", "login": "afarahi", "type": "User"}
 topics: ["kullback-leibler-divergence", "mmd", "two-sample-test", "two-sample-statistics", "posterior-predictive"]
-date: "2023-05-20 14:19:56.373109"
+date: "2023-05-27 14:19:50.536427"
 ---

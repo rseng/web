@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["agroclimatology", "weather", "r", "nasa-power", "nasa", "agroclimatology-data", "weather-variables", "weather-data", "earth-science", "rstats", "data-access", "r-package", "climate-data", "global", "meteorological-data", "meteorology", "NASA", "NASA-POWER"]
-date: "2023-05-20 14:19:56.700504"
+date: "2023-05-27 14:19:50.872320"
 ---
