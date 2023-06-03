@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ronnyerrmann", "avatar_url": "https://avatars.githubusercontent.com/u/36272471?v=4", "login": "ronnyerrmann", "type": "User"}
 topics: ["data-reduction", "echelle", "spectroscopy", "python", "wavelength-solution", "serval", "ceres", "terra"]
-date: "2023-05-27 14:19:50.710732"
+date: "2023-06-03 14:19:05.368599"
 ---

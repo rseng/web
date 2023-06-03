@@ -19,5 +19,5 @@ language: "Scala"
 open_issues_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/radio1988", "avatar_url": "https://avatars.githubusercontent.com/u/11168803?v=4", "login": "radio1988", "type": "User"}
-date: "2023-05-27 14:19:50.475424"
+date: "2023-06-03 14:19:05.395572"
 ---

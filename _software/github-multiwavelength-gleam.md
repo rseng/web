@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/multiwavelength", "avatar_url": "https://avatars.githubusercontent.com/u/59348944?v=4", "login": "multiwavelength", "type": "User"}
 topics: ["astronomy", "astronomy-library", "spectroscopy", "galaxies", "agn", "extragalactic", "spectral-lines", "emission-lines", "absorption-lines", "astronomy-software", "1d-spectra"]
-date: "2023-05-27 14:19:51.475970"
+date: "2023-06-03 14:19:05.566069"
 ---

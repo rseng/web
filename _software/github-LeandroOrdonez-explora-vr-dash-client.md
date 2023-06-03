@@ -17,5 +17,5 @@ language: "Jupyter Notebook"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/LeandroOrdonez", "avatar_url": "https://avatars.githubusercontent.com/u/4668102?v=4", "login": "LeandroOrdonez", "type": "User"}
-date: "2023-05-27 14:19:51.467265"
+date: "2023-06-03 14:19:05.371736"
 ---

@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Beuth-Erdelt", "avatar_url": "https://avatars.githubusercontent.com/u/17198143?v=4", "login": "Beuth-Erdelt", "type": "Organization"}
 topics: ["dbms", "benchmarking", "python", "sql", "jdbc", "agplv3"]
-date: "2023-05-27 14:19:51.516514"
+date: "2023-06-03 14:19:05.575035"
 ---

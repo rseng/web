@@ -19,5 +19,5 @@ watchers_count: 2
 language: "Lua"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/debian-tex", "avatar_url": "https://avatars.githubusercontent.com/u/46477164?v=4", "login": "debian-tex", "type": "Organization"}
-date: "2023-05-27 14:19:51.200215"
+date: "2023-06-03 14:19:05.172165"
 ---
