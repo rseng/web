@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 13
 owner: {"html_url": "https://github.com/conda", "avatar_url": "https://avatars.githubusercontent.com/u/6392739?v=4", "login": "conda", "type": "Organization"}
-date: "2023-06-03 14:19:04.592711"
+date: "2023-06-10 14:19:42.517029"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mslonina", "avatar_url": "https://avatars.githubusercontent.com/u/557634?v=4", "login": "mslonina", "type": "User"}
-date: "2023-06-03 14:19:04.347174"
+date: "2023-06-10 14:19:42.075710"
 ---

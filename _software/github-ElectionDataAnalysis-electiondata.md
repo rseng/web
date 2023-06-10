@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ElectionDataAnalysis", "avatar_url": "https://avatars.githubusercontent.com/u/70550634?v=4", "login": "ElectionDataAnalysis", "type": "Organization"}
 topics: ["election", "election-data", "common-data-format"]
-date: "2023-06-03 14:19:05.182709"
+date: "2023-06-10 14:19:43.567172"
 ---
