@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["api-client", "scholarly-articles", "scholarly-metadata", "rstats", "r", "r-package", "text-mining", "citations", "full-text", "literature", "pdf", "publications", "xml", "literature"]
-date: "2023-06-10 14:19:43.120163"
+date: "2023-06-17 14:19:48.081898"
 ---

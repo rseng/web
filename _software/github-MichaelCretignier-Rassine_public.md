@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/MichaelCretignier", "avatar_url": "https://avatars.githubusercontent.com/u/44569244?v=4", "login": "MichaelCretignier", "type": "User"}
-date: "2023-06-10 14:19:42.574132"
+date: "2023-06-17 14:19:47.550810"
 ---

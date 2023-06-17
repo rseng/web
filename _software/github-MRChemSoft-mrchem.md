@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 9
 owner: {"html_url": "https://github.com/MRChemSoft", "avatar_url": "https://avatars.githubusercontent.com/u/16899707?v=4", "login": "MRChemSoft", "type": "Organization"}
 topics: ["multiwavelets", "computational-chemistry", "chemistry", "physics", "c-plus-plus", "python", "density-functional-theory"]
-date: "2023-06-10 14:19:43.822285"
+date: "2023-06-17 14:19:47.913176"
 ---

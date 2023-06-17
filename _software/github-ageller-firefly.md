@@ -22,5 +22,5 @@ open_issues_count: 17
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ageller", "avatar_url": "https://avatars.githubusercontent.com/u/753117?v=4", "login": "ageller", "type": "User"}
-date: "2023-06-10 14:19:43.747034"
+date: "2023-06-17 14:19:47.814740"
 ---
