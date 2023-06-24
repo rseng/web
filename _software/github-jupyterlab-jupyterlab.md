@@ -25,5 +25,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 321
 owner: {"html_url": "https://github.com/jupyterlab", "avatar_url": "https://avatars.githubusercontent.com/u/22800682?v=4", "login": "jupyterlab", "type": "Organization"}
 topics: ["jupyterlab", "jupyter"]
-date: "2023-06-17 14:19:47.551909"
+date: "2023-06-24 14:22:57.607831"
 ---

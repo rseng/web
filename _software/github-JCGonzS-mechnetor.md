@@ -19,5 +19,5 @@ watchers_count: 3
 language: "JavaScript"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JCGonzS", "avatar_url": "https://avatars.githubusercontent.com/u/19487825?v=4", "login": "JCGonzS", "type": "User"}
-date: "2023-06-17 14:19:47.071031"
+date: "2023-06-24 14:22:58.430084"
 ---

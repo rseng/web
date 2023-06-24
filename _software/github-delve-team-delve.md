@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/delve-team", "avatar_url": "https://avatars.githubusercontent.com/u/48019028?v=4", "login": "delve-team", "type": "Organization"}
 topics: ["pytorch", "model-training", "training-monitor", "layer-saturation", "pruning", "visualization", "neural-dynamics", "deep-learning", "convolutional-neural-networks"]
-date: "2023-06-17 14:19:47.310399"
+date: "2023-06-24 14:22:57.868609"
 ---

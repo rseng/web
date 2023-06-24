@@ -22,5 +22,5 @@ open_issues_count: 29
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ogotoh", "avatar_url": "https://avatars.githubusercontent.com/u/33304110?v=4", "login": "ogotoh", "type": "User"}
-date: "2023-06-17 14:19:48.156253"
+date: "2023-06-24 14:22:58.425987"
 ---

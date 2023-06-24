@@ -22,5 +22,5 @@ open_issues_count: 30
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/ratt-ru", "avatar_url": "https://avatars.githubusercontent.com/u/7933570?v=4", "login": "ratt-ru", "type": "Organization"}
-date: "2023-06-17 14:19:47.630027"
+date: "2023-06-24 14:22:58.815521"
 ---

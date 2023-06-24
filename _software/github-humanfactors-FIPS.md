@@ -24,5 +24,5 @@ topics: ["r", "rstats", "fatigue", "human-factors", "biomathematics"]
 timestamp: "2020-07-19 00:17:13.435377"
 avatar: "https://avatars2.githubusercontent.com/u/16096044?v=4"
 repo_url: "https://github.com/humanfactors/FIPS"
-date: "2023-06-17 14:19:47.355760"
+date: "2023-06-24 14:22:57.604037"
 ---

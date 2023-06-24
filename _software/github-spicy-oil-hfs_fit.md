@@ -18,5 +18,5 @@ language: "Python"
 open_issues_count: 8
 subscribers_count: 2
 owner: {"html_url": "https://github.com/spicy-oil", "avatar_url": "https://avatars.githubusercontent.com/u/55635165?v=4", "login": "spicy-oil", "type": "User"}
-date: "2023-06-17 14:19:47.607567"
+date: "2023-06-24 14:22:58.140332"
 ---

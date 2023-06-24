@@ -23,5 +23,5 @@ open_issues_count: 13
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/HajimeKawahara", "avatar_url": "https://avatars.githubusercontent.com/u/15956904?v=4", "login": "HajimeKawahara", "type": "User"}
-date: "2023-06-17 14:19:47.791388"
+date: "2023-06-24 14:22:58.310679"
 ---

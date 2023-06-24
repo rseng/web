@@ -24,5 +24,5 @@ topics: ["material-science", "quantum-chemistry", "machine-learning", "python"]
 timestamp: "2020-07-05 00:17:28.863969"
 avatar: "https://avatars0.githubusercontent.com/u/49066803?v=4"
 repo_url: "https://github.com/nlesc-nano/swan"
-date: "2023-06-17 14:19:47.375518"
+date: "2023-06-24 14:22:58.696892"
 ---
