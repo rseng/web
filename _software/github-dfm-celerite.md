@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 14
 owner: {"html_url": "https://github.com/dfm", "avatar_url": "https://avatars.githubusercontent.com/u/350282?v=4", "login": "dfm", "type": "User"}
 topics: ["python", "gaussian-processes", "astronomy", "time-series", "stars", "exoplanets", "julia", "cpp", "c-plus-plus"]
-date: "2023-06-24 14:22:58.778151"
+date: "2023-07-01 14:22:05.966220"
 ---

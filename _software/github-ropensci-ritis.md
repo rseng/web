@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["api-wrapper", "itis", "taxonomy", "rstats", "r", "r-package", "taxize", "API", "api-client", "biology", "identifiers", "JSON", "names", "nomenclature", "species", "web"]
-date: "2023-06-24 14:22:58.337194"
+date: "2023-07-01 14:22:05.458459"
 ---

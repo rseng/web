@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 16
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["osm", "openstreetmap", "overpass-api", "overpass", "data-visualisation", "highlighting-clusters", "r", "rstats", "r-package", "peer-reviewed", "geospatial"]
-date: "2023-06-24 14:22:58.369346"
+date: "2023-07-01 14:22:05.466752"
 ---

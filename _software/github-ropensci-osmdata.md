@@ -20,5 +20,5 @@ language: "C++"
 open_issues_count: 19
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["overpass-api", "openstreetmap", "r", "cpp", "rstats", "osm", "osm-data", "r-package", "peer-reviewed", "open0street0map", "OSM", "overpass0API", "geospatial"]
-date: "2023-06-24 14:22:58.338051"
+date: "2023-07-01 14:22:05.472475"
 ---

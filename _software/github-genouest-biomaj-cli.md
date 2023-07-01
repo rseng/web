@@ -19,5 +19,5 @@ open_issues_count: 1
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/genouest", "avatar_url": "https://avatars.githubusercontent.com/u/1004255?v=4", "login": "genouest", "type": "Organization"}
-date: "2023-06-24 14:22:58.479959"
+date: "2023-07-01 14:22:05.623192"
 ---
