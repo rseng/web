@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 19
 owner: {"html_url": "https://github.com/exoplanet-dev", "avatar_url": "https://avatars.githubusercontent.com/u/60150744?v=4", "login": "exoplanet-dev", "type": "Organization"}
 topics: ["exoplanet", "exoplanet-transits", "exoplanet-radial-velocities", "mcmc", "gaussian-processes", "bayesian-inference", "pymc3", "time-series", "time-series-analysis", "astronomy", "astrophysics", "exoplanets"]
-date: "2023-07-01 14:22:05.602819"
+date: "2023-07-08 14:21:57.785405"
 ---

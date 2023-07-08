@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Zafiirah13", "avatar_url": "https://avatars.githubusercontent.com/u/20860570?v=4", "login": "Zafiirah13", "type": "User"}
 topics: ["deep-learning", "convolutional-neural-networks", "optimization", "transients"]
-date: "2023-07-01 14:22:06.253074"
+date: "2023-07-08 14:21:57.496551"
 ---
