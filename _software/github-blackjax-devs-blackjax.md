@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 10
 owner: {"html_url": "https://github.com/blackjax-devs", "avatar_url": "https://avatars.githubusercontent.com/u/75721977?v=4", "login": "blackjax-devs", "type": "Organization"}
 topics: ["probabilistic-programming", "bayesian-inference", "sampling-methods", "hamiltonian-monte-carlo"]
-date: "2023-07-08 14:21:57.576762"
+date: "2023-07-15 14:22:08.014828"
 ---

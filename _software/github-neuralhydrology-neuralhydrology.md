@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 19
 owner: {"html_url": "https://github.com/neuralhydrology", "avatar_url": "https://avatars.githubusercontent.com/u/59032226?v=4", "login": "neuralhydrology", "type": "Organization"}
-date: "2023-07-08 14:21:58.109873"
+date: "2023-07-15 14:22:08.547761"
 ---
