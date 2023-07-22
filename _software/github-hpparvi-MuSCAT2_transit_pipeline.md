@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 17
 owner: {"html_url": "https://github.com/hpparvi", "avatar_url": "https://avatars.githubusercontent.com/u/327523?v=4", "login": "hpparvi", "type": "User"}
 topics: ["astronomy", "astrophysics", "exoplanets", "photometry", "exoplanet-transits"]
-date: "2023-07-15 14:22:07.907649"
+date: "2023-07-22 14:19:37.085890"
 ---

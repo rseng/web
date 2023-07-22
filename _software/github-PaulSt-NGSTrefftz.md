@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/PaulSt", "avatar_url": "https://avatars.githubusercontent.com/u/28690104?v=4", "login": "PaulSt", "type": "User"}
 topics: ["numerical-methods", "finite-element-method", "trefftz-methods", "open-source"]
-date: "2023-07-15 14:22:08.366166"
+date: "2023-07-22 14:19:37.564875"
 ---

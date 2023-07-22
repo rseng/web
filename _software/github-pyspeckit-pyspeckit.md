@@ -22,5 +22,5 @@ open_issues_count: 66
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 13
 owner: {"html_url": "https://github.com/pyspeckit", "avatar_url": "https://avatars.githubusercontent.com/u/2507522?v=4", "login": "pyspeckit", "type": "Organization"}
-date: "2023-07-15 14:22:08.008847"
+date: "2023-07-22 14:19:37.191644"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/palumbom", "avatar_url": "https://avatars.githubusercontent.com/u/19910419?v=4", "login": "palumbom", "type": "User"}
 topics: ["exoplanets", "radial-velocities", "granulation", "stellar-variability", "astronomy-software"]
-date: "2023-07-15 14:22:07.941140"
+date: "2023-07-22 14:19:37.121167"
 ---

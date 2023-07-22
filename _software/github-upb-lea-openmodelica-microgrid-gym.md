@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/upb-lea", "avatar_url": "https://avatars0.githubusercontent.com/u/55782224?v=4", "login": "upb-lea", "type": "Organization"}
 topics: ["reinforcement-learning", "openai-gym", "openai-gym-environments", "machine-learning", "control", "simulation", "modelica", "openmodelica", "power-electronics", "power-systems", "microgrid", "energy-system-modeling", "power-supply", "smart-grids", "engineering", "electrical-engineering", "python"]
-date: "2023-07-15 14:22:08.602018"
+date: "2023-07-22 14:19:37.808795"
 ---

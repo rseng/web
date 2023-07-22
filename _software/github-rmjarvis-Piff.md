@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 14
 owner: {"html_url": "https://github.com/rmjarvis", "avatar_url": "https://avatars.githubusercontent.com/u/623887?v=4", "login": "rmjarvis", "type": "User"}
 topics: ["astronomy", "psf", "des", "lsst", "weaklensing"]
-date: "2023-07-15 14:22:08.437876"
+date: "2023-07-22 14:19:37.640001"
 ---
