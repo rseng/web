@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/engyasin", "avatar_url": "https://avatars.githubusercontent.com/u/15736151?v=4", "login": "engyasin", "type": "User"}
 topics: ["multiple-object-tracking", "drone", "object-detection", "python"]
-date: "2023-07-22 14:19:36.789746"
+date: "2023-07-29 14:18:45.839615"
 ---

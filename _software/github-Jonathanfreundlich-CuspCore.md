@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Jonathanfreundlich", "avatar_url": "https://avatars.githubusercontent.com/u/51839232?v=4", "login": "Jonathanfreundlich", "type": "User"}
 topics: ["galaxies", "dark-matter", "dark-matter-halos", "feedback", "galaxy-formation", "galaxy-evolution"]
-date: "2023-07-22 14:19:37.065302"
+date: "2023-07-29 14:18:46.128181"
 ---

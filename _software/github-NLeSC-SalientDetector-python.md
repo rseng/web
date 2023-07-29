@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:20.413235"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/SalientDetector-python"
-date: "2023-07-22 14:19:36.788565"
+date: "2023-07-29 14:18:45.838333"
 ---
