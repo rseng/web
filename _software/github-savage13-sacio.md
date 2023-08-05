@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 1
 owner: {"html_url": "https://github.com/savage13", "avatar_url": "https://avatars.githubusercontent.com/u/126514?v=4", "login": "savage13", "type": "User"}
 topics: ["sac", "iris", "sacio-library", "seismic"]
-date: "2023-07-29 14:18:46.127556"
+date: "2023-08-05 14:19:00.733983"
 ---

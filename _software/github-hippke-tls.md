@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/hippke", "avatar_url": "https://avatars.githubusercontent.com/u/11958117?v=4", "login": "hippke", "type": "User"}
 topics: ["planet", "exoplanet", "transit", "least", "squares", "algorithm", "tls", "periodic", "python", "exoplanets"]
-date: "2023-07-29 14:18:46.301794"
+date: "2023-08-05 14:19:00.676752"
 ---

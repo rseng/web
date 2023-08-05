@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/semaphoreP", "avatar_url": "https://avatars.githubusercontent.com/u/2245740?v=4", "login": "semaphoreP", "type": "User"}
 topics: ["astronomy", "exoplanets", "python"]
-date: "2023-07-29 14:18:46.177618"
+date: "2023-08-05 14:18:59.756211"
 ---

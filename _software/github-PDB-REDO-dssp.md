@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 3
 owner: {"html_url": "https://github.com/PDB-REDO", "avatar_url": "https://avatars.githubusercontent.com/u/71706409?v=4", "login": "PDB-REDO", "type": "Organization"}
 topics: ["dssp", "pdb", "proteins"]
-date: "2023-07-29 14:18:46.916444"
+date: "2023-08-05 14:19:00.846359"
 ---

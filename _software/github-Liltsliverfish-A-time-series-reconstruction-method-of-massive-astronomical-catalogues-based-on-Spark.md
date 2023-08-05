@@ -18,5 +18,5 @@ language: "Scala"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Liltsliverfish", "avatar_url": "https://avatars.githubusercontent.com/u/55935283?v=4", "login": "Liltsliverfish", "type": "User"}
-date: "2023-07-29 14:18:47.058245"
+date: "2023-08-05 14:19:00.130264"
 ---
