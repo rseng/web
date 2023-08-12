@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/aabdurrouf", "avatar_url": "https://avatars.githubusercontent.com/u/45021817?v=4", "login": "aabdurrouf", "type": "User"}
 topics: ["astrophysics", "galaxies", "astronomical-images", "astronomical-spectroscopy", "pixel-binning", "sed-fitting"]
-date: "2023-08-05 14:18:59.652578"
+date: "2023-08-12 14:18:23.198085"
 ---

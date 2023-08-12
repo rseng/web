@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/leotac", "avatar_url": "https://avatars.githubusercontent.com/u/1311290?v=4", "login": "leotac", "type": "User"}
 topics: ["data-visualization", "python", "matplotlib", "plotting"]
-date: "2023-08-05 14:19:00.649389"
+date: "2023-08-12 14:18:23.961275"
 ---

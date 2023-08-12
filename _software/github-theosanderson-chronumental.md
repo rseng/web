@@ -21,5 +21,5 @@ open_issues_count: 3
 subscribers_count: 2
 owner: {"html_url": "https://github.com/theosanderson", "avatar_url": "https://avatars.githubusercontent.com/u/19732295?v=4", "login": "theosanderson", "type": "User"}
 topics: ["phylogenetics", "timetree", "jax", "numpyro"]
-date: "2023-08-05 14:19:00.647921"
+date: "2023-08-12 14:18:23.960058"
 ---

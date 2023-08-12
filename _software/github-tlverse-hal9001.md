@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tlverse", "avatar_url": "https://avatars0.githubusercontent.com/u/36939258?v=4", "login": "tlverse", "type": "Organization"}
 topics: ["machine-learning-algorithms", "nonparametric-regression", "cross-validation", "lasso-regression"]
-date: "2023-08-05 14:18:59.887310"
+date: "2023-08-12 14:18:23.378580"
 ---

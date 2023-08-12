@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["db1b", "transtats", "bureau-of-transport-statistics", "bts", "rita", "t100", "air-transport", "skynet", "peer-reviewed", "r", "r-package", "rstats", "data-access"]
-date: "2023-08-05 14:19:00.311191"
+date: "2023-08-12 14:18:23.702795"
 ---
