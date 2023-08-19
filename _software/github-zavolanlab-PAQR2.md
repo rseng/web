@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/zavolanlab", "avatar_url": "https://avatars.githubusercontent.com/u/25588245?v=4", "login": "zavolanlab", "type": "Organization"}
 topics: ["bioinformatics", "snakemake", "rna-seq-pipeline", "polyadenylation"]
-date: "2023-08-12 14:18:23.898638"
+date: "2023-08-19 14:18:08.907555"
 ---
