@@ -23,5 +23,5 @@ topics: ["python", "statistics", "econometrics", "data-analysis", "generalized-l
 timestamp: "2020-07-04 13:22:43.991776"
 avatar: "https://avatars3.githubusercontent.com/u/717666?v=4"
 repo_url: "https://github.com/statsmodels/statsmodels"
-date: "2023-08-19 14:18:08.519796"
+date: "2023-08-26 14:18:45.307855"
 ---

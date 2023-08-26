@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ecological-cities", "avatar_url": "https://avatars.githubusercontent.com/u/65454754?v=4", "login": "ecological-cities", "type": "Organization"}
 topics: ["cities", "recreation", "parks", "geoinformatics", "spatial"]
-date: "2023-08-19 14:18:08.873998"
+date: "2023-08-26 14:18:45.443675"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/exoml", "avatar_url": "https://avatars.githubusercontent.com/u/47813244?v=4", "login": "exoml", "type": "Organization"}
-date: "2023-08-19 14:18:08.397296"
+date: "2023-08-26 14:18:45.004976"
 ---

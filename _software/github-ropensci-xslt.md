@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 6
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["xslt", "xml", "r", "rstats", "r-package", "data-extraction"]
-date: "2023-08-19 14:18:08.688531"
+date: "2023-08-26 14:18:45.769764"
 ---
