@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/sxs-collaboration", "avatar_url": "https://avatars.githubusercontent.com/u/26882595?v=4", "login": "sxs-collaboration", "type": "Organization"}
 topics: ["surrogate-models", "python", "gravitational-waveforms"]
-date: "2023-08-26 14:18:45.290829"
+date: "2023-09-02 14:18:43.033192"
 ---

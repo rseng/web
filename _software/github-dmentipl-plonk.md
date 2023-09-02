@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dmentipl", "avatar_url": "https://avatars.githubusercontent.com/u/8281189?v=4", "login": "dmentipl", "type": "User"}
 topics: ["smoothed-particle-hydrodynamics", "python", "astronomy", "visualization"]
-date: "2023-08-26 14:18:45.951477"
+date: "2023-09-02 14:18:43.703096"
 ---

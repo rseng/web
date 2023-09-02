@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/lgrcia", "avatar_url": "https://avatars.githubusercontent.com/u/20612771?v=4", "login": "lgrcia", "type": "User"}
 topics: ["python", "astronomy", "photometry", "pipeline"]
-date: "2023-08-26 14:18:45.298831"
+date: "2023-09-02 14:18:43.041223"
 ---

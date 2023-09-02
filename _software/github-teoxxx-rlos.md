@@ -18,5 +18,5 @@ size: 26437
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/teoxxx", "avatar_url": "https://avatars.githubusercontent.com/u/40962945?v=4", "login": "teoxxx", "type": "User"}
-date: "2023-08-26 14:18:45.000583"
+date: "2023-09-02 14:18:42.743085"
 ---

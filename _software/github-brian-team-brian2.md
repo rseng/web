@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 39
 owner: {"html_url": "https://github.com/brian-team", "avatar_url": "https://avatars.githubusercontent.com/u/2292949?v=4", "login": "brian-team", "type": "Organization"}
 topics: ["python", "neuroscience", "science", "differential-equations", "spiking-neural-networks", "biological-simulations", "code-generation", "simulation-framework", "brian", "computational-neuroscience", "brian2"]
-date: "2023-08-26 14:18:44.847635"
+date: "2023-09-02 14:18:42.589406"
 ---

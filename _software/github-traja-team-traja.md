@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/traja-team", "avatar_url": "https://avatars.githubusercontent.com/u/60182006?v=4", "login": "traja-team", "type": "Organization"}
 topics: ["time-series-analysis", "animal-behavior", "trajectory-analysis", "python", "spatial-data-analysis"]
-date: "2023-08-26 14:18:45.347109"
+date: "2023-09-02 14:18:43.089578"
 ---
