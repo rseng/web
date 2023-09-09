@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/JohannesBuchner", "avatar_url": "https://avatars.githubusercontent.com/u/51015?v=4", "login": "JohannesBuchner", "type": "User"}
 topics: ["astronomy", "catalogue", "association", "bayesian-inference", "python"]
-date: "2023-09-02 14:18:42.841427"
+date: "2023-09-09 14:19:11.886846"
 ---

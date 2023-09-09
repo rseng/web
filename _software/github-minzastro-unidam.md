@@ -23,5 +23,5 @@ open_issues_count: 4
 subscribers_count: 2
 owner: {"html_url": "https://github.com/minzastro", "avatar_url": "https://avatars.githubusercontent.com/u/7056224?v=4", "login": "minzastro", "type": "User"}
 topics: ["astrophysics", "astronomy", "python", "isochrones"]
-date: "2023-09-02 14:18:43.585017"
+date: "2023-09-09 14:19:13.036284"
 ---
