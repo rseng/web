@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/WMD-group", "avatar_url": "https://avatars.githubusercontent.com/u/1716969?v=4", "login": "WMD-group", "type": "Organization"}
 topics: ["electrostatic-potential", "ionisation-potential", "workfunction", "density-functional-theory", "vasp", "semiconductor-physics"]
-date: "2023-09-09 14:19:11.642881"
+date: "2023-09-16 14:19:06.665517"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/desmid", "avatar_url": "https://avatars.githubusercontent.com/u/12565129?v=4", "login": "desmid", "type": "User"}
 topics: ["bioinformatics", "bioinformatics-tool", "sequence-alignment-visualization", "blast-search", "blast", "fasta", "clustal"]
-date: "2023-09-09 14:19:12.330720"
+date: "2023-09-16 14:19:06.472843"
 ---
