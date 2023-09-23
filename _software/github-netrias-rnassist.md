@@ -15,5 +15,5 @@ clone_url: "https://github.com/netrias/rnassist.git"
 size: 202427
 language: "Jupyter Notebook"
 owner: {"html_url": "https://github.com/netrias", "avatar_url": "https://avatars.githubusercontent.com/u/31782484?v=4", "login": "netrias", "type": "Organization"}
-date: "2023-09-16 14:19:06.942977"
+date: "2023-09-23 14:19:01.420388"
 ---
