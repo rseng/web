@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/oschwengers", "avatar_url": "https://avatars.githubusercontent.com/u/10071818?v=4", "login": "oschwengers", "type": "User"}
 topics: ["bioinformatics", "microbial-genomics", "genome-annotation", "bacteria", "bacterial-genomes", "plasmids"]
-date: "2023-09-23 14:19:00.873883"
+date: "2023-09-30 14:19:17.584238"
 ---

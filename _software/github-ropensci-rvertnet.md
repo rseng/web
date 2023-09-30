@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["api-wrapper", "biodiversity", "specimen", "rstats", "vertnet", "r", "spocc", "r-package", "mammalia", "mammals", "maps", "occurrences", "species", "specimens", "data-access"]
-date: "2023-09-23 14:19:01.098765"
+date: "2023-09-30 14:19:16.907802"
 ---

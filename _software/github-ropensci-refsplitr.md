@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 19
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["bibliometrics", "coauthorship", "collaboration", "georeferencing", "metascience", "namedisambiguation", "references", "scienceofscience", "scientometrics", "WebofScience", "literature"]
-date: "2023-09-23 14:19:01.133282"
+date: "2023-09-30 14:19:16.813746"
 ---

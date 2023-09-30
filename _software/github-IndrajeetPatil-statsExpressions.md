@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/IndrajeetPatil", "avatar_url": "https://avatars.githubusercontent.com/u/11330453?v=4", "login": "IndrajeetPatil", "type": "User"}
 topics: ["statistical-tests", "statistical-details", "meta-analysis", "contingency-table", "robust", "correlation", "parametric", "bayesian-inference", "bayesian-statistics", "robust-statistics", "effectsize", "tidy"]
-date: "2023-09-23 14:19:01.462252"
+date: "2023-09-30 14:19:17.463256"
 ---

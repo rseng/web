@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 11
 owner: {"html_url": "https://github.com/bcgsc", "avatar_url": "https://avatars.githubusercontent.com/u/2319317?v=4", "login": "bcgsc", "type": "Organization"}
 topics: ["bioinformatics", "bioinformatics-tool", "genome-assembly", "long-read-sequencing"]
-date: "2023-09-23 14:19:00.538735"
+date: "2023-09-30 14:19:16.671494"
 ---
