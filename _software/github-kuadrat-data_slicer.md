@@ -20,5 +20,5 @@ open_issues_count: 3
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/kuadrat", "avatar_url": "https://avatars.githubusercontent.com/u/29949116?v=4", "login": "kuadrat", "type": "User"}
-date: "2023-09-30 14:19:17.660478"
+date: "2023-10-07 14:19:17.954532"
 ---

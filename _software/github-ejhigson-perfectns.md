@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/ejhigson", "avatar_url": "https://avatars.githubusercontent.com/u/18406298?v=4", "login": "ejhigson", "type": "User"}
 topics: ["nested-sampling", "dynamic-nested-sampling", "pure-python", "bayesian-inference"]
-date: "2023-09-30 14:19:17.375784"
+date: "2023-10-07 14:19:17.691172"
 ---

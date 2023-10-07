@@ -24,5 +24,5 @@ topics: ["java", "batch-job", "middleware", "library"]
 timestamp: "2020-07-05 00:17:22.691274"
 avatar: "https://avatars0.githubusercontent.com/u/48052855?v=4"
 repo_url: "https://github.com/xenon-middleware/xenon"
-date: "2023-09-30 14:19:17.495583"
+date: "2023-10-07 14:19:17.801713"
 ---

@@ -20,5 +20,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/ropensci-archive", "avatar_url": "https://avatars.githubusercontent.com/u/68704009?v=4", "login": "ropensci-archive", "type": "Organization"}
 topics: ["ozunconf18", "unconf", "r", "r-package", "rstats", "ozunconf18", "unconf", "scalereprod"]
-date: "2023-09-30 14:19:17.459487"
+date: "2023-10-07 14:19:17.768248"
 ---
