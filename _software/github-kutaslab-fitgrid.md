@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/kutaslab", "avatar_url": "https://avatars.githubusercontent.com/u/39499147?v=4", "login": "kutaslab", "type": "Organization"}
 topics: ["python", "eeg", "regression"]
-date: "2023-10-07 14:19:17.273600"
+date: "2023-10-14 14:19:17.660662"
 ---
