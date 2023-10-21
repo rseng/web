@@ -20,5 +20,5 @@ language: "TypeScript"
 open_issues_count: 1
 subscribers_count: 7
 owner: {"html_url": "https://github.com/FINNGEN", "avatar_url": "https://avatars.githubusercontent.com/u/33527341?v=4", "login": "FINNGEN", "type": "Organization"}
-date: "2023-10-14 14:19:17.994561"
+date: "2023-10-21 14:19:38.380441"
 ---
