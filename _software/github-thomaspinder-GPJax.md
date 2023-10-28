@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/thomaspinder", "avatar_url": "https://avatars.githubusercontent.com/u/20796877?v=4", "login": "thomaspinder", "type": "User"}
 topics: ["gaussian-processes", "jax", "probabilistic-programming", "bayesian-inference", "machine-learning"]
-date: "2023-10-21 14:19:38.556635"
+date: "2023-10-28 14:19:12.633605"
 ---

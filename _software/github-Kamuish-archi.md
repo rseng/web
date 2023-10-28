@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Kamuish", "avatar_url": "https://avatars.githubusercontent.com/u/33263706?v=4", "login": "Kamuish", "type": "User"}
 topics: ["python", "hacktoberfest"]
-date: "2023-10-21 14:19:40.213400"
+date: "2023-10-28 14:19:12.702118"
 ---
