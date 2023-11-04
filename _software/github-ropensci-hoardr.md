@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["caching", "r", "rstats", "r-package", "data", "files", "pdf", "xml", "scalereprod"]
-date: "2023-10-28 14:19:13.389425"
+date: "2023-11-04 14:20:18.794951"
 ---

@@ -24,5 +24,5 @@ topics: ["metadata-extraction", "date-parser", "html-parsing", "entity-extractio
 timestamp: "2020-08-02 16:35:22.431046"
 avatar: "https://avatars0.githubusercontent.com/u/2125866?v=4"
 repo_url: "https://github.com/adbar/htmldate"
-date: "2023-10-28 14:19:12.579433"
+date: "2023-11-04 14:20:18.485482"
 ---

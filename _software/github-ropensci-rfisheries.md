@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["fisheries", "open-data", "openfisheries", "r", "rstats", "r-package", "data-access"]
-date: "2023-10-28 14:19:13.380374"
+date: "2023-11-04 14:20:18.810076"
 ---

@@ -24,5 +24,5 @@ topics: ["cwl", "workflow", "python"]
 timestamp: "2020-07-05 00:17:20.867847"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/scriptcwl"
-date: "2023-10-28 14:19:13.155048"
+date: "2023-11-04 14:20:19.278189"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/lazzati-astro", "avatar_url": "https://avatars.githubusercontent.com/u/24950291?v=4", "login": "lazzati-astro", "type": "Organization"}
 topics: ["astrophysics", "photons", "hydrodynamic-simulations", "openmp", "hdf5", "mpi", "simulation", "radiative-transfer", "gamma-ray-burst"]
-date: "2023-10-28 14:19:12.819432"
+date: "2023-11-04 14:20:18.921620"
 ---

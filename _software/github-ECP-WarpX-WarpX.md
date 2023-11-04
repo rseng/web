@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 15
 owner: {"html_url": "https://github.com/ECP-WarpX", "avatar_url": "https://avatars.githubusercontent.com/u/32690356?v=4", "login": "ECP-WarpX", "type": "Organization"}
 topics: ["laser", "plasma", "physics", "gpu", "simulation", "particle-in-cell", "pic", "research"]
-date: "2023-10-28 14:19:13.322122"
+date: "2023-11-04 14:20:17.869751"
 ---

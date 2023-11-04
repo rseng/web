@@ -26,5 +26,5 @@ avatar: "https://avatars1.githubusercontent.com/u/5946458?v=4"
 repo_url: "https://github.com/tobiasrausch/alfred"
 title: "Alfred"
 tags: ["high-throughput-sequencing", "read-quality-control"]
-date: "2023-10-28 14:19:12.524561"
+date: "2023-11-04 14:20:18.968791"
 ---

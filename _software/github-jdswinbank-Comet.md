@@ -24,5 +24,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 7
 owner: {"html_url": "https://github.com/jdswinbank", "avatar_url": "https://avatars.githubusercontent.com/u/460854?v=4", "login": "jdswinbank", "type": "User"}
 topics: ["astronomy", "voevent"]
-date: "2023-10-28 14:19:13.297861"
+date: "2023-11-04 14:20:18.240533"
 ---
