@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["paleobiology", "scientific", "data", "rstats", "r", "r-package", "api-client", "webservice-client", "archive", "atmosphere", "chemistry", "earthscience", "ecology", "environmentalscience", "paleontology", "Pangaea", "data-access"]
-date: "2023-11-04 14:20:18.815571"
+date: "2023-11-11 14:19:51.336315"
 ---
