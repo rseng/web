@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/RiccardoBiondi", "avatar_url": "https://avatars.githubusercontent.com/u/48323959?v=4", "login": "RiccardoBiondi", "type": "User"}
 topics: ["ct-images", "lung-regions", "covid-19", "segmentation"]
-date: "2023-11-11 14:19:51.222127"
+date: "2023-11-18 14:20:09.912709"
 ---

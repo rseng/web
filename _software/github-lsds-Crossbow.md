@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 11
 owner: {"html_url": "https://github.com/lsds", "avatar_url": "https://avatars.githubusercontent.com/u/989082?v=4", "login": "lsds", "type": "Organization"}
 topics: ["deep-learning", "training", "machine-learning", "gpu-acceleration"]
-date: "2023-11-11 14:19:51.623472"
+date: "2023-11-18 14:20:10.265089"
 ---
