@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/cumbof", "avatar_url": "https://avatars.githubusercontent.com/u/3764656?v=4", "login": "cumbof", "type": "User"}
 topics: ["graphs", "homophily", "networks"]
-date: "2023-11-18 14:20:09.679127"
+date: "2023-11-25 14:20:13.397268"
 ---

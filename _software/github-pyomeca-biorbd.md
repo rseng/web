@@ -22,5 +22,5 @@ open_issues_count: 7
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/pyomeca", "avatar_url": "https://avatars.githubusercontent.com/u/36738416?v=4", "login": "pyomeca", "type": "Organization"}
-date: "2023-11-18 14:20:10.200301"
+date: "2023-11-25 14:20:12.792881"
 ---

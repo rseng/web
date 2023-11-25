@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/JuliaDynamics", "avatar_url": "https://avatars.githubusercontent.com/u/31774341?v=4", "login": "JuliaDynamics", "type": "Organization"}
 topics: ["timeseries", "nonlinear-time-series", "surrogate", "surrogates", "hacktoberfest", "hypothesis-testing", "julia"]
-date: "2023-11-18 14:20:10.125162"
+date: "2023-11-25 14:20:12.956067"
 ---

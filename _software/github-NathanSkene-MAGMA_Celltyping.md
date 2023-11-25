@@ -22,5 +22,5 @@ open_issues_count: 8
 subscribers_count: 5
 owner: {"html_url": "https://github.com/neurogenomics", "avatar_url": "https://avatars.githubusercontent.com/u/48588661?v=4", "login": "neurogenomics", "type": "Organization"}
 topics: ["gwas", "genomics", "single-cell-omics", "magma"]
-date: "2023-11-18 14:20:09.206004"
+date: "2023-11-25 14:20:13.455590"
 ---

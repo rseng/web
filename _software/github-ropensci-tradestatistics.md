@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "r-package", "rstats", "open-trade-statistics", "api-wrapper", "international-trade", "data-table", "jsonlite", "data-access"]
-date: "2023-11-18 14:20:10.036305"
+date: "2023-11-25 14:20:13.657745"
 ---

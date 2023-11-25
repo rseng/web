@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 2
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ialopezt", "avatar_url": "https://avatars.githubusercontent.com/u/32373393?v=4", "login": "ialopezt", "type": "User"}
-date: "2023-11-18 14:20:09.880814"
+date: "2023-11-25 14:20:13.768856"
 ---

@@ -23,5 +23,5 @@ topics: ["partial-differential-equations", "finite-element-methods", "variationa
 timestamp: "2020-07-04 13:22:23.673635"
 avatar: "https://avatars2.githubusercontent.com/u/3868708?v=4"
 repo_url: "https://github.com/FEniCS/ffcx"
-date: "2023-11-18 14:20:09.892961"
+date: "2023-11-25 14:20:13.051321"
 ---

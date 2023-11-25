@@ -20,5 +20,5 @@ language: "C"
 open_issues_count: 23
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["bibtex", "parser", "r", "literature"]
-date: "2023-11-18 14:20:10.023518"
+date: "2023-11-25 14:20:13.676356"
 ---

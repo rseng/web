@@ -22,5 +22,5 @@ open_issues_count: 3
 subscribers_count: 7
 owner: {"html_url": "https://github.com/supernnova", "avatar_url": "https://avatars.githubusercontent.com/u/49273114?v=4", "login": "supernnova", "type": "Organization"}
 topics: ["cosmology", "supernova", "deep-learning", "arxiv", "reproducible-science", "recurrent-neural-networks", "pandas", "python", "pytorch", "bayesian-neural-networks", "bayesian-deep-learning", "bayesian-statistics"]
-date: "2023-11-18 14:20:09.569863"
+date: "2023-11-25 14:20:12.820963"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/oscaribv", "avatar_url": "https://avatars.githubusercontent.com/u/8753089?v=4", "login": "oscaribv", "type": "User"}
 topics: ["transits", "light-curves", "exoplanets", "planets"]
-date: "2023-11-18 14:20:09.460822"
+date: "2023-11-25 14:20:12.965227"
 ---

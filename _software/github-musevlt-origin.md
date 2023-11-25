@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/musevlt", "avatar_url": "https://avatars.githubusercontent.com/u/28007568?v=4", "login": "musevlt", "type": "Organization"}
 topics: ["python", "astronomy", "astrophysics", "source-detection", "musevlt"]
-date: "2023-11-18 14:20:09.502802"
+date: "2023-11-25 14:20:13.254269"
 ---

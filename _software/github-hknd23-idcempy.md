@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/hknd23", "avatar_url": "https://avatars.githubusercontent.com/u/35204932?v=4", "login": "hknd23", "type": "User"}
 topics: ["mixture-model", "discrete-choice", "multinomial-logistic-regression", "ordered-probit-regression"]
-date: "2023-11-18 14:20:10.229759"
+date: "2023-11-25 14:20:13.494300"
 ---

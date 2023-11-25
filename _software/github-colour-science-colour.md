@@ -23,5 +23,5 @@ topics: ["color", "color-science", "color-space", "color-spaces", "colorspace", 
 timestamp: "2020-07-04 13:22:31.272268"
 avatar: "https://avatars3.githubusercontent.com/u/8414607?v=4"
 repo_url: "https://github.com/colour-science/colour"
-date: "2023-11-18 14:20:10.193989"
+date: "2023-11-25 14:20:13.605690"
 ---
