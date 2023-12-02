@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 3
 owner: {"html_url": "https://github.com/R-Vessel-X", "avatar_url": "https://avatars.githubusercontent.com/u/86227908?v=4", "login": "R-Vessel-X", "type": "Organization"}
 topics: ["3d-slicer-extension"]
-date: "2023-11-25 14:20:12.931620"
+date: "2023-12-02 14:20:06.775061"
 ---

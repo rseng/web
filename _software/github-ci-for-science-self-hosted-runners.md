@@ -24,5 +24,5 @@ topics: ["continuous-integration", "github-actions"]
 timestamp: "2020-07-05 00:17:29.666854"
 avatar: "https://avatars3.githubusercontent.com/u/67105980?v=4"
 repo_url: "https://github.com/ci-for-research/self-hosted-runners"
-date: "2023-11-25 14:20:13.820548"
+date: "2023-12-02 14:20:07.669243"
 ---

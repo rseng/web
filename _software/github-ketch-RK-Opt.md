@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/ketch", "avatar_url": "https://avatars1.githubusercontent.com/u/697763?v=4", "login": "ketch", "type": "User"}
-date: "2023-11-25 14:20:13.833996"
+date: "2023-12-02 14:20:07.682625"
 ---

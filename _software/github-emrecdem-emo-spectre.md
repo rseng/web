@@ -19,5 +19,5 @@ language: "PLpgSQL"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/emrecdem", "avatar_url": "https://avatars.githubusercontent.com/u/33319427?v=4", "login": "emrecdem", "type": "Organization"}
-date: "2023-11-25 14:20:13.380942"
+date: "2023-12-02 14:20:07.226872"
 ---

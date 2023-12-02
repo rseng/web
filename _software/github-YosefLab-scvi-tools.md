@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 25
 owner: {"html_url": "https://github.com/scverse", "avatar_url": "https://avatars.githubusercontent.com/u/95305807?v=4", "login": "scverse", "type": "Organization"}
 topics: ["scrna-seq", "variational-bayes", "variational-autoencoder", "cite-seq", "single-cell-genomics", "single-cell-rna-seq", "deep-generative-model", "human-cell-atlas", "scverse", "deep-learning"]
-date: "2023-11-25 14:20:13.551497"
+date: "2023-12-02 14:20:07.399554"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/SebastianBocquet", "avatar_url": "https://avatars.githubusercontent.com/u/9337470?v=4", "login": "SebastianBocquet", "type": "User"}
 topics: ["mcmc", "bayesian-data-analysis", "data-visualization"]
-date: "2023-11-25 14:20:12.829700"
+date: "2023-12-02 14:20:06.672175"
 ---

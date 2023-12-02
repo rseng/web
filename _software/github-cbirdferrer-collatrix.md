@@ -24,5 +24,5 @@ topics: ["length-measurement", "altitude-calibration", "body-volume", "whales", 
 timestamp: "2020-07-12 00:26:30.009788"
 avatar: "https://avatars1.githubusercontent.com/u/30982700?v=4"
 repo_url: "https://github.com/cbirdferrer/collatrix"
-date: "2023-11-25 14:20:13.857766"
+date: "2023-12-02 14:20:07.706277"
 ---

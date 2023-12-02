@@ -24,5 +24,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/35916406/teaspoo
 star_count: 2
 last_activity_at: "2022-09-29T13:38:26.365Z"
 namespace: {"id": 7682572, "name": "PermafrostNet", "path": "permafrostnet", "kind": "group", "full_path": "permafrostnet", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/7682572/Permafrost_logo_4color_stack_crop.png", "web_url": "https://gitlab.com/groups/permafrostnet"}
-date: "2023-11-25 14:20:12.687375"
+date: "2023-12-02 14:20:06.530804"
 ---

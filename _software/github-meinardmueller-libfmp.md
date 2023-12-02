@@ -20,5 +20,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/meinardmueller", "avatar_url": "https://avatars.githubusercontent.com/u/40728202?v=4", "login": "meinardmueller", "type": "User"}
-date: "2023-11-25 14:20:13.529696"
+date: "2023-12-02 14:20:07.377658"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/EpiVec", "avatar_url": "https://avatars.githubusercontent.com/u/123465323?v=4", "login": "EpiVec", "type": "Organization"}
 topics: ["r", "r-package"]
-date: "2023-11-25 14:20:13.098784"
+date: "2023-12-02 14:20:06.943179"
 ---

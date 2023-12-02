@@ -22,5 +22,5 @@ readme_url: "https://gitlab.com/mcfuman/SpectraPy/-/blob/main/README.md"
 star_count: 2
 last_activity_at: "2022-07-31T09:01:05.462Z"
 namespace: {"id": 3480049, "name": "Marco Fumana", "path": "mcfuman", "kind": "user", "full_path": "mcfuman", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/2731118/avatar.png", "web_url": "https://gitlab.com/mcfuman"}
-date: "2023-11-25 14:20:12.675971"
+date: "2023-12-02 14:20:06.519226"
 ---
