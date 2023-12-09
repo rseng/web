@@ -23,5 +23,5 @@ license: {"key": "artistic-2.0", "name": "Artistic License 2.0", "spdx_id": "Art
 subscribers_count: 21
 owner: {"html_url": "https://github.com/copasi", "avatar_url": "https://avatars.githubusercontent.com/u/1854399?v=4", "login": "copasi", "type": "Organization"}
 topics: ["copasi", "simulation", "modeling", "systems-biology", "dynamics", "chemistry", "biochemistry", "kinetics"]
-date: "2023-12-02 14:20:07.000776"
+date: "2023-12-09 14:20:30.835870"
 ---

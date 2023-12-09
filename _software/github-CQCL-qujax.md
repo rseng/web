@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CQCL", "avatar_url": "https://avatars.githubusercontent.com/u/15688781?v=4", "login": "CQCL", "type": "Organization"}
 topics: ["jax", "python", "quantum"]
-date: "2023-12-02 14:20:06.628536"
+date: "2023-12-09 14:20:30.691480"
 ---

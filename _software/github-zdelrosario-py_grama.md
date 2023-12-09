@@ -24,5 +24,5 @@ topics: ["uq"]
 timestamp: "2020-08-02 16:35:22.829400"
 avatar: "https://avatars0.githubusercontent.com/u/6273681?v=4"
 repo_url: "https://github.com/zdelrosario/py_grama"
-date: "2023-12-02 14:20:07.135764"
+date: "2023-12-09 14:20:30.431092"
 ---

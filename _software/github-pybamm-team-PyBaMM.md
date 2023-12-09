@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 22
 owner: {"html_url": "https://github.com/pybamm-team", "avatar_url": "https://avatars.githubusercontent.com/u/48961907?v=4", "login": "pybamm-team", "type": "Organization"}
 topics: ["pybamm", "battery-models", "solvers", "python", "batteries", "simulation"]
-date: "2023-12-02 14:20:07.039712"
+date: "2023-12-09 14:20:31.535607"
 ---

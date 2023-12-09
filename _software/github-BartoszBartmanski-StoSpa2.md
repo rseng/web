@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:06.678540"
 avatar: "https://avatars2.githubusercontent.com/u/16625050?v=4"
 repo_url: "https://github.com/BartoszBartmanski/StoSpa2"
-date: "2023-12-02 14:20:07.407774"
+date: "2023-12-09 14:20:31.371315"
 ---

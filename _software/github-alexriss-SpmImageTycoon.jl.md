@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/alexriss", "avatar_url": "https://avatars.githubusercontent.com/u/1452525?v=4", "login": "alexriss", "type": "User"}
 topics: ["spm", "afm", "stm", "julia", "electron", "javascript", "julialang", "spectroscopy"]
-date: "2023-12-02 14:20:07.447413"
+date: "2023-12-09 14:20:30.653007"
 ---

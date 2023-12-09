@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/daniel-muthukrishna", "avatar_url": "https://avatars.githubusercontent.com/u/17826840?v=4", "login": "daniel-muthukrishna", "type": "User"}
 topics: ["supernovae", "deep-learning", "deep-neural-networks", "tensorflow", "machine-learning", "classification", "transients", "pypi", "astronomy", "cosmology", "astrophysics", "spectra"]
-date: "2023-12-02 14:20:07.008012"
+date: "2023-12-09 14:20:30.631608"
 ---

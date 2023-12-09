@@ -20,5 +20,5 @@ language: "Ruby"
 open_issues_count: 8
 subscribers_count: 6
 owner: {"html_url": "https://github.com/cboursnell", "avatar_url": "https://avatars.githubusercontent.com/u/969401?v=4", "login": "cboursnell", "type": "User"}
-date: "2023-12-02 14:20:07.126374"
+date: "2023-12-09 14:20:30.557635"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/jdidion", "avatar_url": "https://avatars.githubusercontent.com/u/125854?v=4", "login": "jdidion", "type": "User"}
 topics: ["python3", "bioinformatics", "ngs", "trimming"]
-date: "2023-12-02 14:20:07.002901"
+date: "2023-12-09 14:20:30.786771"
 ---

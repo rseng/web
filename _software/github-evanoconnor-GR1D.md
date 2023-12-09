@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/evanoconnor", "avatar_url": "https://avatars.githubusercontent.com/u/1109332?v=4", "login": "evanoconnor", "type": "User"}
-date: "2023-12-02 14:20:06.633460"
+date: "2023-12-09 14:20:31.589196"
 ---

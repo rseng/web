@@ -6,5 +6,5 @@ timestamp: "2022-07-18 17:46:13.277042"
 description: "pbalign aligns PacBio reads to reference sequences, filters aligned reads according to user-specific filtering criteria, and converts the output to either the SAM format or PacBio Compare HDF5 (e.g., .cmp.h5) format. The output Compare HDF5 file will be compatible with Quiver if --forQuiver option is specified."
 title: "pbalign"
 tags: ["high-throughput-sequencing"]
-date: "2023-12-02 14:20:07.266564"
+date: "2023-12-09 14:20:30.880980"
 ---
