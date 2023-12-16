@@ -21,5 +21,5 @@ open_issues_count: 3
 subscribers_count: 3
 owner: {"html_url": "https://github.com/tp2vis", "avatar_url": "https://avatars.githubusercontent.com/u/34458220?v=4", "login": "tp2vis", "type": "User"}
 topics: ["total", "power", "to", "visibilities", "tp2vis", "alma", "development", "study"]
-date: "2023-12-09 14:20:30.956947"
+date: "2023-12-16 14:21:24.883031"
 ---

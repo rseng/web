@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 4
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["weather", "weather-api", "asos", "r", "airports", "temperature", "metar", "rstats", "iowa-environment-mesonet", "r-package", "peer-reviewed", "data-access"]
-date: "2023-12-09 14:20:31.200650"
+date: "2023-12-16 14:21:24.185075"
 ---

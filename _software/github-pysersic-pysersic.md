@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/pysersic", "avatar_url": "https://avatars.githubusercontent.com/u/123014513?v=4", "login": "pysersic", "type": "Organization"}
-date: "2023-12-09 14:20:30.625520"
+date: "2023-12-16 14:21:25.020978"
 ---

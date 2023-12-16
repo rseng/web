@@ -20,5 +20,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ramadatta", "avatar_url": "https://avatars3.githubusercontent.com/u/3212461?v=4", "login": "ramadatta", "type": "User"}
 topics: ["carbapenamase-genes", "genome-assemblies", "cp-gene", "ncbi-blast", "assembly-size", "cocarriage"]
-date: "2023-12-09 14:20:30.707469"
+date: "2023-12-16 14:21:24.083492"
 ---

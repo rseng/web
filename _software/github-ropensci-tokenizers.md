@@ -21,5 +21,5 @@ open_issues_count: 3
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["text-mining", "tokenizer", "rstats", "nlp", "r", "r-package", "peer-reviewed", "scalereprod"]
-date: "2023-12-09 14:20:31.153208"
+date: "2023-12-16 14:21:24.170847"
 ---

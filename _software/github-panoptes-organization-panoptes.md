@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/panoptes-organization", "avatar_url": "https://avatars3.githubusercontent.com/u/57643851?v=4", "login": "panoptes-organization", "type": "Organization"}
 topics: ["workflows", "bioinformatics", "reproducible-research", "biohackeu20", "biohackeu19", "snakemake"]
-date: "2023-12-09 14:20:31.014618"
+date: "2023-12-16 14:21:23.876605"
 ---

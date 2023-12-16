@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 43
 owner: {"html_url": "https://github.com/jspsych", "avatar_url": "https://avatars.githubusercontent.com/u/16901698?v=4", "login": "jspsych", "type": "Organization"}
 topics: ["javascript", "experiments", "science", "psychology", "psychology-experiments", "research", "jspsych", "experimental-design"]
-date: "2023-12-09 14:20:31.546150"
+date: "2023-12-16 14:21:24.304465"
 ---

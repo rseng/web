@@ -23,5 +23,5 @@ topics: ["dash", "plotly", "data-visualization", "data-science", "gui-framework"
 timestamp: "2020-07-04 13:22:40.042658"
 avatar: "https://avatars2.githubusercontent.com/u/5997976?v=4"
 repo_url: "https://github.com/plotly/dash"
-date: "2023-12-09 14:20:31.512522"
+date: "2023-12-16 14:21:23.918493"
 ---

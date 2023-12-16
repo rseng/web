@@ -18,5 +18,5 @@ language: "TeX"
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/esa", "avatar_url": "https://avatars0.githubusercontent.com/u/3287599?v=4", "login": "esa", "type": "Organization"}
-date: "2023-12-09 14:20:30.943211"
+date: "2023-12-16 14:21:23.837945"
 ---

@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/bow", "avatar_url": "https://avatars.githubusercontent.com/u/343998?v=4", "login": "bow", "type": "User"}
 topics: ["bioinformatics", "json", "yaml", "converter"]
-date: "2023-12-09 14:20:30.804803"
+date: "2023-12-16 14:21:24.050000"
 ---

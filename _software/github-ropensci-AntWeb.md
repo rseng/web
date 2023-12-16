@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 2
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["antweb", "antweb-api", "specimen-records", "r", "rstats", "spocc", "r-package", "data-access"]
-date: "2023-12-09 14:20:31.146452"
+date: "2023-12-16 14:21:24.207341"
 ---
