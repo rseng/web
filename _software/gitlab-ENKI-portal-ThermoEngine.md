@@ -24,5 +24,5 @@ forks_count: 18
 star_count: 11
 last_activity_at: "2022-07-28T12:49:56.887Z"
 namespace: {"id": 796221, "name": "ENKI-portal", "path": "ENKI-portal", "kind": "group", "full_path": "ENKI-portal", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/796221/Enki.png", "web_url": "https://gitlab.com/groups/ENKI-portal"}
-date: "2023-12-16 14:21:23.803321"
+date: "2023-12-23 14:20:45.632831"
 ---
