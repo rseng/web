@@ -24,5 +24,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 8
 owner: {"html_url": "https://github.com/nextgenusfs", "avatar_url": "https://avatars.githubusercontent.com/u/6164308?v=4", "login": "nextgenusfs", "type": "User"}
 topics: ["amplicons", "microbiome", "mycobiome", "next-generation-sequencing", "fungi", "rdna", "coi", "lsu", "co1", "mtco1"]
-date: "2023-12-23 14:20:46.650794"
+date: "2023-12-30 14:20:33.469635"
 ---

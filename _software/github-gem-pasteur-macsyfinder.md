@@ -22,5 +22,5 @@ open_issues_count: 7
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/gem-pasteur", "avatar_url": "https://avatars.githubusercontent.com/u/5920106?v=4", "login": "gem-pasteur", "type": "Organization"}
-date: "2023-12-23 14:20:46.378780"
+date: "2023-12-30 14:20:33.197813"
 ---

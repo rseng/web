@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 14
 owner: {"html_url": "https://github.com/pysal", "avatar_url": "https://avatars.githubusercontent.com/u/3769919?v=4", "login": "pysal", "type": "Organization"}
 topics: ["spatial-optimization", "regionalization", "facility-location", "routing", "transportation", "spatial-analysis", "location-allocation", "location-modeling", "resource-planning", "python"]
-date: "2023-12-23 14:20:46.375310"
+date: "2023-12-30 14:20:33.194351"
 ---

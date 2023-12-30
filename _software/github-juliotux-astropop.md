@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 3
 owner: {"html_url": "https://github.com/juliotux", "avatar_url": "https://avatars.githubusercontent.com/u/497246?v=4", "login": "juliotux", "type": "User"}
 topics: ["photometry", "pipeline", "photometry-pipeline", "scipy", "astropy-affiliated", "astrometry", "astronomy", "polarimetry"]
-date: "2023-12-23 14:20:45.741481"
+date: "2023-12-30 14:20:32.558467"
 ---
