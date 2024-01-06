@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dmey", "avatar_url": "https://avatars.githubusercontent.com/u/26348635?v=4", "login": "dmey", "type": "User"}
 topics: ["synthetic-data", "copula", "fpca", "machine-learning", "data-science", "data-generation", "xarray", "weather", "climate", "finance", "data-modelling", "principal-component-analysis", "dependency-analysis", "dependency-modeling", "statistics", "augmentation", "oversampling", "data-augmentation", "functional-data", "data-generator"]
-date: "2023-12-30 14:20:33.183816"
+date: "2024-01-06 14:21:28.897317"
 ---

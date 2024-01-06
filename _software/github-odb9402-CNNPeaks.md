@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/odb9402", "avatar_url": "https://avatars.githubusercontent.com/u/23442419?v=4", "login": "odb9402", "type": "User"}
 topics: ["cnn-model", "nvidia-docker", "tensorflow", "bioinformatics", "chip-seq", "peak-calling", "convolutional-neural-network", "gpu", "docker-image", "progressbar2", "samtools", "ngs-analysis", "atac-seq"]
-date: "2023-12-30 14:20:32.975551"
+date: "2024-01-06 14:21:28.687471"
 ---

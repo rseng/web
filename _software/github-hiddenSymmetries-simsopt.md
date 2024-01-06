@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/hiddenSymmetries", "avatar_url": "https://avatars.githubusercontent.com/u/61125640?v=4", "login": "hiddenSymmetries", "type": "Organization"}
 topics: ["stellarator", "stellarators", "plasma", "fusion", "optimization", "plasma-physics", "nuclear-fusion"]
-date: "2023-12-30 14:20:32.585384"
+date: "2024-01-06 14:21:28.292730"
 ---

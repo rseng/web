@@ -21,5 +21,5 @@ open_issues_count: 28
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["osm", "osm-pbf", "rstats", "r", "open-data", "geofabrik-zone", "geo", "geospatial"]
-date: "2023-12-30 14:20:32.779058"
+date: "2024-01-06 14:21:28.488744"
 ---

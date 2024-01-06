@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/cmelab", "avatar_url": "https://avatars.githubusercontent.com/u/44783842?v=4", "login": "cmelab", "type": "Organization"}
 topics: ["hoomd-blue", "molecular-dynamics", "molecular-dynamics-simulation", "mosdef-hub", "polymer", "simulation"]
-date: "2023-12-30 14:20:33.166852"
+date: "2024-01-06 14:21:28.880121"
 ---

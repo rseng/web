@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/grburgess", "avatar_url": "https://avatars.githubusercontent.com/u/6764007?v=4", "login": "grburgess", "type": "User"}
 topics: ["population", "simulation", "statistics", "population-synthesis", "astrophysics", "astronomy"]
-date: "2023-12-30 14:20:33.641891"
+date: "2024-01-06 14:21:29.362648"
 ---

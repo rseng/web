@@ -22,5 +22,5 @@ open_issues_count: 15
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 16
 owner: {"html_url": "https://github.com/arviz-devs", "avatar_url": "https://avatars.githubusercontent.com/u/13554846?v=4", "login": "arviz-devs", "type": "Organization"}
-date: "2023-12-30 14:20:33.584524"
+date: "2024-01-06 14:21:29.304308"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sjvrijn", "avatar_url": "https://avatars2.githubusercontent.com/u/8833517?v=4", "login": "sjvrijn", "type": "User"}
 topics: ["multi-fidelity", "benchmark-functions", "benchmark-suite", "benchmarking-suite", "python"]
-date: "2023-12-30 14:20:33.275399"
+date: "2024-01-06 14:21:28.989919"
 ---

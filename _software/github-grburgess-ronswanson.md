@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/grburgess", "avatar_url": "https://avatars.githubusercontent.com/u/6764007?v=4", "login": "grburgess", "type": "User"}
 topics: ["3ml", "astromodels", "data-analysis", "interpolation", "python", "ron-swanson", "spectral-fitting"]
-date: "2023-12-30 14:20:33.642132"
+date: "2024-01-06 14:21:29.362882"
 ---

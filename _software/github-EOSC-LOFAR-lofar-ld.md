@@ -24,5 +24,5 @@ topics: ["radioastronomy", "radio-astronomy", "linked-data"]
 timestamp: "2020-07-05 00:17:25.081102"
 avatar: "https://avatars3.githubusercontent.com/u/33518451?v=4"
 repo_url: "https://github.com/EOSC-LOFAR/lofar-ld"
-date: "2023-12-30 14:20:33.472956"
+date: "2024-01-06 14:21:29.190884"
 ---

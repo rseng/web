@@ -23,5 +23,5 @@ open_issues_count: 4
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sherpa-deproject", "avatar_url": "https://avatars.githubusercontent.com/u/47479958?v=4", "login": "sherpa-deproject", "type": "Organization"}
-date: "2023-12-30 14:20:33.448955"
+date: "2024-01-06 14:21:29.166700"
 ---
