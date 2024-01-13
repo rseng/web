@@ -17,5 +17,5 @@ language: "Jupyter Notebook"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/joergbuchwald", "avatar_url": "https://avatars.githubusercontent.com/u/44933043?v=4", "login": "joergbuchwald", "type": "User"}
-date: "2024-01-06 14:21:28.456990"
+date: "2024-01-13 14:21:17.425228"
 ---

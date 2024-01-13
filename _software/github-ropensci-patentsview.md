@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["patents", "uspto", "patentsview-api", "r", "rstats", "patentsview", "r-package", "peer-reviewed", "literature"]
-date: "2024-01-06 14:21:28.475086"
+date: "2024-01-13 14:21:17.443119"
 ---

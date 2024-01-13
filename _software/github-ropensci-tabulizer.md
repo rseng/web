@@ -21,5 +21,5 @@ open_issues_count: 81
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["tabula", "tabular-data", "pdf", "java", "pdf-document", "r", "r-package", "ropensci", "rstats", "peer-reviewed", "literature"]
-date: "2024-01-06 14:21:28.521283"
+date: "2024-01-13 14:21:17.489212"
 ---

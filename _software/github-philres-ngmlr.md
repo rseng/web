@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 21
 owner: {"html_url": "https://github.com/philres", "avatar_url": "https://avatars.githubusercontent.com/u/2323996?v=4", "login": "philres", "type": "User"}
 topics: ["next-generation-sequencing", "pacbio", "oxford-nanopore", "mapper", "structural-variations", "long-read", "alignment", "bioconda", "docker"]
-date: "2024-01-06 14:21:28.708905"
+date: "2024-01-13 14:21:17.677585"
 ---
