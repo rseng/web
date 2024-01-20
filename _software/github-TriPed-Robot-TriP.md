@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/TriPed-Robot", "avatar_url": "https://avatars.githubusercontent.com/u/69719827?v=4", "login": "TriPed-Robot", "type": "Organization"}
 topics: ["python", "robotics", "kinematics", "inverse-kinematics", "kinematic-modeling", "hybrid-chain", "closed-chain", "manipulator", "trajectory-planning", "parallel-robot", "serial-robotics"]
-date: "2024-01-13 14:21:17.575240"
+date: "2024-01-20 14:21:18.472091"
 ---
