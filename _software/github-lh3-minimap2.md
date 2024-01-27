@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 82
 owner: {"html_url": "https://github.com/lh3", "avatar_url": "https://avatars.githubusercontent.com/u/480346?v=4", "login": "lh3", "type": "User"}
 topics: ["bioinformatics", "sequence-alignment", "spliced-alignment", "genomics"]
-date: "2024-01-20 14:21:18.154731"
+date: "2024-01-27 14:20:17.589459"
 ---

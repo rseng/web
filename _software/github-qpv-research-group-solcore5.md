@@ -23,5 +23,5 @@ topics: ["photovoltaic", "semiconductor", "solar-cells", "python"]
 timestamp: "2020-07-04 13:22:14.449337"
 avatar: "https://avatars0.githubusercontent.com/u/48552948?v=4"
 repo_url: "https://github.com/qpv-research-group/solcore5"
-date: "2024-01-20 14:21:18.933283"
+date: "2024-01-27 14:20:17.176159"
 ---

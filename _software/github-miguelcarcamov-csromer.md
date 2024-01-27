@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/miguelcarcamov", "avatar_url": "https://avatars.githubusercontent.com/u/5432126?v=4", "login": "miguelcarcamov", "type": "User"}
 topics: ["faraday-rotation", "faraday-depth", "compressed-sensing", "python", "framework", "linear-polarization", "object-oriented", "object-oriented-programming", "faraday-tomography", "signal-reconstruction", "magnetic-fields", "astronomy-astrophysics", "astrophysics"]
-date: "2024-01-20 14:21:19.211796"
+date: "2024-01-27 14:20:18.232781"
 ---

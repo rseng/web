@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/fruzsinaagocs", "avatar_url": "https://avatars3.githubusercontent.com/u/19972401?v=4", "login": "fruzsinaagocs", "type": "User"}
 topics: ["numerical-methods", "differential-equations", "oscillator", "runge-kutta", "wentzel-kramers-brillouin", "numpy"]
-date: "2024-01-20 14:21:18.500266"
+date: "2024-01-27 14:20:17.706598"
 ---

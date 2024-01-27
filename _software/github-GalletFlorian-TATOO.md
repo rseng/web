@@ -20,5 +20,5 @@ watchers_count: 1
 language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/GalletFlorian", "avatar_url": "https://avatars.githubusercontent.com/u/53513832?v=4", "login": "GalletFlorian", "type": "User"}
-date: "2024-01-20 14:21:19.140171"
+date: "2024-01-27 14:20:18.013120"
 ---

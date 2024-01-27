@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/natashabatalha", "avatar_url": "https://avatars.githubusercontent.com/u/6554465?v=4", "login": "natashabatalha", "type": "User"}
 topics: ["exoplanets", "exoplanet-transits", "jwst", "spectroscopy", "binning", "stsci", "hst", "simulator", "astronomy", "astrophysics"]
-date: "2024-01-20 14:21:19.097081"
+date: "2024-01-27 14:20:17.234454"
 ---

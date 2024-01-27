@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/RichardObi", "avatar_url": "https://avatars.githubusercontent.com/u/47958412?v=4", "login": "RichardObi", "type": "User"}
 topics: ["medical", "generation", "gans", "toolbox", "python", "deep-learning", "machine-learning", "model", "computer-vision", "dataset", "endoscopy", "generative-adversarial-network", "generative-ai", "generative-model", "medical-image-analysis", "medical-image-dataset", "medical-imaging", "radiology", "synthesis", "synthetic-data"]
-date: "2024-01-20 14:21:18.482145"
+date: "2024-01-27 14:20:17.292760"
 ---
