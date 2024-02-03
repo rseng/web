@@ -24,5 +24,5 @@ doi: "https://doi.org/10.25080/Majora-629e541a-00e"
 timestamp: "2020-07-04 13:22:22.272141"
 avatar: "https://avatars1.githubusercontent.com/u/11445951?v=4"
 repo_url: "https://github.com/MDAnalysis/mdanalysis"
-date: "2024-01-27 14:20:18.162602"
+date: "2024-02-03 14:19:51.642797"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/jmejia8", "avatar_url": "https://avatars.githubusercontent.com/u/9757256?v=4", "login": "jmejia8", "type": "User"}
 topics: ["optimization", "multi-objective-optimization", "differential-evolution", "simulated-annealing", "pso", "nsga2", "constrained-optimization", "hypervolume", "decision-making"]
-date: "2024-01-27 14:20:17.171101"
+date: "2024-02-03 14:19:50.926690"
 ---
