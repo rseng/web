@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 5
 owner: {"html_url": "https://github.com/Heldenkombinat", "avatar_url": "https://avatars.githubusercontent.com/u/29208764?v=4", "login": "Heldenkombinat", "type": "Organization"}
 topics: ["one-shot-learning", "logo-detection", "object-detection", "image-processing", "video-processing", "small-dataset"]
-date: "2024-02-03 14:19:50.669281"
+date: "2024-02-10 14:20:21.655213"
 ---

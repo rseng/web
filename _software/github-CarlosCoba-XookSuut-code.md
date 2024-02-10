@@ -18,5 +18,5 @@ size: 531
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/CarlosCoba", "avatar_url": "https://avatars.githubusercontent.com/u/47892914?v=4", "login": "CarlosCoba", "type": "User"}
-date: "2024-02-03 14:19:51.632309"
+date: "2024-02-10 14:20:21.133010"
 ---

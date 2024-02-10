@@ -24,5 +24,5 @@ topics: ["quantum-chemistry", "gw-bse", "quantum-classical", "excited-states", "
 timestamp: "2020-07-05 00:17:28.499376"
 avatar: "https://avatars0.githubusercontent.com/u/4510560?v=4"
 repo_url: "https://github.com/votca/xtp"
-date: "2024-02-03 14:19:50.703617"
+date: "2024-02-10 14:20:21.542729"
 ---

@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/HLasse", "avatar_url": "https://avatars.githubusercontent.com/u/23191638?v=4", "login": "HLasse", "type": "User"}
 topics: ["nlp", "python", "statistics", "syntactic-analysis", "readability", "readability-scores", "descriptive-statistics", "spacy", "spacy-extension", "dependency-distance"]
-date: "2024-02-03 14:19:50.835411"
+date: "2024-02-10 14:20:22.019273"
 ---
