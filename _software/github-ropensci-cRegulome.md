@@ -19,5 +19,5 @@ watchers_count: 1
 language: "R"
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "database", "datascience", "cancer-genomics", "tcga-data", "transcription-factors", "microrna", "rstats", "r-package", "peer-reviewed", "data-access"]
-date: "2024-02-10 14:20:21.944629"
+date: "2024-02-17 14:20:49.621917"
 ---

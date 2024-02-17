@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["text-mining", "xml", "pdf", "metadata", "web-api", "plos", "r", "rstats", "r-package", "API", "api-client", "article", "fulltext", "JSON", "library", "PLOS", "science", "web", "XML", "literature"]
-date: "2024-02-10 14:20:21.964153"
+date: "2024-02-17 14:20:49.644781"
 ---

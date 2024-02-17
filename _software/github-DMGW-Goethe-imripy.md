@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/DMGW-Goethe", "avatar_url": "https://avatars.githubusercontent.com/u/93539226?v=4", "login": "DMGW-Goethe", "type": "Organization"}
-date: "2024-02-10 14:20:21.766138"
+date: "2024-02-17 14:20:48.827309"
 ---

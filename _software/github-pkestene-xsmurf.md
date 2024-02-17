@@ -21,5 +21,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/pkestene", "avatar_url": "https://avatars.githubusercontent.com/u/8276295?v=4", "login": "pkestene", "type": "User"}
 topics: ["multifractal-analysis", "tcl", "wavelet", "modulus-maxima", "tk", "continuous-wavelet", "fractal", "multifractal", "wtmm", "singularity-spectrum", "monofractal", "turbulence", "holder-exponent"]
-date: "2024-02-10 14:20:21.381844"
+date: "2024-02-17 14:20:49.747011"
 ---

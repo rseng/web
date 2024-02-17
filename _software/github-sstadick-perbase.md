@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/sstadick", "avatar_url": "https://avatars.githubusercontent.com/u/6712477?v=4", "login": "sstadick", "type": "User"}
 topics: ["rust", "bioinformatics", "cli-app"]
-date: "2024-02-10 14:20:21.397960"
+date: "2024-02-17 14:20:48.828927"
 ---
