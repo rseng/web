@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/migueldvb", "avatar_url": "https://avatars.githubusercontent.com/u/678759?v=4", "login": "migueldvb", "type": "User"}
 topics: ["python", "astronomy", "science", "comets"]
-date: "2024-02-17 14:20:49.230023"
+date: "2024-02-24 14:19:20.996556"
 ---

@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 12
 owner: {"html_url": "https://github.com/skypyproject", "avatar_url": "https://avatars.githubusercontent.com/u/57487530?v=4", "login": "skypyproject", "type": "Organization"}
 topics: ["astronomy", "astrophysics", "cosmology", "forward-modeling", "skypy"]
-date: "2024-02-17 14:20:49.751936"
+date: "2024-02-24 14:19:21.516601"
 ---

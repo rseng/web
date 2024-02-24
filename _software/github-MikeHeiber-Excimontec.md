@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/MikeHeiber", "avatar_url": "https://avatars3.githubusercontent.com/u/7010095?v=4", "login": "MikeHeiber", "type": "User"}
 topics: ["kinetic-monte-carlo", "mpi", "organic-semiconductors"]
-date: "2024-02-17 14:20:49.709298"
+date: "2024-02-24 14:19:21.473840"
 ---

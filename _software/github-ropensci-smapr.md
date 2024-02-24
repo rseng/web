@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 3
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["nasa", "smap-data", "raster", "extract-data", "acquisition", "soil-moisture", "soil-moisture-sensor", "soil-mapping", "peer-reviewed", "r", "r-package", "rstats", "data-access"]
-date: "2024-02-17 14:20:49.672449"
+date: "2024-02-24 14:19:21.436795"
 ---

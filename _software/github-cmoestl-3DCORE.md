@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cmoestl", "avatar_url": "https://avatars.githubusercontent.com/u/14162616?v=4", "login": "cmoestl", "type": "User"}
 topics: ["heliophysics", "spaceweather", "spacephysics", "solarwind"]
-date: "2024-02-17 14:20:49.269796"
+date: "2024-02-24 14:19:21.035947"
 ---

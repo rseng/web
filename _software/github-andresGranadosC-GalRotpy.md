@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/andresGranadosC", "avatar_url": "https://avatars.githubusercontent.com/u/24868453?v=4", "login": "andresGranadosC", "type": "User"}
-date: "2024-02-17 14:20:49.521293"
+date: "2024-02-24 14:19:21.284920"
 ---
