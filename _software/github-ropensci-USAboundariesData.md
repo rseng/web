@@ -19,5 +19,5 @@ watchers_count: 8
 language: "R"
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "data-access"]
-date: "2024-02-24 14:19:21.425040"
+date: "2024-03-02 14:20:04.993323"
 ---

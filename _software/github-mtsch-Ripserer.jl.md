@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mtsch", "avatar_url": "https://avatars0.githubusercontent.com/u/7646525?v=4", "login": "mtsch", "type": "User"}
 topics: ["persistent-homology", "topological-data-analysis", "homology", "cohomology", "tda", "ripser", "julia", "topology"]
-date: "2024-02-24 14:19:21.030936"
+date: "2024-03-02 14:20:04.593394"
 ---

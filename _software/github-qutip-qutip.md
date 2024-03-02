@@ -23,5 +23,5 @@ topics: ["qutip", "python", "quantum-toolbox", "quantum", "quantum-computing", "
 timestamp: "2020-07-04 13:22:25.581709"
 avatar: "https://avatars0.githubusercontent.com/u/2517630?v=4"
 repo_url: "https://github.com/qutip/qutip"
-date: "2024-02-24 14:19:21.219691"
+date: "2024-03-02 14:20:04.785668"
 ---

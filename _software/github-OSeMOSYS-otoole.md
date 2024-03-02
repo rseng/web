@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/OSeMOSYS", "avatar_url": "https://avatars.githubusercontent.com/u/14215860?v=4", "login": "OSeMOSYS", "type": "Organization"}
 topics: ["energy", "osemosys", "energy-system-modelling", "energy-system"]
-date: "2024-02-24 14:19:21.060844"
+date: "2024-03-02 14:20:04.623980"
 ---

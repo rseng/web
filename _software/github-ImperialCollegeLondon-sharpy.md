@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 17
 owner: {"html_url": "https://github.com/ImperialCollegeLondon", "avatar_url": "https://avatars.githubusercontent.com/u/1220306?v=4", "login": "ImperialCollegeLondon", "type": "Organization"}
 topics: ["aeroelasticity", "simulation", "aeronautics", "structures", "structural-dynamics", "wind-turbines"]
-date: "2024-02-24 14:19:20.429831"
+date: "2024-03-02 14:20:03.977721"
 ---

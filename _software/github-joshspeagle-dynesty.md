@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 15
 owner: {"html_url": "https://github.com/joshspeagle", "avatar_url": "https://avatars.githubusercontent.com/u/13280133?v=4", "login": "joshspeagle", "type": "User"}
 topics: ["nested-sampling", "pure-python", "mit-license", "bayesian-inference", "monte-carlo", "model-selection"]
-date: "2024-02-24 14:19:20.367076"
+date: "2024-03-02 14:20:03.904559"
 ---

@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/markheckmann", "avatar_url": "https://avatars.githubusercontent.com/u/152927?v=4", "login": "markheckmann", "type": "User"}
 topics: ["repgrid", "clustering", "repertory", "grid", "constructs", "shiny"]
-date: "2024-02-24 14:19:21.146137"
+date: "2024-03-02 14:20:04.710949"
 ---

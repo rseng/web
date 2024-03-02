@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 17
 owner: {"html_url": "https://github.com/StingraySoftware", "avatar_url": "https://avatars.githubusercontent.com/u/17048750?v=4", "login": "StingraySoftware", "type": "Organization"}
 topics: ["x-ray", "astronomy", "blackhole", "pulsars", "timeseries", "astrophysics", "fourier-analysis", "fourier-transform", "time-series", "time-series-analysis", "x-ray-binaries", "neutronstars", "data-analysis", "blackholes"]
-date: "2024-02-24 14:19:20.860666"
+date: "2024-03-02 14:20:04.418729"
 ---

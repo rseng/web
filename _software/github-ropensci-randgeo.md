@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["geojson", "wkt", "rstats", "r", "r-package", "geospatial"]
-date: "2024-02-24 14:19:21.418467"
+date: "2024-03-02 14:20:04.986722"
 ---

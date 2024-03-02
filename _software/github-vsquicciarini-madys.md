@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/vsquicciarini", "avatar_url": "https://avatars.githubusercontent.com/u/78115109?v=4", "login": "vsquicciarini", "type": "User"}
 topics: ["astronomy", "direct-imaging", "gaia", "model-comparison", "parameter-estimation", "python", "sql", "stellar-astrophysics"]
-date: "2024-02-24 14:19:20.390462"
+date: "2024-03-02 14:20:03.931938"
 ---

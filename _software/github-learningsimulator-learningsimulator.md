@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/learningsimulator", "avatar_url": "https://avatars.githubusercontent.com/u/61417129?v=4", "login": "learningsimulator", "type": "User"}
 topics: ["associative-learning", "reinforcement-learning", "behavior", "simulation", "mathematical-modelling", "gui", "python"]
-date: "2024-02-24 14:19:21.019743"
+date: "2024-03-02 14:20:04.581857"
 ---

@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-08-09 00:18:56.402099"
 avatar: "https://avatars2.githubusercontent.com/u/30867840?v=4"
 repo_url: "https://github.com/sandmanns/CopyDetective"
-date: "2024-02-24 14:19:21.339215"
+date: "2024-03-02 14:20:04.906779"
 ---
