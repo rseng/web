@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Cristianetaniguti", "avatar_url": "https://avatars.githubusercontent.com/u/7572527?v=4", "login": "Cristianetaniguti", "type": "User"}
 topics: ["genotyping-by-sequencing", "haplotypes", "linkage-mapping", "pipelines", "variant-calling", "wdl"]
-date: "2024-03-02 14:20:04.716708"
+date: "2024-03-09 14:22:20.699748"
 ---

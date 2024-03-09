@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/matthias-mayr", "avatar_url": "https://avatars.githubusercontent.com/u/64466074?v=4", "login": "matthias-mayr", "type": "User"}
 topics: ["franka-emika", "franka-panda", "gazebo", "iiwa", "kuka-iiwa", "kuka-lbr-iiwa", "manipulators", "robotics", "ros", "compliant-control"]
-date: "2024-03-02 14:20:05.065453"
+date: "2024-03-09 14:22:20.487758"
 ---
