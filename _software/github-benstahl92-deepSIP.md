@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/benstahl92", "avatar_url": "https://avatars.githubusercontent.com/u/13010209?v=4", "login": "benstahl92", "type": "User"}
 topics: ["supernovae", "supernova-ia-identification", "deep-learning", "convolutional-neural-networks", "transients", "astronomy", "astrophysics", "spectra", "cosmology"]
-date: "2024-03-09 14:22:21.335482"
+date: "2024-03-16 14:20:35.093785"
 ---

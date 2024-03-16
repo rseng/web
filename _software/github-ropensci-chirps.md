@@ -24,5 +24,5 @@ topics: ["climatology", "precipitation-data", "rstats", "chirps"]
 timestamp: "2020-07-05 00:17:04.196672"
 avatar: "https://avatars3.githubusercontent.com/u/1200269?v=4"
 repo_url: "https://github.com/ropensci/chirps"
-date: "2024-03-09 14:22:20.654421"
+date: "2024-03-16 14:20:34.775000"
 ---

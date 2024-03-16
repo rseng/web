@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/virgesmith", "avatar_url": "https://avatars.githubusercontent.com/u/19323577?v=4", "login": "virgesmith", "type": "User"}
 topics: ["python3", "microsimulation", "monte-carlo", "mpi", "cplusplus-17", "pybind11", "numpy", "pandas", "markov-chain"]
-date: "2024-03-09 14:22:21.393290"
+date: "2024-03-16 14:20:35.441154"
 ---

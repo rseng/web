@@ -22,5 +22,5 @@ open_issues_count: 23
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/odelaneau", "avatar_url": "https://avatars.githubusercontent.com/u/16349601?v=4", "login": "odelaneau", "type": "User"}
-date: "2024-03-09 14:22:20.755215"
+date: "2024-03-16 14:20:34.655115"
 ---
