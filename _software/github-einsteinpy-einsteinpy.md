@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 28
 owner: {"html_url": "https://github.com/einsteinpy", "avatar_url": "https://avatars.githubusercontent.com/u/47172316?v=4", "login": "einsteinpy", "type": "Organization"}
 topics: ["gravitational-physics", "orbital-simulation", "perihelion", "space-physics", "general-relativity", "geodesics"]
-date: "2024-03-16 14:20:35.521695"
+date: "2024-03-23 14:19:43.460657"
 ---

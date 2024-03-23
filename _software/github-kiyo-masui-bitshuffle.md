@@ -22,5 +22,5 @@ open_issues_count: 22
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 13
 owner: {"html_url": "https://github.com/kiyo-masui", "avatar_url": "https://avatars.githubusercontent.com/u/399263?v=4", "login": "kiyo-masui", "type": "User"}
-date: "2024-03-16 14:20:34.802563"
+date: "2024-03-23 14:19:42.760763"
 ---

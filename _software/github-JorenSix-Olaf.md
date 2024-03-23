@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 10
 owner: {"html_url": "https://github.com/JorenSix", "avatar_url": "https://avatars.githubusercontent.com/u/60453?v=4", "login": "JorenSix", "type": "User"}
 topics: ["music-information-retrieval", "audio-fingerprinting", "acoustic-fingerprinting", "wasm", "esp32"]
-date: "2024-03-16 14:20:35.085440"
+date: "2024-03-23 14:19:43.037425"
 ---

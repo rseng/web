@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:15.934775"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/MAGMa"
-date: "2024-03-16 14:20:35.818582"
+date: "2024-03-23 14:19:43.745665"
 ---
