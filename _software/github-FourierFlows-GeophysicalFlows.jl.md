@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/FourierFlows", "avatar_url": "https://avatars.githubusercontent.com/u/35040959?v=4", "login": "FourierFlows", "type": "Organization"}
 topics: ["qg", "quasigeostrophy", "pdes", "sqg", "baroclinic", "geophysical-fluid-dynamics", "fourierflows", "navier-stokes"]
-date: "2024-03-23 14:19:43.091538"
+date: "2024-03-30 14:19:22.190903"
 ---

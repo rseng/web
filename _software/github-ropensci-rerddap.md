@@ -21,5 +21,5 @@ open_issues_count: 10
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rstats", "erddap", "noaa-data", "api-client", "r", "r-package", "buoy", "climate", "earth", "NOAA", "precipitation", "science", "storm", "temperature", "data-access"]
-date: "2024-03-23 14:19:42.722876"
+date: "2024-03-30 14:19:21.811797"
 ---

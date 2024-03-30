@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/GunzIvan28", "avatar_url": "https://avatars.githubusercontent.com/u/32091245?v=4", "login": "GunzIvan28", "type": "User"}
 topics: ["bacteria", "resistome", "eskape", "wgs", "illumina"]
-date: "2024-03-23 14:19:42.553940"
+date: "2024-03-30 14:19:21.640899"
 ---

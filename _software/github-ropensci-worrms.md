@@ -21,5 +21,5 @@ open_issues_count: 4
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["taxonomy", "marine-species", "api-wrapper", "biology", "rstats", "r", "r-package", "taxize", "biological-data", "fish", "marine-biology", "API", "api-client", "marine", "science", "species", "web", "worms"]
-date: "2024-03-23 14:19:42.688010"
+date: "2024-03-30 14:19:21.776498"
 ---

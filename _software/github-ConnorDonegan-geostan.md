@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ConnorDonegan", "avatar_url": "https://avatars.githubusercontent.com/u/24845033?v=4", "login": "ConnorDonegan", "type": "User"}
 topics: ["stan", "bayesian", "spatial", "epidemiology", "public-health", "r-package", "bayesian-inference", "rspatial", "r", "modeling", "rstats", "bayesian-statistics"]
-date: "2024-03-23 14:19:42.790148"
+date: "2024-03-30 14:19:21.880418"
 ---
