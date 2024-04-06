@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/easystats", "avatar_url": "https://avatars1.githubusercontent.com/u/47102598?v=4", "login": "easystats", "type": "Organization"}
 topics: ["effectsize", "correlation", "conversion", "interpretation", "cohens-d", "anova", "standardization", "hedges-g", "effect-size", "compute", "standardized"]
-date: "2024-03-30 14:19:22.326018"
+date: "2024-04-06 14:19:26.159765"
 ---

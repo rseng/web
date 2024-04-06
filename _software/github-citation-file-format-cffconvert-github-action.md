@@ -21,5 +21,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/citation-file-format", "avatar_url": "https://avatars.githubusercontent.com/u/32704278?v=4", "login": "citation-file-format", "type": "Organization"}
 topics: ["actions", "cff", "zenodo-citation-metadata", "github-actions", "action", "continuous-integration", "github-action", "citation", "citation-file-format"]
-date: "2024-03-30 14:19:22.818911"
+date: "2024-04-06 14:19:26.023423"
 ---

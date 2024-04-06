@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/flekschas", "avatar_url": "https://avatars.githubusercontent.com/u/932103?v=4", "login": "flekschas", "type": "User"}
 topics: ["scatterplot", "visualization", "2d", "webgl", "regl", "scatter-plot"]
-date: "2024-03-30 14:19:22.026847"
+date: "2024-04-06 14:19:25.619348"
 ---

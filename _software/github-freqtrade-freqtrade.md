@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 595
 owner: {"html_url": "https://github.com/freqtrade", "avatar_url": "https://avatars.githubusercontent.com/u/37536846?v=4", "login": "freqtrade", "type": "Organization"}
 topics: ["python", "cryptocurrencies", "trading-bot", "telegram-bot", "bitcoin", "trade", "cryptocurrency", "algorithmic-trading", "freqtrade"]
-date: "2024-03-30 14:19:22.010690"
+date: "2024-04-06 14:19:25.803269"
 ---
