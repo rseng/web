@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/quatrope", "avatar_url": "https://avatars.githubusercontent.com/u/53583309?v=4", "login": "quatrope", "type": "Organization"}
 topics: ["data-analysis-python", "image-processing", "coaad-images", "psf-estimation", "astronomy", "zogy", "image-difference", "python", "dia", "image-subtraction"]
-date: "2024-04-06 14:19:25.514590"
+date: "2024-04-13 14:19:46.613929"
 ---
