@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/HofstadterTools", "avatar_url": "https://avatars.githubusercontent.com/u/146359056?v=4", "login": "HofstadterTools", "type": "Organization"}
 topics: ["band-theory", "condensed-matter-physics", "electromagnetism", "fractals", "mathematical-physics", "quantum-hall-effect", "quantum-physics", "theoretical-physics", "topological-materials", "topological-order"]
-date: "2024-04-20 14:19:50.479113"
+date: "2024-04-27 14:20:42.591193"
 ---

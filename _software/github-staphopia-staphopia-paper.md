@@ -18,5 +18,5 @@ language: "TeX"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/staphopia", "avatar_url": "https://avatars0.githubusercontent.com/u/9426738?v=4", "login": "staphopia", "type": "Organization"}
-date: "2024-04-20 14:19:49.665173"
+date: "2024-04-27 14:20:41.789298"
 ---

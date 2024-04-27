@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 41
 owner: {"html_url": "https://github.com/HERA-Team", "avatar_url": "https://avatars.githubusercontent.com/u/14352544?v=4", "login": "HERA-Team", "type": "Organization"}
 topics: ["21cm-signal", "radio-astronomy", "simulation", "telescopes"]
-date: "2024-04-20 14:19:50.171416"
+date: "2024-04-27 14:20:42.282461"
 ---

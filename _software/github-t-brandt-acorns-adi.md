@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/t-brandt", "avatar_url": "https://avatars.githubusercontent.com/u/2295093?v=4", "login": "t-brandt", "type": "User"}
-date: "2024-04-20 14:19:50.006259"
+date: "2024-04-27 14:20:42.116388"
 ---
