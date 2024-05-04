@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/bio-phys", "avatar_url": "https://avatars2.githubusercontent.com/u/30295439?v=4", "login": "bio-phys", "type": "Organization"}
 topics: ["biological-simulations", "molecular-dynamics", "electron-paramagnetic-resonance", "structural-biology", "nmr", "xray-scattering-experiments", "bayesian-inference", "deer", "peldor", "data-integration", "saxs"]
-date: "2024-04-27 14:20:42.068275"
+date: "2024-05-04 14:22:59.277604"
 ---

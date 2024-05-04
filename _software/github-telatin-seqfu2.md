@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/telatin", "avatar_url": "https://avatars.githubusercontent.com/u/15690844?v=4", "login": "telatin", "type": "User"}
 topics: ["fastq", "fasta", "bioinformatics", "bioinformatics-tool", "bioconda", "genomics", "ngs", "sequencing"]
-date: "2024-04-27 14:20:42.654197"
+date: "2024-05-04 14:22:59.869834"
 ---

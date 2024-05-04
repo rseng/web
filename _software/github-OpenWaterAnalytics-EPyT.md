@@ -23,5 +23,5 @@ license: {"key": "eupl-1.2", "name": "European Union Public License 1.2", "spdx_
 subscribers_count: 8
 owner: {"html_url": "https://github.com/OpenWaterAnalytics", "avatar_url": "https://avatars.githubusercontent.com/u/2392819?v=4", "login": "OpenWaterAnalytics", "type": "Organization"}
 topics: ["epanet", "epanet-matlab-toolkit", "network", "python", "simulation", "water", "epanet-python-toolkit"]
-date: "2024-04-27 14:20:42.156138"
+date: "2024-05-04 14:22:59.367082"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/danielkoll", "avatar_url": "https://avatars.githubusercontent.com/u/43180124?v=4", "login": "danielkoll", "type": "User"}
 topics: ["two-stream", "longwave", "line-by-line", "radiative-transfer", "radiation", "atmosphere", "python", "olr", "planetary-atmospheres", "surface-temperature", "compute-olrs", "longwave-radiation"]
-date: "2024-04-27 14:20:42.934259"
+date: "2024-05-04 14:23:00.159909"
 ---

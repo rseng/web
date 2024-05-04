@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/olivares-j", "avatar_url": "https://avatars.githubusercontent.com/u/7568214?v=4", "login": "olivares-j", "type": "User"}
 topics: ["parallaxer", "infer-distances"]
-date: "2024-04-27 14:20:42.173708"
+date: "2024-05-04 14:22:59.384960"
 ---

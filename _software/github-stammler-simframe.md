@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/stammler", "avatar_url": "https://avatars.githubusercontent.com/u/21321343?v=4", "login": "stammler", "type": "User"}
 topics: ["python"]
-date: "2024-04-27 14:20:42.923256"
+date: "2024-05-04 14:23:00.148666"
 ---

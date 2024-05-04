@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/kartheikiyer", "avatar_url": "https://avatars.githubusercontent.com/u/14657226?v=4", "login": "kartheikiyer", "type": "User"}
 topics: ["sed-fitting", "galaxy-evolution", "star-formation-history", "data-compression"]
-date: "2024-04-27 14:20:42.327042"
+date: "2024-05-04 14:22:59.538276"
 ---

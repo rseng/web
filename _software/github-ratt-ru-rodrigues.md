@@ -21,5 +21,5 @@ language: "JavaScript"
 open_issues_count: 13
 subscribers_count: 36
 owner: {"html_url": "https://github.com/ratt-ru", "avatar_url": "https://avatars.githubusercontent.com/u/7933570?v=4", "login": "ratt-ru", "type": "Organization"}
-date: "2024-04-27 14:20:42.974300"
+date: "2024-05-04 14:23:00.201097"
 ---

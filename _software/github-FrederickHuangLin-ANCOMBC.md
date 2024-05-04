@@ -21,5 +21,5 @@ open_issues_count: 28
 subscribers_count: 8
 owner: {"html_url": "https://github.com/FrederickHuangLin", "avatar_url": "https://avatars.githubusercontent.com/u/7278887?v=4", "login": "FrederickHuangLin", "type": "User"}
 topics: ["ancom", "differential-abundance-analysis", "microbiome", "normalization", "sequencing", "correlation", "secom", "ancombc", "ancombc2"]
-date: "2024-04-27 14:20:41.851674"
+date: "2024-05-04 14:22:59.046155"
 ---

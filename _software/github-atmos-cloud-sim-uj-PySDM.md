@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/atmos-cloud-sim-uj", "avatar_url": "https://avatars.githubusercontent.com/u/48702007?v=4", "login": "atmos-cloud-sim-uj", "type": "Organization"}
 topics: ["physics-simulation", "monte-carlo-simulation", "gpu-computing", "atmospheric-modelling", "particle-system", "numba", "thrust", "nvrtc", "pint", "atmospheric-physics", "python", "simulation", "gpu", "cuda", "research", "pypi-package"]
-date: "2024-04-27 14:20:42.194295"
+date: "2024-05-04 14:22:59.404889"
 ---
