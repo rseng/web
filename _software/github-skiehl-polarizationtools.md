@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/skiehl", "avatar_url": "https://avatars.githubusercontent.com/u/30414994?v=4", "login": "skiehl", "type": "User"}
 topics: ["astrophysics", "blazar", "polarization", "randomwalk", "stochastic-processes", "stokes-parameters", "time-series-analysis", "evpa", "evpa-rotation"]
-date: "2024-05-04 14:23:00.062254"
+date: "2024-05-11 14:21:30.347380"
 ---

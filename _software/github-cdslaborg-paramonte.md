@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/cdslaborg", "avatar_url": "https://avatars.githubusercontent.com/u/45322013?v=4", "login": "cdslaborg", "type": "Organization"}
 topics: ["monte-carlo", "parallel-library", "markov-chain", "adaptive-learning", "bayesian-inference", "bayesian-statistics", "machine-learning", "machine-learning-algorithms", "machine-learning-library", "sampling", "intergration", "c", "cpp", "fortran", "python", "matlab", "paramonte-library", "monte-carlo-simulations", "mpi", "mcmc"]
-date: "2024-05-04 14:22:59.145368"
+date: "2024-05-11 14:21:29.421761"
 ---

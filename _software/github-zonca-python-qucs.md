@@ -20,5 +20,5 @@ watchers_count: 18
 language: "Python"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/zonca", "avatar_url": "https://avatars.githubusercontent.com/u/383090?v=4", "login": "zonca", "type": "User"}
-date: "2024-05-04 14:22:59.029033"
+date: "2024-05-11 14:21:29.304761"
 ---

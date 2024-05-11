@@ -23,5 +23,5 @@ open_issues_count: 225
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 51
 owner: {"html_url": "https://github.com/pysam-developers", "avatar_url": "https://avatars.githubusercontent.com/u/6598771?v=4", "login": "pysam-developers", "type": "Organization"}
-date: "2024-05-04 14:23:00.132379"
+date: "2024-05-11 14:21:30.418051"
 ---

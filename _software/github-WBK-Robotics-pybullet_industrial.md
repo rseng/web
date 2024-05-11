@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/WBK-Robotics", "avatar_url": "https://avatars.githubusercontent.com/u/104063446?v=4", "login": "WBK-Robotics", "type": "Organization"}
 topics: ["industrial-automation", "robotics", "simulation-framework"]
-date: "2024-05-04 14:22:59.468729"
+date: "2024-05-11 14:21:29.747783"
 ---

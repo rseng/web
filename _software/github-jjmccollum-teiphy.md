@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/jjmccollum", "avatar_url": "https://avatars.githubusercontent.com/u/15383366?v=4", "login": "jjmccollum", "type": "User"}
 topics: ["nexus", "phylogenetics", "python", "tei-xml", "text-encoding"]
-date: "2024-05-04 14:23:00.022343"
+date: "2024-05-11 14:21:30.307529"
 ---
