@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 34
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "scalereprod"]
-date: "2024-05-11 14:21:29.471385"
+date: "2024-05-18 14:21:34.427735"
 ---

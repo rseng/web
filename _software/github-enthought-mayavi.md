@@ -23,5 +23,5 @@ open_issues_count: 376
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 94
 owner: {"html_url": "https://github.com/enthought", "avatar_url": "https://avatars.githubusercontent.com/u/539651?v=4", "login": "enthought", "type": "Organization"}
-date: "2024-05-11 14:21:30.229452"
+date: "2024-05-18 14:21:34.195814"
 ---

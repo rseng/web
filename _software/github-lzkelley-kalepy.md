@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/lzkelley", "avatar_url": "https://avatars.githubusercontent.com/u/3839265?v=4", "login": "lzkelley", "type": "User"}
 topics: ["python", "python3", "statistics", "kde", "kernel-density-estimation", "statistical-analysis", "resampling", "pdfs", "resample"]
-date: "2024-05-11 14:21:30.490547"
+date: "2024-05-18 14:21:34.221799"
 ---

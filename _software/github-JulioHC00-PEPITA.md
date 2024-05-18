@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JulioHC00", "avatar_url": "https://avatars.githubusercontent.com/u/81090346?v=4", "login": "JulioHC00", "type": "User"}
 topics: ["data-science", "exoplanets", "transits"]
-date: "2024-05-11 14:21:29.902794"
+date: "2024-05-18 14:21:33.521899"
 ---

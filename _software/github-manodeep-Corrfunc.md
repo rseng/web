@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 10
 owner: {"html_url": "https://github.com/manodeep", "avatar_url": "https://avatars.githubusercontent.com/u/3004941?v=4", "login": "manodeep", "type": "User"}
 topics: ["astrophysics", "galaxies", "cosmology", "large-scale-structure", "pair-counting", "intrinsics", "python", "c", "openmp", "simd", "avx512", "avx2", "avx", "sse42", "correlation-functions"]
-date: "2024-05-11 14:21:30.019832"
+date: "2024-05-18 14:21:33.997670"
 ---
