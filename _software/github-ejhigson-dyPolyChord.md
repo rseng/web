@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ejhigson", "avatar_url": "https://avatars.githubusercontent.com/u/18406298?v=4", "login": "ejhigson", "type": "User"}
 topics: ["nested-sampling", "dynamic-nested-sampling"]
-date: "2024-05-18 14:21:34.823022"
+date: "2024-05-25 14:22:36.264955"
 ---

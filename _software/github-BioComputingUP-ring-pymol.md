@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/BioComputingUP", "avatar_url": "https://avatars.githubusercontent.com/u/7839689?v=4", "login": "BioComputingUP", "type": "Organization"}
 topics: ["bioinformatics", "pymol", "plugin"]
-date: "2024-05-18 14:21:34.476340"
+date: "2024-05-25 14:22:35.939535"
 ---

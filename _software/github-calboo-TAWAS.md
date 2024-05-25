@@ -18,5 +18,5 @@ size: 891
 language: "Prolog"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/calboo", "avatar_url": "https://avatars.githubusercontent.com/u/33519577?v=4", "login": "calboo", "type": "User"}
-date: "2024-05-18 14:21:33.645801"
+date: "2024-05-25 14:22:35.116412"
 ---

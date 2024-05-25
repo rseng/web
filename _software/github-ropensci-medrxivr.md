@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars3.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["evidence-synthesis", "systematic-reviews", "bibliographic-database", "rstats", "r-package", "r", "preprint-records", "medrxiv-data", "biorxiv", "peer-reviewed"]
-date: "2024-05-18 14:21:34.409149"
+date: "2024-05-25 14:22:35.873267"
 ---

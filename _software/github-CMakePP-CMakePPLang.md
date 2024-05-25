@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CMakePP", "avatar_url": "https://avatars.githubusercontent.com/u/44040020?v=4", "login": "CMakePP", "type": "Organization"}
 topics: ["object-oriented-programming", "cmake"]
-date: "2024-05-18 14:21:33.800982"
+date: "2024-05-25 14:22:35.271351"
 ---

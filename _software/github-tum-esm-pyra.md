@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/tum-esm", "avatar_url": "https://avatars.githubusercontent.com/u/89810129?v=4", "login": "tum-esm", "type": "Organization"}
 topics: ["bruker", "opus", "python", "tauri", "camtracker", "em27", "cli", "click", "fabric", "docusaurus", "poetry", "tailwindcss", "typescript", "climate", "spectrometry", "autonomous", "sensor", "emissions", "monitoring", "mypy"]
-date: "2024-05-18 14:21:34.477363"
+date: "2024-05-25 14:22:35.940555"
 ---

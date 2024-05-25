@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 22
 owner: {"html_url": "https://github.com/WMD-group", "avatar_url": "https://avatars.githubusercontent.com/u/1716969?v=4", "login": "WMD-group", "type": "Organization"}
 topics: ["materials-science", "materials-informatics", "materials-screening", "materials-design", "machine-learning"]
-date: "2024-05-18 14:21:33.618898"
+date: "2024-05-25 14:22:35.089867"
 ---

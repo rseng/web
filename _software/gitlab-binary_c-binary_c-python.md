@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/binary_c/binary_c-python/-/blob/master/README.md
 star_count: 2
 last_activity_at: "2023-05-31T10:32:47.429Z"
 namespace: {"id": 13605579, "name": "binary_c", "path": "binary_c", "kind": "group", "full_path": "binary_c", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/13605579/logo.png", "web_url": "https://gitlab.com/groups/binary_c"}
-date: "2024-05-18 14:21:33.498301"
+date: "2024-05-25 14:22:34.969622"
 ---

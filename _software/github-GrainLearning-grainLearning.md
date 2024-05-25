@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/GrainLearning", "avatar_url": "https://avatars.githubusercontent.com/u/100259686?v=4", "login": "GrainLearning", "type": "Organization"}
 topics: ["bayesian-inference", "low-discrepancy-sequences", "mixture-models", "parameter-identification", "sequential-monte-carlo", "uncertainty-quantification"]
-date: "2024-05-18 14:21:34.901526"
+date: "2024-05-25 14:22:36.337295"
 ---
