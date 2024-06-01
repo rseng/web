@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/stevengiacalone", "avatar_url": "https://avatars.githubusercontent.com/u/35981550?v=4", "login": "stevengiacalone", "type": "User"}
 topics: ["astronomy", "astrophysics", "astrophysical-signals", "exoplanets", "exoplanet-transits", "statistical-analysis"]
-date: "2024-05-25 14:22:35.735989"
+date: "2024-06-01 14:23:25.942659"
 ---

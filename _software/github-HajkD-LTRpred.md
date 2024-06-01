@@ -23,5 +23,5 @@ topics: ["ltr", "ltr-transposons", "ltr-retrotransposons", "genome", "evolution"
 timestamp: "2020-07-04 13:22:16.179092"
 avatar: "https://avatars3.githubusercontent.com/u/4355251?v=4"
 repo_url: "https://github.com/HajkD/LTRpred"
-date: "2024-05-25 14:22:35.137717"
+date: "2024-06-01 14:23:25.347213"
 ---

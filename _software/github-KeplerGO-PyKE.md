@@ -23,5 +23,5 @@ open_issues_count: 38
 subscribers_count: 16
 owner: {"html_url": "https://github.com/KeplerGO", "avatar_url": "https://avatars.githubusercontent.com/u/13040606?v=4", "login": "KeplerGO", "type": "Organization"}
 topics: ["kepler", "k2", "tess", "astrophysics"]
-date: "2024-05-25 14:22:35.805538"
+date: "2024-06-01 14:23:26.012551"
 ---

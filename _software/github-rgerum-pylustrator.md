@@ -24,5 +24,5 @@ topics: ["matplotlib", "gui", "code-generation", "interactive", "visualisation"]
 timestamp: "2020-07-26 00:16:59.357468"
 avatar: "https://avatars0.githubusercontent.com/u/14153051?v=4"
 repo_url: "https://github.com/rgerum/pylustrator"
-date: "2024-05-25 14:22:36.166528"
+date: "2024-06-01 14:23:26.374059"
 ---

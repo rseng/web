@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/bmorris3", "avatar_url": "https://avatars.githubusercontent.com/u/3497584?v=4", "login": "bmorris3", "type": "User"}
 topics: ["python", "astronomy", "spectroscopy"]
-date: "2024-05-25 14:22:35.692482"
+date: "2024-06-01 14:23:25.899057"
 ---

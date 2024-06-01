@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 30
 owner: {"html_url": "https://github.com/lmfit", "avatar_url": "https://avatars.githubusercontent.com/u/6190878?v=4", "login": "lmfit", "type": "Organization"}
 topics: ["python", "scipy", "curve-fitting", "least-squares"]
-date: "2024-05-25 14:22:35.517636"
+date: "2024-06-01 14:23:25.724814"
 ---

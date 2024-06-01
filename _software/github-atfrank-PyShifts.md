@@ -21,5 +21,5 @@ open_issues_count: 3
 subscribers_count: 3
 owner: {"html_url": "https://github.com/atfrank", "avatar_url": "https://avatars.githubusercontent.com/u/5891136?v=4", "login": "atfrank", "type": "User"}
 topics: ["chemical-shift", "pymol-plugin", "pymol", "error-analysis"]
-date: "2024-05-25 14:22:35.663417"
+date: "2024-06-01 14:23:25.869943"
 ---

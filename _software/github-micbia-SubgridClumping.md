@@ -17,5 +17,5 @@ size: 97068
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/micbia", "avatar_url": "https://avatars.githubusercontent.com/u/42578987?v=4", "login": "micbia", "type": "User"}
-date: "2024-05-25 14:22:35.684387"
+date: "2024-06-01 14:23:25.890984"
 ---

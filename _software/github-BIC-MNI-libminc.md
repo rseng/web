@@ -21,5 +21,5 @@ open_issues_count: 20
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 16
 owner: {"html_url": "https://github.com/BIC-MNI", "avatar_url": "https://avatars.githubusercontent.com/u/1517197?v=4", "login": "BIC-MNI", "type": "Organization"}
-date: "2024-05-25 14:22:35.465928"
+date: "2024-06-01 14:23:25.673580"
 ---

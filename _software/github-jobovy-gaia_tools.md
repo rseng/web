@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/jobovy", "avatar_url": "https://avatars.githubusercontent.com/u/1044876?v=4", "login": "jobovy", "type": "User"}
 topics: ["astrophysics", "astronomy", "gaia", "python"]
-date: "2024-05-25 14:22:35.492069"
+date: "2024-06-01 14:23:25.699581"
 ---

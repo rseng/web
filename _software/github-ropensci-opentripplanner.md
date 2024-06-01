@@ -23,5 +23,5 @@ topics: ["r", "transport", "data", "routing", "opentripplanner", "public-transpo
 timestamp: "2020-07-04 13:22:38.544210"
 avatar: "https://avatars3.githubusercontent.com/u/1200269?v=4"
 repo_url: "https://github.com/ropensci/opentripplanner"
-date: "2024-05-25 14:22:35.890901"
+date: "2024-06-01 14:23:26.097809"
 ---
