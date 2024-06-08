@@ -20,5 +20,5 @@ watchers_count: 2
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ltlancas", "avatar_url": "https://avatars.githubusercontent.com/u/15038244?v=4", "login": "ltlancas", "type": "User"}
-date: "2024-06-01 14:23:25.805421"
+date: "2024-06-08 14:22:43.565290"
 ---

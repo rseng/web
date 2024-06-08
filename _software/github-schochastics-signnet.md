@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/schochastics", "avatar_url": "https://avatars.githubusercontent.com/u/17147355?v=4", "login": "schochastics", "type": "User"}
 topics: ["sna", "network-analysis", "signed-networks"]
-date: "2024-06-01 14:23:26.364065"
+date: "2024-06-08 14:22:44.144914"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JulianBMunoz", "avatar_url": "https://avatars.githubusercontent.com/u/22434409?v=4", "login": "JulianBMunoz", "type": "User"}
 topics: ["21-cm", "21-cm-cosmology", "21-cm-powerspectrum", "cosmic-dawn", "cosmology", "cosmology-inference", "galaxy-evolution", "reionization", "hst", "jwst", "luminosity-function"]
-date: "2024-06-01 14:23:26.250108"
+date: "2024-06-08 14:22:44.026345"
 ---

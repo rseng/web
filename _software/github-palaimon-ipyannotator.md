@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/palaimon", "avatar_url": "https://avatars.githubusercontent.com/u/58658888?v=4", "login": "palaimon", "type": "Organization"}
 topics: ["ipycanvas", "nbdev", "ipywidgets", "voila", "labeling", "annotations", "labeling-tool", "annotation-tool"]
-date: "2024-06-01 14:23:26.224121"
+date: "2024-06-08 14:22:43.999330"
 ---

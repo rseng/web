@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/n-claes", "avatar_url": "https://avatars.githubusercontent.com/u/43474374?v=4", "login": "n-claes", "type": "User"}
 topics: ["magnetohydrodynamics", "finite-elements", "astrophysics", "spectroscopy"]
-date: "2024-06-01 14:23:26.535723"
+date: "2024-06-08 14:22:44.323071"
 ---

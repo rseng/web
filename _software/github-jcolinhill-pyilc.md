@@ -20,5 +20,5 @@ watchers_count: 4
 language: "Jupyter Notebook"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/jcolinhill", "avatar_url": "https://avatars.githubusercontent.com/u/16061599?v=4", "login": "jcolinhill", "type": "User"}
-date: "2024-06-01 14:23:26.421928"
+date: "2024-06-08 14:22:44.204563"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 11
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/nsoranzo", "avatar_url": "https://avatars.githubusercontent.com/u/4924623?v=4", "login": "nsoranzo", "type": "User"}
-date: "2024-06-01 14:23:26.037650"
+date: "2024-06-08 14:22:43.806668"
 ---

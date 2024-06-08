@@ -20,5 +20,5 @@ language: "Jupyter Notebook"
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dylancromer", "avatar_url": "https://avatars.githubusercontent.com/u/24197261?v=4", "login": "dylancromer", "type": "User"}
-date: "2024-06-01 14:23:26.245186"
+date: "2024-06-08 14:22:44.021303"
 ---
