@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/snek5000", "avatar_url": "https://avatars.githubusercontent.com/u/99480879?v=4", "login": "snek5000", "type": "Organization"}
 topics: ["python", "nek5000", "snek5000", "fluidsim", "snakemake", "jinja2", "fluiddyn", "cfd", "simulation", "closember", "workflow"]
-date: "2024-06-08 14:22:43.946420"
+date: "2024-06-15 14:22:49.945540"
 ---

@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/vmmunoza", "avatar_url": "https://avatars.githubusercontent.com/u/53861440?v=4", "login": "vmmunoza", "type": "User"}
-date: "2024-06-08 14:22:44.353392"
+date: "2024-06-15 14:22:50.345304"
 ---

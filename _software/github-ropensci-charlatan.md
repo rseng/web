@@ -21,5 +21,5 @@ open_issues_count: 26
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["data", "faker", "rstats", "dataset", "fake-data", "r", "r-package", "peer-reviewed", "scalereprod"]
-date: "2024-06-08 14:22:43.900156"
+date: "2024-06-15 14:22:49.900932"
 ---

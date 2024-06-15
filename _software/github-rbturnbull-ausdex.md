@@ -21,5 +21,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/rbturnbull", "avatar_url": "https://avatars.githubusercontent.com/u/43091272?v=4", "login": "rbturnbull", "type": "User"}
 topics: ["inflation", "australia"]
-date: "2024-06-08 14:22:43.559927"
+date: "2024-06-15 14:22:49.575678"
 ---

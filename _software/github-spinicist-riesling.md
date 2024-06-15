@@ -21,5 +21,5 @@ open_issues_count: 3
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/spinicist", "avatar_url": "https://avatars.githubusercontent.com/u/11050744?v=4", "login": "spinicist", "type": "User"}
-date: "2024-06-08 14:22:44.320511"
+date: "2024-06-15 14:22:50.313641"
 ---

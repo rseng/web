@@ -22,5 +22,5 @@ open_issues_count: 4
 subscribers_count: 9
 owner: {"html_url": "https://github.com/hpparvi", "avatar_url": "https://avatars.githubusercontent.com/u/327523?v=4", "login": "hpparvi", "type": "User"}
 topics: ["exoplanets", "tess", "kepler", "k2", "transiting-exoplanets", "transiting-planets", "astronomy"]
-date: "2024-06-08 14:22:43.709753"
+date: "2024-06-15 14:22:49.718514"
 ---

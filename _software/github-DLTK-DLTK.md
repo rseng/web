@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 102
 owner: {"html_url": "https://github.com/DLTK", "avatar_url": "https://avatars.githubusercontent.com/u/28306010?v=4", "login": "DLTK", "type": "Organization"}
 topics: ["deep-learning", "machine-learning", "neural-networks", "tensorflow", "medical-imaging", "data-science", "ml", "deep-neural-networks", "python", "medical", "dltk", "dltk-model-zoo", "neural-network", "neuroimaging", "cnn", "medical-image-processing"]
-date: "2024-06-08 14:22:43.766064"
+date: "2024-06-15 14:22:49.772802"
 ---
