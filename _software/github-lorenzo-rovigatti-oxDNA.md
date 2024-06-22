@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 11
 owner: {"html_url": "https://github.com/lorenzo-rovigatti", "avatar_url": "https://avatars.githubusercontent.com/u/68116?v=4", "login": "lorenzo-rovigatti", "type": "User"}
 topics: ["simulation", "physics-simulation", "dna"]
-date: "2024-06-15 14:22:50.288610"
+date: "2024-06-22 14:22:57.450689"
 ---

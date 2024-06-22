@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cadop", "avatar_url": "https://avatars0.githubusercontent.com/u/11399119?v=4", "login": "cadop", "type": "User"}
-date: "2024-06-15 14:22:49.125737"
+date: "2024-06-22 14:22:57.545520"
 ---

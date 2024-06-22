@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/fermisurfaces", "avatar_url": "https://avatars.githubusercontent.com/u/78813965?v=4", "login": "fermisurfaces", "type": "Organization"}
 topics: ["fermi-surface", "fermi-slice", "vasp"]
-date: "2024-06-15 14:22:50.208603"
+date: "2024-06-22 14:22:57.357786"
 ---
