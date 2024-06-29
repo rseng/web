@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mavrix93", "avatar_url": "https://avatars.githubusercontent.com/u/17453516?v=4", "login": "mavrix93", "type": "User"}
 topics: ["light-curves", "star", "database-connector", "tuning-parameters", "machine-learning", "django", "classification", "feature-extraction"]
-date: "2024-06-22 14:22:56.628247"
+date: "2024-06-29 14:23:37.868444"
 ---
