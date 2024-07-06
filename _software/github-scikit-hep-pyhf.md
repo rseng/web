@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 10
 owner: {"html_url": "https://github.com/scikit-hep", "avatar_url": "https://avatars.githubusercontent.com/u/23454624?v=4", "login": "scikit-hep", "type": "Organization"}
 topics: ["high-energy-physics", "statistical-inference", "scientific-computations", "numpy", "scipy", "tensorflow", "pytorch", "asymptotic-formulas", "statistics", "frequentist-statistics", "cls", "histfactory", "python", "hep", "hep-ex", "scikit-hep", "jax"]
-date: "2024-06-29 14:23:37.531090"
+date: "2024-07-06 14:21:44.179407"
 ---

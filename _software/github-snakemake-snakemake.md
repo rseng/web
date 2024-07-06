@@ -23,5 +23,5 @@ topics: ["snakemake", "reproducibility", "workflow-management"]
 timestamp: "2020-07-04 13:22:09.915505"
 avatar: "https://avatars1.githubusercontent.com/u/33450111?v=4"
 repo_url: "https://github.com/snakemake/snakemake"
-date: "2024-06-29 14:23:38.451953"
+date: "2024-07-06 14:21:45.113445"
 ---

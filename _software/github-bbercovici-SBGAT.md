@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/bbercovici", "avatar_url": "https://avatars.githubusercontent.com/u/7539935?v=4", "login": "bbercovici", "type": "User"}
 topics: ["shape-models", "gravity-model", "uncertainty-quantification"]
-date: "2024-06-29 14:23:38.505668"
+date: "2024-07-06 14:21:45.168141"
 ---

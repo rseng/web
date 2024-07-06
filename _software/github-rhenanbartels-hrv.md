@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-26 00:16:58.975681"
 avatar: "https://avatars3.githubusercontent.com/u/2186646?v=4"
 repo_url: "https://github.com/rhenanbartels/hrv"
-date: "2024-06-29 14:23:37.881487"
+date: "2024-07-06 14:21:44.534589"
 ---
