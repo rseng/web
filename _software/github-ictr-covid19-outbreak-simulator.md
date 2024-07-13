@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ictr", "avatar_url": "https://avatars.githubusercontent.com/u/62562139?v=4", "login": "ictr", "type": "Organization"}
 topics: ["covid-19", "simulation", "quarantine", "virus", "outbreak", "simulate-scenarios", "population-model"]
-date: "2024-07-06 14:21:45.329941"
+date: "2024-07-13 14:21:36.236763"
 ---

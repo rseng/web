@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/flintproject", "avatar_url": "https://avatars2.githubusercontent.com/u/11284249?v=4", "login": "flintproject", "type": "Organization"}
 topics: ["simulator", "biology", "physiology", "cellml", "phml", "sbml", "ode", "sde"]
-date: "2024-07-06 14:21:45.468489"
+date: "2024-07-13 14:21:36.595024"
 ---

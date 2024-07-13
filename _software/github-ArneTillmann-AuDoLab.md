@@ -19,5 +19,5 @@ language: "Jupyter Notebook"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ArneTillmann", "avatar_url": "https://avatars.githubusercontent.com/u/36853006?v=4", "login": "ArneTillmann", "type": "User"}
-date: "2024-07-06 14:21:44.523085"
+date: "2024-07-13 14:21:37.211358"
 ---
