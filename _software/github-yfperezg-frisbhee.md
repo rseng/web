@@ -19,5 +19,5 @@ watchers_count: 6
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/yfperezg", "avatar_url": "https://avatars.githubusercontent.com/u/50493467?v=4", "login": "yfperezg", "type": "User"}
-date: "2024-07-13 14:21:37.114565"
+date: "2024-07-20 14:21:58.144893"
 ---

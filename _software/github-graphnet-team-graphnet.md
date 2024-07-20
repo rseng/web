@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/graphnet-team", "avatar_url": "https://avatars.githubusercontent.com/u/113602637?v=4", "login": "graphnet-team", "type": "Organization"}
 topics: ["astrophysics", "deep-learning", "gpu", "high-energy-physics", "machine-learning", "neural-network", "particle-physics", "physics-analysis", "python", "pytorch", "neutrino-oscillations", "neutrino-physics", "neutrinos", "graph-neural-network"]
-date: "2024-07-13 14:21:36.288302"
+date: "2024-07-20 14:21:57.304473"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Wang-Ruihui", "avatar_url": "https://avatars.githubusercontent.com/u/110174507?v=4", "login": "Wang-Ruihui", "type": "User"}
 topics: ["image-processing", "detection-of-solar-active-regions", "solar-active-region-database"]
-date: "2024-07-13 14:21:36.638291"
+date: "2024-07-20 14:21:57.660392"
 ---

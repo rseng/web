@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/sPaMFouR", "avatar_url": "https://avatars.githubusercontent.com/u/13534521?v=4", "login": "sPaMFouR", "type": "User"}
 topics: ["data-reduction", "photometry-pipeline", "spectroscopy", "transients", "analysis"]
-date: "2024-07-13 14:21:37.361667"
+date: "2024-07-20 14:21:58.396804"
 ---
