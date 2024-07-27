@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mengaldo", "avatar_url": "https://avatars.githubusercontent.com/u/8100801?v=4", "login": "mengaldo", "type": "User"}
 topics: ["spod", "dynamical-systems", "data-mining", "coherent-structures"]
-date: "2024-07-20 14:21:57.659888"
+date: "2024-07-27 14:23:02.664399"
 ---

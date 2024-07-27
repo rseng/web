@@ -22,5 +22,5 @@ open_issues_count: 91
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 30
 owner: {"html_url": "https://github.com/gmarcais", "avatar_url": "https://avatars.githubusercontent.com/u/1108481?v=4", "login": "gmarcais", "type": "User"}
-date: "2024-07-20 14:21:58.121985"
+date: "2024-07-27 14:23:02.674570"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tomasplsek", "avatar_url": "https://avatars.githubusercontent.com/u/34679051?v=4", "login": "tomasplsek", "type": "User"}
 topics: ["jax", "segmentation", "cavities", "convolutional-neural-networks", "keras", "agn-feedback"]
-date: "2024-07-20 14:21:58.174114"
+date: "2024-07-27 14:23:03.198834"
 ---

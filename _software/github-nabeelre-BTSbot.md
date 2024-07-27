@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/nabeelre", "avatar_url": "https://avatars.githubusercontent.com/u/33795390?v=4", "login": "nabeelre", "type": "User"}
 topics: ["astronomy", "astrophysics", "computer-vision", "time-domain-astronomy", "transient-astronomy", "ztf"]
-date: "2024-07-20 14:21:57.628601"
+date: "2024-07-27 14:23:02.031950"
 ---
