@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/vincent-sater/umigen/-/blob/master/README.md"
 forks_count: 1
 last_activity_at: "2020-09-16T13:56:19.351Z"
 namespace: {"id": 2424846, "name": "Vincent SATER", "path": "vincent-sater", "kind": "user", "full_path": "vincent-sater", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/d9fc92fe0b2320d7499e5fcc62a52336?s=80&d=identicon", "web_url": "https://gitlab.com/vincent-sater"}
-date: "2024-07-27 14:23:01.896376"
+date: "2024-08-03 14:24:22.863953"
 ---

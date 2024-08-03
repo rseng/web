@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/sciris", "avatar_url": "https://avatars.githubusercontent.com/u/43378155?v=4", "login": "sciris", "type": "Organization"}
 topics: ["python", "computational-science", "containers", "data-science", "matplotlib", "numpy", "parallelization", "plotting", "scientific-computing", "utilities"]
-date: "2024-07-27 14:23:02.634321"
+date: "2024-08-03 14:24:22.521051"
 ---

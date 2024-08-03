@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/QuaCaTeam", "avatar_url": "https://avatars.githubusercontent.com/u/65653300?v=4", "login": "QuaCaTeam", "type": "Organization"}
 topics: ["physics", "fluctuations", "integration", "casimir", "quantum"]
-date: "2024-07-27 14:23:02.869558"
+date: "2024-08-03 14:24:22.346292"
 ---

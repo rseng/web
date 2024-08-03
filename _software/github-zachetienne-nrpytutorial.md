@@ -24,5 +24,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 14
 owner: {"html_url": "https://github.com/zachetienne", "avatar_url": "https://avatars.githubusercontent.com/u/23526265?v=4", "login": "zachetienne", "type": "User"}
 topics: ["automatic", "code", "generation", "bssn", "covariant", "hyperbolic", "pdes", "python", "sympy", "numerical", "relativity", "general", "adm", "codegen", "nrpy"]
-date: "2024-07-27 14:23:02.425448"
+date: "2024-08-03 14:24:22.741031"
 ---

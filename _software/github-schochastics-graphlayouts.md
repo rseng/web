@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/schochastics", "avatar_url": "https://avatars.githubusercontent.com/u/17147355?v=4", "login": "schochastics", "type": "User"}
 topics: ["ggraph", "r", "graph-algorithms", "network-analysis", "network-visualization"]
-date: "2024-07-27 14:23:02.394762"
+date: "2024-08-03 14:24:22.638165"
 ---

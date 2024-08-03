@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/thraraujo", "avatar_url": "https://avatars.githubusercontent.com/u/74145572?v=4", "login": "thraraujo", "type": "User"}
 topics: ["combinatorics", "jupyerlab", "physics", "python"]
-date: "2024-07-27 14:23:03.081330"
+date: "2024-08-03 14:24:22.640112"
 ---

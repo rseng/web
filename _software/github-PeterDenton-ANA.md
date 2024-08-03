@@ -21,5 +21,5 @@ language: "C++"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/PeterDenton", "avatar_url": "https://avatars.githubusercontent.com/u/1834435?v=4", "login": "PeterDenton", "type": "User"}
 topics: ["icecube", "neutrino", "anisotropy", "arxiv", "physics", "astroparticle-physics", "markov-chain-monte-carlo", "galactic", "extragalactic"]
-date: "2024-07-27 14:23:02.345697"
+date: "2024-08-03 14:24:22.817004"
 ---

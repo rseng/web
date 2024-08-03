@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/FZJ-IEK3-VSA", "avatar_url": "https://avatars.githubusercontent.com/u/28654423?v=4", "login": "FZJ-IEK3-VSA", "type": "Organization"}
-date: "2024-07-27 14:23:03.264380"
+date: "2024-08-03 14:24:21.607303"
 ---

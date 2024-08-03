@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/itpplasma", "avatar_url": "https://avatars.githubusercontent.com/u/48486978?v=4", "login": "itpplasma", "type": "Organization"}
 topics: ["fusion-reactor", "hamiltonian-systems", "kinetic-modeling", "numerical-integration", "numerical-methods", "plasma-physics", "simulation", "stellarator", "tokamak", "guiding-center"]
-date: "2024-07-27 14:23:03.082549"
+date: "2024-08-03 14:24:22.738472"
 ---
