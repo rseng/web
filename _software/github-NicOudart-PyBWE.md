@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/NicOudart", "avatar_url": "https://avatars.githubusercontent.com/u/152175898?v=4", "login": "NicOudart", "type": "User"}
 topics: ["astronomy", "astrophysics", "bandwidth", "bwe", "extrapolation", "planetary-science", "radar", "resolution", "sounder", "pybwe"]
-date: "2024-08-03 14:24:22.520279"
+date: "2024-08-10 14:22:51.039886"
 ---

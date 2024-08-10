@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/yjx1217", "avatar_url": "https://avatars.githubusercontent.com/u/701942?v=4", "login": "yjx1217", "type": "User"}
 topics: ["tetrad", "recombination", "meiosis", "spore"]
-date: "2024-08-03 14:24:22.657279"
+date: "2024-08-10 14:22:51.774443"
 ---

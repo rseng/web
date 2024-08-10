@@ -23,5 +23,5 @@ license: {"key": "cc-by-4.0", "name": "Creative Commons Attribution 4.0 Internat
 subscribers_count: 10
 owner: {"html_url": "https://github.com/citation-file-format", "avatar_url": "https://avatars.githubusercontent.com/u/32704278?v=4", "login": "citation-file-format", "type": "Organization"}
 topics: ["citation", "citation-files", "credit", "attribution", "research-software-engineering", "software-sustainability", "wssspe", "format"]
-date: "2024-08-03 14:24:22.535226"
+date: "2024-08-10 14:22:52.353038"
 ---

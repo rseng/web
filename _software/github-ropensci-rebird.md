@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["ebird", "rstats", "birds", "ebird-api", "r", "ebird-webservices", "spocc", "r-package", "biology", "birding", "data", "database", "observations", "ornithology", "sightings", "data-access"]
-date: "2024-08-03 14:24:21.874520"
+date: "2024-08-10 14:22:51.634226"
 ---
