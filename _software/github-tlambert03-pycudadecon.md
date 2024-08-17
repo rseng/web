@@ -23,5 +23,5 @@ open_issues_count: 7
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/tlambert03", "avatar_url": "https://avatars.githubusercontent.com/u/1609449?v=4", "login": "tlambert03", "type": "User"}
-date: "2024-08-10 14:22:51.193384"
+date: "2024-08-17 14:23:39.253778"
 ---

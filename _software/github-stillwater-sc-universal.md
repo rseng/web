@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 25
 owner: {"html_url": "https://github.com/stillwater-sc", "avatar_url": "https://avatars.githubusercontent.com/u/18295447?v=4", "login": "stillwater-sc", "type": "Organization"}
 topics: ["arithmetic", "integer-arithmetic", "fixed-point-arithmetic", "rational-arithmetic", "floating-point-arithmetic", "posit-arithmetic", "interval-arithmetic", "quarter-precision", "half-precision", "quad-precision", "octa-precision", "arbitrary-precision", "arbitrary-precision-integers", "arbitrary-precision-arithmetic", "arbitrary-precision-floats", "c-plus-plus", "embedded-systems", "artificial-intelligence", "digital-signal-processing"]
-date: "2024-08-10 14:22:52.356247"
+date: "2024-08-17 14:23:40.437986"
 ---

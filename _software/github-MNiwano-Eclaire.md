@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/MNiwano", "avatar_url": "https://avatars.githubusercontent.com/u/50729838?v=4", "login": "MNiwano", "type": "User"}
 topics: ["python"]
-date: "2024-08-10 14:22:52.064042"
+date: "2024-08-17 14:23:40.139008"
 ---
