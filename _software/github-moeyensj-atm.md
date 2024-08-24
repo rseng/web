@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/moeyensj", "avatar_url": "https://avatars.githubusercontent.com/u/4206654?v=4", "login": "moeyensj", "type": "User"}
 topics: ["python", "asteroids", "astronomy", "solar-system", "mcmc", "pymc3", "minor-planets", "open-source-project"]
-date: "2024-08-17 14:23:39.602497"
+date: "2024-08-24 14:23:10.526783"
 ---

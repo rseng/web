@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/auckland-cosmo", "avatar_url": "https://avatars.githubusercontent.com/u/40482857?v=4", "login": "auckland-cosmo", "type": "Organization"}
-date: "2024-08-17 14:23:39.505628"
+date: "2024-08-24 14:23:10.430963"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/j-faria", "avatar_url": "https://avatars.githubusercontent.com/u/1958991?v=4", "login": "j-faria", "type": "User"}
 topics: ["exoplanets", "radial-velocity", "bayesian", "gaussian-processes", "hacktoberfest"]
-date: "2024-08-17 14:23:39.107380"
+date: "2024-08-24 14:23:10.036779"
 ---

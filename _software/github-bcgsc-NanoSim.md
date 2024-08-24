@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 15
 owner: {"html_url": "https://github.com/bcgsc", "avatar_url": "https://avatars.githubusercontent.com/u/2319317?v=4", "login": "bcgsc", "type": "Organization"}
 topics: ["genome", "transcriptome", "simulator", "oxford-nanopore", "nanopore-sequencing"]
-date: "2024-08-17 14:23:39.070963"
+date: "2024-08-24 14:23:10.000879"
 ---

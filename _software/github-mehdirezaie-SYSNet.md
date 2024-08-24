@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/mehdirezaie", "avatar_url": "https://avatars.githubusercontent.com/u/15114808?v=4", "login": "mehdirezaie", "type": "User"}
 topics: ["neural-networks", "galaxy-survey", "big-data"]
-date: "2024-08-17 14:23:39.660182"
+date: "2024-08-24 14:23:10.584108"
 ---
