@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 1
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cran", "avatar_url": "https://avatars.githubusercontent.com/u/6899542?v=4", "login": "cran", "type": "Organization"}
-date: "2024-08-24 14:23:11.242976"
+date: "2024-08-31 14:23:18.201489"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "spocc", "inaturalist", "r-package", "data-access"]
-date: "2024-08-24 14:23:10.623623"
+date: "2024-08-31 14:23:17.553926"
 ---

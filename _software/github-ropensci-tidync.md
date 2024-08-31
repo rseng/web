@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 23
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["geospatial"]
-date: "2024-08-24 14:23:10.671423"
+date: "2024-08-31 14:23:17.604122"
 ---

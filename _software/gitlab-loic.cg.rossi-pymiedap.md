@@ -25,5 +25,5 @@ forks_count: 2
 star_count: 4
 last_activity_at: "2021-12-17T15:25:35.767Z"
 namespace: {"id": 943857, "name": "Lo\u00efc Rossi", "path": "loic.cg.rossi", "kind": "user", "full_path": "loic.cg.rossi", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/2f4ee7203050617710fd931dbd3142cb?s=80&d=identicon", "web_url": "https://gitlab.com/loic.cg.rossi"}
-date: "2024-08-24 14:23:11.422338"
+date: "2024-08-31 14:23:18.388086"
 ---

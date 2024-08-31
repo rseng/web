@@ -7,5 +7,5 @@ description: "a software package comprised of three independent software modules
 title: "Trinity"
 credit: ["Alexie Papanicolaou", "Aviv Regev", "Brian Haas", "Manfred Grabherr", "Moran Yassour", "Nir Friedman", "Richard LeDuc", "Robert Henschel"]
 tags: ["de-novo-transcriptome-assembly", "high-throughput-sequencing", "rna-sequencing"]
-date: "2024-08-24 14:23:11.104760"
+date: "2024-08-31 14:23:18.057317"
 ---

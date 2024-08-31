@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ropensci-archive", "avatar_url": "https://avatars.githubusercontent.com/u/68704009?v=4", "login": "ropensci-archive", "type": "Organization"}
 topics: ["r", "r-package", "rstats", "scalereprod"]
-date: "2024-08-24 14:23:11.004002"
+date: "2024-08-31 14:23:17.953108"
 ---

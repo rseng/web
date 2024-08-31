@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/auctus-team", "avatar_url": "https://avatars.githubusercontent.com/u/125655421?v=4", "login": "auctus-team", "type": "Organization"}
 topics: ["biomechanics", "linear-algebra", "polytope", "robotics", "pip-package", "real-time"]
-date: "2024-08-24 14:23:10.867367"
+date: "2024-08-31 14:23:17.810417"
 ---

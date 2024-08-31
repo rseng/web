@@ -23,5 +23,5 @@ topics: ["journal", "open-access", "scientific-journals", "scientific-software",
 timestamp: "2020-07-04 13:22:43.456847"
 avatar: "https://avatars3.githubusercontent.com/u/9032431?v=4"
 repo_url: "https://github.com/openjournals/joss"
-date: "2024-08-24 14:23:11.317128"
+date: "2024-08-31 14:23:18.278353"
 ---

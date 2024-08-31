@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/valerio-marra", "avatar_url": "https://avatars.githubusercontent.com/u/28807598?v=4", "login": "valerio-marra", "type": "User"}
 topics: ["supernovae", "cosmology", "wolfram-mathematica"]
-date: "2024-08-24 14:23:11.272082"
+date: "2024-08-31 14:23:18.231976"
 ---

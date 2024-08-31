@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 27
 owner: {"html_url": "https://github.com/nansencenter", "avatar_url": "https://avatars.githubusercontent.com/u/5212513?v=4", "login": "nansencenter", "type": "Organization"}
 topics: ["data-assimilation", "enkf", "kalman-filtering", "state-estimation", "particle-filter", "kalman", "bayesian-methods", "bayesian-filter", "chaos"]
-date: "2024-08-24 14:23:11.084816"
+date: "2024-08-31 14:23:18.036733"
 ---
