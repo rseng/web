@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/mdtanker", "avatar_url": "https://avatars.githubusercontent.com/u/81199856?v=4", "login": "mdtanker", "type": "User"}
 topics: ["antarctica", "bedmachine", "pygmt", "jupyter-notebook", "bedmap", "plotting", "gmt", "python", "profiles", "arctic", "cryosphere", "greenland", "polar"]
-date: "2024-08-31 14:23:17.926943"
+date: "2024-09-07 14:23:31.022781"
 ---

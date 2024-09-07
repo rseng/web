@@ -18,5 +18,5 @@ open_issues_count: 22
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/fair-software", "avatar_url": "https://avatars.githubusercontent.com/u/48952865?v=4", "login": "fair-software", "type": "Organization"}
-date: "2024-08-31 14:23:17.387632"
+date: "2024-09-07 14:23:31.397616"
 ---

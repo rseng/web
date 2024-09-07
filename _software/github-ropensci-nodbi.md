@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rstats", "database", "nosql", "couchdb", "mongodb", "elasticsearch", "r", "r-package", "sqlite", "CouchDB", "documents", "Elasticsearch", "JSON", "MongoDB", "NoSQL", "PostgreSQL", "SQLite", "databases"]
-date: "2024-08-31 14:23:17.581803"
+date: "2024-09-07 14:23:31.945533"
 ---

@@ -21,5 +21,5 @@ language: "Java"
 license: {"key": "afl-3.0", "name": "Academic Free License v3.0", "spdx_id": "AFL-3.0", "url": "https://api.github.com/licenses/afl-3.0", "node_id": "MDc6TGljZW5zZTIy"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/jfwallin", "avatar_url": "https://avatars.githubusercontent.com/u/1709158?v=4", "login": "jfwallin", "type": "User"}
-date: "2024-08-31 14:23:17.075162"
+date: "2024-09-07 14:23:31.028471"
 ---

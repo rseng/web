@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/KarrLab", "avatar_url": "https://avatars3.githubusercontent.com/u/13785824?v=4", "login": "KarrLab", "type": "Organization"}
 topics: ["discrete-event-simulation", "data-driven-model", "computational-modelling", "simulation", "object-oriented-programming", "python"]
-date: "2024-08-31 14:23:17.708837"
+date: "2024-09-07 14:23:30.950747"
 ---
