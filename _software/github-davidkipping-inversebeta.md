@@ -18,5 +18,5 @@ size: 15
 language: "Mathematica"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/davidkipping", "avatar_url": "https://avatars.githubusercontent.com/u/12749250?v=4", "login": "davidkipping", "type": "User"}
-date: "2024-09-07 14:23:32.019174"
+date: "2024-09-14 14:23:28.090565"
 ---

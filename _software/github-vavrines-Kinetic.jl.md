@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/vavrines", "avatar_url": "https://avatars.githubusercontent.com/u/21040679?v=4", "login": "vavrines", "type": "User"}
 topics: ["kinetic-theory", "cfd", "boltzmann-equation", "gas-dynamics", "plasma", "finite-volume", "advection-diffusion", "pde", "sciml", "deep-learning", "scientific-machine-learning", "finite-element-methods"]
-date: "2024-09-07 14:23:31.660121"
+date: "2024-09-14 14:23:27.732290"
 ---

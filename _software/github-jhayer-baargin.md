@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jhayer", "avatar_url": "https://avatars.githubusercontent.com/u/8300623?v=4", "login": "jhayer", "type": "User"}
 topics: ["antimicrobial-resistance", "bacteria", "genomics", "wgs", "nextflow-pipeline", "workflow"]
-date: "2024-09-07 14:23:32.317968"
+date: "2024-09-14 14:23:28.388596"
 ---

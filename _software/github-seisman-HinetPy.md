@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/seisman", "avatar_url": "https://avatars.githubusercontent.com/u/3974108?v=4", "login": "seisman", "type": "User"}
 topics: ["python", "seismology", "sac", "win32", "hinet"]
-date: "2024-09-07 14:23:31.201207"
+date: "2024-09-14 14:23:27.298004"
 ---

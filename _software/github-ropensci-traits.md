@@ -21,5 +21,5 @@ open_issues_count: 21
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["traits", "species", "api-client", "r", "rstats", "r-package", "API", "taxonomy", "web-services", "data-access"]
-date: "2024-09-07 14:23:31.928978"
+date: "2024-09-14 14:23:28.000566"
 ---
