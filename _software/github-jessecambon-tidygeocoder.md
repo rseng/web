@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/jessecambon", "avatar_url": "https://avatars.githubusercontent.com/u/31526206?v=4", "login": "jessecambon", "type": "User"}
 topics: ["r", "geocoding", "tidyverse", "rstats", "rspatial"]
-date: "2024-09-14 14:23:28.118027"
+date: "2024-09-21 14:23:42.035039"
 ---

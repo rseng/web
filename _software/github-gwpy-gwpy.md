@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 28
 owner: {"html_url": "https://github.com/gwpy", "avatar_url": "https://avatars.githubusercontent.com/u/5383739?v=4", "login": "gwpy", "type": "Organization"}
 topics: ["python", "gravitational-waves", "gwpy", "gpl"]
-date: "2024-09-14 14:23:28.197793"
+date: "2024-09-21 14:23:41.257039"
 ---

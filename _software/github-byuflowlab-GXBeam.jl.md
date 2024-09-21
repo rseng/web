@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/byuflowlab", "avatar_url": "https://avatars.githubusercontent.com/u/10734941?v=4", "login": "byuflowlab", "type": "Organization"}
 topics: ["gebt", "beam-elements", "finite-element-analysis", "julia", "nonlinear"]
-date: "2024-09-14 14:23:28.111175"
+date: "2024-09-21 14:23:41.187694"
 ---

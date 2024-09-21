@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/yupidevs", "avatar_url": "https://avatars.githubusercontent.com/u/79972700?v=4", "login": "yupidevs", "type": "Organization"}
 topics: ["classification", "classification-models", "evaluation-framework", "trajectory", "trajectory-analysis", "transformers", "python"]
-date: "2024-09-14 14:23:27.882186"
+date: "2024-09-21 14:23:42.119076"
 ---

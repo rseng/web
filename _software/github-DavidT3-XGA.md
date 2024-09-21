@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/DavidT3", "avatar_url": "https://avatars.githubusercontent.com/u/17744555?v=4", "login": "DavidT3", "type": "User"}
 topics: ["xga", "xmm", "xmm-science-analysis", "xspec", "xmm-observations", "sas", "heasoft", "x-ray", "astrophysics", "astronomy", "galaxy-clusters", "x-ray-astronomy"]
-date: "2024-09-14 14:23:28.131951"
+date: "2024-09-21 14:23:41.299643"
 ---
