@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Zstone19", "avatar_url": "https://avatars.githubusercontent.com/u/61068045?v=4", "login": "Zstone19", "type": "User"}
 topics: ["agn", "astronomy", "drw", "gaussian-processes", "modeling", "python", "time-series", "pipeline"]
-date: "2024-09-21 14:23:41.592763"
+date: "2024-09-28 14:24:02.785658"
 ---

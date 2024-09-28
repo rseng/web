@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jmhuie", "avatar_url": "https://avatars.githubusercontent.com/u/52302862?v=4", "login": "jmhuie", "type": "User"}
 topics: ["3d-slicer-extension"]
-date: "2024-09-21 14:23:42.591986"
+date: "2024-09-28 14:24:03.772490"
 ---

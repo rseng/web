@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["openstreetmap", "openstreetmap-api", "osm", "r", "r-package", "osmapi"]
-date: "2024-09-21 14:23:41.729078"
+date: "2024-09-28 14:24:02.920163"
 ---

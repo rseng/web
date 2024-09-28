@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
 topics: ["manifolds", "python", "slepian-functions", "sphere", "wavelets"]
-date: "2024-09-21 14:23:42.424390"
+date: "2024-09-28 14:24:03.605548"
 ---
