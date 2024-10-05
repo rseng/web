@@ -24,5 +24,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 8
 owner: {"html_url": "https://github.com/mtazzari", "avatar_url": "https://avatars.githubusercontent.com/u/6020226?v=4", "login": "mtazzari", "type": "User"}
 topics: ["gpu-accelerated-library", "gpu", "astronomy", "interferometry", "radio", "radio-astronomy", "fourier-analysis"]
-date: "2024-09-28 14:24:03.502245"
+date: "2024-10-05 14:24:13.846890"
 ---

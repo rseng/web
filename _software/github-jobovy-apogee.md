@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/jobovy", "avatar_url": "https://avatars.githubusercontent.com/u/1044876?v=4", "login": "jobovy", "type": "User"}
 topics: ["astrophysics", "python", "spectroscopy", "data", "data-analysis", "astronomy"]
-date: "2024-09-28 14:24:03.595023"
+date: "2024-10-05 14:24:13.937931"
 ---

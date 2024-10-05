@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ClapeyronThermo", "avatar_url": "https://avatars.githubusercontent.com/u/122504744?v=4", "login": "ClapeyronThermo", "type": "Organization"}
 topics: ["group-contribution", "joback", "smiles-strings", "unifac"]
-date: "2024-09-28 14:24:02.556947"
+date: "2024-10-05 14:24:12.920802"
 ---

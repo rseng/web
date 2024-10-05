@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/moritzobenauer", "avatar_url": "https://avatars.githubusercontent.com/u/132915491?v=4", "login": "moritzobenauer", "type": "User"}
 topics: ["molecular-dynamics-simulation", "molecular-modeling", "cheminformatics", "pdb-files"]
-date: "2024-09-28 14:24:02.652495"
+date: "2024-10-05 14:24:13.015502"
 ---

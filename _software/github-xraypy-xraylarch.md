@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 20
 owner: {"html_url": "https://github.com/xraypy", "avatar_url": "https://avatars.githubusercontent.com/u/1273713?v=4", "login": "xraypy", "type": "Organization"}
 topics: ["python", "x-ray-absorption-fine-structure", "x-ray-fluorescence", "x-ray-physics", "synchrotron"]
-date: "2024-09-28 14:24:03.018711"
+date: "2024-10-05 14:24:13.374843"
 ---
