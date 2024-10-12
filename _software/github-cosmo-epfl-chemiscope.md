@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:04.472433"
 avatar: "https://avatars0.githubusercontent.com/u/7110305?v=4"
 repo_url: "https://github.com/cosmo-epfl/chemiscope"
-date: "2024-10-05 14:24:12.904859"
+date: "2024-10-12 14:24:04.689529"
 ---

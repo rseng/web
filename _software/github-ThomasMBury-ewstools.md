@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/ThomasMBury", "avatar_url": "https://avatars.githubusercontent.com/u/36854425?v=4", "login": "ThomasMBury", "type": "User"}
 topics: ["time-series", "forecasting", "early-warning-signals", "early-warning-indicators", "bifurcation", "critical-transitions", "resilience-indicators", "tipping-point", "autocorrelation", "power-spectrum", "bootstrapping", "complex-systems", "python", "ipynb", "visualization"]
-date: "2024-10-05 14:24:14.099538"
+date: "2024-10-12 14:24:04.439372"
 ---

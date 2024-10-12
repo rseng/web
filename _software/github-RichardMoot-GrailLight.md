@@ -21,5 +21,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/RichardMoot", "avatar_url": "https://avatars.githubusercontent.com/u/1473033?v=4", "login": "RichardMoot", "type": "User"}
 topics: ["parser", "parsing", "logical-grammars", "logic-programming", "chart-parser", "categorial-grammar", "natural-language-processing", "natural-language-understanding"]
-date: "2024-10-05 14:24:13.770889"
+date: "2024-10-12 14:24:03.803619"
 ---

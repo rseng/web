@@ -18,5 +18,5 @@ stargazers_count: 2
 watchers_count: 2
 language: "Roff"
 owner: {"html_url": "https://github.com/seheonoh", "avatar_url": "https://avatars.githubusercontent.com/u/24447326?v=4", "login": "seheonoh", "type": "User"}
-date: "2024-10-05 14:24:12.800350"
+date: "2024-10-12 14:24:03.954300"
 ---

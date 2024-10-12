@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/elizabethnewman", "avatar_url": "https://avatars.githubusercontent.com/u/39045034?v=4", "login": "elizabethnewman", "type": "User"}
 topics: ["neural-network", "derivatives", "gpu-acceleration"]
-date: "2024-10-05 14:24:12.972683"
+date: "2024-10-12 14:24:04.392364"
 ---

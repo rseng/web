@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:07.332748"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-silicos-it"
-date: "2024-10-05 14:24:13.012943"
+date: "2024-10-12 14:24:03.872180"
 ---

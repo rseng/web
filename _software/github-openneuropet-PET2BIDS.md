@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/openneuropet", "avatar_url": "https://avatars.githubusercontent.com/u/81369350?v=4", "login": "openneuropet", "type": "Organization"}
 topics: ["metadata", "converter", "json", "bids"]
-date: "2024-10-05 14:24:13.732473"
+date: "2024-10-12 14:24:03.903813"
 ---

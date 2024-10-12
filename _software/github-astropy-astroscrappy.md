@@ -21,5 +21,5 @@ language: "C"
 open_issues_count: 7
 subscribers_count: 9
 owner: {"html_url": "https://github.com/astropy", "avatar_url": "https://avatars.githubusercontent.com/u/847984?v=4", "login": "astropy", "type": "Organization"}
-date: "2024-10-05 14:24:12.759655"
+date: "2024-10-12 14:24:04.960147"
 ---
