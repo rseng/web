@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/JohannesBuchner", "avatar_url": "https://avatars.githubusercontent.com/u/51015?v=4", "login": "JohannesBuchner", "type": "User"}
 topics: ["nested-sampling", "python", "model-selection", "parallel-computing", "monte-carlo"]
-date: "2024-10-12 14:24:03.926251"
+date: "2024-10-19 14:25:03.804441"
 ---

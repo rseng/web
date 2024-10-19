@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/davidebolo1993", "avatar_url": "https://avatars3.githubusercontent.com/u/39052119?v=4", "login": "davidebolo1993", "type": "User"}
-date: "2024-10-12 14:24:03.664264"
+date: "2024-10-19 14:25:02.720344"
 ---

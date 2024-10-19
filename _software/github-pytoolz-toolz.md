@@ -22,5 +22,5 @@ open_issues_count: 101
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 80
 owner: {"html_url": "https://github.com/pytoolz", "avatar_url": "https://avatars.githubusercontent.com/u/5448828?v=4", "login": "pytoolz", "type": "Organization"}
-date: "2024-10-12 14:24:04.609319"
+date: "2024-10-19 14:25:02.955782"
 ---

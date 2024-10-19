@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/gear-genomics", "avatar_url": "https://avatars.githubusercontent.com/u/31348883?v=4", "login": "gear-genomics", "type": "Organization"}
 topics: ["gear-genomics", "pcr", "primer", "primer-design", "in-silico", "sanger-sequencing", "amplicon", "amplicon-sequencing", "padlock", "in-situ-sequencing"]
-date: "2024-10-12 14:24:04.662304"
+date: "2024-10-19 14:25:02.532584"
 ---

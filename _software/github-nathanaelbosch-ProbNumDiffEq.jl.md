@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/nathanaelbosch", "avatar_url": "https://avatars.githubusercontent.com/u/25008422?v=4", "login": "nathanaelbosch", "type": "User"}
 topics: ["julia", "differential-equations", "probabilistic-models", "ode", "ode-solver", "probabilistic-numerics", "hacktoberfest"]
-date: "2024-10-12 14:24:04.322223"
+date: "2024-10-19 14:25:02.881835"
 ---

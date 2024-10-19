@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/myrafproject", "avatar_url": "https://avatars.githubusercontent.com/u/11473972?v=4", "login": "myrafproject", "type": "Organization"}
 topics: ["astronomy", "photometry", "photometry-pipeline"]
-date: "2024-10-12 14:24:04.333251"
+date: "2024-10-19 14:25:03.237207"
 ---

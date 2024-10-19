@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jan-rybizki", "avatar_url": "https://avatars.githubusercontent.com/u/25322899?v=4", "login": "jan-rybizki", "type": "User"}
-date: "2024-10-12 14:24:04.671404"
+date: "2024-10-19 14:25:03.055134"
 ---

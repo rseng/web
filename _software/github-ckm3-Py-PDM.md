@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ckm3", "avatar_url": "https://avatars.githubusercontent.com/u/46397714?v=4", "login": "ckm3", "type": "User"}
 topics: ["phase-dispersion-minimization", "astrophysics", "periodogram"]
-date: "2024-10-12 14:24:04.560246"
+date: "2024-10-19 14:25:03.747074"
 ---

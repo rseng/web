@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/jlustigy", "avatar_url": "https://avatars.githubusercontent.com/u/8882466?v=4", "login": "jlustigy", "type": "User"}
 topics: ["exoplanets", "coronagraph", "spectroscopy", "astronomy"]
-date: "2024-10-12 14:24:04.508138"
+date: "2024-10-19 14:25:03.687001"
 ---
