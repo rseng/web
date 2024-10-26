@@ -23,5 +23,5 @@ topics: ["spyder", "python", "pyqt5", "anaconda", "anaconda-distribution", "winp
 timestamp: "2020-07-04 13:22:13.488198"
 avatar: "https://avatars1.githubusercontent.com/u/1284937?v=4"
 repo_url: "https://github.com/spyder-ide/spyder"
-date: "2024-10-19 14:25:02.618623"
+date: "2024-10-26 14:23:55.173188"
 ---

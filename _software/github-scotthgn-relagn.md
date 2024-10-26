@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/scotthgn", "avatar_url": "https://avatars.githubusercontent.com/u/99818820?v=4", "login": "scotthgn", "type": "User"}
 topics: ["astronomy", "astrophysics", "black-holes", "relativity", "spectral-analysis", "spectral-modelling"]
-date: "2024-10-19 14:25:02.906920"
+date: "2024-10-26 14:23:55.453343"
 ---

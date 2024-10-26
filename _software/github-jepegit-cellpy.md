@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/jepegit", "avatar_url": "https://avatars.githubusercontent.com/u/16334959?v=4", "login": "jepegit", "type": "User"}
 topics: ["chemistry", "electrochemistry", "physics", "data-analysis", "opensource", "battery"]
-date: "2024-10-19 14:25:03.540031"
+date: "2024-10-26 14:23:56.081068"
 ---

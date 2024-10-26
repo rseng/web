@@ -21,5 +21,5 @@ open_issues_count: 128
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 217
 owner: {"html_url": "https://github.com/amueller", "avatar_url": "https://avatars.githubusercontent.com/u/449558?v=4", "login": "amueller", "type": "User"}
-date: "2024-10-19 14:25:03.393750"
+date: "2024-10-26 14:23:55.936910"
 ---

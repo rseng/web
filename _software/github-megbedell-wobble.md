@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/megbedell", "avatar_url": "https://avatars.githubusercontent.com/u/13722237?v=4", "login": "megbedell", "type": "User"}
 topics: ["astronomy", "spectroscopy", "exoplanet-radial-velocities", "tensorflow"]
-date: "2024-10-19 14:25:03.727191"
+date: "2024-10-26 14:23:56.266909"
 ---

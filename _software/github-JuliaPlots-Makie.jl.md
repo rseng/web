@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 34
 owner: {"html_url": "https://github.com/JuliaPlots", "avatar_url": "https://avatars.githubusercontent.com/u/19197049?v=4", "login": "JuliaPlots", "type": "Organization"}
 topics: ["julia", "plotting", "visualization", "julia-language", "gpu", "graphics"]
-date: "2024-10-19 14:25:02.782737"
+date: "2024-10-26 14:23:55.333915"
 ---

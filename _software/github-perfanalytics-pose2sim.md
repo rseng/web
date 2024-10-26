@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/perfanalytics", "avatar_url": "https://avatars.githubusercontent.com/u/106652625?v=4", "login": "perfanalytics", "type": "Organization"}
 topics: ["kinematics", "markerless", "openpose", "opensim", "3d-kinematics", "biomechanics", "motion-capture", "pose-estimation", "sports"]
-date: "2024-10-19 14:25:03.029461"
+date: "2024-10-26 14:23:55.574756"
 ---

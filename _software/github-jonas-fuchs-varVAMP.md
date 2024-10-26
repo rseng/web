@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jonas-fuchs", "avatar_url": "https://avatars.githubusercontent.com/u/78491186?v=4", "login": "jonas-fuchs", "type": "User"}
 topics: ["illumina", "oxford-nanopore", "primer", "primer-design", "qpcr", "sanger", "multiplex-pcr", "pypi-package", "virus", "amplicons", "ampliconseq", "sequencing", "conda", "consensus-sequences", "container", "degenerate-primers", "easy-to-use", "pcr", "python3", "primer-blast"]
-date: "2024-10-19 14:25:03.629292"
+date: "2024-10-26 14:23:56.169848"
 ---

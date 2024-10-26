@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/toros-astro", "avatar_url": "https://avatars.githubusercontent.com/u/11877437?v=4", "login": "toros-astro", "type": "Organization"}
 topics: ["python", "python3", "framework", "pipeline", "astronomy", "database", "data-science", "oop"]
-date: "2024-10-19 14:25:03.871850"
+date: "2024-10-26 14:23:56.410756"
 ---

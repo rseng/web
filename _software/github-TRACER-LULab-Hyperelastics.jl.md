@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/TRACER-LULab", "avatar_url": "https://avatars.githubusercontent.com/u/75383514?v=4", "login": "TRACER-LULab", "type": "Organization"}
 topics: ["finite-element-methods", "hyperelasticity", "material-model"]
-date: "2024-10-19 14:25:03.284783"
+date: "2024-10-26 14:23:55.828524"
 ---

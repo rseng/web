@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/Merck", "avatar_url": "https://avatars.githubusercontent.com/u/7306189?v=4", "login": "Merck", "type": "Organization"}
 topics: ["antibody", "humanization", "humanness", "sapiens", "oasis"]
-date: "2024-10-19 14:25:03.068289"
+date: "2024-10-26 14:23:55.613294"
 ---

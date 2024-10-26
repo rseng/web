@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/TRIQS", "avatar_url": "https://avatars.githubusercontent.com/u/1140373?v=4", "login": "TRIQS", "type": "Organization"}
 topics: ["solid-state-physics", "dmft", "correlated-electrons"]
-date: "2024-10-19 14:25:02.863167"
+date: "2024-10-26 14:23:55.409135"
 ---

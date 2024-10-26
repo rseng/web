@@ -21,5 +21,5 @@ open_issues_count: 40
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["pdf-format", "text-extraction", "poppler-library", "poppler", "r", "rstats", "pdf-files", "pdftools", "r-package", "literature"]
-date: "2024-10-19 14:25:03.935014"
+date: "2024-10-26 14:23:56.473845"
 ---
