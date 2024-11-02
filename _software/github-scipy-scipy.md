@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:09.336370"
 avatar: "https://avatars2.githubusercontent.com/u/288277?v=4"
 repo_url: "https://github.com/scipy/scipy"
-date: "2024-10-26 14:23:55.383266"
+date: "2024-11-02 14:24:20.224582"
 ---

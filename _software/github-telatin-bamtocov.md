@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/telatin", "avatar_url": "https://avatars.githubusercontent.com/u/15690844?v=4", "login": "telatin", "type": "User"}
 topics: ["bioinformatics", "bam", "coverage", "alignment", "gff", "bed", "ngs"]
-date: "2024-10-26 14:23:55.775879"
+date: "2024-11-02 14:24:20.613963"
 ---

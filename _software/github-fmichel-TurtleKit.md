@@ -19,5 +19,5 @@ language: "Java"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/fmichel", "avatar_url": "https://avatars.githubusercontent.com/u/645197?v=4", "login": "fmichel", "type": "User"}
 topics: ["mabs", "agent", "java", "abm"]
-date: "2024-10-26 14:23:55.524393"
+date: "2024-11-02 14:24:20.364022"
 ---

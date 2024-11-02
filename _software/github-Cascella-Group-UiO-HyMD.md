@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Cascella-Group-UiO", "avatar_url": "https://avatars.githubusercontent.com/u/63226974?v=4", "login": "Cascella-Group-UiO", "type": "Organization"}
 topics: ["hybrid-particle-field", "coarse-grained", "chemistry", "physics", "molecular-dynamics"]
-date: "2024-10-26 14:23:56.381845"
+date: "2024-11-02 14:24:21.222891"
 ---

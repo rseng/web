@@ -21,5 +21,5 @@ open_issues_count: 1
 subscribers_count: 6
 owner: {"html_url": "https://github.com/pawni", "avatar_url": "https://avatars.githubusercontent.com/u/2412413?v=4", "login": "pawni", "type": "User"}
 topics: ["deep-learning", "variational-inference", "deep-neural-networks", "tensorflow", "bayesian-neural-networks"]
-date: "2024-10-26 14:23:55.255357"
+date: "2024-11-02 14:24:20.097638"
 ---

@@ -21,5 +21,5 @@ language: "Rust"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/natir", "avatar_url": "https://avatars.githubusercontent.com/u/3991375?v=4", "login": "natir", "type": "User"}
-date: "2024-10-26 14:23:56.195013"
+date: "2024-11-02 14:24:21.036632"
 ---

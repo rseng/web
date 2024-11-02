@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 10
 owner: {"html_url": "https://github.com/rsnemmen", "avatar_url": "https://avatars.githubusercontent.com/u/4562573?v=4", "login": "rsnemmen", "type": "User"}
 topics: ["linear-regression", "python", "statistics"]
-date: "2024-10-26 14:23:55.713618"
+date: "2024-11-02 14:24:20.552448"
 ---

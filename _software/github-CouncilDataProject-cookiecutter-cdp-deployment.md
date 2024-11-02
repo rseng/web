@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CouncilDataProject", "avatar_url": "https://avatars.githubusercontent.com/u/32205865?v=4", "login": "CouncilDataProject", "type": "Organization"}
 topics: ["cookiecutter-template", "cdp-deployments", "civic-tech", "open-government", "local-government", "government-data", "hacktoberfest"]
-date: "2024-10-26 14:23:55.999307"
+date: "2024-11-02 14:24:20.839880"
 ---

@@ -23,5 +23,5 @@ topics: ["r", "strings", "string-interpolation"]
 timestamp: "2020-08-08 12:41:00.489765"
 avatar: "https://avatars2.githubusercontent.com/u/22032646?v=4"
 repo_url: "https://github.com/tidyverse/glue"
-date: "2024-10-26 14:23:56.419972"
+date: "2024-11-02 14:24:21.260991"
 ---

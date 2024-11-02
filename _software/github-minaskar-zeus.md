@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/minaskar", "avatar_url": "https://avatars.githubusercontent.com/u/23280751?v=4", "login": "minaskar", "type": "User"}
 topics: ["mcmc", "mcmc-sampler", "bayesian-inference", "inference", "machine-learning", "sampling", "sampling-methods", "general-purpose", "black-box-bayesian-inference", "probabilistic-data-analysis", "python"]
-date: "2024-10-26 14:23:56.075106"
+date: "2024-11-02 14:24:20.916300"
 ---

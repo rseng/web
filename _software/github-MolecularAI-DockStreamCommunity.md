@@ -20,5 +20,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/MolecularAI", "avatar_url": "https://avatars.githubusercontent.com/u/62212926?v=4", "login": "MolecularAI", "type": "Organization"}
 topics: ["reinforcement-learning", "chemoinformatics", "jupyter-notebook", "denovo-design", "astrazeneca", "molecular-docking"]
-date: "2024-10-26 14:23:55.517481"
+date: "2024-11-02 14:24:20.357217"
 ---

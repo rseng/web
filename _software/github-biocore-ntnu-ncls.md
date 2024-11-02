@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/biocore-ntnu", "avatar_url": "https://avatars.githubusercontent.com/u/25345003?v=4", "login": "biocore-ntnu", "type": "Organization"}
 topics: ["ncls", "interval-tree", "overlap-queries", "python", "numpy"]
-date: "2024-10-26 14:23:56.021156"
+date: "2024-11-02 14:24:20.861893"
 ---

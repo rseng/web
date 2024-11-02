@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 11
 owner: {"html_url": "https://github.com/cmbant", "avatar_url": "https://avatars.githubusercontent.com/u/3958819?v=4", "login": "cmbant", "type": "User"}
 topics: ["kernel-density-estimation", "plotting-in-python", "mcmc", "statistical-inference", "contour-plot", "sampling-methods"]
-date: "2024-10-26 14:23:55.516962"
+date: "2024-11-02 14:24:20.356725"
 ---

@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/fjprichard", "avatar_url": "https://avatars.githubusercontent.com/u/84329965?v=4", "login": "fjprichard", "type": "User"}
 topics: ["texture-synthesis", "random-field", "random-fields", "image-synthesis", "fractional-gaussian-noise", "fractional-brownian-motion", "anisotropy"]
-date: "2024-10-26 14:23:55.346661"
+date: "2024-11-02 14:24:20.188904"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 12
 owner: {"html_url": "https://github.com/sczesla", "avatar_url": "https://avatars.githubusercontent.com/u/330769?v=4", "login": "sczesla", "type": "User"}
 topics: ["python", "astronomy", "data-analysis"]
-date: "2024-10-26 14:23:55.981158"
+date: "2024-11-02 14:24:20.821590"
 ---

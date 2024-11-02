@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "cc0-1.0", "name": "Creative Commons Zero v1.0 Universal", "spdx_id": "CC0-1.0", "url": "https://api.github.com/licenses/cc0-1.0", "node_id": "MDc6TGljZW5zZTY="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["chile", "censo", "census", "demografia", "demographics", "rstats", "redatam", "duckdb", "data-access"]
-date: "2024-10-26 14:23:56.502086"
+date: "2024-11-02 14:24:21.342340"
 ---

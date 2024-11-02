@@ -20,5 +20,5 @@ language: "C"
 open_issues_count: 2
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rtf", "extract-text", "unrtf", "r", "rstats", "r-package", "literature"]
-date: "2024-10-26 14:23:56.461303"
+date: "2024-11-02 14:24:21.302042"
 ---

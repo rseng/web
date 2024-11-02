@@ -24,5 +24,5 @@ topics: ["thredds", "jupyterlab-extension"]
 timestamp: "2020-07-05 00:17:24.523294"
 avatar: "https://avatars0.githubusercontent.com/u/12843269?v=4"
 repo_url: "https://github.com/eWaterCycle/jupyterlab_thredds"
-date: "2024-10-26 14:23:55.621886"
+date: "2024-11-02 14:24:20.460755"
 ---

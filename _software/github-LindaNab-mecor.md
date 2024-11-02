@@ -20,5 +20,5 @@ language: "R"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/LindaNab", "avatar_url": "https://avatars.githubusercontent.com/u/34091575?v=4", "login": "LindaNab", "type": "User"}
 topics: ["measurement-error", "statistics", "linear-models"]
-date: "2024-10-26 14:23:55.887999"
+date: "2024-11-02 14:24:20.728753"
 ---

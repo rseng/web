@@ -21,5 +21,5 @@ language: "TeX"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/kgullikson88", "avatar_url": "https://avatars.githubusercontent.com/u/6162186?v=4", "login": "kgullikson88", "type": "User"}
-date: "2024-10-26 14:23:55.706926"
+date: "2024-11-02 14:24:20.545848"
 ---

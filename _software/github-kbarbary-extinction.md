@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/kbarbary", "avatar_url": "https://avatars.githubusercontent.com/u/970135?v=4", "login": "kbarbary", "type": "User"}
 topics: ["extinction", "python"]
-date: "2024-10-26 14:23:56.273868"
+date: "2024-11-02 14:24:21.115026"
 ---
