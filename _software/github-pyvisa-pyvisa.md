@@ -22,5 +22,5 @@ open_issues_count: 96
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 54
 owner: {"html_url": "https://github.com/pyvisa", "avatar_url": "https://avatars.githubusercontent.com/u/29079824?v=4", "login": "pyvisa", "type": "Organization"}
-date: "2024-11-02 14:24:20.477758"
+date: "2024-11-09 14:24:19.551079"
 ---

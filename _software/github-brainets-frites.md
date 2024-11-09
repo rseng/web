@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/brainets", "avatar_url": "https://avatars.githubusercontent.com/u/47176497?v=4", "login": "brainets", "type": "Organization"}
 topics: ["information-theory", "electrophysiological-data", "statistics", "group-level", "rfx", "ffx", "gaussian-copula", "cluster-based", "neurophysiological-data", "functional-connectivity", "brainweb"]
-date: "2024-11-02 14:24:20.414175"
+date: "2024-11-09 14:24:19.487934"
 ---

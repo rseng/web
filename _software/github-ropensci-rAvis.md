@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "avis", "citizen-science", "bird", "birds", "proyectoavis", "r-package", "data-access"]
-date: "2024-11-02 14:24:21.284610"
+date: "2024-11-09 14:24:20.355212"
 ---
