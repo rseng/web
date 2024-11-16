@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/mtlam", "avatar_url": "https://avatars.githubusercontent.com/u/9340836?v=4", "login": "mtlam", "type": "User"}
 topics: ["psrfits", "python", "pulsar", "psrchive"]
-date: "2024-11-09 14:24:19.897461"
+date: "2024-11-16 14:24:50.721508"
 ---

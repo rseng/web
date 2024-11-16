@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/djgroen", "avatar_url": "https://avatars.githubusercontent.com/u/4508093?v=4", "login": "djgroen", "type": "User"}
-date: "2024-11-09 14:24:19.605838"
+date: "2024-11-16 14:24:50.425608"
 ---

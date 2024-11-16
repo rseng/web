@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/scotthgn", "avatar_url": "https://avatars.githubusercontent.com/u/99818820?v=4", "login": "scotthgn", "type": "User"}
 topics: ["agn", "astrophysics"]
-date: "2024-11-09 14:24:19.368256"
+date: "2024-11-16 14:24:50.182958"
 ---

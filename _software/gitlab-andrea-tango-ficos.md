@@ -19,5 +19,5 @@ web_url: "https://gitlab.com/andrea-tango/ficos"
 readme_url: "https://gitlab.com/andrea-tango/ficos/-/blob/master/README.md"
 last_activity_at: "2021-08-02T12:11:50.548Z"
 namespace: {"id": 5326850, "name": "Andrea Tangherloni", "path": "andrea-tango", "kind": "user", "full_path": "andrea-tango", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/4076783/avatar.png", "web_url": "https://gitlab.com/andrea-tango"}
-date: "2024-11-09 14:24:18.956559"
+date: "2024-11-16 14:24:49.765909"
 ---

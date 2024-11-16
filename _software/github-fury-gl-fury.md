@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 15
 owner: {"html_url": "https://github.com/fury-gl", "avatar_url": "https://avatars.githubusercontent.com/u/43426015?v=4", "login": "fury-gl", "type": "Organization"}
 topics: ["scientific-visualization", "python", "scriptable-animations", "hacktoberfest", "game-engine", "simulation", "shaders", "3d-graphics"]
-date: "2024-11-09 14:24:19.218922"
+date: "2024-11-16 14:24:50.030629"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
 topics: ["differentiable-programming", "jax", "spherical-harmonics", "wigner-d-matrix", "wigner-transform", "fourier-transform", "recursion-algorithm", "pytorch"]
-date: "2024-11-09 14:24:19.086122"
+date: "2024-11-16 14:24:49.896429"
 ---

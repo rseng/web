@@ -20,5 +20,5 @@ readme_url: "https://gitlab.com/AstroVian/bmarxiv/-/blob/main/README.org"
 avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/28500894/PAph_dog.gif"
 last_activity_at: "2022-08-17T06:41:23.314Z"
 namespace: {"id": 11122689, "name": "Vianney Lebouteiller", "path": "AstroVian", "kind": "user", "full_path": "AstroVian", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/8289481/avatar.png", "web_url": "https://gitlab.com/AstroVian"}
-date: "2024-11-09 14:24:18.958260"
+date: "2024-11-16 14:24:49.767586"
 ---

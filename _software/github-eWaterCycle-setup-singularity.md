@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-08-02 16:35:24.247632"
 avatar: "https://avatars0.githubusercontent.com/u/12843269?v=4"
 repo_url: "https://github.com/eWaterCycle/setup-singularity"
-date: "2024-11-09 14:24:19.535307"
+date: "2024-11-16 14:24:50.353554"
 ---

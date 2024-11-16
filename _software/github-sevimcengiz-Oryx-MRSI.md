@@ -20,5 +20,5 @@ open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sevimcengiz", "avatar_url": "https://avatars.githubusercontent.com/u/5468765?v=4", "login": "sevimcengiz", "type": "User"}
-date: "2024-11-09 14:24:19.099109"
+date: "2024-11-16 14:24:49.909603"
 ---

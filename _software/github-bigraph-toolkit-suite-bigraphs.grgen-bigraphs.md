@@ -19,5 +19,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/bigraph-toolkit-suite", "avatar_url": "https://avatars.githubusercontent.com/u/130669805?v=4", "login": "bigraph-toolkit-suite", "type": "Organization"}
 topics: ["bigraphs", "graph-rewriting", "graph-rewriting-library", "graph-transformation", "grgen", "grgen-net"]
-date: "2024-11-09 14:24:19.477488"
+date: "2024-11-16 14:24:50.294528"
 ---

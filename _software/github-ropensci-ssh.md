@@ -21,5 +21,5 @@ open_issues_count: 19
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["libssh", "ssh", "ssh-client", "r", "rstats", "r-package", "security"]
-date: "2024-11-09 14:24:20.381662"
+date: "2024-11-16 14:24:51.230630"
 ---

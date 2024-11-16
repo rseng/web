@@ -19,5 +19,5 @@ watchers_count: 3
 language: "Jupyter Notebook"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JMLascar", "avatar_url": "https://avatars.githubusercontent.com/u/54967118?v=4", "login": "JMLascar", "type": "User"}
-date: "2024-11-09 14:24:19.586993"
+date: "2024-11-16 14:24:50.406379"
 ---
