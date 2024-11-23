@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/neuroneural", "avatar_url": "https://avatars.githubusercontent.com/u/77679632?v=4", "login": "neuroneural", "type": "Organization"}
 topics: ["deep-learning", "3d-segmentation", "frontend-app", "javascript", "neuroimaging", "pyodide", "tensorflowjs", "three-js", "medical-imaging", "mri", "mri-segmentation"]
-date: "2024-11-16 14:24:49.849467"
+date: "2024-11-23 14:26:28.231628"
 ---

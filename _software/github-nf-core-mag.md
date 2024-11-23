@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 83
 owner: {"html_url": "https://github.com/nf-core", "avatar_url": "https://avatars.githubusercontent.com/u/35520196?v=4", "login": "nf-core", "type": "Organization"}
 topics: ["workflow", "nextflow", "metagenomics", "assembly", "binning", "annotation", "nf-core", "pipeline", "bioinformatics", "nanopore", "nanopore-sequencing", "metagenomes", "long-read-sequencing"]
-date: "2024-11-16 14:24:50.675824"
+date: "2024-11-23 14:26:29.042729"
 ---

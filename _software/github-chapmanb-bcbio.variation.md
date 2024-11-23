@@ -21,5 +21,5 @@ language: "Clojure"
 open_issues_count: 7
 subscribers_count: 17
 owner: {"html_url": "https://github.com/chapmanb", "avatar_url": "https://avatars.githubusercontent.com/u/39391?v=4", "login": "chapmanb", "type": "User"}
-date: "2024-11-16 14:24:49.930634"
+date: "2024-11-23 14:26:28.311364"
 ---

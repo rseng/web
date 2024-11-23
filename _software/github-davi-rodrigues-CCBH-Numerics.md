@@ -20,5 +20,5 @@ watchers_count: 1
 language: "Mathematica"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/davi-rodrigues", "avatar_url": "https://avatars.githubusercontent.com/u/39133660?v=4", "login": "davi-rodrigues", "type": "User"}
-date: "2024-11-16 14:24:49.833013"
+date: "2024-11-23 14:26:28.215316"
 ---

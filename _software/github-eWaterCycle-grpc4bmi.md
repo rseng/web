@@ -24,5 +24,5 @@ topics: ["grpc", "bmi", "python"]
 timestamp: "2020-07-05 00:17:26.891489"
 avatar: "https://avatars0.githubusercontent.com/u/12843269?v=4"
 repo_url: "https://github.com/eWaterCycle/grpc4bmi"
-date: "2024-11-16 14:24:50.353818"
+date: "2024-11-23 14:26:28.725702"
 ---

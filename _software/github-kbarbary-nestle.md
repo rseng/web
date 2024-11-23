@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/kbarbary", "avatar_url": "https://avatars.githubusercontent.com/u/970135?v=4", "login": "kbarbary", "type": "User"}
 topics: ["python", "nested-sampling", "bayesian-inference"]
-date: "2024-11-16 14:24:51.029215"
+date: "2024-11-23 14:26:29.378667"
 ---

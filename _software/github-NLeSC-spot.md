@@ -24,5 +24,5 @@ topics: ["spot", "visualization", "crossfilter", "javascript", "cross-platform",
 timestamp: "2020-07-05 00:17:21.661723"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/spot"
-date: "2024-11-16 14:24:50.594645"
+date: "2024-11-23 14:26:28.962631"
 ---

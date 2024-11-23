@@ -19,5 +19,5 @@ open_issues_count: 2
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 22
 owner: {"html_url": "https://github.com/firedrakeproject", "avatar_url": "https://avatars.githubusercontent.com/u/5558005?v=4", "login": "firedrakeproject", "type": "Organization"}
-date: "2024-11-16 14:24:51.036642"
+date: "2024-11-23 14:26:29.386263"
 ---

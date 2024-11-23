@@ -20,5 +20,5 @@ watchers_count: 6
 language: "Python"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/lucaborsato", "avatar_url": "https://avatars.githubusercontent.com/u/8124268?v=4", "login": "lucaborsato", "type": "User"}
-date: "2024-11-16 14:24:50.333629"
+date: "2024-11-23 14:26:28.705915"
 ---

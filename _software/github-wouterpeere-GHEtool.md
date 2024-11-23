@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/wouterpeere", "avatar_url": "https://avatars.githubusercontent.com/u/52632307?v=4", "login": "wouterpeere", "type": "User"}
 topics: ["geothermal-energy", "borefields", "sizing", "energy", "storage", "geothermal"]
-date: "2024-11-16 14:24:50.929013"
+date: "2024-11-23 14:26:29.276912"
 ---

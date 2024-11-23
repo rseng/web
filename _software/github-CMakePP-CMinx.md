@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/CMakePP", "avatar_url": "https://avatars.githubusercontent.com/u/44040020?v=4", "login": "CMakePP", "type": "Organization"}
 topics: ["cmake", "documentation-tool"]
-date: "2024-11-16 14:24:50.578597"
+date: "2024-11-23 14:26:28.946436"
 ---

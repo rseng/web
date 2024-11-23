@@ -17,5 +17,5 @@ size: 23058
 language: "TeX"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/debian-tex", "avatar_url": "https://avatars.githubusercontent.com/u/46477164?v=4", "login": "debian-tex", "type": "Organization"}
-date: "2024-11-16 14:24:50.161335"
+date: "2024-11-23 14:26:28.537724"
 ---

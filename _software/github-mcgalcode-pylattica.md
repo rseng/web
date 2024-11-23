@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mcgalcode", "avatar_url": "https://avatars.githubusercontent.com/u/15318848?v=4", "login": "mcgalcode", "type": "User"}
 topics: ["chemistry", "lattice", "materials-science", "simulation"]
-date: "2024-11-16 14:24:51.183203"
+date: "2024-11-23 14:26:29.528492"
 ---
