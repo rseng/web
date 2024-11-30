@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/LangeLab", "avatar_url": "https://avatars.githubusercontent.com/u/22403445?v=4", "login": "LangeLab", "type": "Organization"}
 topics: ["shiny", "proteomics", "peptidomics", "interactive-apps", "data-analysis", "bioinformatics-tool"]
-date: "2024-11-23 14:26:28.564116"
+date: "2024-11-30 14:25:23.406089"
 ---

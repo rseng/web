@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/markusbonse", "avatar_url": "https://avatars.githubusercontent.com/u/19818846?v=4", "login": "markusbonse", "type": "User"}
 topics: ["bootstrap", "direct-imaging", "exoplanet-detection", "exoplanets", "high-contrast-imaging", "python"]
-date: "2024-11-23 14:26:28.436096"
+date: "2024-11-30 14:25:23.276742"
 ---

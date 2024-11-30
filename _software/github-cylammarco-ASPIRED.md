@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cylammarco", "avatar_url": "https://avatars.githubusercontent.com/u/2545839?v=4", "login": "cylammarco", "type": "User"}
 topics: ["spectroscopy", "astronomy", "astrophysics", "data-reduction", "calibration", "spectrophotometry"]
-date: "2024-11-23 14:26:28.762225"
+date: "2024-11-30 14:25:23.605764"
 ---

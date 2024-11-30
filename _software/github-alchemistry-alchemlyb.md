@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 17
 owner: {"html_url": "https://github.com/alchemistry", "avatar_url": "https://avatars.githubusercontent.com/u/19521918?v=4", "login": "alchemistry", "type": "Organization"}
 topics: ["science", "free-energy", "python", "library", "molecular-dynamics"]
-date: "2024-11-23 14:26:28.756197"
+date: "2024-11-30 14:25:23.599623"
 ---

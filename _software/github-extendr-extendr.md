@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 15
 owner: {"html_url": "https://github.com/extendr", "avatar_url": "https://avatars.githubusercontent.com/u/63346977?v=4", "login": "extendr", "type": "Organization"}
 topics: ["rust", "r", "extension", "api-wrapper", "ffi-bindings"]
-date: "2024-11-23 14:26:28.370835"
+date: "2024-11-30 14:25:23.210674"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 26
 owner: {"html_url": "https://github.com/WilliamLwj", "avatar_url": "https://avatars.githubusercontent.com/u/28475711?v=4", "login": "WilliamLwj", "type": "User"}
 topics: ["algorithm", "bandit-algorithms", "blackbox-optimization", "optimization", "lipschitz-bandit", "hyperparameter-optimization", "hyperparameter-tuning", "reinforcement-learning", "data-science", "machine-learning-algorithms", "online-learning", "continuous-armed-bandit", "x-armed-bandit", "automl", "machine-learning", "optimization-algorithms"]
-date: "2024-11-23 14:26:28.730123"
+date: "2024-11-30 14:25:23.573659"
 ---

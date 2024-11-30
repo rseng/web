@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/eggplantbren", "avatar_url": "https://avatars.githubusercontent.com/u/1578298?v=4", "login": "eggplantbren", "type": "User"}
 topics: ["bayesian-inference", "markov-chain-monte-carlo", "nested-sampling", "probability", "probabilistic-programming"]
-date: "2024-11-23 14:26:28.368745"
+date: "2024-11-30 14:25:23.208520"
 ---

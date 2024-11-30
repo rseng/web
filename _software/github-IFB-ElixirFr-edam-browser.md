@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/IFB-ElixirFr", "avatar_url": "https://avatars3.githubusercontent.com/u/24292199?v=4", "login": "IFB-ElixirFr", "type": "Organization"}
-date: "2024-11-23 14:26:29.421307"
+date: "2024-11-30 14:25:24.267097"
 ---

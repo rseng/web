@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:25.968824"
 avatar: "https://avatars3.githubusercontent.com/u/35798486?v=4"
 repo_url: "https://github.com/arabic-digital-humanities/adhtools"
-date: "2024-11-23 14:26:28.527893"
+date: "2024-11-30 14:25:23.369246"
 ---

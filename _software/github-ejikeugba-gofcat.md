@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ejikeugba", "avatar_url": "https://avatars.githubusercontent.com/u/32841384?v=4", "login": "ejikeugba", "type": "User"}
 topics: ["hosmer-lemeshow-test", "lipsitz-test", "pulkstenis-robinson-test", "brant-test", "likelihood-ratio-test", "proportional-odds-test", "pseudo-r2", "brier-scores", "log-loss-score-metric", "misclassification", "logistic-regression", "ordinal-regression"]
-date: "2024-11-23 14:26:28.978822"
+date: "2024-11-30 14:25:23.823832"
 ---

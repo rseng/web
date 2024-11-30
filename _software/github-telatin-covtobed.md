@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/telatin", "avatar_url": "https://avatars.githubusercontent.com/u/15690844?v=4", "login": "telatin", "type": "User"}
 topics: ["bioinformatics", "bioinformatics-tool", "bioconda", "bed", "alignments", "bam-files", "sequence-coverage"]
-date: "2024-11-23 14:26:28.876831"
+date: "2024-11-30 14:25:23.721455"
 ---
