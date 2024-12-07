@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/brainglobe", "avatar_url": "https://avatars1.githubusercontent.com/u/64580400?v=4", "login": "brainglobe", "type": "Organization"}
 topics: ["neuroscience", "python", "microscopy", "registration", "visualisation", "brain", "atlases"]
-date: "2024-11-30 14:25:23.326857"
+date: "2024-12-07 14:25:52.196196"
 ---

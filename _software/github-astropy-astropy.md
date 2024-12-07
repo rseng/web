@@ -23,5 +23,5 @@ topics: ["python", "astronomy", "science"]
 timestamp: "2020-07-04 13:22:42.462167"
 avatar: "https://avatars0.githubusercontent.com/u/847984?v=4"
 repo_url: "https://github.com/astropy/astropy"
-date: "2024-11-30 14:25:24.416734"
+date: "2024-12-07 14:25:52.921631"
 ---

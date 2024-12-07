@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/TRASAL", "avatar_url": "https://avatars.githubusercontent.com/u/20970511?v=4", "login": "TRASAL", "type": "Organization"}
 topics: ["astronomy", "data", "ringbuffer", "psrdada", "python", "nlesc"]
-date: "2024-11-30 14:25:23.659911"
+date: "2024-12-07 14:25:52.758327"
 ---

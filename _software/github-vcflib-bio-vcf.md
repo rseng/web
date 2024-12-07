@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/vcflib", "avatar_url": "https://avatars.githubusercontent.com/u/16582802?v=4", "login": "vcflib", "type": "Organization"}
-date: "2024-11-30 14:25:24.285648"
+date: "2024-12-07 14:25:52.671412"
 ---

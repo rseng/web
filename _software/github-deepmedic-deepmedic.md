@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 67
 owner: {"html_url": "https://github.com/deepmedic", "avatar_url": "https://avatars.githubusercontent.com/u/29442582?v=4", "login": "deepmedic", "type": "Organization"}
 topics: ["deep-learning", "machine-learning", "medical-imaging", "neural-networks", "convolutional-neural-networks"]
-date: "2024-11-30 14:25:23.441452"
+date: "2024-12-07 14:25:52.366660"
 ---

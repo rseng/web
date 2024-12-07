@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/BattModels", "avatar_url": "https://avatars.githubusercontent.com/u/64616036?v=4", "login": "BattModels", "type": "Organization"}
-date: "2024-11-30 14:25:24.159403"
+date: "2024-12-07 14:25:52.037722"
 ---

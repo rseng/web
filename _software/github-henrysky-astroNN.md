@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/henrysky", "avatar_url": "https://avatars.githubusercontent.com/u/28623434?v=4", "login": "henrysky", "type": "User"}
 topics: ["tensorflow", "neural-network", "python", "astronomy", "astrophysics", "science", "neural-networks"]
-date: "2024-11-30 14:25:24.044746"
+date: "2024-12-07 14:25:52.385843"
 ---

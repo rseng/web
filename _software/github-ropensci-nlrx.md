@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["peer-reviewed", "netlogo", "individual-based-modelling", "agent-based-modeling", "r", "r-package", "rstats", "scalereprod"]
-date: "2024-11-30 14:25:24.503265"
+date: "2024-12-07 14:25:51.912550"
 ---

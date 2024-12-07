@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/firefly-cpp", "avatar_url": "https://avatars.githubusercontent.com/u/1633361?v=4", "login": "firefly-cpp", "type": "User"}
 topics: ["data-science", "data-mining", "association-rules", "association-rule-mining", "evolutionary-algorithms", "swarm-intelligence"]
-date: "2024-11-30 14:25:23.101398"
+date: "2024-12-07 14:25:52.744056"
 ---

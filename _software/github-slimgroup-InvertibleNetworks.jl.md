@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/slimgroup", "avatar_url": "https://avatars.githubusercontent.com/u/352217?v=4", "login": "slimgroup", "type": "Organization"}
 topics: ["machine-learning", "invertible-neural-networks", "deep-invertible-networks", "invertible-1x1-convolutions", "normalizing-flows", "julia", "deep-learning", "bayesian-inference", "julia-language", "normalizing-flow"]
-date: "2024-11-30 14:25:23.147300"
+date: "2024-12-07 14:25:51.730671"
 ---

@@ -18,5 +18,5 @@ language: "Python"
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ConorMacBride", "avatar_url": "https://avatars.githubusercontent.com/u/25007832?v=4", "login": "ConorMacBride", "type": "User"}
-date: "2024-11-30 14:25:23.273375"
+date: "2024-12-07 14:25:51.759410"
 ---
