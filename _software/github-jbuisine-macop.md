@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jbuisine", "avatar_url": "https://avatars.githubusercontent.com/u/11876986?v=4", "login": "jbuisine", "type": "User"}
 topics: ["algorithms", "python", "generic", "optimisation", "evolutionary-algorithms"]
-date: "2024-12-07 14:25:52.301873"
+date: "2024-12-14 14:25:30.954608"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mzkhalid039", "avatar_url": "https://avatars.githubusercontent.com/u/52278972?v=4", "login": "mzkhalid039", "type": "User"}
 topics: ["ferroelectric-domains", "ferroelectrics", "domain-walls", "atomic", "interface-builder"]
-date: "2024-12-07 14:25:52.503826"
+date: "2024-12-14 14:25:31.157737"
 ---

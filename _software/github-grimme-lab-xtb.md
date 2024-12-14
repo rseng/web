@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 33
 owner: {"html_url": "https://github.com/grimme-lab", "avatar_url": "https://avatars.githubusercontent.com/u/49521176?v=4", "login": "grimme-lab", "type": "Organization"}
 topics: ["quantum-chemistry", "tight-binding", "computational-chemistry", "atomistic-simulations", "force-field"]
-date: "2024-12-07 14:25:51.650027"
+date: "2024-12-14 14:25:30.267979"
 ---

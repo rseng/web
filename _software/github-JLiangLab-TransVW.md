@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/fhaghighi", "avatar_url": "https://avatars.githubusercontent.com/u/31901902?v=4", "login": "fhaghighi", "type": "User"}
 topics: ["self-supervised-learning", "transfer-learning", "3d-models", "medical-imaging", "fine-tuning"]
-date: "2024-12-07 14:25:51.577047"
+date: "2024-12-14 14:25:30.192075"
 ---

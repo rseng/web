@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/JuliaManifolds", "avatar_url": "https://avatars.githubusercontent.com/u/62259457?v=4", "login": "JuliaManifolds", "type": "Organization"}
 topics: ["manifolds", "julia", "optimization", "manopt"]
-date: "2024-12-07 14:25:52.075112"
+date: "2024-12-14 14:25:30.718779"
 ---

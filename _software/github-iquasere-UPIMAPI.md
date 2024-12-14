@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/iquasere", "avatar_url": "https://avatars.githubusercontent.com/u/16226371?v=4", "login": "iquasere", "type": "User"}
 topics: ["genomics", "uniprot", "id-mapping", "functional-information", "taxonomic-information"]
-date: "2024-12-07 14:25:52.238774"
+date: "2024-12-14 14:25:30.883070"
 ---

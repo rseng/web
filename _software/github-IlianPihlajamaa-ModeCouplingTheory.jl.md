@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/IlianPihlajamaa", "avatar_url": "https://avatars.githubusercontent.com/u/73794090?v=4", "login": "IlianPihlajamaa", "type": "User"}
 topics: ["differential-equations", "julia"]
-date: "2024-12-07 14:25:52.107548"
+date: "2024-12-14 14:25:30.751388"
 ---

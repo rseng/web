@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["altmetrics", "r", "citations", "bibliometrics", "rstats", "r-package", "literature"]
-date: "2024-12-07 14:25:51.911038"
+date: "2024-12-14 14:25:30.553819"
 ---
