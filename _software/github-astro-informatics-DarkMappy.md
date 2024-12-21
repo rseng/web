@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
 topics: ["dark-matter", "bayesian", "inverse-problems", "signal-processing", "harmonic-analysis"]
-date: "2024-12-14 14:25:31.047811"
+date: "2024-12-21 14:23:26.265248"
 ---

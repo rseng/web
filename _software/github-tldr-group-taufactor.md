@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tldr-group", "avatar_url": "https://avatars.githubusercontent.com/u/78808638?v=4", "login": "tldr-group", "type": "Organization"}
-date: "2024-12-14 14:25:30.100648"
+date: "2024-12-21 14:23:25.378320"
 ---

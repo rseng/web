@@ -21,5 +21,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/polca", "avatar_url": "https://avatars.githubusercontent.com/u/58623740?v=4", "login": "polca", "type": "Organization"}
 topics: ["ecoinvent", "premise", "prospective", "scenario"]
-date: "2024-12-14 14:25:31.173389"
+date: "2024-12-21 14:23:26.389765"
 ---

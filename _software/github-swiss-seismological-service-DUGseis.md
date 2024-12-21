@@ -21,5 +21,5 @@ open_issues_count: 3
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/swiss-seismological-service", "avatar_url": "https://avatars.githubusercontent.com/u/50695471?v=4", "login": "swiss-seismological-service", "type": "Organization"}
-date: "2024-12-14 14:25:30.958566"
+date: "2024-12-21 14:23:26.176905"
 ---

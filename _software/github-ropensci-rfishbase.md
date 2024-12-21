@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 38
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "fishbase", "taxonomy", "fish", "data-access"]
-date: "2024-12-14 14:25:30.510602"
+date: "2024-12-21 14:23:25.744355"
 ---

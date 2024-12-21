@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/kateharborne", "avatar_url": "https://avatars.githubusercontent.com/u/29746421?v=4", "login": "kateharborne", "type": "User"}
 topics: ["simulation", "ifs", "kinematics", "galaxies"]
-date: "2024-12-14 14:25:30.937595"
+date: "2024-12-21 14:23:26.156014"
 ---

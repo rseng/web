@@ -21,5 +21,5 @@ open_issues_count: 11
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 28
 owner: {"html_url": "https://github.com/potassco", "avatar_url": "https://avatars.githubusercontent.com/u/19286215?v=4", "login": "potassco", "type": "Organization"}
-date: "2024-12-14 14:25:31.261722"
+date: "2024-12-21 14:23:26.477262"
 ---

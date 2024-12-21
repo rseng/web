@@ -21,5 +21,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 3
 owner: {"html_url": "https://github.com/PDB-REDO", "avatar_url": "https://avatars.githubusercontent.com/u/71706409?v=4", "login": "PDB-REDO", "type": "Organization"}
 topics: ["mmcif", "pdb-files", "protein-structure"]
-date: "2024-12-14 14:25:31.558815"
+date: "2024-12-21 14:23:26.773830"
 ---
