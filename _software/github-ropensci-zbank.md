@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rstats", "taxonomy", "zoology", "identifiers", "zoobank", "r", "r-package", "API", "api-client", "biology", "JSON", "names", "nomenclature", "species", "web", "ZooBank", "Zoological"]
-date: "2024-12-21 14:23:25.774878"
+date: "2024-12-28 14:23:45.434494"
 ---

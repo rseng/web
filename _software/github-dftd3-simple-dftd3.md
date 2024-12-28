@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/dftd3", "avatar_url": "https://avatars.githubusercontent.com/u/104521936?v=4", "login": "dftd3", "type": "Organization"}
 topics: ["quantum-chemistry", "dispersion-correction", "ase", "computational-chemistry", "pyscf", "qcschema"]
-date: "2024-12-21 14:23:25.690263"
+date: "2024-12-28 14:23:45.347433"
 ---

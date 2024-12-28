@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/CTU-Bern", "avatar_url": "https://avatars.githubusercontent.com/u/45794307?v=4", "login": "CTU-Bern", "type": "Organization"}
-date: "2024-12-21 14:23:26.506212"
+date: "2024-12-28 14:23:46.181271"
 ---

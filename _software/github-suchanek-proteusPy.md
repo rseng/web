@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/suchanek", "avatar_url": "https://avatars.githubusercontent.com/u/4127770?v=4", "login": "suchanek", "type": "User"}
 topics: ["biophysics", "structural"]
-date: "2024-12-21 14:23:25.540851"
+date: "2024-12-28 14:23:45.189892"
 ---
