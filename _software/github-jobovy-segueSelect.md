@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jobovy", "avatar_url": "https://avatars.githubusercontent.com/u/1044876?v=4", "login": "jobovy", "type": "User"}
-date: "2024-12-28 14:23:46.276413"
+date: "2025-01-04 14:23:59.888028"
 ---

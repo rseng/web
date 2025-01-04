@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 44
 owner: {"html_url": "https://github.com/NBISweden", "avatar_url": "https://avatars.githubusercontent.com/u/1224807?v=4", "login": "NBISweden", "type": "Organization"}
 topics: ["agat", "gff", "perl-scripts", "gtf", "standardisation", "gff-format", "toolkit"]
-date: "2024-12-28 14:23:45.751177"
+date: "2025-01-04 14:23:59.359583"
 ---

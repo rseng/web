@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:24.142582"
 avatar: "https://avatars1.githubusercontent.com/u/3769919?v=4"
 repo_url: "https://github.com/pysal/pysal"
-date: "2024-12-28 14:23:46.326326"
+date: "2025-01-04 14:23:59.938081"
 ---

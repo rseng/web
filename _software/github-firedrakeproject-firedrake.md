@@ -22,5 +22,5 @@ open_issues_count: 198
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 53
 owner: {"html_url": "https://github.com/firedrakeproject", "avatar_url": "https://avatars.githubusercontent.com/u/5558005?v=4", "login": "firedrakeproject", "type": "Organization"}
-date: "2024-12-28 14:23:46.496277"
+date: "2025-01-04 14:24:00.109701"
 ---

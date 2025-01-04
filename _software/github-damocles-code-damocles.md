@@ -18,5 +18,5 @@ language: "Fortran"
 open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/damocles-code", "avatar_url": "https://avatars.githubusercontent.com/u/16516847?v=4", "login": "damocles-code", "type": "User"}
-date: "2024-12-28 14:23:46.305443"
+date: "2025-01-04 14:23:59.917130"
 ---

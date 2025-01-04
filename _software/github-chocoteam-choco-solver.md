@@ -23,5 +23,5 @@ license: {"key": "bsd-4-clause", "name": "BSD 4-Clause \"Original\" or \"Old\" L
 subscribers_count: 47
 owner: {"html_url": "https://github.com/chocoteam", "avatar_url": "https://avatars.githubusercontent.com/u/3829941?v=4", "login": "chocoteam", "type": "Organization"}
 topics: ["constraint-programming", "solver", "constraints", "csp", "copr", "constraint-satisfaction-problem", "java", "constraint-solver", "constraint-optimisation-problem"]
-date: "2024-12-28 14:23:46.244707"
+date: "2025-01-04 14:23:59.856294"
 ---

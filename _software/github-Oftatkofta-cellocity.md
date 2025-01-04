@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/Oftatkofta", "avatar_url": "https://avatars.githubusercontent.com/u/6969742?v=4", "login": "Oftatkofta", "type": "User"}
 topics: ["microscopy", "time-series-analysis", "analysis", "vector-analysis", "microscopy-data", "cell-dynamics"]
-date: "2024-12-28 14:23:46.028909"
+date: "2025-01-04 14:23:59.638723"
 ---

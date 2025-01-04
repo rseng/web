@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/molgenis", "avatar_url": "https://avatars.githubusercontent.com/u/1688158?v=4", "login": "molgenis", "type": "Organization"}
 topics: ["graph-visualization", "phd-project", "prototype", "querying", "sparql", "virtual-reality"]
-date: "2024-12-28 14:23:46.426884"
+date: "2025-01-04 14:24:00.039380"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/segasai", "avatar_url": "https://avatars.githubusercontent.com/u/109513?v=4", "login": "segasai", "type": "User"}
 topics: ["postgresql", "sphere", "astronomy", "nearest-neighbors", "query", "coordinates"]
-date: "2024-12-28 14:23:45.640857"
+date: "2025-01-04 14:23:59.248309"
 ---
