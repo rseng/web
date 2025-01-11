@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/idefix-code", "avatar_url": "https://avatars.githubusercontent.com/u/123293720?v=4", "login": "idefix-code", "type": "Organization"}
-date: "2025-01-04 14:23:58.976822"
+date: "2025-01-11 14:23:58.071958"
 ---

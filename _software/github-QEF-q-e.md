@@ -21,5 +21,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 52
 owner: {"html_url": "https://github.com/QEF", "avatar_url": "https://avatars.githubusercontent.com/u/5255480?v=4", "login": "QEF", "type": "Organization"}
 topics: ["quantum-espresso"]
-date: "2025-01-04 14:23:59.472463"
+date: "2025-01-11 14:23:58.570121"
 ---

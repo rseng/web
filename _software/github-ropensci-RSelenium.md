@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 92
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rselenium", "webdriver", "selenium", "r", "rstats", "r-package", "http-tools"]
-date: "2025-01-04 14:23:59.010896"
+date: "2025-01-11 14:23:58.106427"
 ---

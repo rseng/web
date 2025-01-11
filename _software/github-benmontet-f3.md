@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/benmontet", "avatar_url": "https://avatars.githubusercontent.com/u/1314530?v=4", "login": "benmontet", "type": "User"}
-date: "2025-01-04 14:23:59.363280"
+date: "2025-01-11 14:23:58.460878"
 ---

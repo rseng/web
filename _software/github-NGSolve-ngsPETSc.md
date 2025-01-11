@@ -22,5 +22,5 @@ open_issues_count: 6
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/NGSolve", "avatar_url": "https://avatars.githubusercontent.com/u/30256916?v=4", "login": "NGSolve", "type": "Organization"}
-date: "2025-01-04 14:23:59.780486"
+date: "2025-01-11 14:23:58.878894"
 ---
