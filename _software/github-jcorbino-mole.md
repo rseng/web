@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/jcorbino", "avatar_url": "https://avatars.githubusercontent.com/u/24197859?v=4", "login": "jcorbino", "type": "User"}
 topics: ["pde", "vector-calculus", "numerical-methods", "finite-differences", "mimetic"]
-date: "2025-01-11 14:23:58.898216"
+date: "2025-01-18 14:23:35.710604"
 ---
