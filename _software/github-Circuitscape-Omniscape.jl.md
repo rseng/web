@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Circuitscape", "avatar_url": "https://avatars.githubusercontent.com/u/5827361?v=4", "login": "Circuitscape", "type": "Organization"}
 topics: ["julia-language", "julia-package", "connectivity", "circuitscape", "circuit-analysis", "animal-movement", "landscape-ecology", "climate-change", "circuit-theory", "ecology"]
-date: "2025-01-18 14:23:34.768791"
+date: "2025-01-25 14:22:55.154548"
 ---

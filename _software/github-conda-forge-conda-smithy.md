@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:41.985602"
 avatar: "https://avatars3.githubusercontent.com/u/11897326?v=4"
 repo_url: "https://github.com/conda-forge/conda-smithy"
-date: "2025-01-18 14:23:35.681473"
+date: "2025-01-25 14:22:55.342631"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/dpalmasan", "avatar_url": "https://avatars.githubusercontent.com/u/8723534?v=4", "login": "dpalmasan", "type": "User"}
 topics: ["semantic-measurements", "coherence", "text-analysis", "natural-language-processing", "readability-metrics", "text-processing", "ttr", "spacy", "text-mining", "spacy-extensions", "cohesion", "entity-graph", "lexical-diversity", "type-token-ratio"]
-date: "2025-01-18 14:23:35.838888"
+date: "2025-01-25 14:22:55.010445"
 ---

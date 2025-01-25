@@ -17,5 +17,5 @@ clone_url: "https://github.com/Michalychforever/AsPy.git"
 size: 887
 language: "Python"
 owner: {"html_url": "https://github.com/Michalychforever", "avatar_url": "https://avatars.githubusercontent.com/u/25805568?v=4", "login": "Michalychforever", "type": "User"}
-date: "2025-01-18 14:23:35.521562"
+date: "2025-01-25 14:22:55.117980"
 ---
