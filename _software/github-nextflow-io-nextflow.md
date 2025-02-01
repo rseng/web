@@ -23,5 +23,5 @@ topics: ["bioinformatics", "workflow-engine", "pipeline", "pipeline-framework", 
 timestamp: "2020-07-04 13:22:29.189575"
 avatar: "https://avatars3.githubusercontent.com/u/6698688?v=4"
 repo_url: "https://github.com/nextflow-io/nextflow"
-date: "2025-01-25 14:22:54.951603"
+date: "2025-02-01 14:22:55.128629"
 ---

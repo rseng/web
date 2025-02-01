@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/Pometry", "avatar_url": "https://avatars.githubusercontent.com/u/89028534?v=4", "login": "Pometry", "type": "Organization"}
 topics: ["graph", "graph-algorithms", "graph-analysis", "graph-theory", "graphviz", "python", "rust", "temporal-networks", "analytics", "embeddable-database", "graph-database", "time-series"]
-date: "2025-01-25 14:22:54.143316"
+date: "2025-02-01 14:22:54.308385"
 ---

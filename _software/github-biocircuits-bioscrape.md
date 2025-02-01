@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/biocircuits", "avatar_url": "https://avatars.githubusercontent.com/u/34864391?v=4", "login": "biocircuits", "type": "Organization"}
 topics: ["simulation", "chemical-reaction-networks", "crn", "stochastic-simulation-algorithm", "python", "cython", "parameter-identification"]
-date: "2025-01-25 14:22:54.632265"
+date: "2025-02-01 14:22:54.804350"
 ---

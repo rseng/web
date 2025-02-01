@@ -23,5 +23,5 @@ topics: ["singularityhub", "singularity", "singularity-containers", "containers"
 timestamp: "2020-07-04 13:22:47.974472"
 avatar: "https://avatars1.githubusercontent.com/u/24552884?v=4"
 repo_url: "https://github.com/singularityhub/sregistry"
-date: "2025-01-25 14:22:54.645641"
+date: "2025-02-01 14:22:54.817984"
 ---

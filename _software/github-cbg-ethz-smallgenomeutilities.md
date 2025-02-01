@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/cbg-ethz", "avatar_url": "https://avatars.githubusercontent.com/u/12068026?v=4", "login": "cbg-ethz", "type": "Organization"}
-date: "2025-01-25 14:22:55.316735"
+date: "2025-02-01 14:22:55.498839"
 ---

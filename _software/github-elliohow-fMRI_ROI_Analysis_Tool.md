@@ -21,5 +21,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/elliohow", "avatar_url": "https://avatars.githubusercontent.com/u/47447365?v=4", "login": "elliohow", "type": "User"}
 topics: ["fmri", "fmri-preprocessing", "python", "neuroimaging", "brain-imaging", "fmri-roi-analysis"]
-date: "2025-01-25 14:22:54.611512"
+date: "2025-02-01 14:22:54.783224"
 ---

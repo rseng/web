@@ -20,5 +20,5 @@ watchers_count: 2
 language: "Jupyter Notebook"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/madysonb", "avatar_url": "https://avatars.githubusercontent.com/u/54335494?v=4", "login": "madysonb", "type": "User"}
-date: "2025-01-25 14:22:55.260884"
+date: "2025-02-01 14:22:55.442291"
 ---

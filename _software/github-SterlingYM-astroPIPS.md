@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SterlingYM", "avatar_url": "https://avatars.githubusercontent.com/u/45109159?v=4", "login": "SterlingYM", "type": "User"}
 topics: ["python", "jupyter-notebook", "astronomy", "variable-stars", "pipelines"]
-date: "2025-01-25 14:22:54.872739"
+date: "2025-02-01 14:22:55.047650"
 ---

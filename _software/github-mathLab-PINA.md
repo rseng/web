@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/mathLab", "avatar_url": "https://avatars.githubusercontent.com/u/14195552?v=4", "login": "mathLab", "type": "Organization"}
 topics: ["physics-informed-neural-networks", "modeling", "machine-learning", "deep-learning", "python", "pytorch", "differential-equations", "neural-network", "ode", "pde", "physics-informed", "hacktoberfest", "lightining", "pinn"]
-date: "2025-01-25 14:22:55.454130"
+date: "2025-02-01 14:22:55.637733"
 ---

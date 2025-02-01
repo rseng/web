@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AoifeHughes", "avatar_url": "https://avatars.githubusercontent.com/u/10923695?v=4", "login": "AoifeHughes", "type": "User"}
 topics: ["biophysics", "simulations", "particle", "python"]
-date: "2025-01-25 14:22:55.196130"
+date: "2025-02-01 14:22:55.376976"
 ---

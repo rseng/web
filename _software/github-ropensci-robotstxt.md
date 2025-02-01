@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["robotstxt", "crawler", "webscraping", "spider", "scraper", "r", "rstats", "r-package", "peer-reviewed", "http-tools"]
-date: "2025-01-25 14:22:54.484646"
+date: "2025-02-01 14:22:54.654537"
 ---

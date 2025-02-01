@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cosimoNigro", "avatar_url": "https://avatars.githubusercontent.com/u/26409711?v=4", "login": "cosimoNigro", "type": "User"}
 topics: ["leptonic", "radiative-processes", "agn", "numpy", "astropy", "python", "jets", "blazar"]
-date: "2025-01-25 14:22:54.926322"
+date: "2025-02-01 14:22:55.102667"
 ---

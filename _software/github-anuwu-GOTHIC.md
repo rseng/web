@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/anuwu", "avatar_url": "https://avatars.githubusercontent.com/u/45432794?v=4", "login": "anuwu", "type": "User"}
 topics: ["sdss", "astronomy", "astrophysics", "astroinformatics", "image-processing", "image-classification", "rare-object-detection"]
-date: "2025-01-25 14:22:54.548902"
+date: "2025-02-01 14:22:54.719640"
 ---
