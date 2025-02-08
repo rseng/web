@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 10
 owner: {"html_url": "https://github.com/londumas", "avatar_url": "https://avatars.githubusercontent.com/u/3166436?v=4", "login": "londumas", "type": "User"}
 topics: ["redshift", "pca-redshift", "chi2", "pixel", "galaxy", "quasar"]
-date: "2025-02-01 14:22:54.781991"
+date: "2025-02-08 14:23:43.930042"
 ---

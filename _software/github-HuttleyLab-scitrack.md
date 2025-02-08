@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/HuttleyLab", "avatar_url": "https://avatars.githubusercontent.com/u/54967899?v=4", "login": "HuttleyLab", "type": "Organization"}
 topics: ["logging-library", "reproducible-research", "science"]
-date: "2025-02-01 14:22:54.353747"
+date: "2025-02-08 14:23:43.449721"
 ---

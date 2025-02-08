@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["solr", "solr-client", "solr-search", "rstats", "database", "r", "r-package", "API", "JSON", "search", "web", "XML", "data-access"]
-date: "2025-02-01 14:22:54.618091"
+date: "2025-02-08 14:23:43.712497"
 ---

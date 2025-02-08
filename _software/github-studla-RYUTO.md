@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/studla", "avatar_url": "https://avatars.githubusercontent.com/u/18547406?v=4", "login": "studla", "type": "User"}
-date: "2025-02-01 14:22:55.269045"
+date: "2025-02-08 14:23:44.412173"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/AStcherbinine", "avatar_url": "https://avatars.githubusercontent.com/u/31817302?v=4", "login": "AStcherbinine", "type": "User"}
 topics: ["astronomy", "physics", "python3", "planetary-science"]
-date: "2025-02-01 14:22:55.467659"
+date: "2025-02-08 14:23:44.608265"
 ---
