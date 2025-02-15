@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/lilyminium", "avatar_url": "https://avatars.githubusercontent.com/u/31115101?v=4", "login": "lilyminium", "type": "User"}
 topics: ["psi4", "atomic-charges", "python", "molecular-dynamics"]
-date: "2025-02-08 14:23:44.695687"
+date: "2025-02-15 14:23:01.458277"
 ---

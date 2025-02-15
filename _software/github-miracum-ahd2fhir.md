@@ -21,5 +21,5 @@ open_issues_count: 21
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/miracum", "avatar_url": "https://avatars.githubusercontent.com/u/25475545?v=4", "login": "miracum", "type": "Organization"}
-date: "2025-02-08 14:23:44.296960"
+date: "2025-02-15 14:23:00.854243"
 ---

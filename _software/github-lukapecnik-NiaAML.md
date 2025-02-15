@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/lukapecnik", "avatar_url": "https://avatars.githubusercontent.com/u/23029992?v=4", "login": "lukapecnik", "type": "User"}
 topics: ["machine-learning", "automl", "nature-inspired-algorithms", "python", "framework", "classification", "classification-pipelines"]
-date: "2025-02-08 14:23:44.370156"
+date: "2025-02-15 14:23:01.541061"
 ---
