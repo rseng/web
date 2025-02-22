@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 16
 owner: {"html_url": "https://github.com/ratt-ru", "avatar_url": "https://avatars.githubusercontent.com/u/7933570?v=4", "login": "ratt-ru", "type": "Organization"}
 topics: ["dask", "casacore", "radio-astronomy", "xarray"]
-date: "2025-02-15 14:23:01.684387"
+date: "2025-02-22 14:23:55.373960"
 ---

@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 38
 owner: {"html_url": "https://github.com/DGtal-team", "avatar_url": "https://avatars.githubusercontent.com/u/1013900?v=4", "login": "DGtal-team", "type": "Organization"}
 topics: ["digital-geometry", "geometry-processing", "topology", "computational-geometry", "discrete-mathematics"]
-date: "2025-02-15 14:23:01.214841"
+date: "2025-02-22 14:23:54.859560"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/N-Wouda", "avatar_url": "https://avatars.githubusercontent.com/u/16272507?v=4", "login": "N-Wouda", "type": "User"}
 topics: ["adaptive-large-neighbourhood-search", "alns", "metaheuristic", "operations-research", "python", "travelling-salesman-problem", "cutting-stock-problem", "vehicle-routing-problem", "rcpsp", "scheduling-problem", "tsp", "vrp", "flow-shop"]
-date: "2025-02-15 14:23:01.573221"
+date: "2025-02-22 14:23:55.251523"
 ---

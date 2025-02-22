@@ -22,5 +22,5 @@ open_issues_count: 36
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/pyro-kinetics", "avatar_url": "https://avatars.githubusercontent.com/u/84965465?v=4", "login": "pyro-kinetics", "type": "Organization"}
-date: "2025-02-15 14:23:01.902714"
+date: "2025-02-22 14:23:55.614905"
 ---

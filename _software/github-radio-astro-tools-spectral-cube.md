@@ -23,5 +23,5 @@ open_issues_count: 164
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/radio-astro-tools", "avatar_url": "https://avatars.githubusercontent.com/u/7228695?v=4", "login": "radio-astro-tools", "type": "Organization"}
-date: "2025-02-15 14:23:01.354186"
+date: "2025-02-22 14:23:55.011222"
 ---

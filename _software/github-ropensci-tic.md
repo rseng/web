@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 13
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "travis-ci", "appveyor", "continuous-integration", "deployment", "r-package", "rstats", "githubactions", "scalereprod"]
-date: "2025-02-15 14:23:01.763742"
+date: "2025-02-22 14:23:55.461570"
 ---

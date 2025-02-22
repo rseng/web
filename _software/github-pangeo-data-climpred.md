@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/pangeo-data", "avatar_url": "https://avatars.githubusercontent.com/u/23299451?v=4", "login": "pangeo-data", "type": "Organization"}
 topics: ["python", "climate", "climate-analysis", "prediction", "xarray", "dask", "pangeo"]
-date: "2025-02-15 14:23:02.075960"
+date: "2025-02-22 14:23:55.801939"
 ---
