@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/afarahi", "avatar_url": "https://avatars.githubusercontent.com/u/1308461?v=4", "login": "afarahi", "type": "User"}
 topics: ["linear-regression", "linear-model", "kernel-methods", "regression", "localized-linear-regression"]
-date: "2025-02-22 14:23:54.538533"
+date: "2025-03-01 14:25:31.661098"
 ---

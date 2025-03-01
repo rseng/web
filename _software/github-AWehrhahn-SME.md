@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AWehrhahn", "avatar_url": "https://avatars.githubusercontent.com/u/31626864?v=4", "login": "AWehrhahn", "type": "User"}
 topics: ["astronomy", "spectroscopy", "modelling"]
-date: "2025-02-22 14:23:54.746648"
+date: "2025-03-01 14:25:32.589950"
 ---

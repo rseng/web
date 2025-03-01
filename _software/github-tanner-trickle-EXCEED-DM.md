@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 4
 owner: {"html_url": "https://github.com/tanner-trickle", "avatar_url": "https://avatars.githubusercontent.com/u/46977645?v=4", "login": "tanner-trickle", "type": "User"}
 topics: ["physics", "particle-physics", "materials-science", "condensed-matter-physics"]
-date: "2025-02-22 14:23:55.230171"
+date: "2025-03-01 14:25:32.103562"
 ---

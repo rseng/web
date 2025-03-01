@@ -23,5 +23,5 @@ topics: ["numpy", "python"]
 timestamp: "2020-07-04 13:22:17.344529"
 avatar: "https://avatars2.githubusercontent.com/u/288276?v=4"
 repo_url: "https://github.com/numpy/numpy"
-date: "2025-02-22 14:23:55.356706"
+date: "2025-03-01 14:25:32.570913"
 ---

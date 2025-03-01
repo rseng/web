@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/tpapp", "avatar_url": "https://avatars.githubusercontent.com/u/84122?v=4", "login": "tpapp", "type": "User"}
 topics: ["julia", "julia-language", "bayesian", "bayesian-statistics", "bayesian-methods", "bayesian-inference"]
-date: "2025-02-22 14:23:55.410248"
+date: "2025-03-01 14:25:32.445444"
 ---

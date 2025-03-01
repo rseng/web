@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Nico-Curti", "avatar_url": "https://avatars2.githubusercontent.com/u/24650975?v=4", "login": "Nico-Curti", "type": "User"}
 topics: ["belief-propagation", "deep-neural-networks", "spin-glass", "statistical-mechanics", "learning-algorithm", "machine-learning-algorithms", "python3", "cpp17"]
-date: "2025-02-22 14:23:55.819067"
+date: "2025-03-01 14:25:32.567006"
 ---
