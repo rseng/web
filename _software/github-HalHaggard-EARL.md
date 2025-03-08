@@ -17,5 +17,5 @@ clone_url: "https://github.com/HalHaggard/EARL.git"
 size: 27
 language: "Mathematica"
 owner: {"html_url": "https://github.com/HalHaggard", "avatar_url": "https://avatars.githubusercontent.com/u/35935417?v=4", "login": "HalHaggard", "type": "User"}
-date: "2025-03-01 14:25:31.803800"
+date: "2025-03-08 14:20:03.639445"
 ---

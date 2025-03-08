@@ -21,5 +21,5 @@ open_issues_count: 14
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/open2c", "avatar_url": "https://avatars.githubusercontent.com/u/70977326?v=4", "login": "open2c", "type": "Organization"}
-date: "2025-03-01 14:25:32.988109"
+date: "2025-03-08 14:20:04.826434"
 ---

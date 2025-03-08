@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/gdalle", "avatar_url": "https://avatars.githubusercontent.com/u/22795598?v=4", "login": "gdalle", "type": "User"}
 topics: ["julia", "hidden-markov-model", "hmm", "statistics", "baum-welch", "forward-backward", "viterbi", "markov"]
-date: "2025-03-01 14:25:31.587599"
+date: "2025-03-08 14:20:03.427480"
 ---

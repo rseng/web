@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/artefactory", "avatar_url": "https://avatars.githubusercontent.com/u/86767100?v=4", "login": "artefactory", "type": "Organization"}
 topics: ["assortment", "choice", "discrete", "learning", "machine", "ml", "model", "supermarket", "gurobi", "optimization", "or-tools", "pricing", "tensorflow", "deep", "neural-networks", "conditional-logit-model", "rum", "choice-modeling"]
-date: "2025-03-01 14:25:31.898207"
+date: "2025-03-08 14:20:03.732484"
 ---

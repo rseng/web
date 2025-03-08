@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["australia", "rstats", "weather", "climate", "api-client", "data", "weather-api", "weather-forecast", "rainfall", "r"]
-date: "2025-03-01 14:25:32.860918"
+date: "2025-03-08 14:20:04.699141"
 ---

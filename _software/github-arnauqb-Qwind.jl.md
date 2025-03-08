@@ -20,5 +20,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/arnauqb", "avatar_url": "https://avatars.githubusercontent.com/u/21260922?v=4", "login": "arnauqb", "type": "User"}
-date: "2025-03-01 14:25:32.958054"
+date: "2025-03-08 14:20:04.796425"
 ---

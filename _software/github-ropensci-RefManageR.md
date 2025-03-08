@@ -21,5 +21,5 @@ open_issues_count: 23
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "peer-reviewed", "scalereprod"]
-date: "2025-03-01 14:25:32.823667"
+date: "2025-03-08 14:20:04.641344"
 ---

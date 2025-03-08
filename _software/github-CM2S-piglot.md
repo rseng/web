@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CM2S", "avatar_url": "https://avatars.githubusercontent.com/u/25201360?v=4", "login": "CM2S", "type": "Organization"}
 topics: ["python", "parameter-identification", "optimisation", "bayesian-optimization", "physics-solvers"]
-date: "2025-03-01 14:25:32.341624"
+date: "2025-03-08 14:20:04.167114"
 ---

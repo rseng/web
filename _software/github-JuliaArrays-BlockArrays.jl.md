@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/JuliaArrays", "avatar_url": "https://avatars.githubusercontent.com/u/21312771?v=4", "login": "JuliaArrays", "type": "Organization"}
 topics: ["julia", "matrix", "arrays", "blockarrays"]
-date: "2025-03-01 14:25:32.184748"
+date: "2025-03-08 14:20:04.013321"
 ---

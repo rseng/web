@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jonzink", "avatar_url": "https://avatars.githubusercontent.com/u/44911960?v=4", "login": "jonzink", "type": "User"}
 topics: ["vetting-metrics", "python", "tls", "telescope", "edi-vetter-unplugged", "exoplanets", "transit-data"]
-date: "2025-03-01 14:25:32.377447"
+date: "2025-03-08 14:20:04.202394"
 ---

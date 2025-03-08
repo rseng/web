@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 17
 owner: {"html_url": "https://github.com/eead-csic-compbio", "avatar_url": "https://avatars.githubusercontent.com/u/15164836?v=4", "login": "eead-csic-compbio", "type": "User"}
 topics: ["pangenome", "bacteria", "annotation", "plants", "transcriptome", "clustering", "fasta", "genbank", "pangene"]
-date: "2025-03-01 14:25:31.719294"
+date: "2025-03-08 14:20:03.556578"
 ---
