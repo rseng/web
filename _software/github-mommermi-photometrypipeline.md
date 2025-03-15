@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/mommermi", "avatar_url": "https://avatars.githubusercontent.com/u/16566333?v=4", "login": "mommermi", "type": "User"}
 topics: ["astronomy", "astronomical-images", "pipeline", "data-analysis", "photometry", "astrometry"]
-date: "2025-03-08 14:20:04.720175"
+date: "2025-03-15 14:25:45.893047"
 ---

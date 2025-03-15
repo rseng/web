@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/snad-space", "avatar_url": "https://avatars.githubusercontent.com/u/63704930?v=4", "login": "snad-space", "type": "Organization"}
 topics: ["anomaly-detection", "machine-learning"]
-date: "2025-03-08 14:20:03.370276"
+date: "2025-03-15 14:25:44.547303"
 ---

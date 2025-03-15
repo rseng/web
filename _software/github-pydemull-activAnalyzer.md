@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/pydemull", "avatar_url": "https://avatars.githubusercontent.com/u/63407978?v=4", "login": "pydemull", "type": "User"}
 topics: ["app", "shiny", "actigraph", "monitor", "accelerometer", "r"]
-date: "2025-03-08 14:20:04.515798"
+date: "2025-03-15 14:25:45.708929"
 ---

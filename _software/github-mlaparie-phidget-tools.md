@@ -18,5 +18,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mlaparie", "avatar_url": "https://avatars.githubusercontent.com/u/80409402?v=4", "login": "mlaparie", "type": "User"}
 topics: ["data", "data-visualization", "data-visualisation", "thermocouple", "temperature", "temperature-sensor", "temperature-monitoring", "phidgets", "phidget", "tui", "cli", "terminal-based", "terminal-app", "terminal", "command-line", "command-line-tool", "commandline"]
-date: "2025-03-08 14:20:03.547363"
+date: "2025-03-15 14:25:44.728405"
 ---

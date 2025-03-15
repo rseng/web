@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/octopus-sensing", "avatar_url": "https://avatars.githubusercontent.com/u/87042708?v=4", "login": "octopus-sensing", "type": "Organization"}
 topics: ["experience-scenarios", "questionnaire", "eeg", "gsr", "shimmer", "ppg"]
-date: "2025-03-08 14:20:04.413792"
+date: "2025-03-15 14:25:45.605997"
 ---

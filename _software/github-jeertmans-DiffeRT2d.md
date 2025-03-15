@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jeertmans", "avatar_url": "https://avatars.githubusercontent.com/u/27275099?v=4", "login": "jeertmans", "type": "User"}
 topics: ["2d", "differentiable", "raytracing", "telecommunications"]
-date: "2025-03-08 14:20:03.389594"
+date: "2025-03-15 14:25:44.567070"
 ---

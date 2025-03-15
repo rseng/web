@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 34
 owner: {"html_url": "https://github.com/linuxscout", "avatar_url": "https://avatars.githubusercontent.com/u/450792?v=4", "login": "linuxscout", "type": "User"}
 topics: ["nlp-library", "arabic-language", "text-processing"]
-date: "2025-03-08 14:20:03.849437"
+date: "2025-03-15 14:25:45.036086"
 ---

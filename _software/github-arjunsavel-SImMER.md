@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/arjunsavel", "avatar_url": "https://avatars.githubusercontent.com/u/35353555?v=4", "login": "arjunsavel", "type": "User"}
 topics: ["astronomy", "astrophysics", "python", "astronomical-images", "stars"]
-date: "2025-03-08 14:20:04.509752"
+date: "2025-03-15 14:25:45.702796"
 ---
