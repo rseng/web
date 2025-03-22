@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 9
 owner: {"html_url": "https://github.com/tseemann", "avatar_url": "https://avatars.githubusercontent.com/u/453972?v=4", "login": "tseemann", "type": "User"}
 topics: ["rna", "hmmer", "rnammer", "hmm-model", "rrna", "annotations", "ribosomal"]
-date: "2025-03-15 14:25:44.915380"
+date: "2025-03-22 14:25:44.076984"
 ---

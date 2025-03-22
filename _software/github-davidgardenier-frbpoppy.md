@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/davidgardenier", "avatar_url": "https://avatars.githubusercontent.com/u/14091346?v=4", "login": "davidgardenier", "type": "User"}
 topics: ["astronomy", "population-synthesis", "frb", "frbs", "fast-radio-bursts"]
-date: "2025-03-15 14:25:44.620142"
+date: "2025-03-22 14:25:43.748637"
 ---

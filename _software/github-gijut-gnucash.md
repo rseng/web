@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-05 00:17:53.022588"
 avatar: "https://avatars2.githubusercontent.com/u/12998308?v=4"
 repo_url: "https://github.com/gijut/gnucash"
-date: "2025-03-15 14:25:45.028971"
+date: "2025-03-22 14:25:44.191166"
 ---

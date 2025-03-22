@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CompNet", "avatar_url": "https://avatars.githubusercontent.com/u/1487813?v=4", "login": "CompNet", "type": "Organization"}
 topics: ["character-networks", "coreference-resolution", "ner", "network-extraction", "novels", "speaker-attribution", "alias-resolution"]
-date: "2025-03-15 14:25:45.629098"
+date: "2025-03-22 14:25:44.796418"
 ---

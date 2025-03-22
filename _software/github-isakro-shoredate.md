@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/isakro", "avatar_url": "https://avatars.githubusercontent.com/u/36520149?v=4", "login": "isakro", "type": "User"}
 topics: ["archaeology", "relative-sea-level-change", "shoreline-dating", "south-eastern-norway"]
-date: "2025-03-15 14:25:45.942117"
+date: "2025-03-22 14:25:45.111045"
 ---

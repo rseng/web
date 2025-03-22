@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/vosjo", "avatar_url": "https://avatars.githubusercontent.com/u/2445164?v=4", "login": "vosjo", "type": "User"}
 topics: ["photometry", "mcmc", "atmospheric-modelling", "astronomy", "python"]
-date: "2025-03-15 14:25:45.464749"
+date: "2025-03-22 14:25:44.630188"
 ---

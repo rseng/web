@@ -22,5 +22,5 @@ open_issues_count: 4
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 28
 owner: {"html_url": "https://github.com/simonsobs", "avatar_url": "https://avatars.githubusercontent.com/u/22817890?v=4", "login": "simonsobs", "type": "Organization"}
-date: "2025-03-15 14:25:45.625471"
+date: "2025-03-22 14:25:44.792548"
 ---
