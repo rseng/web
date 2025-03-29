@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 12
 owner: {"html_url": "https://github.com/paulbrodersen", "avatar_url": "https://avatars.githubusercontent.com/u/8046146?v=4", "login": "paulbrodersen", "type": "User"}
 topics: ["network", "visualization", "network-analysis", "publication-quality-plots", "graph", "graph-tool", "igraph", "matplotlib", "network-science", "networkx", "python"]
-date: "2025-03-22 14:25:43.758963"
+date: "2025-03-29 14:27:19.946849"
 ---

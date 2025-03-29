@@ -20,5 +20,5 @@ open_issues_count: 4
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/mpi4py", "avatar_url": "https://avatars.githubusercontent.com/u/5232933?v=4", "login": "mpi4py", "type": "Organization"}
-date: "2025-03-22 14:25:44.277363"
+date: "2025-03-29 14:27:20.438453"
 ---

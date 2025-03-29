@@ -21,5 +21,5 @@ license: {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/ggonnella", "avatar_url": "https://avatars.githubusercontent.com/u/21620?v=4", "login": "ggonnella", "type": "User"}
 topics: ["bioinformatics", "ncbi-taxonomy", "python", "subtree", "taxonomy", "tree", "subtree-extraction", "subtree-query"]
-date: "2025-03-22 14:25:43.682194"
+date: "2025-03-29 14:27:19.871210"
 ---

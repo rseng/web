@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ymocquar", "avatar_url": "https://avatars.githubusercontent.com/u/22094571?v=4", "login": "ymocquar", "type": "User"}
 topics: ["julia", "high-oscillatory", "fft", "ode-solver", "adams-bashforth-methods"]
-date: "2025-03-22 14:25:44.511389"
+date: "2025-03-29 14:27:20.674318"
 ---

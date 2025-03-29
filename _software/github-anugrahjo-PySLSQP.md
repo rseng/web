@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/anugrahjo", "avatar_url": "https://avatars.githubusercontent.com/u/44123535?v=4", "login": "anugrahjo", "type": "User"}
 topics: ["nonlinear-optimization", "optimization", "optimization-algorithms", "slsqp"]
-date: "2025-03-22 14:25:45.114509"
+date: "2025-03-29 14:27:21.283666"
 ---

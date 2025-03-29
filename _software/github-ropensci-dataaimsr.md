@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["aims", "data", "monitoring", "weather", "sst", "australia", "marine"]
-date: "2025-03-22 14:25:45.023534"
+date: "2025-03-29 14:27:21.192167"
 ---

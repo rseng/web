@@ -22,5 +22,5 @@ open_issues_count: 12
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/gui11aume", "avatar_url": "https://avatars.githubusercontent.com/u/1017195?v=4", "login": "gui11aume", "type": "User"}
-date: "2025-03-22 14:25:44.667277"
+date: "2025-03-29 14:27:20.831366"
 ---

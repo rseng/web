@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 37
 owner: {"html_url": "https://github.com/MultiQC", "avatar_url": "https://avatars.githubusercontent.com/u/18548644?v=4", "login": "MultiQC", "type": "Organization"}
 topics: ["bioinformatics", "analysis", "pypi", "bioconda", "multiqc", "python", "data-visualization", "quality-control", "reporting", "seqera", "vizualisation"]
-date: "2025-03-22 14:25:44.819636"
+date: "2025-03-29 14:27:20.983953"
 ---
