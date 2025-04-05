@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 67
 owner: {"html_url": "https://github.com/psi4", "avatar_url": "https://avatars.githubusercontent.com/u/2636883?v=4", "login": "psi4", "type": "Organization"}
 topics: ["quantum-chemistry", "c-plus-plus", "python", "computational-chemistry", "chemistry", "physics"]
-date: "2025-03-29 14:27:21.086051"
+date: "2025-04-05 14:25:10.161536"
 ---

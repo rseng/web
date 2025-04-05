@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 41
 owner: {"html_url": "https://github.com/hannorein", "avatar_url": "https://avatars.githubusercontent.com/u/53376?v=4", "login": "hannorein", "type": "User"}
 topics: ["astrophysics", "n-body", "planetary-science", "symplectic-integrator"]
-date: "2025-03-29 14:27:20.307738"
+date: "2025-04-05 14:25:09.382208"
 ---

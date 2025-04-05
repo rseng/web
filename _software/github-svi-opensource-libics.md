@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1", "node_id": "MDc6TGljZW5zZTEx"}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/svi-opensource", "avatar_url": "https://avatars.githubusercontent.com/u/22935556?v=4", "login": "svi-opensource", "type": "Organization"}
-date: "2025-03-29 14:27:20.645567"
+date: "2025-04-05 14:25:09.719380"
 ---

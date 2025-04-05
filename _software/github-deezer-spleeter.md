@@ -24,5 +24,5 @@ topics: ["deezer", "python", "tensorflow", "audio-processing", "pretrained-model
 timestamp: "2020-07-05 00:17:05.188641"
 avatar: "https://avatars0.githubusercontent.com/u/4393583?v=4"
 repo_url: "https://github.com/deezer/spleeter"
-date: "2025-03-29 14:27:19.895521"
+date: "2025-04-05 14:25:08.970421"
 ---

@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ladsantos", "avatar_url": "https://avatars.githubusercontent.com/u/2818188?v=4", "login": "ladsantos", "type": "User"}
 topics: ["astronomy", "limb-darkening", "stars", "astrophysics", "planetary-transits"]
-date: "2025-03-29 14:27:20.694792"
+date: "2025-04-05 14:25:09.768940"
 ---

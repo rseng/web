@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["citations", "doi", "digital-object-identifier", "metadata", "bibtex", "citeproc", "crosscite", "ris", "r", "r-package", "rstats", "citation", "Citeproc", "Codemeta", "Crosscite", "Crossref", "JSON", "RDF", "RIS", "XML", "literature"]
-date: "2025-03-29 14:27:21.162558"
+date: "2025-04-05 14:25:10.238443"
 ---

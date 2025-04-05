@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 142
 owner: {"html_url": "https://github.com/hishamhm", "avatar_url": "https://avatars.githubusercontent.com/u/245621?v=4", "login": "hishamhm", "type": "User"}
 topics: ["c", "terminal", "process-monitor", "htop", "tui", "system", "console", "console-application", "linux", "freebsd", "openbsd", "macos"]
-date: "2025-03-29 14:27:19.880844"
+date: "2025-04-05 14:25:08.955705"
 ---
