@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/r-spatialecology", "avatar_url": "https://avatars.githubusercontent.com/u/42056187?v=4", "login": "r-spatialecology", "type": "Organization"}
 topics: ["landscape-ecology", "point-pattern-analysis", "spatial-analysis", "habitat-association"]
-date: "2025-04-05 14:25:10.356144"
+date: "2025-04-12 14:25:33.747570"
 ---

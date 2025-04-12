@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/klb2", "avatar_url": "https://avatars.githubusercontent.com/u/58686048?v=4", "login": "klb2", "type": "User"}
 topics: ["knapsack-problem", "operations-research", "optimization"]
-date: "2025-04-05 14:25:08.971165"
+date: "2025-04-12 14:25:32.308620"
 ---

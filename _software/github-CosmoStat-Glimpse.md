@@ -22,5 +22,5 @@ open_issues_count: 4
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/CosmoStat", "avatar_url": "https://avatars.githubusercontent.com/u/16947949?v=4", "login": "CosmoStat", "type": "Organization"}
-date: "2025-04-05 14:25:09.430133"
+date: "2025-04-12 14:25:32.774669"
 ---

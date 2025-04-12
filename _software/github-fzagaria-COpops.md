@@ -20,5 +20,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/fzagaria", "avatar_url": "https://avatars.githubusercontent.com/u/124464817?v=4", "login": "fzagaria", "type": "User"}
 topics: ["interferometry", "jupyter-notebook", "modelling", "population-synthesis", "protoplanetary-discs", "python"]
-date: "2025-04-05 14:25:09.938966"
+date: "2025-04-12 14:25:33.328300"
 ---

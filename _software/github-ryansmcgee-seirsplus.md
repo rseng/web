@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 35
 owner: {"html_url": "https://github.com/ryansmcgee", "avatar_url": "https://avatars.githubusercontent.com/u/13767747?v=4", "login": "ryansmcgee", "type": "User"}
 topics: ["epidemiology", "epidemiology-analysis", "epidemic-model", "epidemic-simulations", "epidemics", "covid-19", "covid", "sars-cov-2", "coronavirus"]
-date: "2025-04-05 14:25:09.705637"
+date: "2025-04-12 14:25:33.055463"
 ---

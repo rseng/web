@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/tensorly", "avatar_url": "https://avatars.githubusercontent.com/u/22989719?v=4", "login": "tensorly", "type": "Organization"}
 topics: ["tensor-methods", "tensorly", "tensors", "visualization"]
-date: "2025-04-05 14:25:09.831474"
+date: "2025-04-12 14:25:33.209842"
 ---

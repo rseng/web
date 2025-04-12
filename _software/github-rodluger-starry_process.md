@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/rodluger", "avatar_url": "https://avatars.githubusercontent.com/u/9323819?v=4", "login": "rodluger", "type": "User"}
 topics: ["gaussian-processes", "lightcurves", "timeseries-analysis", "stars"]
-date: "2025-04-05 14:25:10.350214"
+date: "2025-04-12 14:25:33.741651"
 ---

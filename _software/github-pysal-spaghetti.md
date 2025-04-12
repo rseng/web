@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 18
 owner: {"html_url": "https://github.com/pysal", "avatar_url": "https://avatars.githubusercontent.com/u/3769919?v=4", "login": "pysal", "type": "Organization"}
 topics: ["spatial-network", "network-analysis", "python", "graph-theory", "topology", "pysal", "gis"]
-date: "2025-04-05 14:25:09.596232"
+date: "2025-04-12 14:25:32.944238"
 ---

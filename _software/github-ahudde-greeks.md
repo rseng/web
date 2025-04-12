@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ahudde", "avatar_url": "https://avatars.githubusercontent.com/u/60978072?v=4", "login": "ahudde", "type": "User"}
 topics: ["option", "greeks", "asian-option", "r-package", "implied-volatility"]
-date: "2025-04-05 14:25:10.312953"
+date: "2025-04-12 14:25:33.703874"
 ---

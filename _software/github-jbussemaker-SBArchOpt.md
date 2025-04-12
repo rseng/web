@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jbussemaker", "avatar_url": "https://avatars.githubusercontent.com/u/6481229?v=4", "login": "jbussemaker", "type": "User"}
 topics: ["architecture", "multi-objective", "optimization", "sbo", "system"]
-date: "2025-04-05 14:25:09.204399"
+date: "2025-04-12 14:25:32.545275"
 ---
