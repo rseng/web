@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/antoinediez", "avatar_url": "https://avatars.githubusercontent.com/u/70896255?v=4", "login": "antoinediez", "type": "User"}
 topics: ["particles", "gpu", "mean-field", "self-organization", "swarming", "agent-based-simulation", "agent-based-model"]
-date: "2025-04-12 14:25:33.732661"
+date: "2025-04-19 14:25:51.044563"
 ---

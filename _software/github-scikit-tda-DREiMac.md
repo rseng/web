@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/scikit-tda", "avatar_url": "https://avatars.githubusercontent.com/u/41389769?v=4", "login": "scikit-tda", "type": "Organization"}
-date: "2025-04-12 14:25:33.798662"
+date: "2025-04-19 14:25:51.109477"
 ---

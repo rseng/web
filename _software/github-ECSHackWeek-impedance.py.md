@@ -24,5 +24,5 @@ topics: ["impedance", "lithium-ion", "battery", "electrochemistry", "fuel-cell",
 timestamp: "2020-08-09 00:18:50.684886"
 avatar: "https://avatars2.githubusercontent.com/u/32744210?v=4"
 repo_url: "https://github.com/ECSHackWeek/impedance.py"
-date: "2025-04-12 14:25:32.693861"
+date: "2025-04-19 14:25:50.022862"
 ---

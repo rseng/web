@@ -18,5 +18,5 @@ size: 33982
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/doriancazeneuve", "avatar_url": "https://avatars.githubusercontent.com/u/112989778?v=4", "login": "doriancazeneuve", "type": "User"}
-date: "2025-04-12 14:25:33.007023"
+date: "2025-04-19 14:25:50.343453"
 ---
