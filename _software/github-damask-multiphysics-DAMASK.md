@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/damask-multiphysics", "avatar_url": "https://avatars.githubusercontent.com/u/172325373?v=4", "login": "damask-multiphysics", "type": "Organization"}
 topics: ["plasticity", "engineering", "physics", "metallurgy", "materials-science", "crystal-plasticity", "materials", "science", "multi-physics", "material", "simulation"]
-date: "2025-04-19 14:25:50.122615"
+date: "2025-04-26 14:26:00.291855"
 ---

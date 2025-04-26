@@ -23,5 +23,5 @@ open_issues_count: 21
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/exoplanet-dev", "avatar_url": "https://avatars.githubusercontent.com/u/60150744?v=4", "login": "exoplanet-dev", "type": "Organization"}
-date: "2025-04-19 14:25:50.845929"
+date: "2025-04-26 14:26:00.459331"
 ---

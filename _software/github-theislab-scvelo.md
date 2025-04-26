@@ -22,5 +22,5 @@ open_issues_count: 64
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 15
 owner: {"html_url": "https://github.com/theislab", "avatar_url": "https://avatars.githubusercontent.com/u/22319415?v=4", "login": "theislab", "type": "Organization"}
-date: "2025-04-19 14:25:50.374948"
+date: "2025-04-26 14:26:01.108547"
 ---

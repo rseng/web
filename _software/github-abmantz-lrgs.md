@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/abmantz", "avatar_url": "https://avatars.githubusercontent.com/u/10962486?v=4", "login": "abmantz", "type": "User"}
 topics: ["linear-regression", "multivariate-regression", "gibbs-sampler"]
-date: "2025-04-19 14:25:50.276393"
+date: "2025-04-26 14:26:00.253595"
 ---

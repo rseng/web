@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/MarkusPic", "avatar_url": "https://avatars.githubusercontent.com/u/11568131?v=4", "login": "MarkusPic", "type": "User"}
 topics: ["heavy-rain", "idf", "intensity-duration-frequency", "design-rainfall", "rainfall", "precipitation", "analysis", "duration", "dwa", "measurement-data", "duration-steps", "return-period", "dwa-a-531", "kostra", "dwd", "python"]
-date: "2025-04-19 14:25:49.560951"
+date: "2025-04-26 14:25:59.737840"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/voting-tools", "avatar_url": "https://avatars.githubusercontent.com/u/118827404?v=4", "login": "voting-tools", "type": "Organization"}
 topics: ["computational-social-choice", "preferences", "preferential-voting", "python3", "research-tool", "social-choice-theory", "utility-functions", "voting", "voting-methods"]
-date: "2025-04-19 14:25:49.577328"
+date: "2025-04-26 14:25:59.889629"
 ---

@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 16
 owner: {"html_url": "https://github.com/GOMC-WSU", "avatar_url": "https://avatars.githubusercontent.com/u/11666264?v=4", "login": "GOMC-WSU", "type": "User"}
 topics: ["monte-carlo", "monte-carlo-simulation", "gpu", "openmp", "adsorption", "free-energy", "phase-equilibrium", "surface-tension", "cuda", "gibbs-ensemble", "grand-canonical-monte-carlo"]
-date: "2025-04-19 14:25:50.917470"
+date: "2025-04-26 14:26:00.563978"
 ---

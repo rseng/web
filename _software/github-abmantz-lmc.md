@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/abmantz", "avatar_url": "https://avatars.githubusercontent.com/u/10962486?v=4", "login": "abmantz", "type": "User"}
 topics: ["monte-carlo", "python", "sampler"]
-date: "2025-04-19 14:25:50.276875"
+date: "2025-04-26 14:26:00.253832"
 ---

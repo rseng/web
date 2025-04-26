@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/DeepRank", "avatar_url": "https://avatars.githubusercontent.com/u/31408512?v=4", "login": "DeepRank", "type": "Organization"}
 topics: ["3d-cnn", "protein-protein-interaction", "docking", "pytorch"]
-date: "2025-04-19 14:25:50.094445"
+date: "2025-04-26 14:26:00.383952"
 ---
