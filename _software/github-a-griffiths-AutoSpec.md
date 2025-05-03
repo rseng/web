@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/a-griffiths", "avatar_url": "https://avatars.githubusercontent.com/u/26306805?v=4", "login": "a-griffiths", "type": "User"}
 topics: ["cross-correlation", "spectra", "datacube", "astronomy", "muse", "automated", "ifu"]
-date: "2025-04-26 14:26:01.036442"
+date: "2025-05-03 14:26:47.941719"
 ---

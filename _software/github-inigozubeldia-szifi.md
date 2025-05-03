@@ -19,5 +19,5 @@ watchers_count: 8
 language: "Python"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/inigozubeldia", "avatar_url": "https://avatars.githubusercontent.com/u/49374875?v=4", "login": "inigozubeldia", "type": "User"}
-date: "2025-04-26 14:26:00.057759"
+date: "2025-05-03 14:26:46.951710"
 ---

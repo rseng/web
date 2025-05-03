@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 17
 owner: {"html_url": "https://github.com/ratt-ru", "avatar_url": "https://avatars.githubusercontent.com/u/7933570?v=4", "login": "ratt-ru", "type": "Organization"}
 topics: ["pipelines", "astronomical-algorithms", "workflow-management"]
-date: "2025-04-26 14:26:00.911219"
+date: "2025-05-03 14:26:47.814425"
 ---

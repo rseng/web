@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:04.062490"
 avatar: "https://avatars2.githubusercontent.com/u/1140241?v=4"
 repo_url: "https://github.com/ihrke/pypillometry"
-date: "2025-04-26 14:26:01.021763"
+date: "2025-05-03 14:26:47.927004"
 ---

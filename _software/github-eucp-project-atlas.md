@@ -21,5 +21,5 @@ open_issues_count: 12
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/eucp-project", "avatar_url": "https://avatars.githubusercontent.com/u/55438229?v=4", "login": "eucp-project", "type": "Organization"}
-date: "2025-04-26 14:26:00.381701"
+date: "2025-05-03 14:26:47.278678"
 ---

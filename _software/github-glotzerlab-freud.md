@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 12
 owner: {"html_url": "https://github.com/glotzerlab", "avatar_url": "https://avatars.githubusercontent.com/u/25832198?v=4", "login": "glotzerlab", "type": "Organization"}
 topics: ["molecular-dynamics", "analysis", "scientific-computing", "python", "monte-carlo-simulation", "data-analysis", "spatial-analysis", "particle-system", "computational-chemistry", "computational-physics", "science", "hacktoberfest"]
-date: "2025-04-26 14:26:00.767064"
+date: "2025-05-03 14:26:47.668718"
 ---

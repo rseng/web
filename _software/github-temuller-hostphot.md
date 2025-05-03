@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/temuller", "avatar_url": "https://avatars.githubusercontent.com/u/20286110?v=4", "login": "temuller", "type": "User"}
 topics: ["cosmology", "supernova", "galaxy", "python", "photometry", "sep", "sextractor", "transients"]
-date: "2025-04-26 14:25:59.581283"
+date: "2025-05-03 14:26:46.469303"
 ---

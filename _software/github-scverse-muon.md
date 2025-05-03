@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 14
 owner: {"html_url": "https://github.com/scverse", "avatar_url": "https://avatars.githubusercontent.com/u/95305807?v=4", "login": "scverse", "type": "Organization"}
 topics: ["multimodal-data", "multimodal-omics-analysis", "multi-omics", "anndata", "scanpy", "mudata", "muon", "scrna-seq", "scatac-seq", "cite-seq", "scverse"]
-date: "2025-04-26 14:26:00.213873"
+date: "2025-05-03 14:26:47.109324"
 ---

@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["peer-reviewed", "r", "r-package", "rstats", "Antarctic", "gazetteer", "placenames", "SouthernOcean", "data-access"]
-date: "2025-04-26 14:25:59.777081"
+date: "2025-05-03 14:26:46.665849"
 ---
