@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/euclidlib", "avatar_url": "https://avatars.githubusercontent.com/u/160159153?v=4", "login": "euclidlib", "type": "Organization"}
 topics: ["cosmology", "euclid", "library", "python"]
-date: "2025-05-03 14:26:47.489795"
+date: "2025-05-10 14:26:06.426811"
 ---

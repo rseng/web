@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 3
 subscribers_count: 6
 owner: {"html_url": "https://github.com/solerjuan", "avatar_url": "https://avatars.githubusercontent.com/u/10508683?v=4", "login": "solerjuan", "type": "User"}
-date: "2025-05-03 14:26:46.791353"
+date: "2025-05-10 14:26:07.220463"
 ---

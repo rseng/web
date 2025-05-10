@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/cdanielmachado", "avatar_url": "https://avatars.githubusercontent.com/u/2588245?v=4", "login": "cdanielmachado", "type": "User"}
 topics: ["metabolism", "modeling", "python"]
-date: "2025-05-03 14:26:47.198985"
+date: "2025-05-10 14:26:06.417737"
 ---

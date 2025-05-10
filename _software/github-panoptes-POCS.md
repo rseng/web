@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 24
 owner: {"html_url": "https://github.com/panoptes", "avatar_url": "https://avatars.githubusercontent.com/u/5598632?v=4", "login": "panoptes", "type": "Organization"}
 topics: ["exoplantes", "astronomy", "telescopes", "python", "panoptes", "citizen-science"]
-date: "2025-05-03 14:26:46.745161"
+date: "2025-05-10 14:26:07.228771"
 ---

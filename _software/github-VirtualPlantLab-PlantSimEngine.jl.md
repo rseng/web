@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/VirtualPlantLab", "avatar_url": "https://avatars.githubusercontent.com/u/130992956?v=4", "login": "VirtualPlantLab", "type": "Organization"}
 topics: ["crops", "fspm", "julia", "julialang", "modeling", "plants", "simulation"]
-date: "2025-05-03 14:26:46.937180"
+date: "2025-05-10 14:26:05.755736"
 ---
