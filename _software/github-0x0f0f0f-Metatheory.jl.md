@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/0x0f0f0f", "avatar_url": "https://avatars.githubusercontent.com/u/17289614?v=4", "login": "0x0f0f0f", "type": "User"}
 topics: ["julia", "symbolic", "symbolic-computation", "algebraic", "cas", "metatheory", "programming-language", "optimization", "compiler-optimization", "compiler-construction"]
-date: "2025-05-10 14:26:07.113338"
+date: "2025-05-17 14:26:30.771103"
 ---

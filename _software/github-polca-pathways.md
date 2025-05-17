@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/polca", "avatar_url": "https://avatars.githubusercontent.com/u/58623740?v=4", "login": "polca", "type": "Organization"}
 topics: ["energy", "lca", "prospective", "scenario"]
-date: "2025-05-10 14:26:06.958441"
+date: "2025-05-17 14:26:30.620624"
 ---

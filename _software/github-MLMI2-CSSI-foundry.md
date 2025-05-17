@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/MLMI2-CSSI", "avatar_url": "https://avatars.githubusercontent.com/u/60273950?v=4", "login": "MLMI2-CSSI", "type": "Organization"}
 topics: ["data-science", "machine-learning", "materials-science", "datasets", "chemistry"]
-date: "2025-05-10 14:26:07.031808"
+date: "2025-05-17 14:26:30.753662"
 ---
