@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/pavolgaj", "avatar_url": "https://avatars.githubusercontent.com/u/17177193?v=4", "login": "pavolgaj", "type": "User"}
 topics: ["python", "astronomy", "fitting-algorithm"]
-date: "2025-05-17 14:26:31.093195"
+date: "2025-05-24 14:26:19.126170"
 ---

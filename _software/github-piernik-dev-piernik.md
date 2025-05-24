@@ -22,5 +22,5 @@ open_issues_count: 35
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/piernik-dev", "avatar_url": "https://avatars.githubusercontent.com/u/4697368?v=4", "login": "piernik-dev", "type": "Organization"}
-date: "2025-05-17 14:26:30.799879"
+date: "2025-05-24 14:26:18.829904"
 ---

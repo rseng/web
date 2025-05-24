@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/radicamc", "avatar_url": "https://avatars.githubusercontent.com/u/44100686?v=4", "login": "radicamc", "type": "User"}
 topics: ["astronomy", "exoplanet-atmospheres", "exoplanets", "jwst", "niriss", "python", "soss", "spectroscopy"]
-date: "2025-05-17 14:26:31.170011"
+date: "2025-05-24 14:26:19.203511"
 ---

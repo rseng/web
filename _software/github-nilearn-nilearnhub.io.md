@@ -5,5 +5,5 @@ url: "https://nilearn.github.io/"
 timestamp: "2022-07-18 17:46:05.561158"
 description: "a Python module for fast and easy statistical learning on NeuroImaging data.  It leverages the scikit-learn Python toolbox for multivariate statistics with applications such as predictive modelling, classification, decoding, or connectivity analysis."
 title: "nilearn"
-date: "2025-05-17 14:26:31.838290"
+date: "2025-05-24 14:26:19.874556"
 ---

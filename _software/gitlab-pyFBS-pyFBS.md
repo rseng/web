@@ -23,5 +23,5 @@ readme_url: "https://gitlab.com/pyFBS/pyFBS/-/blob/master/README.rst"
 forks_count: 3
 last_activity_at: "2022-01-19T08:55:12.108Z"
 namespace: {"id": 8271333, "name": "pyFBS", "path": "pyFBS", "kind": "group", "full_path": "pyFBS", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/8271333/logo-small.png", "web_url": "https://gitlab.com/groups/pyFBS"}
-date: "2025-05-17 14:26:30.580945"
+date: "2025-05-24 14:26:18.607810"
 ---

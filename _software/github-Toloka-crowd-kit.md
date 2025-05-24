@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 13
 owner: {"html_url": "https://github.com/Toloka", "avatar_url": "https://avatars.githubusercontent.com/u/76212487?v=4", "login": "Toloka", "type": "Organization"}
 topics: ["data-science", "data-mining", "crowd", "toloka", "labeling", "annotation", "aggregations", "python", "crowdsourcing", "quality-control", "truth-inference"]
-date: "2025-05-17 14:26:31.580458"
+date: "2025-05-24 14:26:19.615777"
 ---

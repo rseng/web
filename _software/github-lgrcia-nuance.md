@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/lgrcia", "avatar_url": "https://avatars.githubusercontent.com/u/20612771?v=4", "login": "lgrcia", "type": "User"}
 topics: ["correlated-noise", "data-analysis", "exoplanets", "search", "systematics", "transits", "variability"]
-date: "2025-05-17 14:26:30.838854"
+date: "2025-05-24 14:26:18.868209"
 ---

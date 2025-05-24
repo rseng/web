@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/theGreatHerrLebert", "avatar_url": "https://avatars.githubusercontent.com/u/32388991?v=4", "login": "theGreatHerrLebert", "type": "User"}
 topics: ["bottom-up", "data-independent-acquisition", "high-throughput", "ion-mobility-spectrometry", "omics", "proteomics", "pyo3", "python", "rust-lang", "timstof", "raw-data", "mass-spectrometry"]
-date: "2025-05-17 14:26:32.141188"
+date: "2025-05-24 14:26:20.179493"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Li-Yangyang", "avatar_url": "https://avatars.githubusercontent.com/u/20237054?v=4", "login": "Li-Yangyang", "type": "User"}
 topics: ["python3", "radiative-transfer", "radiative-transfer-models", "non-local-thermodynamic-equilibrium", "stellar-physics", "astronomy", "astrophysics", "spectral-analysis", "spectroscopy", "mcmc"]
-date: "2025-05-17 14:26:31.586030"
+date: "2025-05-24 14:26:19.621242"
 ---

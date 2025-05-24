@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/LoganAMorrison", "avatar_url": "https://avatars.githubusercontent.com/u/22247102?v=4", "login": "LoganAMorrison", "type": "User"}
 topics: ["physics", "quantum-field-theory", "astrophysics", "python"]
-date: "2025-05-17 14:26:30.719303"
+date: "2025-05-24 14:26:18.748116"
 ---

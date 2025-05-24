@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sidiwang", "avatar_url": "https://avatars.githubusercontent.com/u/56009989?v=4", "login": "sidiwang", "type": "User"}
 topics: ["bayesian-analysis", "clinical-trials", "r", "rare-disease", "small-sample"]
-date: "2025-05-17 14:26:30.707483"
+date: "2025-05-24 14:26:18.736428"
 ---

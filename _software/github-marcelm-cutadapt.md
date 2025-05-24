@@ -25,5 +25,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 22
 owner: {"html_url": "https://github.com/marcelm", "avatar_url": "https://avatars.githubusercontent.com/u/724864?v=4", "login": "marcelm", "type": "User"}
 topics: ["python", "bioinformatics"]
-date: "2025-05-17 14:26:31.824076"
+date: "2025-05-24 14:26:19.858755"
 ---
