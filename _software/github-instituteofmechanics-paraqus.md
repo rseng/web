@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/InstituteOfMechanics", "avatar_url": "https://avatars.githubusercontent.com/u/153821080?v=4", "login": "InstituteOfMechanics", "type": "User"}
-date: "2025-05-24 14:26:20.142597"
+date: "2025-05-31 14:26:52.036127"
 ---

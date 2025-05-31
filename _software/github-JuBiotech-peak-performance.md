@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 5
 owner: {"html_url": "https://github.com/JuBiotech", "avatar_url": "https://avatars.githubusercontent.com/u/81701481?v=4", "login": "JuBiotech", "type": "Organization"}
 topics: ["bayesian-inference", "hplc", "liquid-chromatography", "mass-spectrometry", "metabolomics"]
-date: "2025-05-24 14:26:19.062947"
+date: "2025-05-31 14:26:52.134614"
 ---

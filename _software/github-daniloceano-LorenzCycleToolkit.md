@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/daniloceano", "avatar_url": "https://avatars.githubusercontent.com/u/56005607?v=4", "login": "daniloceano", "type": "User"}
 topics: ["atmospheric-science", "data-analysis-python", "energetics", "meteorology", "scientific-research"]
-date: "2025-05-24 14:26:19.522871"
+date: "2025-05-31 14:26:52.295486"
 ---

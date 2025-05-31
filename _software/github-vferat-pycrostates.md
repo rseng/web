@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/vferat", "avatar_url": "https://avatars.githubusercontent.com/u/28844486?v=4", "login": "vferat", "type": "User"}
 topics: ["eeg", "eeg-analysis"]
-date: "2025-05-24 14:26:19.144810"
+date: "2025-05-31 14:26:52.218164"
 ---

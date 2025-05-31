@@ -19,5 +19,5 @@ language: "Python"
 open_issues_count: 1
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 owner: {"html_url": "https://github.com/nvanalfen", "avatar_url": "https://avatars.githubusercontent.com/u/26467203?v=4", "login": "nvanalfen", "type": "User"}
-date: "2025-05-24 14:26:18.655387"
+date: "2025-05-31 14:26:52.185266"
 ---
