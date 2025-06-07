@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 15
 owner: {"html_url": "https://github.com/SMTG-Bham", "avatar_url": "https://avatars.githubusercontent.com/u/14860406?v=4", "login": "SMTG-Bham", "type": "Organization"}
 topics: ["ab-initio", "computational-chemistry", "computational-materials-science", "defect-formation-energy", "defects", "dft", "doping", "fermi-level", "point-defects", "pymatgen", "semiconductors", "vasp", "defect-calculation", "defect-levels", "defect-thermodynamics", "shakenbreak", "transition-levels"]
-date: "2025-05-31 14:26:51.486941"
+date: "2025-06-07 14:27:15.032747"
 ---

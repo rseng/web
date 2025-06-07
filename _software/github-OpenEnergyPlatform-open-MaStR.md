@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 8
 owner: {"html_url": "https://github.com/OpenEnergyPlatform", "avatar_url": "https://avatars.githubusercontent.com/u/37101913?v=4", "login": "OpenEnergyPlatform", "type": "Organization"}
 topics: ["open-energy-family", "oep", "marktstammdatenregister", "python", "energy", "energy-data", "dataset", "datasets", "solar"]
-date: "2025-05-31 14:26:51.379090"
+date: "2025-06-07 14:27:14.926026"
 ---

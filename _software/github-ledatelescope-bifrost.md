@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 17
 owner: {"html_url": "https://github.com/ledatelescope", "avatar_url": "https://avatars.githubusercontent.com/u/9952818?v=4", "login": "ledatelescope", "type": "User"}
 topics: ["gpu", "pipeline", "python", "cpp", "bifrost", "high-throughput-computing", "high-performance-computing", "astronomy", "radio-astronomy", "cuda"]
-date: "2025-05-31 14:26:52.208944"
+date: "2025-06-07 14:27:15.758318"
 ---

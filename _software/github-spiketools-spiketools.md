@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/spiketools", "avatar_url": "https://avatars.githubusercontent.com/u/91502149?v=4", "login": "spiketools", "type": "Organization"}
 topics: ["neuroscience", "spikes", "single-unit", "spike-analysis", "python", "data-analysis"]
-date: "2025-05-31 14:26:52.051275"
+date: "2025-06-07 14:27:15.600519"
 ---

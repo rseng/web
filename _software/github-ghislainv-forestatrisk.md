@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ghislainv", "avatar_url": "https://avatars.githubusercontent.com/u/4931332?v=4", "login": "ghislainv", "type": "User"}
 topics: ["python", "land-use-change", "spatial-modelling", "spatial-analysis", "forecasting", "spatial-autocorrelation", "tropical-forests", "roads", "protected-areas", "biodiversity-scenario", "ipbes", "co2-emissions", "ipcc", "forest-cover-change", "deforestation", "deforestation-risk", "redd"]
-date: "2025-05-31 14:26:51.437917"
+date: "2025-06-07 14:27:14.984937"
 ---

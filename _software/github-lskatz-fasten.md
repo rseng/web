@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/lskatz", "avatar_url": "https://avatars.githubusercontent.com/u/14798?v=4", "login": "lskatz", "type": "User"}
 topics: ["bioinformatics", "fastq-files", "rust"]
-date: "2025-05-31 14:26:52.254348"
+date: "2025-06-07 14:27:15.804854"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/3fon3fonov", "avatar_url": "https://avatars.githubusercontent.com/u/44244057?v=4", "login": "3fon3fonov", "type": "User"}
 topics: ["exoplanet", "exoplanets", "periodogram", "radial-velocity", "transit-modeling", "ttv-modeling", "multi-planet-systems"]
-date: "2025-05-31 14:26:51.471033"
+date: "2025-06-07 14:27:15.017397"
 ---

@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 3
 subscribers_count: 5
 owner: {"html_url": "https://github.com/fogellab", "avatar_url": "https://avatars.githubusercontent.com/u/117482572?v=4", "login": "fogellab", "type": "User"}
-date: "2025-05-31 14:26:51.388017"
+date: "2025-06-07 14:27:14.935026"
 ---

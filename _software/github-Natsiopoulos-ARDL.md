@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Natsiopoulos", "avatar_url": "https://avatars.githubusercontent.com/u/38705190?v=4", "login": "Natsiopoulos", "type": "User"}
-date: "2025-05-31 14:26:52.013716"
+date: "2025-06-07 14:27:15.563621"
 ---

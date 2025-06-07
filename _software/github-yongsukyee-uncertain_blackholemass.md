@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/yongsukyee", "avatar_url": "https://avatars.githubusercontent.com/u/11021594?v=4", "login": "yongsukyee", "type": "User"}
 topics: ["agn", "black-hole", "conformal-prediction", "neural-networks", "prediction", "prediction-intervals", "pytorch", "quasar", "uncertainty-quantification"]
-date: "2025-05-31 14:26:52.210936"
+date: "2025-06-07 14:27:15.760588"
 ---

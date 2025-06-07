@@ -23,5 +23,5 @@ open_issues_count: 9
 subscribers_count: 4
 owner: {"html_url": "https://github.com/hombit", "avatar_url": "https://avatars.githubusercontent.com/u/1784493?v=4", "login": "hombit", "type": "User"}
 topics: ["accretion-disks", "astrophysics", "x-ray-binaries", "fred", "science", "lmxb"]
-date: "2025-05-31 14:26:51.483524"
+date: "2025-06-07 14:27:15.029514"
 ---

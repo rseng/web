@@ -22,5 +22,5 @@ open_issues_count: 35
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 15
 owner: {"html_url": "https://github.com/vdemichev", "avatar_url": "https://avatars.githubusercontent.com/u/30595084?v=4", "login": "vdemichev", "type": "User"}
-date: "2025-05-31 14:26:51.395551"
+date: "2025-06-07 14:27:14.942475"
 ---

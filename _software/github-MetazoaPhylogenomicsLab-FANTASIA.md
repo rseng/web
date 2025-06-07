@@ -20,5 +20,5 @@ open_issues_count: 4
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/MetazoaPhylogenomicsLab", "avatar_url": "https://avatars.githubusercontent.com/u/62691665?v=4", "login": "MetazoaPhylogenomicsLab", "type": "User"}
-date: "2025-05-31 14:26:52.566561"
+date: "2025-06-07 14:27:16.119341"
 ---

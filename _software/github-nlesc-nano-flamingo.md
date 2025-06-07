@@ -19,5 +19,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/nlesc-nano", "avatar_url": "https://avatars0.githubusercontent.com/u/49066803?v=4", "login": "nlesc-nano", "type": "Organization"}
 topics: ["quantum-chemistry", "nanomaterials", "insilico", "molecular-simulation"]
-date: "2025-05-31 14:26:51.990781"
+date: "2025-06-07 14:27:15.540803"
 ---

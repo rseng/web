@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/euroargodev", "avatar_url": "https://avatars1.githubusercontent.com/u/57987739?v=4", "login": "euroargodev", "type": "Organization"}
 topics: ["argo", "python", "argo-floats", "oceanography", "argo-data"]
-date: "2025-05-31 14:26:51.580430"
+date: "2025-06-07 14:27:15.127283"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 41
 owner: {"html_url": "https://github.com/intake", "avatar_url": "https://avatars.githubusercontent.com/u/1469464?v=4", "login": "intake", "type": "Organization"}
 topics: ["python", "data-access", "data-catalog"]
-date: "2025-05-31 14:26:52.283460"
+date: "2025-06-07 14:27:15.833628"
 ---

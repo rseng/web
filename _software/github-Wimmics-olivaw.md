@@ -20,5 +20,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Wimmics", "avatar_url": "https://avatars.githubusercontent.com/u/12628018?v=4", "login": "Wimmics", "type": "Organization"}
 topics: ["ontology", "semantics", "linked-data", "owl", "rdf", "rdfs", "schema", "shacl", "sparql", "validation", "vocabulary"]
-date: "2025-05-31 14:26:51.582589"
+date: "2025-06-07 14:27:15.129440"
 ---

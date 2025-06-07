@@ -20,5 +20,5 @@ watchers_count: 4
 language: "C++"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/magnusmanske", "avatar_url": "https://avatars.githubusercontent.com/u/1406572?v=4", "login": "magnusmanske", "type": "User"}
-date: "2025-05-31 14:26:51.362394"
+date: "2025-06-07 14:27:14.910312"
 ---
