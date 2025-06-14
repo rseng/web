@@ -22,5 +22,5 @@ language: "Python"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/nbarbey", "avatar_url": "https://avatars.githubusercontent.com/u/295277?v=4", "login": "nbarbey", "type": "User"}
-date: "2025-06-07 14:27:15.097873"
+date: "2025-06-14 14:26:59.815716"
 ---

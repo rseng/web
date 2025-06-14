@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/symmy596", "avatar_url": "https://avatars.githubusercontent.com/u/26469895?v=4", "login": "symmy596", "type": "User"}
 topics: ["density-functional-theory", "thermodynamic-properties"]
-date: "2025-06-07 14:27:15.764005"
+date: "2025-06-14 14:26:59.415630"
 ---

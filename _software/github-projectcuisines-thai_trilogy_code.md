@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/projectcuisines", "avatar_url": "https://avatars.githubusercontent.com/u/68251081?v=4", "login": "projectcuisines", "type": "Organization"}
 topics: ["atmospheric-modelling", "exoplanets", "gcm", "trappist-1"]
-date: "2025-06-07 14:27:15.385393"
+date: "2025-06-14 14:26:59.040614"
 ---

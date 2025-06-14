@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/pavolgaj", "avatar_url": "https://avatars.githubusercontent.com/u/17177193?v=4", "login": "pavolgaj", "type": "User"}
 topics: ["astronomy", "observation"]
-date: "2025-06-07 14:27:15.519131"
+date: "2025-06-14 14:26:58.848183"
 ---

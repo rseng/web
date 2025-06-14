@@ -21,5 +21,5 @@ open_issues_count: 39
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["metadata-standard", "eml", "eml-metadata", "r", "rstats", "r-package", "data-publication"]
-date: "2025-06-07 14:27:16.084585"
+date: "2025-06-14 14:26:58.768348"
 ---

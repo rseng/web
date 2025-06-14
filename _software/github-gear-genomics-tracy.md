@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/gear-genomics", "avatar_url": "https://avatars.githubusercontent.com/u/31348883?v=4", "login": "gear-genomics", "type": "Organization"}
 topics: ["chromatogram", "pcr", "tracy", "sanger-trace-alignment", "sanger-sequencing", "sequencing", "variant-calling", "alignment", "genetic-engineering", "pcr-products", "crispr-cas9", "crispr-analysis", "indel", "indel-discovery", "sanger-chromatograms"]
-date: "2025-06-07 14:27:14.841298"
+date: "2025-06-14 14:26:59.930322"
 ---

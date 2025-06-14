@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/vbaliga", "avatar_url": "https://avatars.githubusercontent.com/u/9795391?v=4", "login": "vbaliga", "type": "User"}
 topics: ["gaussian", "r", "rstats", "gaussian-interpolation", "gaussian-plot", "plotting", "gaussian-volume", "2d-gaussian", "gaussian-fit"]
-date: "2025-06-07 14:27:15.921518"
+date: "2025-06-14 14:26:59.502720"
 ---

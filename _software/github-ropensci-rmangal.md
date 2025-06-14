@@ -21,5 +21,5 @@ open_issues_count: 4
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["datapublications", "ecology", "foodwebs", "interactions", "networks", "openaccess", "data-access"]
-date: "2025-06-07 14:27:16.049704"
+date: "2025-06-14 14:26:58.760232"
 ---

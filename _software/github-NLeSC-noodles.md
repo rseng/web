@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:16.942079"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/noodles"
-date: "2025-06-07 14:27:15.341137"
+date: "2025-06-14 14:26:59.010297"
 ---

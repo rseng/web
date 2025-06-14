@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/flekschas", "avatar_url": "https://avatars.githubusercontent.com/u/932103?v=4", "login": "flekschas", "type": "User"}
 topics: ["scatter-plot", "visualization", "jupyterlab-extension", "jupyter-notebook-extension"]
-date: "2025-06-07 14:27:15.742516"
+date: "2025-06-14 14:26:59.605683"
 ---

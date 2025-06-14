@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/chenzhaiyu/abspy"
+url: "https://github.com/chenzhaiyu/abspy"
+timestamp: "2025-06-08 00:57:11.395995"
+description: "3D adaptive binary space partitioning and beyond"
+avatar: "https://avatars.githubusercontent.com/u/24312770?v=4"
+repo_url: "https://github.com/chenzhaiyu/abspy"
+doi: "https://doi.org/10.5281/zenodo.15609991"
+name: "abspy"
+full_name: "chenzhaiyu/abspy"
+html_url: "https://github.com/chenzhaiyu/abspy"
+created_at: "2021-02-18T21:23:59Z"
+updated_at: "2025-06-06T19:06:49Z"
+clone_url: "https://github.com/chenzhaiyu/abspy.git"
+homepage: "https://abspy.readthedocs.io/"
+size: 14214
+stargazers_count: 83
+watchers_count: 83
+language: "Python"
+open_issues_count: 1
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 4
+owner: {"html_url": "https://github.com/chenzhaiyu", "avatar_url": "https://avatars.githubusercontent.com/u/24312770?v=4", "login": "chenzhaiyu", "type": "User"}
+topics: ["point-cloud", "3d", "adaptive", "binary-space-partition", "reconstruction", "python"]
+date: "2025-06-14 14:26:59.997377"
+---

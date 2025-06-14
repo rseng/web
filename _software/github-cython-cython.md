@@ -23,5 +23,5 @@ topics: ["python", "cython", "cpython", "cpython-extensions", "c", "cpp", "perfo
 timestamp: "2020-07-04 13:22:27.102886"
 avatar: "https://avatars3.githubusercontent.com/u/486082?v=4"
 repo_url: "https://github.com/cython/cython"
-date: "2025-06-07 14:27:15.577014"
+date: "2025-06-14 14:26:59.899132"
 ---

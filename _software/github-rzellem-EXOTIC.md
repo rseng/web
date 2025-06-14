@@ -22,5 +22,5 @@ open_issues_count: 101
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/rzellem", "avatar_url": "https://avatars.githubusercontent.com/u/13021111?v=4", "login": "rzellem", "type": "User"}
-date: "2025-06-07 14:27:16.202549"
+date: "2025-06-14 14:26:58.488218"
 ---

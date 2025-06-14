@@ -19,5 +19,5 @@ watchers_count: 2
 language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/PabloVD", "avatar_url": "https://avatars.githubusercontent.com/u/55508726?v=4", "login": "PabloVD", "type": "User"}
-date: "2025-06-07 14:27:14.677109"
+date: "2025-06-14 14:26:59.673494"
 ---

@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 15
 owner: {"html_url": "https://github.com/alejandrobll", "avatar_url": "https://avatars.githubusercontent.com/u/7341581?v=4", "login": "alejandrobll", "type": "User"}
 topics: ["py-sphviewer", "smoothed-particle-hydrodynamics", "particle-data", "python", "visualisation", "n-body", "rendering", "gas", "sph", "cosmological", "simulations", "clustering", "neighbors", "astronomy", "science", "science-research", "parallel", "openmp", "python-api"]
-date: "2025-06-07 14:27:14.797714"
+date: "2025-06-14 14:26:59.899852"
 ---
