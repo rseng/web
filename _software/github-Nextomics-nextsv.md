@@ -21,5 +21,5 @@ language: "JavaScript"
 open_issues_count: 4
 subscribers_count: 7
 owner: {"html_url": "https://github.com/Nextomics", "avatar_url": "https://avatars.githubusercontent.com/u/17420776?v=4", "login": "Nextomics", "type": "Organization"}
-date: "2025-06-14 14:26:58.494096"
+date: "2025-06-21 14:28:30.251756"
 ---

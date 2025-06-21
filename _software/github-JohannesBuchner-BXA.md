@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/JohannesBuchner", "avatar_url": "https://avatars.githubusercontent.com/u/51015?v=4", "login": "JohannesBuchner", "type": "User"}
 topics: ["nested-sampling", "python", "x-ray-astronomy", "spectroscopy", "xspec", "sherpa", "model-selection"]
-date: "2025-06-14 14:26:59.771566"
+date: "2025-06-21 14:28:31.544005"
 ---

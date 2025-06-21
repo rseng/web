@@ -17,5 +17,5 @@ clone_url: "https://github.com/moustakas/iSEDfit.git"
 size: 2
 subscribers_count: 2
 owner: {"html_url": "https://github.com/moustakas", "avatar_url": "https://avatars.githubusercontent.com/u/1431820?v=4", "login": "moustakas", "type": "User"}
-date: "2025-06-14 14:26:59.490156"
+date: "2025-06-21 14:28:31.262693"
 ---

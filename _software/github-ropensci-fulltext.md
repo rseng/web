@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["text-ming", "pdf", "metadata", "open-access", "xml", "extract-text", "crossref", "rstats", "r", "r-package", "citations", "full-text", "literature", "publications", "TDM", "text-mining", "literature"]
-date: "2025-06-14 14:26:58.770832"
+date: "2025-06-21 14:28:30.529192"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/nikhil-sarin", "avatar_url": "https://avatars.githubusercontent.com/u/42257246?v=4", "login": "nikhil-sarin", "type": "User"}
 topics: ["kilonovae", "supernovae", "timedomainastronomy", "astronomy", "multi-messenger", "tidal-disruptions", "transients"]
-date: "2025-06-14 14:26:59.515618"
+date: "2025-06-21 14:28:31.287989"
 ---

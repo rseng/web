@@ -20,5 +20,5 @@ language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/liulizhi1996", "avatar_url": "https://avatars.githubusercontent.com/u/30016094?v=4", "login": "liulizhi1996", "type": "User"}
 topics: ["graph-convolutional-network", "human-phenotype-ontology"]
-date: "2025-06-14 14:26:59.108895"
+date: "2025-06-21 14:28:30.874161"
 ---

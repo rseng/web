@@ -23,5 +23,5 @@ open_issues_count: 3
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 58
 owner: {"html_url": "https://github.com/jpmens", "avatar_url": "https://avatars.githubusercontent.com/u/60706?v=4", "login": "jpmens", "type": "User"}
-date: "2025-06-14 14:26:58.475040"
+date: "2025-06-21 14:28:30.232692"
 ---

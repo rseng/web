@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/easystats", "avatar_url": "https://avatars.githubusercontent.com/u/47102598?v=4", "login": "easystats", "type": "Organization"}
 topics: ["contrasts", "marginal", "means", "marginal-effects", "predict", "estimate", "easystats", "r", "contrast-analysis", "hacktoberfest", "ggplot2"]
-date: "2025-06-14 14:26:59.015612"
+date: "2025-06-21 14:28:30.779536"
 ---

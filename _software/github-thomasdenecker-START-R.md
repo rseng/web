@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/thomasdenecker", "avatar_url": "https://avatars2.githubusercontent.com/u/21334113?v=4", "login": "thomasdenecker", "type": "User"}
-date: "2025-06-14 14:26:58.841202"
+date: "2025-06-21 14:28:30.598640"
 ---

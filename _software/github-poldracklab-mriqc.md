@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 17
 owner: {"html_url": "https://github.com/nipreps", "avatar_url": "https://avatars.githubusercontent.com/u/48300745?v=4", "login": "nipreps", "type": "Organization"}
 topics: ["mri", "quality-control", "quality-reporter", "machine-learning", "neuroimaging"]
-date: "2025-06-14 14:26:58.692585"
+date: "2025-06-21 14:28:30.452512"
 ---

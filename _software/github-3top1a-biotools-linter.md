@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/3top1a", "avatar_url": "https://avatars.githubusercontent.com/u/57371001?v=4", "login": "3top1a", "type": "User"}
 topics: ["biotools", "linter"]
-date: "2025-06-14 14:26:59.477910"
+date: "2025-06-21 14:28:31.250547"
 ---

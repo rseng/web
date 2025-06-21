@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/segasai", "avatar_url": "https://avatars.githubusercontent.com/u/109513?v=4", "login": "segasai", "type": "User"}
 topics: ["astrophysics", "spectroscopy"]
-date: "2025-06-14 14:26:59.992466"
+date: "2025-06-21 14:28:31.764056"
 ---

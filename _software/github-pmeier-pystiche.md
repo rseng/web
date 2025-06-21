@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/pmeier", "avatar_url": "https://avatars0.githubusercontent.com/u/6849766?v=4", "login": "pmeier", "type": "User"}
 topics: ["python", "neural-style-transfer", "framework", "pytorch"]
-date: "2025-06-14 14:26:58.815007"
+date: "2025-06-21 14:28:30.572782"
 ---

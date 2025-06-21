@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/blebon", "avatar_url": "https://avatars.githubusercontent.com/u/3886030?v=4", "login": "blebon", "type": "User"}
 topics: ["casting", "openfoam", "computational-fluid-dynamics", "simulation"]
-date: "2025-06-14 14:26:59.488678"
+date: "2025-06-21 14:28:31.261242"
 ---

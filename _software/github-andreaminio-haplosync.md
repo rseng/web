@@ -19,5 +19,5 @@ watchers_count: 3
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/andreaminio", "avatar_url": "https://avatars.githubusercontent.com/u/33559900?v=4", "login": "andreaminio", "type": "User"}
-date: "2025-06-14 14:27:00.006251"
+date: "2025-06-21 14:28:31.777521"
 ---

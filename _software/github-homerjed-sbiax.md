@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/homerjed", "avatar_url": "https://avatars.githubusercontent.com/u/47306716?v=4", "login": "homerjed", "type": "User"}
 topics: ["generative-models", "jax", "normalizing-flows", "simulation-based-inference"]
-date: "2025-06-14 14:26:59.468262"
+date: "2025-06-21 14:28:31.240754"
 ---

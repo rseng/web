@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/enthusi", "avatar_url": "https://avatars.githubusercontent.com/u/30237776?v=4", "login": "enthusi", "type": "User"}
-date: "2025-06-14 14:26:58.955809"
+date: "2025-06-21 14:28:30.713255"
 ---

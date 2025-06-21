@@ -17,5 +17,5 @@ size: 66768
 stargazers_count: 3
 watchers_count: 3
 owner: {"html_url": "https://github.com/cbio-astar-tools", "avatar_url": "https://avatars.githubusercontent.com/u/73512938?v=4", "login": "cbio-astar-tools", "type": "Organization"}
-date: "2025-06-14 14:26:59.781577"
+date: "2025-06-21 14:28:31.554100"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 2
 subscribers_count: 1
 owner: {"html_url": "https://github.com/pr2database", "avatar_url": "https://avatars.githubusercontent.com/u/44997718?v=4", "login": "pr2database", "type": "Organization"}
 topics: ["database", "18s-rrna", "primers", "eukaryotes", "taxonomy", "metabarcoding"]
-date: "2025-06-14 14:26:59.700153"
+date: "2025-06-21 14:28:31.473605"
 ---

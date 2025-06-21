@@ -23,5 +23,5 @@ topics: ["linked-data", "rdf", "virtuoso-server", "genome-annotation", "qtl", "t
 timestamp: "2020-07-05 00:17:15.667804"
 avatar: "https://avatars2.githubusercontent.com/u/27219573?v=4"
 repo_url: "https://github.com/candYgene/abg-ld"
-date: "2025-06-14 14:26:58.991224"
+date: "2025-06-21 14:28:30.750655"
 ---

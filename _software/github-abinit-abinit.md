@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 16
 owner: {"html_url": "https://github.com/abinit", "avatar_url": "https://avatars.githubusercontent.com/u/15837788?v=4", "login": "abinit", "type": "Organization"}
 topics: ["ab-initio", "dfpt", "kohn-sham", "mbpt", "density-functional-theory", "abinit", "fortran"]
-date: "2025-06-14 14:26:58.558823"
+date: "2025-06-21 14:28:30.316418"
 ---

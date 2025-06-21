@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/moble", "avatar_url": "https://avatars.githubusercontent.com/u/1470769?v=4", "login": "moble", "type": "User"}
 topics: ["astronomy", "gravitational-waves", "python"]
-date: "2025-06-14 14:26:59.491141"
+date: "2025-06-21 14:28:31.263671"
 ---

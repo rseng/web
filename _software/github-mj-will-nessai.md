@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/mj-will", "avatar_url": "https://avatars.githubusercontent.com/u/25609742?v=4", "login": "mj-will", "type": "User"}
 topics: ["pytorch", "normalizing-flows", "nested-sampling", "python", "bayesian-inference", "bilby", "machine-learning"]
-date: "2025-06-14 14:26:58.657411"
+date: "2025-06-21 14:28:30.417468"
 ---
