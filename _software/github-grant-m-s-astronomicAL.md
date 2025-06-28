@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/grant-m-s", "avatar_url": "https://avatars.githubusercontent.com/u/12834844?v=4", "login": "grant-m-s", "type": "User"}
 topics: ["machine-learning", "active-learning", "astronomy", "interactive", "labelling", "python", "data-visualization"]
-date: "2025-06-21 14:28:31.240519"
+date: "2025-06-28 14:27:47.001879"
 ---

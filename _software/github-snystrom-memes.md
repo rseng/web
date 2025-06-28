@@ -22,5 +22,5 @@ open_issues_count: 28
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/snystrom", "avatar_url": "https://avatars.githubusercontent.com/u/17264973?v=4", "login": "snystrom", "type": "User"}
-date: "2025-06-21 14:28:30.821954"
+date: "2025-06-28 14:27:46.587205"
 ---

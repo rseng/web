@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 11
 owner: {"html_url": "https://github.com/Quantum-Dynamics-Hub", "avatar_url": "https://avatars.githubusercontent.com/u/27871906?v=4", "login": "Quantum-Dynamics-Hub", "type": "Organization"}
 topics: ["nonadiabatic", "quantum", "quantum-chemistry", "dynamics", "molecular-dynamics", "do-it-yourself", "library", "methodology-development", "electronic-structure", "semiempirical-methods", "atomic-orbitals", "object-oriented", "utilities"]
-date: "2025-06-21 14:28:31.760825"
+date: "2025-06-28 14:27:47.522282"
 ---

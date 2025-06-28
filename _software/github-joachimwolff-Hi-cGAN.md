@@ -14,5 +14,5 @@ clone_url: "https://github.com/joachimwolff/Hi-cGAN.git"
 size: 418
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/joachimwolff", "avatar_url": "https://avatars.githubusercontent.com/u/13435136?v=4", "login": "joachimwolff", "type": "User"}
-date: "2025-06-21 14:28:31.107997"
+date: "2025-06-28 14:27:46.865663"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/bsumlin", "avatar_url": "https://avatars.githubusercontent.com/u/30328179?v=4", "login": "bsumlin", "type": "User"}
 topics: ["python3", "python-3", "optics", "light-scattering", "electromagnetics", "physics", "mie", "aerosol", "atmospheric-science", "atmospheric-scattering", "science"]
-date: "2025-06-21 14:28:31.120303"
+date: "2025-06-28 14:27:46.877682"
 ---

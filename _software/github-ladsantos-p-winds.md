@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ladsantos", "avatar_url": "https://avatars.githubusercontent.com/u/2818188?v=4", "login": "ladsantos", "type": "User"}
 topics: ["astronomy", "exoplanet", "exoplanet-atmospheres", "atmosphere", "astrophysics"]
-date: "2025-06-21 14:28:31.248793"
+date: "2025-06-28 14:27:47.010097"
 ---

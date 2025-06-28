@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/lucianolorenti", "avatar_url": "https://avatars.githubusercontent.com/u/106397?v=4", "login": "lucianolorenti", "type": "User"}
 topics: ["predictive-maintenance", "time-series", "remaining-useful-life", "remaining-useful-life-prediction"]
-date: "2025-06-21 14:28:31.520291"
+date: "2025-06-28 14:27:47.281869"
 ---

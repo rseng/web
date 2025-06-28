@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/yapenzhang/excalibuhr"
+url: "https://github.com/yapenzhang/excalibuhr"
+timestamp: "2025-06-22 00:58:03.080141"
+description: "A pipeline for high-resolution spectral data reduction"
+avatar: "https://avatars.githubusercontent.com/u/45408119?v=4"
+repo_url: "https://github.com/yapenzhang/excalibuhr"
+doi: ["https://ui.adsabs.harvard.edu/abs/2024AJ....168..246Z", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft06007Z/abstract"]
+title: "excalibuhr: High-resolution spectral data reduction"
+name: "excalibuhr"
+full_name: "yapenzhang/excalibuhr"
+html_url: "https://github.com/yapenzhang/excalibuhr"
+created_at: "2022-06-05T10:14:57Z"
+updated_at: "2025-05-29T16:06:54Z"
+clone_url: "https://github.com/yapenzhang/excalibuhr.git"
+homepage: "https://excalibuhr.readthedocs.io"
+size: 7335
+stargazers_count: 6
+watchers_count: 6
+language: "Python"
+open_issues_count: 1
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 3
+owner: {"html_url": "https://github.com/yapenzhang", "avatar_url": "https://avatars.githubusercontent.com/u/45408119?v=4", "login": "yapenzhang", "type": "User"}
+date: "2025-06-28 14:27:46.891196"
+---

@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/RoelofBerg", "avatar_url": "https://avatars.githubusercontent.com/u/7037594?v=4", "login": "RoelofBerg", "type": "User"}
-date: "2025-06-21 14:28:30.443031"
+date: "2025-06-28 14:27:46.217994"
 ---

@@ -20,5 +20,5 @@ watchers_count: 2
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/simon-prunet", "avatar_url": "https://avatars.githubusercontent.com/u/31455690?v=4", "login": "simon-prunet", "type": "User"}
-date: "2025-06-21 14:28:31.717130"
+date: "2025-06-28 14:27:47.478836"
 ---
