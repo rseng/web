@@ -20,5 +20,5 @@ open_issues_count: 1
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/legacysurvey", "avatar_url": "https://avatars.githubusercontent.com/u/13069388?v=4", "login": "legacysurvey", "type": "Organization"}
-date: "2025-06-28 14:27:46.450121"
+date: "2025-07-05 14:29:41.216882"
 ---

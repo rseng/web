@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 271
 owner: {"html_url": "https://github.com/LSSTDESC", "avatar_url": "https://avatars.githubusercontent.com/u/2731443?v=4", "login": "LSSTDESC", "type": "Organization"}
 topics: ["simulation", "galaxies", "tutorials", "cosmology", "blending", "crowded-scenes", "blended-galaxies"]
-date: "2025-06-28 14:27:46.032072"
+date: "2025-07-05 14:29:40.804757"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AninaTimmermann", "avatar_url": "https://avatars.githubusercontent.com/u/111730996?v=4", "login": "AninaTimmermann", "type": "User"}
 topics: ["chemical-equilibrium", "planet-formation", "planet-composition", "rocky-planets"]
-date: "2025-06-28 14:27:46.165057"
+date: "2025-07-05 14:29:40.936048"
 ---

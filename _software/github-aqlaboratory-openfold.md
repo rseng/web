@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 43
 owner: {"html_url": "https://github.com/aqlaboratory", "avatar_url": "https://avatars.githubusercontent.com/u/8396911?v=4", "login": "aqlaboratory", "type": "Organization"}
 topics: ["pytorch", "protein-structure", "alphafold2"]
-date: "2025-06-28 14:27:47.527311"
+date: "2025-07-05 14:29:42.272648"
 ---

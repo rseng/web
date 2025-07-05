@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 21
 owner: {"html_url": "https://github.com/NuGrid", "avatar_url": "https://avatars.githubusercontent.com/u/17138624?v=4", "login": "NuGrid", "type": "Organization"}
 topics: ["galaxies", "chemical-evolution", "nugrid"]
-date: "2025-06-28 14:27:47.356109"
+date: "2025-07-05 14:29:42.103358"
 ---

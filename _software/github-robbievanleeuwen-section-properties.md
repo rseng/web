@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 31
 owner: {"html_url": "https://github.com/robbievanleeuwen", "avatar_url": "https://avatars.githubusercontent.com/u/18841910?v=4", "login": "robbievanleeuwen", "type": "User"}
 topics: ["structural-engineering", "finite-element-analysis", "finite-element-method", "computational-mechanics", "python", "cross-section", "stress-analysis"]
-date: "2025-06-28 14:27:46.601141"
+date: "2025-07-05 14:29:41.364647"
 ---

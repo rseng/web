@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Jacks0nJ", "avatar_url": "https://avatars.githubusercontent.com/u/73479437?v=4", "login": "Jacks0nJ", "type": "User"}
 topics: ["cosmology", "cython", "first-passage-times", "importance-sampling", "inflation", "stochastic"]
-date: "2025-06-28 14:27:46.956045"
+date: "2025-07-05 14:29:41.708400"
 ---

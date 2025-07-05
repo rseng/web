@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/lynx-x-ray-observatory", "avatar_url": "https://avatars.githubusercontent.com/u/47825814?v=4", "login": "lynx-x-ray-observatory", "type": "Organization"}
-date: "2025-06-28 14:27:47.092383"
+date: "2025-07-05 14:29:41.842232"
 ---

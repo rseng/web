@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/finsberg", "avatar_url": "https://avatars.githubusercontent.com/u/2010323?v=4", "login": "finsberg", "type": "User"}
 topics: ["ode", "parser", "parsing", "gotran", "code-generation"]
-date: "2025-06-28 14:27:47.496496"
+date: "2025-07-05 14:29:42.241622"
 ---
