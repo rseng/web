@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Juke34", "avatar_url": "https://avatars.githubusercontent.com/u/6769395?v=4", "login": "Juke34", "type": "User"}
 topics: ["bowtie2", "bwa", "hisat2", "minimap2", "nextflow", "nucmer", "star", "graphmap2", "bbmap", "bowtie", "kallisto", "ngmlr", "novoalign", "subread", "bwa-sw", "sublong", "bmw-mem2", "salmon", "starlong", "last"]
-date: "2025-07-05 14:29:40.764221"
+date: "2025-07-12 14:28:49.778497"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rstats", "r", "marine", "spatial", "r-package", "peer-reviewed", "geospatial"]
-date: "2025-07-05 14:29:41.102643"
+date: "2025-07-12 14:28:50.453105"
 ---

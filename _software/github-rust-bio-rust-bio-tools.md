@@ -22,5 +22,5 @@ open_issues_count: 9
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 25
 owner: {"html_url": "https://github.com/rust-bio", "avatar_url": "https://avatars.githubusercontent.com/u/13785584?v=4", "login": "rust-bio", "type": "Organization"}
-date: "2025-07-05 14:29:41.852260"
+date: "2025-07-12 14:28:50.840709"
 ---

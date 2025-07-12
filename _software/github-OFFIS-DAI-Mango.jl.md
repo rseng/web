@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/OFFIS-DAI", "avatar_url": "https://avatars.githubusercontent.com/u/148066510?v=4", "login": "OFFIS-DAI", "type": "Organization"}
 topics: ["agent", "distributed-computing", "multi-agent-systems", "agent-based", "agent-based-simulation", "agent-based-control"]
-date: "2025-07-05 14:29:41.291320"
+date: "2025-07-12 14:28:50.631236"
 ---

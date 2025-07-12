@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mlower", "avatar_url": "https://avatars.githubusercontent.com/u/26099415?v=4", "login": "mlower", "type": "User"}
 topics: ["python", "radio", "astronomy", "astrophysics", "faraday-rotation", "pulsar", "frb"]
-date: "2025-07-05 14:29:41.661588"
+date: "2025-07-12 14:28:50.593201"
 ---

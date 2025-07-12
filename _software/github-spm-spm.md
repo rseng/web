@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/spm", "avatar_url": "https://avatars.githubusercontent.com/u/14014701?v=4", "login": "spm", "type": "Organization"}
 topics: ["matlab", "neuroscience", "neuroimaging", "spm", "eeg", "fmri", "meg", "pet", "spect", "mapping", "parametric", "statistical", "opm", "nifti", "brain", "dcm", "vbm"]
-date: "2025-07-05 14:29:41.905470"
+date: "2025-07-12 14:28:50.776689"
 ---

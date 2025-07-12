@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/aritraghsh09", "avatar_url": "https://avatars.githubusercontent.com/u/6251857?v=4", "login": "aritraghsh09", "type": "User"}
 topics: ["astrophysics", "deep-neural-networks", "galaxy-morphology", "pytorch", "spatial-transformer-networks", "uncertainty-neural-networks"]
-date: "2025-07-05 14:29:41.256345"
+date: "2025-07-12 14:28:50.194933"
 ---

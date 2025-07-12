@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["geojson", "topojson", "io", "rstats", "r", "r-package", "conversion", "data", "geospatial", "input-output", "geospatial"]
-date: "2025-07-05 14:29:41.039968"
+date: "2025-07-12 14:28:50.450918"
 ---

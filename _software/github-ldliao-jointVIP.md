@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ldliao", "avatar_url": "https://avatars.githubusercontent.com/u/22989630?v=4", "login": "ldliao", "type": "User"}
 topics: ["causal-inference", "observational-study", "study-design", "rstats", "r"]
-date: "2025-07-05 14:29:40.911533"
+date: "2025-07-12 14:28:49.978376"
 ---

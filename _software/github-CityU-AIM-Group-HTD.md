@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CityU-AIM-Group", "avatar_url": "https://avatars.githubusercontent.com/u/81352317?v=4", "login": "CityU-AIM-Group", "type": "Organization"}
 topics: ["object-detection", "faster-rcnn", "graph", "mmdetection"]
-date: "2025-07-05 14:29:40.825086"
+date: "2025-07-12 14:28:49.848987"
 ---

@@ -20,5 +20,5 @@ readme_url: "https://gitlab.com/groimp-plugins/pointcloud/-/blob/master/readme.m
 forks_count: 1
 last_activity_at: "2023-04-12T15:53:35.343Z"
 namespace: {"id": 61313342, "name": "GroIMP plugins ", "path": "groimp-plugins", "kind": "group", "full_path": "groimp-plugins", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/groimp-plugins"}
-date: "2025-07-05 14:29:42.321569"
+date: "2025-07-12 14:28:49.416876"
 ---

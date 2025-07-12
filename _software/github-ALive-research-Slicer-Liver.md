@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ALive-research", "avatar_url": "https://avatars.githubusercontent.com/u/65019699?v=4", "login": "ALive-research", "type": "Organization"}
 topics: ["liver", "visualization", "analysis", "3d-slicer-extension", "surgical-planning"]
-date: "2025-07-05 14:29:41.835832"
+date: "2025-07-12 14:28:51.015457"
 ---

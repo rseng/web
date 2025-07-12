@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/LLNL", "avatar_url": "https://avatars.githubusercontent.com/u/5921419?v=4", "login": "LLNL", "type": "Organization"}
 topics: ["discontinuous-galerkin", "electrochemistry", "finite-element-method", "firedrake", "python"]
-date: "2025-07-05 14:29:41.248657"
+date: "2025-07-12 14:28:49.694111"
 ---

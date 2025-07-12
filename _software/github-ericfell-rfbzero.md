@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ericfell", "avatar_url": "https://avatars.githubusercontent.com/u/39314565?v=4", "login": "ericfell", "type": "User"}
 topics: ["batteries", "battery-models", "microkinetics", "python", "simulation", "rfbzero"]
-date: "2025-07-05 14:29:41.454496"
+date: "2025-07-12 14:28:50.067035"
 ---

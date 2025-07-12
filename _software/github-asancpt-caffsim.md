@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/asancpt", "avatar_url": "https://avatars.githubusercontent.com/u/25226054?v=4", "login": "asancpt", "type": "Organization"}
 topics: ["pharmacometrics", "monte-carlo-simulation", "medicine", "caffeine", "toxicology", "pharmacokinetics"]
-date: "2025-07-05 14:29:41.653939"
+date: "2025-07-12 14:28:50.028597"
 ---
