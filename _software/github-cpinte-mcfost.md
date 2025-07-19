@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/cpinte", "avatar_url": "https://avatars.githubusercontent.com/u/4163533?v=4", "login": "cpinte", "type": "User"}
 topics: ["astronomy", "astrophysics", "astrophysical-simulation", "radiative-transfer", "fortran"]
-date: "2025-07-12 14:28:49.584546"
+date: "2025-07-19 14:29:56.923226"
 ---

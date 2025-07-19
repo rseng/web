@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 19
 owner: {"html_url": "https://github.com/AMReX-Astro", "avatar_url": "https://avatars.githubusercontent.com/u/28324385?v=4", "login": "AMReX-Astro", "type": "Organization"}
 topics: ["hydrodynamics", "cfd", "pde", "gravity", "radiation", "castro", "amr", "adaptive-mesh-refinement", "reactions", "astrophysical-simulation", "astrophysics"]
-date: "2025-07-12 14:28:51.001735"
+date: "2025-07-19 14:29:58.325636"
 ---

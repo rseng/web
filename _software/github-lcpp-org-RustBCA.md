@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/lcpp-org", "avatar_url": "https://avatars.githubusercontent.com/u/37936084?v=4", "login": "lcpp-org", "type": "Organization"}
 topics: ["binary-collision-approximation", "ion-solid-interactions", "plasma-material-interactions", "fusion", "materials-science", "sputtering", "implantation", "range", "bca-codes", "bca", "incident-ion", "ion-material-interactions", "rust", "binary-collisions", "nuclear-fusion", "simulation", "yamamura", "bohdansky", "nuclear-stopping", "electronic-stopping"]
-date: "2025-07-12 14:28:49.606708"
+date: "2025-07-19 14:29:56.945414"
 ---

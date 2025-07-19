@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/gully", "avatar_url": "https://avatars.githubusercontent.com/u/860227?v=4", "login": "gully", "type": "User"}
 topics: ["astronomy", "interpretable-machine-learning", "machine-learning", "spectroscopy"]
-date: "2025-07-12 14:28:49.462579"
+date: "2025-07-19 14:29:56.803406"
 ---

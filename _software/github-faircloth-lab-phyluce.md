@@ -23,5 +23,5 @@ open_issues_count: 26
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/faircloth-lab", "avatar_url": "https://avatars.githubusercontent.com/u/1105384?v=4", "login": "faircloth-lab", "type": "Organization"}
-date: "2025-07-12 14:28:49.855009"
+date: "2025-07-19 14:29:57.191394"
 ---

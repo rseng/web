@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/dieghernan", "avatar_url": "https://avatars.githubusercontent.com/u/25656809?v=4", "login": "dieghernan", "type": "User"}
 topics: ["ggplot-extension", "r-package", "r-spatial", "rspatial", "rstats", "rstats-package", "terra", "cran", "cran-r", "r"]
-date: "2025-07-12 14:28:50.877772"
+date: "2025-07-19 14:29:58.204546"
 ---

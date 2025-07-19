@@ -21,5 +21,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 10
 owner: {"html_url": "https://github.com/jolie", "avatar_url": "https://avatars.githubusercontent.com/u/10729718?v=4", "login": "jolie", "type": "Organization"}
 topics: ["jolie", "microservices", "data-handling", "ephemeral"]
-date: "2025-07-12 14:28:49.731752"
+date: "2025-07-19 14:29:57.068829"
 ---

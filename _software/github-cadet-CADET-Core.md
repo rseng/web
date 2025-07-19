@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/cadet/CADET-Core"
+url: "https://github.com/cadet/CADET-Core"
+timestamp: "2025-07-13 01:00:45.004769"
+description: "The heart of CADET. A modular, fast, and accurate modeling and simulation framework for biotechnology processes."
+avatar: "https://avatars.githubusercontent.com/u/68232670?v=4"
+repo_url: "https://github.com/cadet/CADET-Core"
+doi: "https://doi.org/10.5281/zenodo.15656988"
+name: "CADET-Core"
+full_name: "cadet/CADET-Core"
+html_url: "https://github.com/cadet/CADET-Core"
+created_at: "2014-01-29T12:46:02Z"
+updated_at: "2025-07-11T08:19:49Z"
+clone_url: "https://github.com/cadet/CADET-Core.git"
+size: 48573
+stargazers_count: 74
+watchers_count: 74
+language: "C++"
+open_issues_count: 129
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 13
+owner: {"html_url": "https://github.com/cadet", "avatar_url": "https://avatars.githubusercontent.com/u/68232670?v=4", "login": "cadet", "type": "Organization"}
+topics: ["chromatography", "chromatography-analysis", "simulator", "general-rate-model", "cadet"]
+date: "2025-07-19 14:29:57.165301"
+---

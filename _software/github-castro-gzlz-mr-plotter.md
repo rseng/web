@@ -23,5 +23,5 @@ open_issues_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/castro-gzlz", "avatar_url": "https://avatars.githubusercontent.com/u/132309889?v=4", "login": "castro-gzlz", "type": "User"}
 topics: ["exoplanets", "exoplanet-composition", "exoplanet-interiors", "exoplanet-atmospheres"]
-date: "2025-07-12 14:28:50.746354"
+date: "2025-07-19 14:29:58.072692"
 ---

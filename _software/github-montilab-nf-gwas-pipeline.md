@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/montilab", "avatar_url": "https://avatars.githubusercontent.com/u/52213315?v=4", "login": "montilab", "type": "Organization"}
 topics: ["nextflow", "bioinformatics-pipeline"]
-date: "2025-07-12 14:28:50.507584"
+date: "2025-07-19 14:29:57.835816"
 ---
