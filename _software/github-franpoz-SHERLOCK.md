@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/franpoz", "avatar_url": "https://avatars.githubusercontent.com/u/15654884?v=4", "login": "franpoz", "type": "User"}
 topics: ["exoplanets", "tess", "kepler"]
-date: "2025-07-19 14:29:57.934516"
+date: "2025-07-26 14:30:17.625605"
 ---

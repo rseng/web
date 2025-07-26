@@ -19,5 +19,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/pybel", "avatar_url": "https://avatars.githubusercontent.com/u/22892058?v=4", "login": "pybel", "type": "Organization"}
 topics: ["biological-expression-language", "ontologies", "terminologies"]
-date: "2025-07-19 14:29:57.314224"
+date: "2025-07-26 14:30:17.003785"
 ---

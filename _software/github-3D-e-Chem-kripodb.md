@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:07.653482"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/kripodb"
-date: "2025-07-19 14:29:57.391288"
+date: "2025-07-26 14:30:17.081515"
 ---

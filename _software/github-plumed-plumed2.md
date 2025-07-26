@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 34
 owner: {"html_url": "https://github.com/plumed", "avatar_url": "https://avatars.githubusercontent.com/u/4379652?v=4", "login": "plumed", "type": "Organization"}
 topics: ["molecular-dynamics", "plugin", "c-plus-plus", "plumed", "free-energy", "plumed2", "enhanced-sampling", "trajectory-analysis"]
-date: "2025-07-19 14:29:57.590367"
+date: "2025-07-26 14:30:17.280499"
 ---

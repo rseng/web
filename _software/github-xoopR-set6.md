@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/xoopR", "avatar_url": "https://avatars2.githubusercontent.com/u/62353263?v=4", "login": "xoopR", "type": "Organization"}
 topics: ["r", "sets", "oop", "r6", "intervals"]
-date: "2025-07-19 14:29:56.815837"
+date: "2025-07-26 14:30:16.503505"
 ---

@@ -24,5 +24,5 @@ topics: ["audio", "speech-recognition", "corpus-tools", "dataset-manager", "audi
 timestamp: "2020-08-09 00:18:50.404503"
 avatar: "https://avatars0.githubusercontent.com/u/5406826?v=4"
 repo_url: "https://github.com/ynop/audiomate"
-date: "2025-07-19 14:29:56.871825"
+date: "2025-07-26 14:30:16.559850"
 ---

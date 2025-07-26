@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 15
 owner: {"html_url": "https://github.com/FEniCS", "avatar_url": "https://avatars.githubusercontent.com/u/3868708?v=4", "login": "FEniCS", "type": "Organization"}
 topics: ["finite-elements", "high-order", "fenics-x"]
-date: "2025-07-19 14:29:58.131840"
+date: "2025-07-26 14:30:17.819910"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 13
 owner: {"html_url": "https://github.com/cadet", "avatar_url": "https://avatars.githubusercontent.com/u/68232670?v=4", "login": "cadet", "type": "Organization"}
 topics: ["chromatography", "chromatography-analysis", "simulator", "general-rate-model", "cadet"]
-date: "2025-07-19 14:29:57.165301"
+date: "2025-07-26 14:30:16.855376"
 ---

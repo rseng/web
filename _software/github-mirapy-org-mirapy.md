@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/mirapy-org", "avatar_url": "https://avatars.githubusercontent.com/u/49879504?v=4", "login": "mirapy-org", "type": "Organization"}
 topics: ["deep-learning", "astronomy", "keras", "machine-learning", "classification", "autoencoder", "curve-fitting", "ogle", "htru1", "x-ray-binaries", "image-reconstruction", "variable-stars"]
-date: "2025-07-19 14:29:57.846104"
+date: "2025-07-26 14:30:17.536493"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 46
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/manulera", "avatar_url": "https://avatars.githubusercontent.com/u/22526102?v=4", "login": "manulera", "type": "User"}
-date: "2025-07-19 14:29:58.230358"
+date: "2025-07-26 14:30:17.918526"
 ---

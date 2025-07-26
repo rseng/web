@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 9
 owner: {"html_url": "https://github.com/xCDAT", "avatar_url": "https://avatars.githubusercontent.com/u/87787695?v=4", "login": "xCDAT", "type": "Organization"}
 topics: ["climate-data-analysis", "xarray", "climate-science", "python", "climate-data", "cdat", "xcdat", "climate-research", "climate-analysis", "climate-sciences", "cf-conventions", "cmip", "cmip6", "e3sm", "pcmdi"]
-date: "2025-07-19 14:29:58.184604"
+date: "2025-07-26 14:30:17.872827"
 ---

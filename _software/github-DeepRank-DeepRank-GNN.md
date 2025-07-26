@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/DeepRank", "avatar_url": "https://avatars.githubusercontent.com/u/31408512?v=4", "login": "DeepRank", "type": "Organization"}
 topics: ["graph", "protein"]
-date: "2025-07-19 14:29:58.263850"
+date: "2025-07-26 14:30:17.951948"
 ---

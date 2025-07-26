@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/4pisky", "avatar_url": "https://avatars.githubusercontent.com/u/13047807?v=4", "login": "4pisky", "type": "Organization"}
 topics: ["voevent", "transient-astronomy"]
-date: "2025-07-19 14:29:58.091452"
+date: "2025-07-26 14:30:17.779633"
 ---

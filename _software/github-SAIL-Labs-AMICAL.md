@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/SAIL-Labs", "avatar_url": "https://avatars.githubusercontent.com/u/19316639?v=4", "login": "SAIL-Labs", "type": "Organization"}
 topics: ["instrumentation", "pipelines", "interferometry", "data-processing", "jwst", "eso-vlt"]
-date: "2025-07-19 14:29:57.324294"
+date: "2025-07-26 14:30:17.013902"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Hegghammer", "avatar_url": "https://avatars.githubusercontent.com/u/64712218?v=4", "login": "Hegghammer", "type": "User"}
 topics: ["ocr", "r", "google-cloud"]
-date: "2025-07-19 14:29:56.998033"
+date: "2025-07-26 14:30:16.689667"
 ---

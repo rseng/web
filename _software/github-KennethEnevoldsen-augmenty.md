@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/KennethEnevoldsen", "avatar_url": "https://avatars.githubusercontent.com/u/23721977?v=4", "login": "KennethEnevoldsen", "type": "User"}
 topics: ["augmentation", "spacy-extension", "spacy", "nlp", "nlproc", "natural-language-processing", "python", "text-classification", "training-data", "text-augmentation", "spacy-nlp"]
-date: "2025-07-19 14:29:57.277745"
+date: "2025-07-26 14:30:16.967097"
 ---

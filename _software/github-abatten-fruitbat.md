@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/abatten", "avatar_url": "https://avatars.githubusercontent.com/u/24905106?v=4", "login": "abatten", "type": "User"}
 topics: ["frb", "redshift", "dispersion", "measure", "dm", "python", "astronomy", "astrophysics", "radio"]
-date: "2025-07-19 14:29:57.030035"
+date: "2025-07-26 14:30:16.721303"
 ---

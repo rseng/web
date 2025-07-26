@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 56
 owner: {"html_url": "https://github.com/OpenGene", "avatar_url": "https://avatars.githubusercontent.com/u/16162853?v=4", "login": "OpenGene", "type": "Organization"}
 topics: ["fastq", "qc", "preprocessing", "filtering", "adapter", "overlap", "quality", "trimming", "splitting", "quality-control", "filter", "ngs", "bioinformatics", "umi", "sequencing", "illumina", "polyg", "duplication", "merging"]
-date: "2025-07-19 14:29:56.957090"
+date: "2025-07-26 14:30:16.648753"
 ---

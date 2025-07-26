@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/CosmoStat", "avatar_url": "https://avatars.githubusercontent.com/u/16947949?v=4", "login": "CosmoStat", "type": "Organization"}
 topics: ["python"]
-date: "2025-07-19 14:29:58.137387"
+date: "2025-07-26 14:30:17.825661"
 ---

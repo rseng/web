@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 17
 owner: {"html_url": "https://github.com/CRPropa", "avatar_url": "https://avatars.githubusercontent.com/u/2363457?v=4", "login": "CRPropa", "type": "Organization"}
 topics: ["cosmic-rays", "propagation", "monte-carlo-simulation", "astroparticle-physics"]
-date: "2025-07-19 14:29:56.954349"
+date: "2025-07-26 14:30:16.646100"
 ---

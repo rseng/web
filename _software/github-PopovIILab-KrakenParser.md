@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/PopovIILab", "avatar_url": "https://avatars.githubusercontent.com/u/170358473?v=4", "login": "PopovIILab", "type": "Organization"}
 topics: ["kraken2", "metagenomic-pipeline", "metagenomics", "krakentools"]
-date: "2025-07-19 14:29:57.471587"
+date: "2025-07-26 14:30:17.161233"
 ---
