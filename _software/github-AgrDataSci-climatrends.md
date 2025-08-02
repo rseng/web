@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/AgrDataSci", "avatar_url": "https://avatars.githubusercontent.com/u/50193892?v=4", "login": "AgrDataSci", "type": "Organization"}
 topics: ["climate-data", "climatology", "timeseries-analysis"]
-date: "2025-07-26 14:30:17.271690"
+date: "2025-08-02 14:30:17.932832"
 ---

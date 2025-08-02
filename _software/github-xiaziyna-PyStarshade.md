@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/xiaziyna/PyStarshade"
+url: "https://github.com/xiaziyna/PyStarshade"
+timestamp: "2025-07-27 00:59:57.855420"
+description: "PyStarshade is a Python library for efficient Fresnel optical simulations of direct imaging with an external occulter from stellar system to CCD"
+avatar: "https://avatars.githubusercontent.com/u/79553716?v=4"
+repo_url: "https://github.com/xiaziyna/PyStarshade"
+doi: "https://doi.org/10.5281/zenodo.15849727"
+name: "PyStarshade"
+full_name: "xiaziyna/PyStarshade"
+html_url: "https://github.com/xiaziyna/PyStarshade"
+created_at: "2023-04-18T00:45:07Z"
+updated_at: "2025-07-25T00:29:34Z"
+clone_url: "https://github.com/xiaziyna/PyStarshade.git"
+homepage: "https://pystarshade.readthedocs.io"
+size: 38068
+stargazers_count: 3
+watchers_count: 3
+language: "Python"
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/xiaziyna", "avatar_url": "https://avatars.githubusercontent.com/u/79553716?v=4", "login": "xiaziyna", "type": "User"}
+date: "2025-08-02 14:30:17.819408"
+---

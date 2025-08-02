@@ -1,0 +1,22 @@
+---
+parser: "github"
+uid: "github/SHF-NAILResearchGroup/HINA"
+url: "https://github.com/SHF-NAILResearchGroup/HINA"
+timestamp: "2025-07-27 00:59:59.970209"
+avatar: "https://avatars.githubusercontent.com/u/199019566?v=4"
+repo_url: "https://github.com/SHF-NAILResearchGroup/HINA"
+doi: "https://doi.org/10.5281/zenodo.15940278"
+name: "HINA"
+full_name: "SHF-NAILResearchGroup/HINA"
+html_url: "https://github.com/SHF-NAILResearchGroup/HINA"
+created_at: "2025-03-31T04:07:54Z"
+updated_at: "2025-07-26T16:34:47Z"
+clone_url: "https://github.com/SHF-NAILResearchGroup/HINA.git"
+size: 47975
+stargazers_count: 4
+watchers_count: 4
+language: "TypeScript"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+owner: {"html_url": "https://github.com/SHF-NAILResearchGroup", "avatar_url": "https://avatars.githubusercontent.com/u/199019566?v=4", "login": "SHF-NAILResearchGroup", "type": "Organization"}
+date: "2025-08-02 14:30:17.224501"
+---

@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/barricklab/seabreeze"
+url: "https://github.com/barricklab/seabreeze"
+timestamp: "2025-07-27 00:59:58.538628"
+description: "seabreeze: A Pipeline for Analyzing Structural Variation Between Bacterial Genome Assemblies"
+avatar: "https://avatars.githubusercontent.com/u/11457754?v=4"
+repo_url: "https://github.com/barricklab/seabreeze"
+doi: "https://doi.org/10.5281/zenodo.15994089"
+name: "seabreeze"
+full_name: "barricklab/seabreeze"
+html_url: "https://github.com/barricklab/seabreeze"
+created_at: "2024-08-28T17:42:04Z"
+updated_at: "2025-07-25T17:15:40Z"
+clone_url: "https://github.com/barricklab/seabreeze.git"
+homepage: "https://barricklab.github.io/seabreeze/"
+size: 20946
+stargazers_count: 1
+watchers_count: 1
+language: "Python"
+open_issues_count: 7
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/barricklab", "avatar_url": "https://avatars.githubusercontent.com/u/11457754?v=4", "login": "barricklab", "type": "Organization"}
+topics: ["bioinformatics-pipeline", "experimental-evolution", "long-read-sequencing", "structural-variation"]
+date: "2025-08-02 14:30:17.698631"
+---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/JCGoran", "avatar_url": "https://avatars.githubusercontent.com/u/25671271?v=4", "login": "JCGoran", "type": "User"}
 topics: ["cosmology", "correlation-functions", "galaxy-clustering", "covariance-matrix"]
-date: "2025-07-26 14:30:16.584479"
+date: "2025-08-02 14:30:17.233090"
 ---

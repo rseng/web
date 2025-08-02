@@ -24,5 +24,5 @@ topics: ["recommender", "systems", "recommendation", "svd", "matrix", "factoriza
 timestamp: "2020-08-09 00:18:50.289600"
 avatar: "https://avatars2.githubusercontent.com/u/1190450?v=4"
 repo_url: "https://github.com/NicolasHug/Surprise"
-date: "2025-07-26 14:30:16.489034"
+date: "2025-08-02 14:30:17.139517"
 ---

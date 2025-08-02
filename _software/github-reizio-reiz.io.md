@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/reizio", "avatar_url": "https://avatars.githubusercontent.com/u/71179352?v=4", "login": "reizio", "type": "Organization"}
 topics: ["source", "source-code", "search-engine", "python-ast", "ast-matcher"]
-date: "2025-07-26 14:30:17.128899"
+date: "2025-08-02 14:30:17.788363"
 ---

@@ -23,5 +23,5 @@ topics: ["optimization", "julia", "modeling-language"]
 timestamp: "2020-07-04 13:22:27.764018"
 avatar: "https://avatars3.githubusercontent.com/u/48496332?v=4"
 repo_url: "https://github.com/jump-dev/JuMP.jl"
-date: "2025-07-26 14:30:17.691889"
+date: "2025-08-02 14:30:18.357411"
 ---

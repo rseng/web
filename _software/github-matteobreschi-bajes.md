@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/matteobreschi", "avatar_url": "https://avatars.githubusercontent.com/u/42244716?v=4", "login": "matteobreschi", "type": "User"}
 topics: ["bayesian-inference", "astrophysics", "gravitational-waves", "kilonovae", "multi-messenger", "python", "sampling-methods"]
-date: "2025-07-26 14:30:16.712751"
+date: "2025-08-02 14:30:17.363806"
 ---

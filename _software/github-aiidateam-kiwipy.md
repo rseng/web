@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-08-09 00:18:50.907559"
 avatar: "https://avatars3.githubusercontent.com/u/22181836?v=4"
 repo_url: "https://github.com/aiidateam/kiwipy"
-date: "2025-07-26 14:30:17.631382"
+date: "2025-08-02 14:30:18.296116"
 ---

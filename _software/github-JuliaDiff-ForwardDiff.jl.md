@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 28
 owner: {"html_url": "https://github.com/JuliaDiff", "avatar_url": "https://avatars.githubusercontent.com/u/7750915?v=4", "login": "JuliaDiff", "type": "Organization"}
 topics: ["julia", "calculus", "automatic-differentiation"]
-date: "2025-07-26 14:30:17.960923"
+date: "2025-08-02 14:30:18.629531"
 ---

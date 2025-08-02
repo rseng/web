@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ryokbys", "avatar_url": "https://avatars.githubusercontent.com/u/6027630?v=4", "login": "ryokbys", "type": "User"}
 topics: ["molecular-dynamics", "neural-network", "atomistic-simulations"]
-date: "2025-07-26 14:30:16.818187"
+date: "2025-08-02 14:30:17.471993"
 ---

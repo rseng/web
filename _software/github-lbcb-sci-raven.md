@@ -22,5 +22,5 @@ open_issues_count: 21
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/lbcb-sci", "avatar_url": "https://avatars.githubusercontent.com/u/45172103?v=4", "login": "lbcb-sci", "type": "Organization"}
-date: "2025-07-26 14:30:16.581894"
+date: "2025-08-02 14:30:17.230486"
 ---

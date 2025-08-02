@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:36.400025"
 avatar: "https://avatars2.githubusercontent.com/u/8130715?v=4"
 repo_url: "https://github.com/geopandas/geopandas"
-date: "2025-07-26 14:30:17.958780"
+date: "2025-08-02 14:30:18.627346"
 ---

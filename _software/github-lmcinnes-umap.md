@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 124
 owner: {"html_url": "https://github.com/lmcinnes", "avatar_url": "https://avatars.githubusercontent.com/u/11962885?v=4", "login": "lmcinnes", "type": "User"}
 topics: ["umap", "dimensionality-reduction", "visualization", "machine-learning", "topological-data-analysis"]
-date: "2025-07-26 14:30:17.704567"
+date: "2025-08-02 14:30:18.370172"
 ---

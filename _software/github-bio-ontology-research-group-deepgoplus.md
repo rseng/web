@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/bio-ontology-research-group", "avatar_url": "https://avatars.githubusercontent.com/u/11040886?v=4", "login": "bio-ontology-research-group", "type": "Organization"}
-date: "2025-07-26 14:30:17.809465"
+date: "2025-08-02 14:30:18.476399"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/privong", "avatar_url": "https://avatars.githubusercontent.com/u/1630295?v=4", "login": "privong", "type": "User"}
 topics: ["bootstrapping-statistics", "monte-carlo", "correlation-coefficient"]
-date: "2025-07-26 14:30:17.214722"
+date: "2025-08-02 14:30:17.875527"
 ---

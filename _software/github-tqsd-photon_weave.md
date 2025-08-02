@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/tqsd", "avatar_url": "https://avatars.githubusercontent.com/u/56349211?v=4", "login": "tqsd", "type": "Organization"}
 topics: ["optics", "quantum-optics", "quantum-simulator", "jax", "quantum", "quantum-computing", "quantum-physics", "quantum-optics-simulation"]
-date: "2025-07-26 14:30:17.147762"
+date: "2025-08-02 14:30:17.807384"
 ---

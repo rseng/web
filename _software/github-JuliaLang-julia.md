@@ -23,5 +23,5 @@ topics: ["julia-language", "julia", "scientific", "hpc", "numerical", "machine-l
 timestamp: "2020-07-04 13:22:34.959679"
 avatar: "https://avatars0.githubusercontent.com/u/743164?v=4"
 repo_url: "https://github.com/JuliaLang/julia"
-date: "2025-07-26 14:30:17.990549"
+date: "2025-08-02 14:30:18.659723"
 ---

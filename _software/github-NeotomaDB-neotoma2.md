@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/NeotomaDB", "avatar_url": "https://avatars.githubusercontent.com/u/19538006?v=4", "login": "NeotomaDB", "type": "Organization"}
 topics: ["neotoma", "paleoecology", "rstats", "r", "earthcube", "nsf"]
-date: "2025-07-26 14:30:16.805710"
+date: "2025-08-02 14:30:17.459268"
 ---

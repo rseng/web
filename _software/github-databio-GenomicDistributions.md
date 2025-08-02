@@ -22,5 +22,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 15
 owner: {"html_url": "https://github.com/databio", "avatar_url": "https://avatars.githubusercontent.com/u/13696008?v=4", "login": "databio", "type": "Organization"}
-date: "2025-07-26 14:30:17.661779"
+date: "2025-08-02 14:30:18.326997"
 ---

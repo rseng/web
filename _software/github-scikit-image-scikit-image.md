@@ -23,5 +23,5 @@ topics: ["image-processing", "python", "computer-vision"]
 timestamp: "2020-07-04 13:22:19.386438"
 avatar: "https://avatars0.githubusercontent.com/u/897180?v=4"
 repo_url: "https://github.com/scikit-image/scikit-image"
-date: "2025-07-26 14:30:16.837800"
+date: "2025-08-02 14:30:17.492055"
 ---

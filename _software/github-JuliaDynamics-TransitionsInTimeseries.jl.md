@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/JuliaDynamics", "avatar_url": "https://avatars.githubusercontent.com/u/31774341?v=4", "login": "JuliaDynamics", "type": "Organization"}
 topics: ["critical-transitions", "early-warning-signals", "nonlinear-dynamics", "nonlinear-timeseries-analysis", "tipping-points", "hacktoberfest", "change-point-detection", "critical-slowing-down", "resilience-loss"]
-date: "2025-07-26 14:30:17.367308"
+date: "2025-08-02 14:30:18.029728"
 ---

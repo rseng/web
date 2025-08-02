@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 18
 owner: {"html_url": "https://github.com/SSAGESproject", "avatar_url": "https://avatars.githubusercontent.com/u/22507151?v=4", "login": "SSAGESproject", "type": "Organization"}
 topics: ["enhanced-sampling", "collective-variables", "lammps", "gromacs", "hoomd-blue", "scientific-machine-learning", "qbox", "miccom"]
-date: "2025-07-26 14:30:16.806874"
+date: "2025-08-02 14:30:17.460453"
 ---

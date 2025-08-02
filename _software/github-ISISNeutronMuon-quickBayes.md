@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ISISNeutronMuon", "avatar_url": "https://avatars.githubusercontent.com/u/30296974?v=4", "login": "ISISNeutronMuon", "type": "Organization"}
 topics: ["python", "bayes"]
-date: "2025-07-26 14:30:16.668939"
+date: "2025-08-02 14:30:17.318629"
 ---

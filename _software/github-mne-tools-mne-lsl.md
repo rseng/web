@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/mne-tools/mne-lsl"
+url: "https://github.com/mne-tools/mne-lsl"
+timestamp: "2025-07-27 00:59:59.672615"
+description: "A framework for real-time brain signal streaming with MNE-Python."
+avatar: "https://avatars.githubusercontent.com/u/583875?v=4"
+repo_url: "https://github.com/mne-tools/mne-lsl"
+doi: "https://doi.org/10.5281/zenodo.16314799"
+name: "mne-lsl"
+full_name: "mne-tools/mne-lsl"
+html_url: "https://github.com/mne-tools/mne-lsl"
+created_at: "2021-06-17T10:47:06Z"
+updated_at: "2025-07-24T12:06:18Z"
+clone_url: "https://github.com/mne-tools/mne-lsl.git"
+homepage: "https://mne.tools/mne-lsl"
+size: 16013
+stargazers_count: 74
+watchers_count: 74
+language: "Python"
+open_issues_count: 4
+license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
+subscribers_count: 8
+owner: {"html_url": "https://github.com/mne-tools", "avatar_url": "https://avatars.githubusercontent.com/u/583875?v=4", "login": "mne-tools", "type": "Organization"}
+topics: ["neuroscience", "lsl", "real-time", "neuroimaging", "brain", "labstreaminglayer", "brain-computer-interfaces", "network", "visualisation"]
+date: "2025-08-02 14:30:17.121106"
+---

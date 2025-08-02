@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/goshng", "avatar_url": "https://avatars.githubusercontent.com/u/478173?v=4", "login": "goshng", "type": "User"}
 topics: ["genome-annotation", "genome-assembly", "mitochondrial-genomes", "plant"]
-date: "2025-07-26 14:30:16.630189"
+date: "2025-08-02 14:30:17.278979"
 ---
