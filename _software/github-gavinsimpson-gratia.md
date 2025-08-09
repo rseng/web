@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/gavinsimpson", "avatar_url": "https://avatars.githubusercontent.com/u/514696?v=4", "login": "gavinsimpson", "type": "User"}
 topics: ["r-package", "generalized-additive-models", "ggplot2", "mgcv", "gam", "glm", "lm", "random-effects", "smoothing", "r"]
-date: "2025-08-02 14:30:18.261451"
+date: "2025-08-09 14:29:16.907694"
 ---

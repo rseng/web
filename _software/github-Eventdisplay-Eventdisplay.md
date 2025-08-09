@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/Eventdisplay", "avatar_url": "https://avatars.githubusercontent.com/u/50499294?v=4", "login": "Eventdisplay", "type": "Organization"}
-date: "2025-08-02 14:30:17.531838"
+date: "2025-08-09 14:29:17.528910"
 ---

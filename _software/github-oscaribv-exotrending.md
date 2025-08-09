@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/oscaribv", "avatar_url": "https://avatars.githubusercontent.com/u/8753089?v=4", "login": "oscaribv", "type": "User"}
 topics: ["exoplanets", "astronomy", "astrophysics"]
-date: "2025-08-02 14:30:17.818469"
+date: "2025-08-09 14:29:18.094545"
 ---

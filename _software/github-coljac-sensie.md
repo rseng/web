@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:44.962690"
 avatar: "https://avatars3.githubusercontent.com/u/191407?v=4"
 repo_url: "https://github.com/coljac/sensie"
-date: "2025-08-02 14:30:17.721321"
+date: "2025-08-09 14:29:17.739462"
 ---

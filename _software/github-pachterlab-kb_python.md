@@ -24,5 +24,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 11
 owner: {"html_url": "https://github.com/pachterlab", "avatar_url": "https://avatars.githubusercontent.com/u/10359946?v=4", "login": "pachterlab", "type": "Organization"}
 topics: ["bustools", "kallisto", "single-cell-rna-seq", "rna-velocity-estimation", "scrna-seq", "kb-python"]
-date: "2025-08-02 14:30:17.746919"
+date: "2025-08-09 14:29:17.987078"
 ---

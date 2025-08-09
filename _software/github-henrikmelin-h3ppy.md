@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/henrikmelin", "avatar_url": "https://avatars.githubusercontent.com/u/345794?v=4", "login": "henrikmelin", "type": "User"}
 topics: ["astronomy", "data-analysis", "planetary-science", "python3", "spectroscopy"]
-date: "2025-08-02 14:30:17.204382"
+date: "2025-08-09 14:29:17.790012"
 ---

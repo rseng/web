@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 23
 owner: {"html_url": "https://github.com/mosdef-hub", "avatar_url": "https://avatars.githubusercontent.com/u/25673981?v=4", "login": "mosdef-hub", "type": "Organization"}
 topics: ["molecular-dynamics", "python", "molecular-simulation", "molecule-builder", "mbuild"]
-date: "2025-08-02 14:30:18.045345"
+date: "2025-08-09 14:29:16.840009"
 ---

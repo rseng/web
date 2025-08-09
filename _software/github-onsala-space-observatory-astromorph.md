@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/onsala-space-observatory", "avatar_url": "https://avatars.githubusercontent.com/u/48208845?v=4", "login": "onsala-space-observatory", "type": "Organization"}
-date: "2025-08-02 14:30:18.403444"
+date: "2025-08-09 14:29:17.280200"
 ---

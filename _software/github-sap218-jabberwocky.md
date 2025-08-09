@@ -24,5 +24,5 @@ topics: ["ontology", "python", "python3", "text", "tfidf", "extraction", "json",
 timestamp: "2020-07-05 00:17:04.614718"
 avatar: "https://avatars1.githubusercontent.com/u/15181526?v=4"
 repo_url: "https://github.com/sap218/jabberwocky"
-date: "2025-08-02 14:30:17.618742"
+date: "2025-08-09 14:29:17.181641"
 ---

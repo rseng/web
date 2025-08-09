@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/hetalang", "avatar_url": "https://avatars.githubusercontent.com/u/56396891?v=4", "login": "hetalang", "type": "Organization"}
 topics: ["pharmacokinetics", "pharmacometrics", "pharmacodynamics", "systems-pharmacology", "systems-biology"]
-date: "2025-08-02 14:30:17.812991"
+date: "2025-08-09 14:29:16.637758"
 ---

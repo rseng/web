@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/johncwok", "avatar_url": "https://avatars.githubusercontent.com/u/34754896?v=4", "login": "johncwok", "type": "User"}
 topics: ["categorical-data", "time-series-analysis", "julia"]
-date: "2025-08-02 14:30:18.428095"
+date: "2025-08-09 14:29:16.652697"
 ---

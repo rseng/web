@@ -23,5 +23,5 @@ open_issues_count: 71
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 37
 owner: {"html_url": "https://github.com/rrwick", "avatar_url": "https://avatars.githubusercontent.com/u/7053555?v=4", "login": "rrwick", "type": "User"}
-date: "2025-08-02 14:30:17.348150"
+date: "2025-08-09 14:29:18.136132"
 ---

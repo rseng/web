@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/PabloVD", "avatar_url": "https://avatars.githubusercontent.com/u/55508726?v=4", "login": "PabloVD", "type": "User"}
 topics: ["machine-learning", "deep-learning", "graph-neural-networks"]
-date: "2025-08-02 14:30:17.798026"
+date: "2025-08-09 14:29:17.734047"
 ---
