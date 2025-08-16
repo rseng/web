@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 35
 owner: {"html_url": "https://github.com/voutcn", "avatar_url": "https://avatars.githubusercontent.com/u/6329785?v=4", "login": "voutcn", "type": "User"}
 topics: ["bioinformatics", "metagenomics", "succinct", "data-structures", "genomics", "genome-assembly"]
-date: "2025-08-09 14:29:17.229078"
+date: "2025-08-16 14:27:21.970134"
 ---

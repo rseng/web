@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 18
 owner: {"html_url": "https://github.com/bccp", "avatar_url": "https://avatars.githubusercontent.com/u/11237396?v=4", "login": "bccp", "type": "Organization"}
 topics: ["astrophysics", "cosmology", "large-scale-structure", "clustering", "data-analysis", "python", "mpi", "mpi4py", "parallel-computing"]
-date: "2025-08-09 14:29:18.133958"
+date: "2025-08-16 14:27:22.864588"
 ---

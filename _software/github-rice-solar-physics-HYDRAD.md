@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/rice-solar-physics/HYDRAD"
+url: "https://github.com/rice-solar-physics/HYDRAD"
+timestamp: "2025-08-10 00:59:28.828109"
+description: "HYDrodynamics and RADiation Code for computing solutions to field-aligned hydrodynamic equations in coronal loops"
+avatar: "https://avatars.githubusercontent.com/u/8676158?v=4"
+repo_url: "https://github.com/rice-solar-physics/HYDRAD"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025A%26A...699A..61D", "https://ui.adsabs.harvard.edu/abs/2003A%26A...401..699B", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft07026B/abstract"]
+title: "HYDRAD: Field-aligned hydrodynamic equations in coronal loops solver"
+name: "HYDRAD"
+full_name: "rice-solar-physics/HYDRAD"
+html_url: "https://github.com/rice-solar-physics/HYDRAD"
+created_at: "2015-12-10T04:10:44Z"
+updated_at: "2025-07-17T16:27:33Z"
+clone_url: "https://github.com/rice-solar-physics/HYDRAD.git"
+size: 10913
+stargazers_count: 16
+watchers_count: 16
+language: "EmberScript"
+open_issues_count: 18
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 10
+owner: {"html_url": "https://github.com/rice-solar-physics", "avatar_url": "https://avatars.githubusercontent.com/u/8676158?v=4", "login": "rice-solar-physics", "type": "Organization"}
+date: "2025-08-16 14:27:21.732615"
+---

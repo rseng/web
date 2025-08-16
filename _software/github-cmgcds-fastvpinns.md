@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cmgcds", "avatar_url": "https://avatars.githubusercontent.com/u/12926724?v=4", "login": "cmgcds", "type": "Organization"}
 topics: ["deep-learning", "inverse-problems", "neural-network", "partial-differential-equations", "physics-informed-neural-networks", "pinn", "scientific-machine-learning", "tensorflow2"]
-date: "2025-08-09 14:29:17.324569"
+date: "2025-08-16 14:27:22.064501"
 ---

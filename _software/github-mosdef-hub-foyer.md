@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 19
 owner: {"html_url": "https://github.com/mosdef-hub", "avatar_url": "https://avatars.githubusercontent.com/u/25673981?v=4", "login": "mosdef-hub", "type": "Organization"}
 topics: ["molecular-dynamics", "molecular-simulation", "force-field", "python", "atom-typing", "foyer", "disseminating-forcefields"]
-date: "2025-08-09 14:29:16.840249"
+date: "2025-08-16 14:27:21.584206"
 ---

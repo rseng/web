@@ -1,0 +1,23 @@
+---
+parser: "github"
+uid: "github/benopp99/DPMhalo"
+url: "https://github.com/benopp99/DPMhalo"
+timestamp: "2025-08-10 00:59:27.281906"
+description: "The Descriptive Parametric Model"
+avatar: "https://avatars.githubusercontent.com/u/50880489?v=4"
+repo_url: "https://github.com/benopp99/DPMhalo"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025arXiv250514782O", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft07030O/abstract"]
+title: "DPMhalo: Descriptive Parametric Model for gaseous halos"
+name: "DPMhalo"
+full_name: "benopp99/DPMhalo"
+html_url: "https://github.com/benopp99/DPMhalo"
+created_at: "2024-08-27T23:21:42Z"
+updated_at: "2025-03-14T15:09:18Z"
+clone_url: "https://github.com/benopp99/DPMhalo.git"
+size: 1026
+language: "Python"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/benopp99", "avatar_url": "https://avatars.githubusercontent.com/u/50880489?v=4", "login": "benopp99", "type": "User"}
+date: "2025-08-16 14:27:21.946682"
+---

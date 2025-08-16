@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/martinvonk/SPEI"
+url: "https://github.com/martinvonk/SPEI"
+timestamp: "2025-08-10 00:59:52.091804"
+description: "A Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI."
+avatar: "https://avatars.githubusercontent.com/u/66305055?v=4"
+repo_url: "https://github.com/martinvonk/SPEI"
+doi: "https://doi.org/10.5281/zenodo.16441123"
+name: "SPEI"
+full_name: "martinvonk/SPEI"
+html_url: "https://github.com/martinvonk/SPEI"
+created_at: "2022-07-28T09:49:22Z"
+updated_at: "2025-08-07T09:25:10Z"
+clone_url: "https://github.com/martinvonk/SPEI.git"
+homepage: "https://martinvonk.github.io/SPEI/"
+size: 48302
+stargazers_count: 93
+watchers_count: 93
+language: "Python"
+open_issues_count: 1
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/martinvonk", "avatar_url": "https://avatars.githubusercontent.com/u/66305055?v=4", "login": "martinvonk", "type": "User"}
+topics: ["drought", "groundwater", "hydrology", "python", "sgi", "spei", "timeseries", "spi", "drought-index", "drought-indices"]
+date: "2025-08-16 14:27:21.661737"
+---

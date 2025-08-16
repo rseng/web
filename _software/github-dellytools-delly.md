@@ -25,5 +25,5 @@ timestamp: "2020-08-02 16:35:31.020931"
 avatar: "https://avatars3.githubusercontent.com/u/23377671?v=4"
 repo_url: "https://github.com/dellytools/delly"
 title: "Delly"
-date: "2025-08-09 14:29:17.461881"
+date: "2025-08-16 14:27:22.199597"
 ---

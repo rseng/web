@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 17
 owner: {"html_url": "https://github.com/VirtualPlanetaryLaboratory", "avatar_url": "https://avatars.githubusercontent.com/u/6665798?v=4", "login": "VirtualPlanetaryLaboratory", "type": "Organization"}
 topics: ["habitability", "n-body-simulator", "galaxies", "geophysics", "orbits", "tides", "binary-stars", "rotation", "atmospheres", "magnetic-fields", "climate", "exoplanets", "stellar", "geochemistry", "atmospheric-escape", "planetary-science", "stellar-astrophysics", "astrobiology"]
-date: "2025-08-09 14:29:17.238419"
+date: "2025-08-16 14:27:21.979618"
 ---

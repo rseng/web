@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 9
 owner: {"html_url": "https://github.com/galsci", "avatar_url": "https://avatars.githubusercontent.com/u/81497054?v=4", "login": "galsci", "type": "Organization"}
 topics: ["cosmology", "cosmic-microwave-background", "healpix", "healpy", "python", "mpi"]
-date: "2025-08-09 14:29:16.648842"
+date: "2025-08-16 14:27:21.406412"
 ---

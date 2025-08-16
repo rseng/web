@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/yangyanli", "avatar_url": "https://avatars.githubusercontent.com/u/2976460?v=4", "login": "yangyanli", "type": "User"}
 topics: ["deep-learning", "convolutional-neural-networks", "tensorflow", "pytorch", "gluoncv"]
-date: "2025-08-09 14:29:17.995387"
+date: "2025-08-16 14:27:22.727184"
 ---

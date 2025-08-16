@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-05 00:17:18.423384"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/pycoeman"
-date: "2025-08-09 14:29:17.497073"
+date: "2025-08-16 14:27:22.234810"
 ---

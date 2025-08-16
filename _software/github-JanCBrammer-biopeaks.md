@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JanCBrammer", "avatar_url": "https://avatars0.githubusercontent.com/u/30125107?v=4", "login": "JanCBrammer", "type": "User"}
 topics: ["biosignals", "bitalino", "opensignals", "ecg", "breathing", "signal-analysis", "python", "gui", "heart", "peak-detection", "heart-rate", "breathing-rate", "edf", "electrophysiology", "ppg"]
-date: "2025-08-09 14:29:17.822279"
+date: "2025-08-16 14:27:22.556024"
 ---

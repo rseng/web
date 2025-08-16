@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 22
 owner: {"html_url": "https://github.com/datalad", "avatar_url": "https://avatars.githubusercontent.com/u/8927200?v=4", "login": "datalad", "type": "Organization"}
 topics: ["python", "git-annex", "data-storage", "dataset", "usable"]
-date: "2025-08-09 14:29:17.402605"
+date: "2025-08-16 14:27:22.141115"
 ---

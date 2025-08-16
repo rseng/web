@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/HoBeZwe", "avatar_url": "https://avatars.githubusercontent.com/u/46812729?v=4", "login": "HoBeZwe", "type": "User"}
 topics: ["dipole", "electromagnetics", "hertzian", "julia", "mie-scattering", "plane-wave", "scattering", "sphere", "spherical", "fitzgerald", "mie-series", "ring-current", "spherical-waves", "time-harmonic"]
-date: "2025-08-09 14:29:17.027568"
+date: "2025-08-16 14:27:21.770927"
 ---
