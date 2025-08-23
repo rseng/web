@@ -22,5 +22,5 @@ open_issues_count: 11
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/pyxnat", "avatar_url": "https://avatars.githubusercontent.com/u/809417?v=4", "login": "pyxnat", "type": "Organization"}
-date: "2025-08-16 14:27:21.427121"
+date: "2025-08-23 14:26:17.094199"
 ---

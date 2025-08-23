@@ -19,5 +19,5 @@ language: "Python"
 open_issues_count: 41
 subscribers_count: 16
 owner: {"html_url": "https://github.com/peterjc", "avatar_url": "https://avatars.githubusercontent.com/u/63959?v=4", "login": "peterjc", "type": "User"}
-date: "2025-08-16 14:27:21.421921"
+date: "2025-08-23 14:26:17.088961"
 ---

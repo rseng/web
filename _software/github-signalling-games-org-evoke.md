@@ -20,5 +20,5 @@ open_issues_count: 4
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/signalling-games-org", "avatar_url": "https://avatars.githubusercontent.com/u/124157910?v=4", "login": "signalling-games-org", "type": "Organization"}
-date: "2025-08-16 14:27:21.743214"
+date: "2025-08-23 14:26:17.409207"
 ---

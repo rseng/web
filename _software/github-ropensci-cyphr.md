@@ -21,5 +21,5 @@ open_issues_count: 4
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["encryption", "sodium", "openssl", "r", "rstats", "r-package", "peer-reviewed", "security"]
-date: "2025-08-16 14:27:22.580064"
+date: "2025-08-23 14:26:18.244896"
 ---

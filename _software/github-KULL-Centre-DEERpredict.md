@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/KULL-Centre", "avatar_url": "https://avatars.githubusercontent.com/u/45874707?v=4", "login": "KULL-Centre", "type": "Organization"}
 topics: ["deer", "epr", "nmr-spectroscopy", "molecular-simulation", "biophysics"]
-date: "2025-08-16 14:27:22.764114"
+date: "2025-08-23 14:26:18.428043"
 ---

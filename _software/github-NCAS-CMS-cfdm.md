@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/NCAS-CMS", "avatar_url": "https://avatars3.githubusercontent.com/u/31280705?v=4", "login": "NCAS-CMS", "type": "Organization"}
 topics: ["cf", "metadata", "python", "netcdf", "climate", "forecasting", "ocean", "atmosphere", "atmospheric-science"]
-date: "2025-08-16 14:27:21.826916"
+date: "2025-08-23 14:26:17.492663"
 ---

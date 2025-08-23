@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-08-09 00:18:51.163182"
 avatar: "https://avatars3.githubusercontent.com/u/20125525?v=4"
 repo_url: "https://github.com/berenslab/MorphoPy"
-date: "2025-08-16 14:27:21.771686"
+date: "2025-08-23 14:26:17.437611"
 ---

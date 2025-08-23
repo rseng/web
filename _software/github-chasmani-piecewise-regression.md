@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/chasmani", "avatar_url": "https://avatars.githubusercontent.com/u/6584368?v=4", "login": "chasmani", "type": "User"}
 topics: ["segmented-regression", "piecewise-regression", "regression", "data-analysis", "statistics", "model-fitting", "linear-regression", "python3"]
-date: "2025-08-16 14:27:21.936318"
+date: "2025-08-23 14:26:17.602607"
 ---

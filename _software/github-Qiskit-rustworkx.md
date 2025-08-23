@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 14
 owner: {"html_url": "https://github.com/Qiskit", "avatar_url": "https://avatars.githubusercontent.com/u/30696987?v=4", "login": "Qiskit", "type": "Organization"}
 topics: ["graph", "dag", "rust", "python", "graph-theory", "hacktoberfest"]
-date: "2025-08-16 14:27:22.391098"
+date: "2025-08-23 14:26:18.056397"
 ---

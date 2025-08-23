@@ -17,5 +17,5 @@ clone_url: "https://github.com/mifumagalli/cluster-cloc.git"
 size: 3768
 language: "Python"
 owner: {"html_url": "https://github.com/mifumagalli", "avatar_url": "https://avatars.githubusercontent.com/u/12461695?v=4", "login": "mifumagalli", "type": "User"}
-date: "2025-08-16 14:27:22.494741"
+date: "2025-08-23 14:26:18.159842"
 ---

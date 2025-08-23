@@ -22,5 +22,5 @@ open_issues_count: 13
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/raphael-group", "avatar_url": "https://avatars.githubusercontent.com/u/5168500?v=4", "login": "raphael-group", "type": "Organization"}
-date: "2025-08-16 14:27:21.397626"
+date: "2025-08-23 14:26:17.064927"
 ---

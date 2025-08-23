@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jarvist", "avatar_url": "https://avatars.githubusercontent.com/u/82852?v=4", "login": "jarvist", "type": "User"}
 topics: ["phonopy", "phonons"]
-date: "2025-08-16 14:27:21.838578"
+date: "2025-08-23 14:26:17.504370"
 ---

@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jackmwolf", "avatar_url": "https://avatars.githubusercontent.com/u/38739875?v=4", "login": "jackmwolf", "type": "User"}
 topics: ["r", "clinical-trials", "subgroup-identification", "heterogeneity-of-treatment-effect"]
-date: "2025-08-16 14:27:21.461196"
+date: "2025-08-23 14:26:17.128332"
 ---

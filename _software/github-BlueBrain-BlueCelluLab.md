@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/BlueBrain", "avatar_url": "https://avatars.githubusercontent.com/u/1479142?v=4", "login": "BlueBrain", "type": "Organization"}
 topics: ["biology", "brain", "cell", "neural-network", "neuron", "neuroscience", "python", "simulation", "circuit", "emodel", "api", "connection", "network"]
-date: "2025-08-16 14:27:22.211600"
+date: "2025-08-23 14:26:17.876978"
 ---

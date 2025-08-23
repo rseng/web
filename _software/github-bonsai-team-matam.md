@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 4
 owner: {"html_url": "https://github.com/bonsai-team", "avatar_url": "https://avatars.githubusercontent.com/u/24830634?v=4", "login": "bonsai-team", "type": "Organization"}
 topics: ["metagenomics", "assembly", "bioinformatics", "rrna"]
-date: "2025-08-16 14:27:21.995981"
+date: "2025-08-23 14:26:17.662306"
 ---

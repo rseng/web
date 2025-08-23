@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/lucabaldini", "avatar_url": "https://avatars.githubusercontent.com/u/8972541?v=4", "login": "lucabaldini", "type": "User"}
 topics: ["astronomy", "polarimetry", "python", "x-ray", "ixpe"]
-date: "2025-08-16 14:27:22.801181"
+date: "2025-08-23 14:26:18.464981"
 ---

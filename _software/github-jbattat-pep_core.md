@@ -20,5 +20,5 @@ watchers_count: 2
 language: "Fortran"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jbattat", "avatar_url": "https://avatars.githubusercontent.com/u/8468957?v=4", "login": "jbattat", "type": "User"}
-date: "2025-08-16 14:27:22.063539"
+date: "2025-08-23 14:26:17.729344"
 ---

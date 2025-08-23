@@ -22,5 +22,5 @@ language: "Ruby"
 open_issues_count: 3
 subscribers_count: 27
 owner: {"html_url": "https://github.com/LSSTDESC", "avatar_url": "https://avatars.githubusercontent.com/u/2731443?v=4", "login": "LSSTDESC", "type": "Organization"}
-date: "2025-08-16 14:27:22.283448"
+date: "2025-08-23 14:26:17.948740"
 ---

@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/wvanzeist", "avatar_url": "https://avatars.githubusercontent.com/u/65263211?v=4", "login": "wvanzeist", "type": "User"}
 topics: ["gravitational-waves", "bpass"]
-date: "2025-08-16 14:27:21.480509"
+date: "2025-08-23 14:26:17.147432"
 ---

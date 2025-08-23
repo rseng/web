@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/annehutter", "avatar_url": "https://avatars.githubusercontent.com/u/13774169?v=4", "login": "annehutter", "type": "User"}
 topics: ["galaxy-evolution", "reionization", "mpi", "modelling", "semi-numerical", "astronomy", "astrophysics", "astrophysical-simulation"]
-date: "2025-08-16 14:27:22.659685"
+date: "2025-08-23 14:26:18.323836"
 ---
