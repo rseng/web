@@ -20,5 +20,5 @@ readme_url: "https://gitlab.com/project-dare/dare-platform/-/blob/master/ReadMe.
 avatar_url: "https://assets.gitlab-static.net/uploads/-/system/project/avatar/14873006/dare.png"
 last_activity_at: "2020-10-17T18:26:48.683Z"
 namespace: {"id": 2435082, "name": "DARE", "path": "project-dare", "kind": "group", "full_path": "project-dare", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/2435082/logodarev1.png", "web_url": "https://gitlab.com/groups/project-dare"}
-date: "2025-08-23 14:26:18.625019"
+date: "2025-08-30 14:25:05.319944"
 ---

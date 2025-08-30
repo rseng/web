@@ -23,5 +23,5 @@ topics: ["singularity-compose", "container-orchestration", "singularity"]
 timestamp: "2020-07-04 13:22:48.578407"
 avatar: "https://avatars1.githubusercontent.com/u/24552884?v=4"
 repo_url: "https://github.com/singularityhub/singularity-compose"
-date: "2025-08-23 14:26:18.111230"
+date: "2025-08-30 14:25:04.412841"
 ---

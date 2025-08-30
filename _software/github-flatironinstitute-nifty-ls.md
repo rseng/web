@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/flatironinstitute", "avatar_url": "https://avatars.githubusercontent.com/u/32853892?v=4", "login": "flatironinstitute", "type": "Organization"}
 topics: ["lomb-scargle-periodogram", "spectral-analysis", "time-series"]
-date: "2025-08-23 14:26:18.466166"
+date: "2025-08-30 14:25:05.117978"
 ---

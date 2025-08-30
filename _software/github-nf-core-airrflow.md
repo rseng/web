@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 168
 owner: {"html_url": "https://github.com/nf-core", "avatar_url": "https://avatars.githubusercontent.com/u/35520196?v=4", "login": "nf-core", "type": "Organization"}
 topics: ["b-cell", "immcantation", "immunorepertoire", "repseq", "nf-core", "nextflow", "workflow", "pipeline", "airr"]
-date: "2025-08-23 14:26:18.362675"
+date: "2025-08-30 14:25:04.305831"
 ---

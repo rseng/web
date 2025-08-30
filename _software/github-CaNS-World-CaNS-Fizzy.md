@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/CaNS-World/CaNS-Fizzy"
+url: "https://github.com/CaNS-World/CaNS-Fizzy"
+timestamp: "2025-08-24 00:55:50.179651"
+description: "A code for fast, massively-parallel simulations of two-phase flows with heat transfer"
+avatar: "https://avatars.githubusercontent.com/u/111527101?v=4"
+repo_url: "https://github.com/CaNS-World/CaNS-Fizzy"
+doi: "https://doi.org/10.5281/zenodo.16838957"
+name: "CaNS-Fizzy"
+full_name: "CaNS-World/CaNS-Fizzy"
+html_url: "https://github.com/CaNS-World/CaNS-Fizzy"
+created_at: "2023-04-29T07:47:31Z"
+updated_at: "2025-07-24T15:31:45Z"
+clone_url: "https://github.com/CaNS-World/CaNS-Fizzy.git"
+size: 3395
+stargazers_count: 39
+watchers_count: 39
+language: "Fortran"
+open_issues_count: 1
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/CaNS-World", "avatar_url": "https://avatars.githubusercontent.com/u/111527101?v=4", "login": "CaNS-World", "type": "Organization"}
+topics: ["direct-numerical-simulation", "fortran", "gpu", "high-performance-computing", "multiphase-flow", "turbulence", "computational-fluid-dynamics", "fluid-dynamics", "fluid-simulation"]
+date: "2025-08-30 14:25:04.579297"
+---

@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/gvilitechltd", "avatar_url": "https://avatars.githubusercontent.com/u/72996922?v=4", "login": "gvilitechltd", "type": "Organization"}
 topics: ["cryptography", "lattice-based-crypto", "secure-hashing", "hash-functions", "homomorphic", "c", "cpp", "cpp11", "c-plus-plus", "c-plus-plus-11", "swifft"]
-date: "2025-08-23 14:26:17.767469"
+date: "2025-08-30 14:25:03.986991"
 ---

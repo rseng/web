@@ -23,5 +23,5 @@ topics: ["data-mining", "data-science", "machine-learning", "data-visualization"
 timestamp: "2020-07-04 13:22:32.400067"
 avatar: "https://avatars0.githubusercontent.com/u/555189?v=4"
 repo_url: "https://github.com/biolab/orange3"
-date: "2025-08-23 14:26:18.484994"
+date: "2025-08-30 14:25:05.028063"
 ---

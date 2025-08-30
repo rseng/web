@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/AMICI-dev", "avatar_url": "https://avatars.githubusercontent.com/u/68919097?v=4", "login": "AMICI-dev", "type": "Organization"}
 topics: ["differentialequations", "sensitivities", "simulation", "adjoint-sensitivities", "forward-sensitivities", "sbml", "systemsbiology", "cvode", "python", "kinetic-modeling", "mechanistic-models", "sensitivity-analysis", "cvodes", "idas", "pysb", "petab", "ode", "parameter-estimation", "hacktoberfest", "modeling"]
-date: "2025-08-23 14:26:17.644880"
+date: "2025-08-30 14:25:04.925213"
 ---

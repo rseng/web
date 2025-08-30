@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/KALMUS-Color-Toolkit", "avatar_url": "https://avatars.githubusercontent.com/u/77697488?v=4", "login": "KALMUS-Color-Toolkit", "type": "Organization"}
 topics: ["image-analysis", "video-processing", "digital-humanities", "python3", "pypi-package"]
-date: "2025-08-23 14:26:17.563857"
+date: "2025-08-30 14:25:03.887227"
 ---

@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/RandyRDavila/GraphCalc"
+url: "https://github.com/RandyRDavila/GraphCalc"
+timestamp: "2025-08-24 00:55:47.816501"
+description: "A repository for computation of graph invariants"
+avatar: "https://avatars.githubusercontent.com/u/33989989?v=4"
+repo_url: "https://github.com/RandyRDavila/GraphCalc"
+doi: "https://doi.org/10.5281/zenodo.16907645"
+name: "GraphCalc"
+full_name: "RandyRDavila/GraphCalc"
+html_url: "https://github.com/RandyRDavila/GraphCalc"
+created_at: "2024-11-14T16:51:11Z"
+updated_at: "2025-08-23T18:55:28Z"
+clone_url: "https://github.com/RandyRDavila/GraphCalc.git"
+homepage: "https://graphcalc.readthedocs.io/en/latest/"
+size: 283
+language: "Python"
+open_issues_count: 5
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/RandyRDavila", "avatar_url": "https://avatars.githubusercontent.com/u/33989989?v=4", "login": "RandyRDavila", "type": "User"}
+topics: ["graphs-theory", "optimization"]
+date: "2025-08-30 14:25:04.688163"
+---

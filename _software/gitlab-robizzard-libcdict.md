@@ -20,5 +20,5 @@ web_url: "https://gitlab.com/rob.izzard/libcdict"
 readme_url: "https://gitlab.com/rob.izzard/libcdict/-/blob/master/README.md"
 last_activity_at: "2023-12-11T18:12:34.651Z"
 namespace: {"id": 13601754, "name": "Robert Izzard", "path": "rob.izzard", "kind": "user", "full_path": "rob.izzard", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/9879310/avatar.png", "web_url": "https://gitlab.com/rob.izzard"}
-date: "2025-08-23 14:26:18.634531"
+date: "2025-08-30 14:25:05.304882"
 ---

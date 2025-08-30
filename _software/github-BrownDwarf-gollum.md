@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/BrownDwarf", "avatar_url": "https://avatars.githubusercontent.com/u/8246702?v=4", "login": "BrownDwarf", "type": "Organization"}
 topics: ["astronomy", "spectroscopy", "science", "astrophysics", "stars", "physics", "python"]
-date: "2025-08-23 14:26:18.512439"
+date: "2025-08-30 14:25:05.209590"
 ---

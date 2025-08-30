@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SevgiAkten", "avatar_url": "https://avatars.githubusercontent.com/u/43684746?v=4", "login": "SevgiAkten", "type": "User"}
 topics: ["cga", "ieee-754", "optimization", "python", "cellulargeneticalgorithm", "machinecodedoperators"]
-date: "2025-08-23 14:26:17.810736"
+date: "2025-08-30 14:25:05.254795"
 ---

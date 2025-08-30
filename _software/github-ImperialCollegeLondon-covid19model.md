@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 78
 owner: {"html_url": "https://github.com/ImperialCollegeLondon", "avatar_url": "https://avatars.githubusercontent.com/u/1220306?v=4", "login": "ImperialCollegeLondon", "type": "Organization"}
 topics: ["covid-19", "bayesian-statistics", "renewal-process", "branching-process", "intervention-study", "probabilistic-models", "statistical-models", "statistical-inference", "statistical-computing"]
-date: "2025-08-23 14:26:18.024255"
+date: "2025-08-30 14:25:05.143913"
 ---

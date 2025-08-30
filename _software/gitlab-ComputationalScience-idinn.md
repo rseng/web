@@ -1,0 +1,25 @@
+---
+parser: "gitlab"
+uid: "gitlab/ComputationalScience/idinn"
+url: "https://gitlab.com/ComputationalScience/idinn"
+timestamp: "2025-08-24 00:55:49.094919"
+description: "Inventory dynamics–informed neural networks for solving single-sourcing and dual-sourcing problems."
+avatar: "https://gitlab.comNone"
+repo_url: "https://gitlab.com/ComputationalScience/idinn"
+doi: "https://doi.org/10.5281/zenodo.16784771"
+id: 25883603
+name: "idinn"
+name_with_namespace: "ComputationalScience / idinn"
+path: "idinn"
+path_with_namespace: "ComputationalScience/idinn"
+created_at: "2021-04-14T11:50:57.614Z"
+default_branch: "main"
+ssh_url_to_repo: "git@gitlab.com:ComputationalScience/idinn.git"
+http_url_to_repo: "https://gitlab.com/ComputationalScience/idinn.git"
+web_url: "https://gitlab.com/ComputationalScience/idinn"
+readme_url: "https://gitlab.com/ComputationalScience/idinn/-/blob/main/README.md"
+last_activity_at: "2025-08-21T17:39:51.429Z"
+visibility: "public"
+namespace: {"id": 10153436, "name": "ComputationalScience", "path": "ComputationalScience", "kind": "group", "full_path": "ComputationalScience", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/ComputationalScience"}
+date: "2025-08-30 14:25:05.298689"
+---

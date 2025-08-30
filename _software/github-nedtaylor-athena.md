@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/nedtaylor", "avatar_url": "https://avatars.githubusercontent.com/u/71959356?v=4", "login": "nedtaylor", "type": "User"}
 topics: ["convolution", "feed-forward-neural-networks", "fortran", "machine-learning", "neural-network", "convolutional-neural-networks", "cnn"]
-date: "2025-08-23 14:26:18.447287"
+date: "2025-08-30 14:25:04.148505"
 ---

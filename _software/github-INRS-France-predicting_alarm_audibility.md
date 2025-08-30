@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/INRS-France", "avatar_url": "https://avatars.githubusercontent.com/u/157127585?v=4", "login": "INRS-France", "type": "Organization"}
 topics: ["audibility", "alarms", "convolutional-neural-network", "dataset", "psychoacoustics", "occupational-noise"]
-date: "2025-08-23 14:26:17.969942"
+date: "2025-08-30 14:25:04.947246"
 ---
