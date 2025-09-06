@@ -25,5 +25,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 19
 owner: {"html_url": "https://github.com/BradyAJohnston", "avatar_url": "https://avatars.githubusercontent.com/u/36021261?v=4", "login": "BradyAJohnston", "type": "User"}
 topics: ["blender", "biochemistry", "geometry-nodes", "protein", "protein-structure", "protein-visualization", "sciart", "visualisation", "structural-biology", "blender-addon", "protein-data-bank", "molecule", "proteins", "pdb", "molecular-modeling", "molecular", "molecular-graphics", "molecular-dynamics"]
-date: "2025-08-30 14:25:05.187260"
+date: "2025-09-06 14:23:46.827999"
 ---

@@ -24,5 +24,5 @@ topics: ["swmm5", "hydraulic-modeling", "stormwater", "hydrology-stormwater-anal
 timestamp: "2020-08-09 00:18:50.535633"
 avatar: "https://avatars0.githubusercontent.com/u/2392819?v=4"
 repo_url: "https://github.com/OpenWaterAnalytics/pyswmm"
-date: "2025-08-30 14:25:04.870612"
+date: "2025-09-06 14:23:46.511837"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ismael-mendoza", "avatar_url": "https://avatars.githubusercontent.com/u/11745764?v=4", "login": "ismael-mendoza", "type": "User"}
 topics: ["galsim", "fisher-formalism", "cosmology"]
-date: "2025-08-30 14:25:04.233113"
+date: "2025-09-06 14:23:45.876777"
 ---

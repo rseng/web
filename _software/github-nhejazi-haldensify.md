@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/nhejazi", "avatar_url": "https://avatars.githubusercontent.com/u/8527276?v=4", "login": "nhejazi", "type": "User"}
 topics: ["machine-learning", "density-estimation", "nonparametric-regression", "highly-adaptive-lasso", "propensity-score", "conditional-density-estimates", "causal-inference", "inverse-probability-weights"]
-date: "2025-08-30 14:25:05.119431"
+date: "2025-09-06 14:23:46.760307"
 ---

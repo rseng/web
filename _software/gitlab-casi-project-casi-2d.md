@@ -22,5 +22,5 @@ readme_url: "https://gitlab.com/casi-project/casi-2d/-/blob/master/README.md"
 forks_count: 1
 last_activity_at: "2020-05-25T23:23:31.955Z"
 namespace: {"id": 4557972, "name": "CASI", "path": "casi-project", "kind": "group", "full_path": "casi-project", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/casi-project"}
-date: "2025-08-30 14:25:05.313739"
+date: "2025-09-06 14:23:46.954284"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/shirtsgroup", "avatar_url": "https://avatars.githubusercontent.com/u/6166660?v=4", "login": "shirtsgroup", "type": "Organization"}
 topics: ["physical-validation", "molecular-simulation", "molecular-dynamics", "molecular-mechanics", "python"]
-date: "2025-08-30 14:25:04.053880"
+date: "2025-09-06 14:23:45.698189"
 ---

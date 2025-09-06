@@ -22,5 +22,5 @@ open_issues_count: 12
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/NumericalMathematics", "avatar_url": "https://avatars.githubusercontent.com/u/202252210?v=4", "login": "NumericalMathematics", "type": "Organization"}
-date: "2025-08-30 14:25:04.531134"
+date: "2025-09-06 14:23:46.173449"
 ---

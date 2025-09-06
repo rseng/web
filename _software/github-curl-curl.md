@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 709
 owner: {"html_url": "https://github.com/curl", "avatar_url": "https://avatars0.githubusercontent.com/u/16928085?v=4", "login": "curl", "type": "Organization"}
 topics: ["http", "https", "ftp", "user-agent", "client", "library", "curl", "libcurl", "c", "transfer-data", "ldap", "mqtt", "sftp", "scp"]
-date: "2025-08-30 14:25:04.553378"
+date: "2025-09-06 14:23:46.195515"
 ---

@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-19 00:17:13.162279"
 avatar: "https://avatars3.githubusercontent.com/u/3327087?v=4"
 repo_url: "https://github.com/darioizzo/dcgp"
-date: "2025-08-30 14:25:04.099234"
+date: "2025-09-06 14:23:45.743300"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/milanofthe", "avatar_url": "https://avatars.githubusercontent.com/u/105657697?v=4", "login": "milanofthe", "type": "User"}
 topics: ["blockdiagram", "control-systems", "hierarchical-modeling", "nonlinear-dynamics", "simulation", "system-simulation", "transient-analysis", "simulation-framework", "python", "framework", "automatic-differentiation", "differentiable-simulations"]
-date: "2025-08-30 14:25:04.204289"
+date: "2025-09-06 14:23:45.847828"
 ---

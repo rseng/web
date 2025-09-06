@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/biocore", "avatar_url": "https://avatars.githubusercontent.com/u/6241857?v=4", "login": "biocore", "type": "Organization"}
 topics: ["microbiome", "visualization", "emperor", "python", "bioinformatics", "ordination", "biplots"]
-date: "2025-08-30 14:25:04.836380"
+date: "2025-09-06 14:23:46.477488"
 ---

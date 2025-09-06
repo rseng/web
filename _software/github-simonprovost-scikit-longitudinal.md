@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/simonprovost", "avatar_url": "https://avatars.githubusercontent.com/u/32747568?v=4", "login": "simonprovost", "type": "User"}
 topics: ["classification", "longitudinal", "machine-learning", "repeated-measurements", "supervised-learning", "longitudinal-classification", "scikit-learn", "longitudinal-data", "longitudinal-studies"]
-date: "2025-08-30 14:25:04.599403"
+date: "2025-09-06 14:23:46.241490"
 ---

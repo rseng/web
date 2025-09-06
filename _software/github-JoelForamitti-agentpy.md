@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/JoelForamitti", "avatar_url": "https://avatars.githubusercontent.com/u/57440945?v=4", "login": "JoelForamitti", "type": "User"}
 topics: ["agent-based-modeling", "agent-based-simulation", "abm", "agentpy", "python", "networks", "complex-systems", "networkx", "salib"]
-date: "2025-08-30 14:25:04.995090"
+date: "2025-09-06 14:23:46.636601"
 ---

@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/ctian282/DeepSSM"
+url: "https://github.com/ctian282/DeepSSM"
+timestamp: "2025-08-31 00:52:50.348621"
+description: "A Neural Network based emulator for GW spectrum from cosmological FOPTs"
+avatar: "https://avatars.githubusercontent.com/u/11705333?v=4"
+repo_url: "https://github.com/ctian282/DeepSSM"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025JCAP...08..060T", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft08015T/abstract"]
+title: "DeepSSM: Cosmological emulator for the GW spectrum from the modified sound-shell model"
+name: "DeepSSM"
+full_name: "ctian282/DeepSSM"
+html_url: "https://github.com/ctian282/DeepSSM"
+created_at: "2025-01-07T06:40:47Z"
+updated_at: "2025-03-13T12:43:32Z"
+clone_url: "https://github.com/ctian282/DeepSSM.git"
+size: 1206
+stargazers_count: 4
+watchers_count: 4
+language: "Jupyter Notebook"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/ctian282", "avatar_url": "https://avatars.githubusercontent.com/u/11705333?v=4", "login": "ctian282", "type": "User"}
+date: "2025-09-06 14:23:46.529059"
+---

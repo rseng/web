@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 11
 owner: {"html_url": "https://github.com/inab", "avatar_url": "https://avatars.githubusercontent.com/u/3019853?v=4", "login": "inab", "type": "Organization"}
 topics: ["multiple-sequence-alignment", "trimming", "bioinformatics-tool"]
-date: "2025-08-30 14:25:03.768711"
+date: "2025-09-06 14:23:45.414417"
 ---

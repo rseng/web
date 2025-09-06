@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/slacgismo", "avatar_url": "https://avatars.githubusercontent.com/u/19895500?v=4", "login": "slacgismo", "type": "Organization"}
-date: "2025-08-30 14:25:04.596246"
+date: "2025-09-06 14:23:46.238329"
 ---

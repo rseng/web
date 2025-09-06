@@ -21,5 +21,5 @@ language: "Mathematica"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/oliverphilcox", "avatar_url": "https://avatars.githubusercontent.com/u/30410089?v=4", "login": "oliverphilcox", "type": "User"}
-date: "2025-08-30 14:25:04.842916"
+date: "2025-09-06 14:23:46.484083"
 ---

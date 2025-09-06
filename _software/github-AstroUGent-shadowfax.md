@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/AstroUGent", "avatar_url": "https://avatars.githubusercontent.com/u/16303138?v=4", "login": "AstroUGent", "type": "Organization"}
-date: "2025-08-30 14:25:04.577895"
+date: "2025-09-06 14:23:46.219691"
 ---

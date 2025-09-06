@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/opengeos", "avatar_url": "https://avatars.githubusercontent.com/u/129896036?v=4", "login": "opengeos", "type": "Organization"}
 topics: ["coastal", "geospatial", "hyperspectral", "python", "nasa", "aviris", "emit", "ipyleaflet", "ipywidgets", "leafmap", "neon", "pace"]
-date: "2025-08-30 14:25:05.034321"
+date: "2025-09-06 14:23:46.675249"
 ---

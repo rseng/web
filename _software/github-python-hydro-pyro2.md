@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 16
 owner: {"html_url": "https://github.com/python-hydro", "avatar_url": "https://avatars.githubusercontent.com/u/40966363?v=4", "login": "python-hydro", "type": "Organization"}
 topics: ["finite-volume", "finite-volume-methods", "hydrodynamics", "pyro", "python", "solver", "advection", "multigrid", "simulation", "astrophysical-simulation", "pde"]
-date: "2025-08-30 14:25:05.073331"
+date: "2025-09-06 14:23:46.713864"
 ---

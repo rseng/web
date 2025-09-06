@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:20.560292"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/SalientDescriptor-matlab"
-date: "2025-08-30 14:25:04.970526"
+date: "2025-09-06 14:23:46.611718"
 ---
