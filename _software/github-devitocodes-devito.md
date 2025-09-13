@@ -23,5 +23,5 @@ topics: ["compilers", "stencil-codes", "finite-difference", "sympy", "jit", "per
 timestamp: "2020-07-04 13:22:40.607499"
 avatar: "https://avatars1.githubusercontent.com/u/10018551?v=4"
 repo_url: "https://github.com/devitocodes/devito"
-date: "2025-09-06 14:23:45.644932"
+date: "2025-09-13 14:22:33.963902"
 ---

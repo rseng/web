@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 94
 owner: {"html_url": "https://github.com/projectmesa", "avatar_url": "https://avatars.githubusercontent.com/u/8754505?v=4", "login": "projectmesa", "type": "Organization"}
 topics: ["mesa", "agent-based-modeling", "agent-based-simulation", "simulation-framework", "simulation", "simulation-environment", "complex-systems", "complexity-analysis", "modeling-agents", "spatial-models", "gis"]
-date: "2025-09-06 14:23:46.878186"
+date: "2025-09-13 14:22:35.207984"
 ---

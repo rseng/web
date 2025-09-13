@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 54
 owner: {"html_url": "https://github.com/macs3-project", "avatar_url": "https://avatars.githubusercontent.com/u/66320751?v=4", "login": "macs3-project", "type": "Organization"}
 topics: ["chip-seq", "atac-seq", "dnase-seq", "peak-caller", "python", "poisson-equation", "macs"]
-date: "2025-09-06 14:23:46.331046"
+date: "2025-09-13 14:22:34.657157"
 ---

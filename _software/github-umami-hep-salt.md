@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/umami-hep/salt"
+url: "https://github.com/umami-hep/salt"
+timestamp: "2025-09-07 00:52:11.742460"
+description: "Mirror of the Salt Gitlab project"
+avatar: "https://avatars.githubusercontent.com/u/104375517?v=4"
+repo_url: "https://github.com/umami-hep/salt"
+doi: "https://doi.org/10.5281/zenodo.16737118"
+name: "salt"
+full_name: "umami-hep/salt"
+html_url: "https://github.com/umami-hep/salt"
+created_at: "2024-01-15T13:41:40Z"
+updated_at: "2025-09-02T09:28:51Z"
+clone_url: "https://github.com/umami-hep/salt.git"
+homepage: "https://gitlab.cern.ch/atlas-flavor-tagging-tools/algorithms/salt"
+size: 1220
+stargazers_count: 2
+watchers_count: 2
+language: "Python"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 4
+owner: {"html_url": "https://github.com/umami-hep", "avatar_url": "https://avatars.githubusercontent.com/u/104375517?v=4", "login": "umami-hep", "type": "Organization"}
+date: "2025-09-13 14:22:34.779049"
+---

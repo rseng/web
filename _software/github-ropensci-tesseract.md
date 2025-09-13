@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 14
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["tesseract", "ocr", "r", "rstats", "r-package", "tesseract-ocr", "image-processing"]
-date: "2025-09-06 14:23:45.602778"
+date: "2025-09-13 14:22:33.921524"
 ---

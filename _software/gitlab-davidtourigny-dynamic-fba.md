@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/davidtourigny/dynamic-fba/-/blob/main/README.rst
 star_count: 4
 last_activity_at: "2020-09-01T13:46:07.320Z"
 namespace: {"id": 4263760, "name": "davidtourigny", "path": "davidtourigny", "kind": "user", "full_path": "davidtourigny", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/d154e02544745419b4115b56845e8a2b?s=80&d=identicon", "web_url": "https://gitlab.com/davidtourigny"}
-date: "2025-09-06 14:23:46.955152"
+date: "2025-09-13 14:22:35.286174"
 ---

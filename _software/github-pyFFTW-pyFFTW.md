@@ -23,5 +23,5 @@ open_issues_count: 44
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/pyFFTW", "avatar_url": "https://avatars.githubusercontent.com/u/16965121?v=4", "login": "pyFFTW", "type": "Organization"}
-date: "2025-09-06 14:23:45.972135"
+date: "2025-09-13 14:22:34.296550"
 ---

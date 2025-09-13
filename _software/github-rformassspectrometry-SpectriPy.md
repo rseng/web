@@ -23,5 +23,5 @@ license: {"key": "artistic-2.0", "name": "Artistic License 2.0", "spdx_id": "Art
 subscribers_count: 5
 owner: {"html_url": "https://github.com/rformassspectrometry", "avatar_url": "https://avatars.githubusercontent.com/u/51361942?v=4", "login": "rformassspectrometry", "type": "Organization"}
 topics: ["mass-spectrometry", "infrastructure", "rstats", "python"]
-date: "2025-09-06 14:23:45.658950"
+date: "2025-09-13 14:22:33.978333"
 ---
