@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/bessagroup", "avatar_url": "https://avatars.githubusercontent.com/u/64279108?v=4", "login": "bessagroup", "type": "Organization"}
 topics: ["data-driven", "machine-learning", "computational-mechanics", "design-of-experiments", "framework", "materials-science"]
-date: "2025-09-13 14:22:33.744257"
+date: "2025-09-20 14:24:41.500534"
 ---

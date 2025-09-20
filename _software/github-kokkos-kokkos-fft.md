@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/kokkos", "avatar_url": "https://avatars.githubusercontent.com/u/10199860?v=4", "login": "kokkos", "type": "Organization"}
 topics: ["fft", "fft-library", "kokkos"]
-date: "2025-09-13 14:22:35.068386"
+date: "2025-09-20 14:24:42.833452"
 ---

@@ -25,5 +25,5 @@ star_count: 3
 last_activity_at: "2024-04-02T20:20:55.970Z"
 visibility: "public"
 namespace: {"id": 5195138, "name": "polmag", "path": "polmag", "kind": "group", "full_path": "polmag", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/5195138/POLMAG_COMPACTO_COLOR_NEGRO.png", "web_url": "https://gitlab.com/groups/polmag"}
-date: "2025-09-13 14:22:35.263602"
+date: "2025-09-20 14:24:43.028288"
 ---

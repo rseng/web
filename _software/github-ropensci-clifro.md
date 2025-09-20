@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "climate-data", "climate-stations", "national-climate-database", "zealand", "kml", "windrose", "weather", "rstats", "r-package", "api", "cliflo", "climate", "data", "opensci", "rain", "temperature", "wind", "data-access"]
-date: "2025-09-13 14:22:33.890890"
+date: "2025-09-20 14:24:41.645360"
 ---

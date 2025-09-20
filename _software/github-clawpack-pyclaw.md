@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:18.413432"
 avatar: "https://avatars3.githubusercontent.com/u/725474?v=4"
 repo_url: "https://github.com/clawpack/pyclaw"
-date: "2025-09-13 14:22:34.965478"
+date: "2025-09-20 14:24:42.722056"
 ---

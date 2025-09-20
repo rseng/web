@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/SchmollerLab", "avatar_url": "https://avatars.githubusercontent.com/u/79653821?v=4", "login": "SchmollerLab", "type": "Organization"}
-date: "2025-09-13 14:22:34.996238"
+date: "2025-09-20 14:24:42.753117"
 ---

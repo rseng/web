@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mgcooper", "avatar_url": "https://avatars.githubusercontent.com/u/9771768?v=4", "login": "mgcooper", "type": "User"}
 topics: ["baseflow", "groundwater", "hydrology"]
-date: "2025-09-13 14:22:35.189477"
+date: "2025-09-20 14:24:42.954355"
 ---

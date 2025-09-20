@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jrenaud90", "avatar_url": "https://avatars.githubusercontent.com/u/6547310?v=4", "login": "jrenaud90", "type": "User"}
 topics: ["science-research", "tides", "exoplanets", "planetary-science", "orbital-mechanics", "orbital-dynamics"]
-date: "2025-09-13 14:22:35.232505"
+date: "2025-09-20 14:24:42.997455"
 ---
