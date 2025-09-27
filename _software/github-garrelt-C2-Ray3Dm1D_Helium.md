@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/garrelt", "avatar_url": "https://avatars.githubusercontent.com/u/856731?v=4", "login": "garrelt", "type": "User"}
 topics: ["cosmic-dawn", "reionization", "cosmology", "radiative-transfer"]
-date: "2025-09-20 14:24:42.511709"
+date: "2025-09-27 14:24:25.180963"
 ---

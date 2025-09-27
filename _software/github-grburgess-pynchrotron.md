@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/grburgess", "avatar_url": "https://avatars.githubusercontent.com/u/6764007?v=4", "login": "grburgess", "type": "User"}
 topics: ["gamma-ray-astronomy", "synchrotron", "chang-cooper", "electrons", "grb", "numerics", "threeml", "astromodels"]
-date: "2025-09-20 14:24:42.330919"
+date: "2025-09-27 14:24:24.977641"
 ---

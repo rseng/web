@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/silkemaes", "avatar_url": "https://avatars.githubusercontent.com/u/25978534?v=4", "login": "silkemaes", "type": "User"}
 topics: ["astrochemistry", "autoencoder", "machine-learning", "astrophysics", "simulation"]
-date: "2025-09-20 14:24:41.542299"
+date: "2025-09-27 14:24:24.785438"
 ---

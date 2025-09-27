@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/abhisrkckl", "avatar_url": "https://avatars.githubusercontent.com/u/20718391?v=4", "login": "abhisrkckl", "type": "User"}
 topics: ["gravitational-waves", "pulsars", "binary-stars", "astrophysics"]
-date: "2025-09-20 14:24:42.686427"
+date: "2025-09-27 14:24:25.211083"
 ---

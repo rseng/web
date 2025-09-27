@@ -21,5 +21,5 @@ open_issues_count: 10
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 owner: {"html_url": "https://github.com/SWIFTSIM", "avatar_url": "https://avatars.githubusercontent.com/u/37541309?v=4", "login": "SWIFTSIM", "type": "Organization"}
 topics: ["simulation", "galaxy-evolution", "halo-finding", "nbody", "cosmology"]
-date: "2025-09-20 14:24:41.934300"
+date: "2025-09-27 14:24:25.329726"
 ---

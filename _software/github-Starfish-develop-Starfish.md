@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 11
 owner: {"html_url": "https://github.com/Starfish-develop", "avatar_url": "https://avatars.githubusercontent.com/u/85192441?v=4", "login": "Starfish-develop", "type": "Organization"}
 topics: ["starfish", "python", "spectra", "astronomy", "astrophysics", "inference", "mcmc"]
-date: "2025-09-20 14:24:42.213329"
+date: "2025-09-27 14:24:24.928881"
 ---

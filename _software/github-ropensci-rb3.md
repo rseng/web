@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "market-data", "finance", "financial-data", "financial-services", "exchange-data", "brazil"]
-date: "2025-09-20 14:24:41.687223"
+date: "2025-09-27 14:24:24.189119"
 ---

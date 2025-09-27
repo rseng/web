@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "r-package", "rstats", "citeproc", "citations", "literature", "parse", "style", "text-ming", "literature"]
-date: "2025-09-20 14:24:41.641360"
+date: "2025-09-27 14:24:24.210617"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 24
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "transport", "spatial", "rstats", "r-package", "peer-reviewed", "transport-planning", "walking", "cycling", "pubic-transport", "origin-destination", "desire-lines", "routes", "routing", "route-network", "transportation", "cycle", "data-access"]
-date: "2025-09-20 14:24:41.667756"
+date: "2025-09-27 14:24:24.159438"
 ---

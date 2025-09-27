@@ -19,5 +19,5 @@ language: "R"
 open_issues_count: 1
 subscribers_count: 3
 owner: {"html_url": "https://github.com/afukushima", "avatar_url": "https://avatars.githubusercontent.com/u/1477136?v=4", "login": "afukushima", "type": "User"}
-date: "2025-09-20 14:24:42.450935"
+date: "2025-09-27 14:24:24.654617"
 ---

@@ -23,5 +23,5 @@ topics: ["gensim", "topic-modeling", "information-retrieval", "machine-learning"
 timestamp: "2020-07-04 13:22:23.207102"
 avatar: "https://avatars3.githubusercontent.com/u/12515886?v=4"
 repo_url: "https://github.com/RaRe-Technologies/gensim"
-date: "2025-09-20 14:24:41.858650"
+date: "2025-09-27 14:24:24.756071"
 ---

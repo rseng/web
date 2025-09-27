@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 71
 owner: {"html_url": "https://github.com/PyFR", "avatar_url": "https://avatars.githubusercontent.com/u/54985610?v=4", "login": "PyFR", "type": "Organization"}
-date: "2025-09-20 14:24:41.974151"
+date: "2025-09-27 14:24:24.437552"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/amanchokshi", "avatar_url": "https://avatars2.githubusercontent.com/u/40157844?v=4", "login": "amanchokshi", "type": "User"}
 topics: ["radio-astronomy", "satellites", "telescope", "murchison-widefield-array"]
-date: "2025-09-20 14:24:41.856998"
+date: "2025-09-27 14:24:25.599636"
 ---
