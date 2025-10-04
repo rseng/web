@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Open-Minds-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/71519641?v=4", "login": "Open-Minds-Lab", "type": "Organization"}
 topics: ["neuroimaging", "mri", "neuroscience", "quality-control", "niqc"]
-date: "2025-09-27 14:24:24.914850"
+date: "2025-10-04 14:23:48.453098"
 ---

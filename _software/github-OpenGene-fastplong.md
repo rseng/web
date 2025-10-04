@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/OpenGene/fastplong"
+url: "https://github.com/OpenGene/fastplong"
+timestamp: "2025-09-28 00:57:54.868125"
+description: "Ultra-fast preprocessing and quality control for long-read sequencing data"
+avatar: "https://avatars.githubusercontent.com/u/16162853?v=4"
+repo_url: "https://github.com/OpenGene/fastplong"
+doi: "10.1002/imt2.107"
+name: "fastplong"
+full_name: "OpenGene/fastplong"
+html_url: "https://github.com/OpenGene/fastplong"
+created_at: "2024-08-26T03:39:43Z"
+updated_at: "2025-09-26T07:33:45Z"
+clone_url: "https://github.com/OpenGene/fastplong.git"
+size: 217
+stargazers_count: 183
+watchers_count: 183
+language: "C++"
+open_issues_count: 10
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 10
+owner: {"html_url": "https://github.com/OpenGene", "avatar_url": "https://avatars.githubusercontent.com/u/16162853?v=4", "login": "OpenGene", "type": "Organization"}
+date: "2025-10-04 14:23:48.178464"
+---

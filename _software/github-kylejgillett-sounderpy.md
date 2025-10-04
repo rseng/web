@@ -22,5 +22,5 @@ open_issues_count: 6
 subscribers_count: 8
 owner: {"html_url": "https://github.com/kylejgillett", "avatar_url": "https://avatars.githubusercontent.com/u/100786530?v=4", "login": "kylejgillett", "type": "User"}
 topics: ["data-analysis-python", "meteorology", "python", "weather", "weather-data", "atmospheric-science", "atmospheric-sciences"]
-date: "2025-09-27 14:24:24.757981"
+date: "2025-10-04 14:23:48.293587"
 ---

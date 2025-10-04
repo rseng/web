@@ -20,5 +20,5 @@ watchers_count: 15
 language: "Fortran"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/bertrandplez", "avatar_url": "https://avatars.githubusercontent.com/u/30231362?v=4", "login": "bertrandplez", "type": "User"}
-date: "2025-09-27 14:24:25.594178"
+date: "2025-10-04 14:23:49.142165"
 ---

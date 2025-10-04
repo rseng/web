@@ -21,5 +21,5 @@ language: "R"
 open_issues_count: 4
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CollinErickson", "avatar_url": "https://avatars.githubusercontent.com/u/2402685?v=4", "login": "CollinErickson", "type": "User"}
-date: "2025-09-27 14:24:25.344536"
+date: "2025-10-04 14:23:48.887984"
 ---

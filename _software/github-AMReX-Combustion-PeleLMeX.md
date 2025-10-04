@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 10
 owner: {"html_url": "https://github.com/AMReX-Combustion", "avatar_url": "https://avatars.githubusercontent.com/u/28372265?v=4", "login": "AMReX-Combustion", "type": "Organization"}
 topics: ["amrex", "combustion", "low-mach-number", "gpu-acceleration"]
-date: "2025-09-27 14:24:24.952230"
+date: "2025-10-04 14:23:48.490904"
 ---

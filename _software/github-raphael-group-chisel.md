@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/raphael-group/chisel"
+url: "https://github.com/raphael-group/chisel"
+timestamp: "2025-09-28 00:58:40.082569"
+description: "CHISEL -- Copy-number Haplotype Inference in Single-cell by Evolutionary Links"
+avatar: "https://avatars.githubusercontent.com/u/5168500?v=4"
+repo_url: "https://github.com/raphael-group/chisel"
+title: "CHISEL"
+tags: ["genomics", "high-throughput-sequencing", "genomics"]
+name: "chisel"
+full_name: "raphael-group/chisel"
+html_url: "https://github.com/raphael-group/chisel"
+created_at: "2019-09-04T15:45:14Z"
+updated_at: "2025-09-13T09:18:07Z"
+clone_url: "https://github.com/raphael-group/chisel.git"
+size: 8645
+stargazers_count: 42
+watchers_count: 42
+language: "Python"
+open_issues_count: 7
+license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
+subscribers_count: 8
+owner: {"html_url": "https://github.com/raphael-group", "avatar_url": "https://avatars.githubusercontent.com/u/5168500?v=4", "login": "raphael-group", "type": "Organization"}
+date: "2025-10-04 14:23:47.893745"
+---

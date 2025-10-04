@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Cosmoglobe", "avatar_url": "https://avatars.githubusercontent.com/u/70703518?v=4", "login": "Cosmoglobe", "type": "Organization"}
 topics: ["python", "astronomy", "simulation", "cmb", "planetary-science", "solar-system"]
-date: "2025-09-27 14:24:25.320067"
+date: "2025-10-04 14:23:48.862983"
 ---

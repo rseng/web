@@ -19,5 +19,5 @@ language: "Fortran"
 open_issues_count: 5
 subscribers_count: 2
 owner: {"html_url": "https://github.com/astroumd", "avatar_url": "https://avatars.githubusercontent.com/u/22331871?v=4", "login": "astroumd", "type": "Organization"}
-date: "2025-09-27 14:24:25.437854"
+date: "2025-10-04 14:23:48.983195"
 ---

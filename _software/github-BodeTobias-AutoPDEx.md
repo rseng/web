@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/BodeTobias", "avatar_url": "https://avatars.githubusercontent.com/u/149093216?v=4", "login": "BodeTobias", "type": "User"}
 topics: ["finite-element-method", "jax", "partial-differential-equations", "sensitivity-analysis", "differential-algebraic-equations", "ordinary-differential-equations"]
-date: "2025-09-27 14:24:24.801959"
+date: "2025-10-04 14:23:48.337901"
 ---

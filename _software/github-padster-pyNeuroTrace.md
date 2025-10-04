@@ -22,5 +22,5 @@ license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MP
 subscribers_count: 4
 owner: {"html_url": "https://github.com/padster", "avatar_url": "https://avatars.githubusercontent.com/u/848804?v=4", "login": "padster", "type": "User"}
 topics: ["analytics", "neuroscience", "timeseries"]
-date: "2025-09-27 14:24:25.636166"
+date: "2025-10-04 14:23:49.185012"
 ---

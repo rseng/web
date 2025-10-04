@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/chaoliu-cl/textAnnotatoR"
+url: "https://github.com/chaoliu-cl/textAnnotatoR"
+timestamp: "2025-09-28 00:57:25.709872"
+description: "Interactive Text Annotation Tool with Shiny GUI"
+avatar: "https://avatars.githubusercontent.com/u/99229010?v=4"
+repo_url: "https://github.com/chaoliu-cl/textAnnotatoR"
+doi: "https://doi.org/10.5281/zenodo.16995894"
+name: "textAnnotatoR"
+full_name: "chaoliu-cl/textAnnotatoR"
+html_url: "https://github.com/chaoliu-cl/textAnnotatoR"
+created_at: "2024-11-01T17:25:29Z"
+updated_at: "2025-09-26T12:14:30Z"
+clone_url: "https://github.com/chaoliu-cl/textAnnotatoR.git"
+homepage: "http://liu-chao.site/textAnnotatoR/"
+size: 21552
+stargazers_count: 3
+watchers_count: 3
+language: "R"
+open_issues_count: 1
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/chaoliu-cl", "avatar_url": "https://avatars.githubusercontent.com/u/99229010?v=4", "login": "chaoliu-cl", "type": "User"}
+date: "2025-10-04 14:23:49.172972"
+---
