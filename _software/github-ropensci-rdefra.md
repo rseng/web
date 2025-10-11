@@ -19,5 +19,5 @@ watchers_count: 13
 language: "R"
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "uk", "defra", "air-pollution", "air-quality", "air-pollution-levels", "peer-reviewed", "data-access"]
-date: "2025-10-04 14:23:47.674238"
+date: "2025-10-11 14:23:42.972642"
 ---

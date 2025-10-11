@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Autostronomy", "avatar_url": "https://avatars.githubusercontent.com/u/136352278?v=4", "login": "Autostronomy", "type": "Organization"}
 topics: ["astronomy", "python", "pytorch", "scientific-computing", "science-research"]
-date: "2025-10-04 14:23:48.511882"
+date: "2025-10-11 14:23:43.812954"
 ---

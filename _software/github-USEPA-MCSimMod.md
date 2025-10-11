@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/USEPA", "avatar_url": "https://avatars.githubusercontent.com/u/1304320?v=4", "login": "USEPA", "type": "Organization"}
 topics: ["ode-model", "pbpk", "pbpk-modeling", "r", "ode"]
-date: "2025-10-04 14:23:48.955957"
+date: "2025-10-11 14:23:44.263795"
 ---

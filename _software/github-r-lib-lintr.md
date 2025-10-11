@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 20
 owner: {"html_url": "https://github.com/r-lib", "avatar_url": "https://avatars.githubusercontent.com/u/22618716?v=4", "login": "r-lib", "type": "Organization"}
 topics: ["linter", "r"]
-date: "2025-10-04 14:23:48.237647"
+date: "2025-10-11 14:23:43.536789"
 ---

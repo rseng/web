@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tesselle", "avatar_url": "https://avatars.githubusercontent.com/u/78033555?v=4", "login": "tesselle", "type": "Organization"}
 topics: ["archaeological-science", "archaeology", "r-package", "chronology", "time-series"]
-date: "2025-10-04 14:23:47.652830"
+date: "2025-10-11 14:23:42.951659"
 ---

@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/sbmlteam", "avatar_url": "https://avatars.githubusercontent.com/u/1799692?v=4", "login": "sbmlteam", "type": "Organization"}
 topics: ["matlab", "sbml", "conversion", "python", "systems-biology", "differential-equations", "ode", "ode-model"]
-date: "2025-10-04 14:23:48.332666"
+date: "2025-10-11 14:23:43.632179"
 ---

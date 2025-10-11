@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CombustionToolbox", "avatar_url": "https://avatars.githubusercontent.com/u/165309827?v=4", "login": "CombustionToolbox", "type": "Organization"}
 topics: ["chemical-equilibrium", "thermochemistry", "matlab", "detonation", "app", "open-source", "shock-waves", "toolbox", "windows", "linux", "macos", "hypersonics", "ionization", "rocket", "dissociation", "thermochemical-code", "combustion", "combustion-toolbox"]
-date: "2025-10-04 14:23:47.923691"
+date: "2025-10-11 14:23:43.222866"
 ---

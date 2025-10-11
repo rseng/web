@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/uit-cosmo", "avatar_url": "https://avatars.githubusercontent.com/u/76398964?v=4", "login": "uit-cosmo", "type": "Organization"}
 topics: ["fusion", "modelling-tool", "stochastic-process", "turbulence", "plasma", "python", "science"]
-date: "2025-10-04 14:23:49.198637"
+date: "2025-10-11 14:23:44.514597"
 ---

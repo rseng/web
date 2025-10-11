@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Nicholaswogan", "avatar_url": "https://avatars.githubusercontent.com/u/18489667?v=4", "login": "Nicholaswogan", "type": "User"}
 topics: ["photochemistry", "photochemical-model", "earth-science", "atmosphere", "cython", "fortran", "python", "exoplanets", "astrobiology"]
-date: "2025-10-04 14:23:48.257820"
+date: "2025-10-11 14:23:43.556946"
 ---

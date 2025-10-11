@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/martinlackner", "avatar_url": "https://avatars.githubusercontent.com/u/46762723?v=4", "login": "martinlackner", "type": "User"}
 topics: ["voting", "python", "research", "social-choice", "social-choice-theory", "multiwinnervoting", "approval-voting", "voting-methods", "committee"]
-date: "2025-10-04 14:23:49.218916"
+date: "2025-10-11 14:23:44.535053"
 ---

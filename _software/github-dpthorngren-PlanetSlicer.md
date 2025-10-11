@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dpthorngren", "avatar_url": "https://avatars.githubusercontent.com/u/948369?v=4", "login": "dpthorngren", "type": "User"}
 topics: ["astronomy-astrophysics", "python"]
-date: "2025-10-04 14:23:48.076429"
+date: "2025-10-11 14:23:43.375615"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/nialov", "avatar_url": "https://avatars.githubusercontent.com/u/47318483?v=4", "login": "nialov", "type": "User"}
 topics: ["analysis", "fracture", "geology", "topology", "geometry", "spatial-analysis", "fractopo", "python"]
-date: "2025-10-04 14:23:48.750066"
+date: "2025-10-11 14:23:44.056201"
 ---

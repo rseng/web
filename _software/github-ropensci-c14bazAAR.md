@@ -21,5 +21,5 @@ open_issues_count: 15
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["radiocarbon-dates", "archaeology", "r", "data-access"]
-date: "2025-10-04 14:23:47.678718"
+date: "2025-10-11 14:23:42.977195"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/paulsengroup", "avatar_url": "https://avatars.githubusercontent.com/u/100847901?v=4", "login": "paulsengroup", "type": "Organization"}
 topics: ["bioinformatics", "cli-application", "conversion", "cooler", "cxx", "cxx-library", "cxx17", "hic", "hictk"]
-date: "2025-10-04 14:23:47.949000"
+date: "2025-10-11 14:23:43.248407"
 ---

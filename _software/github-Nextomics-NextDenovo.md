@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 17
 owner: {"html_url": "https://github.com/Nextomics", "avatar_url": "https://avatars.githubusercontent.com/u/17420776?v=4", "login": "Nextomics", "type": "Organization"}
 topics: ["genome-assembly", "long-reads", "assembler", "oxford-nanopore", "pacbio"]
-date: "2025-10-04 14:23:49.170846"
+date: "2025-10-11 14:23:44.486675"
 ---

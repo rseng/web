@@ -21,5 +21,5 @@ open_issues_count: 53
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/JuliaMatrices", "avatar_url": "https://avatars.githubusercontent.com/u/20272228?v=4", "login": "JuliaMatrices", "type": "Organization"}
-date: "2025-10-04 14:23:48.312433"
+date: "2025-10-11 14:23:43.611732"
 ---

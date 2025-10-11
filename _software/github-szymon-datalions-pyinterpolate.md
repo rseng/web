@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/DataverseLabs", "avatar_url": "https://avatars.githubusercontent.com/u/84904952?v=4", "login": "DataverseLabs", "type": "Organization"}
 topics: ["kriging", "semivariogram", "spatial-interpolation", "spatial-analysis", "poisson-kriging", "hacktoberfest", "python", "machine-learning"]
-date: "2025-10-04 14:23:48.957880"
+date: "2025-10-11 14:23:44.265769"
 ---

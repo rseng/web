@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/Critical-Infrastructure-Systems-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/133989297?v=4", "login": "Critical-Infrastructure-Systems-Lab", "type": "Organization"}
 topics: ["power-system-analysis", "unit-commitment", "economic-dispatch", "transmission", "dc-flow", "n-1-criterion", "water-energy-nexus", "python", "dispatchable-units", "renewable-resources", "electricity-supply", "substations"]
-date: "2025-10-04 14:23:48.029744"
+date: "2025-10-11 14:23:43.328583"
 ---

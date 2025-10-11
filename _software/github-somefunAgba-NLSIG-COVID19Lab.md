@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/somefunAgba", "avatar_url": "https://avatars.githubusercontent.com/u/6755741?v=4", "login": "somefunAgba", "type": "User"}
 topics: ["covid-19", "neural-networks", "machine-learning", "growth-process", "epidemiology", "logistic-regression", "optimization", "matlab", "yir", "deaths", "infections", "logistic-metrics", "peak"]
-date: "2025-10-04 14:23:47.971231"
+date: "2025-10-11 14:23:43.270877"
 ---

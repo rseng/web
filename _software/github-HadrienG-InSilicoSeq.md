@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/HadrienG", "avatar_url": "https://avatars.githubusercontent.com/u/7337110?v=4", "login": "HadrienG", "type": "User"}
 topics: ["bioinformatics", "illumina-sequencing", "sequencing", "simulation", "metagenomics"]
-date: "2025-10-04 14:23:48.431899"
+date: "2025-10-11 14:23:43.731938"
 ---

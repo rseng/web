@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 1
 owner: {"html_url": "https://github.com/fcastagna", "avatar_url": "https://avatars.githubusercontent.com/u/44572424?v=4", "login": "fcastagna", "type": "User"}
 topics: ["python", "galaxy-clusters", "pressure-profile", "bayesian"]
-date: "2025-10-04 14:23:47.826862"
+date: "2025-10-11 14:23:43.124817"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 186
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 19
 owner: {"html_url": "https://github.com/nipy", "avatar_url": "https://avatars.githubusercontent.com/u/233707?v=4", "login": "nipy", "type": "Organization"}
-date: "2025-10-04 14:23:48.025769"
+date: "2025-10-11 14:23:43.324651"
 ---

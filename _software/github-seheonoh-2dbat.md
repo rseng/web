@@ -21,5 +21,5 @@ language: "C"
 open_issues_count: 3
 subscribers_count: 3
 owner: {"html_url": "https://github.com/seheonoh", "avatar_url": "https://avatars.githubusercontent.com/u/24447326?v=4", "login": "seheonoh", "type": "User"}
-date: "2025-10-04 14:23:49.233353"
+date: "2025-10-11 14:23:44.549840"
 ---

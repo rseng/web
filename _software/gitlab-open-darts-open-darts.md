@@ -25,5 +25,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/43477574/logo.pn
 star_count: 5
 last_activity_at: "2024-07-20T05:06:26.825Z"
 namespace: {"id": 63799841, "name": "open-darts", "path": "open-darts", "kind": "group", "full_path": "open-darts", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/open-darts"}
-date: "2025-10-04 14:23:47.606555"
+date: "2025-10-11 14:23:42.906042"
 ---
