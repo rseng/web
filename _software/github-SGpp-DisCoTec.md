@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 6
 owner: {"html_url": "https://github.com/SGpp", "avatar_url": "https://avatars.githubusercontent.com/u/37072529?v=4", "login": "SGpp", "type": "Organization"}
 topics: ["higher-dimensional", "multi-scale", "simulation", "sparse-grids", "vlasov-solver", "combination-technique"]
-date: "2025-10-11 14:23:44.058285"
+date: "2025-10-18 14:25:00.282058"
 ---

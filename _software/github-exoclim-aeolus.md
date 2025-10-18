@@ -24,5 +24,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/exoclim", "avatar_url": "https://avatars.githubusercontent.com/u/43474110?v=4", "login": "exoclim", "type": "Organization"}
 topics: ["python-library", "atmospheric-science", "planetary-science", "exoplanets", "atmospheric-modelling", "climate-model"]
-date: "2025-10-11 14:23:44.285153"
+date: "2025-10-18 14:25:00.082040"
 ---

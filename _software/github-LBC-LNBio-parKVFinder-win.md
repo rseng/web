@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/LBC-LNBio", "avatar_url": "https://avatars.githubusercontent.com/u/9485087?v=4", "login": "LBC-LNBio", "type": "Organization"}
 topics: ["cavity-detection", "cavity-characterization", "pymol-plugin"]
-date: "2025-10-11 14:23:44.290055"
+date: "2025-10-18 14:24:59.186955"
 ---

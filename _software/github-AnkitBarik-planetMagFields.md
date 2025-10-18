@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/AnkitBarik", "avatar_url": "https://avatars.githubusercontent.com/u/13730345?v=4", "login": "AnkitBarik", "type": "User"}
 topics: ["plotting", "planetary-science", "magnetic-fields", "planetary-data", "planetary", "python", "matplotlib"]
-date: "2025-10-11 14:23:44.164198"
+date: "2025-10-18 14:24:59.924896"
 ---

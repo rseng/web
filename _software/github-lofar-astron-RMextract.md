@@ -22,5 +22,5 @@ open_issues_count: 11
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/lofar-astron", "avatar_url": "https://avatars.githubusercontent.com/u/13587881?v=4", "login": "lofar-astron", "type": "Organization"}
-date: "2025-10-11 14:23:43.736421"
+date: "2025-10-18 14:25:00.210279"
 ---

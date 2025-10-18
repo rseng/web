@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/yymao", "avatar_url": "https://avatars.githubusercontent.com/u/3792659?v=4", "login": "yymao", "type": "User"}
 topics: ["subhalo-abundance-matching", "abundance-matching", "python", "deconvolution", "astrophysics"]
-date: "2025-10-11 14:23:43.810804"
+date: "2025-10-18 14:25:00.160030"
 ---

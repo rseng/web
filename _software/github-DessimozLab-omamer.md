@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/DessimozLab", "avatar_url": "https://avatars.githubusercontent.com/u/16049503?v=4", "login": "DessimozLab", "type": "Organization"}
-date: "2025-10-11 14:23:43.084933"
+date: "2025-10-18 14:24:59.814778"
 ---

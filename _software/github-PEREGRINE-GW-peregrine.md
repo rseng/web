@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/PEREGRINE-GW", "avatar_url": "https://avatars.githubusercontent.com/u/140732115?v=4", "login": "PEREGRINE-GW", "type": "Organization"}
 topics: ["algorithm", "gravitational-waves", "inference", "machine-learning", "neural-ratio-estimation", "parameter-estimation", "python", "pytorch-lightning", "simulation-based-inference"]
-date: "2025-10-11 14:23:44.453246"
+date: "2025-10-18 14:24:58.916830"
 ---

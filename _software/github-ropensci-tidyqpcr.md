@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["qpcr-analysis", "tidyverse", "r", "rstats", "r-package", "miqe", "qpcr"]
-date: "2025-10-11 14:23:43.013219"
+date: "2025-10-18 14:25:00.431733"
 ---

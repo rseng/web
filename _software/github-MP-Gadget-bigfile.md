@@ -22,5 +22,5 @@ open_issues_count: 9
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/MP-Gadget", "avatar_url": "https://avatars.githubusercontent.com/u/38799051?v=4", "login": "MP-Gadget", "type": "Organization"}
-date: "2025-10-11 14:23:44.074841"
+date: "2025-10-18 14:25:00.099735"
 ---

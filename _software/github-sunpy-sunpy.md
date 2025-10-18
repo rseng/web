@@ -23,5 +23,5 @@ topics: ["sunpy", "python", "astronomy", "solar", "astropy", "solar-physics", "s
 timestamp: "2020-07-04 13:22:44.509099"
 avatar: "https://avatars0.githubusercontent.com/u/963197?v=4"
 repo_url: "https://github.com/sunpy/sunpy"
-date: "2025-10-11 14:23:43.785572"
+date: "2025-10-18 14:24:59.821635"
 ---

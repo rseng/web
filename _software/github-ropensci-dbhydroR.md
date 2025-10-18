@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["water-quality", "water-resources", "ecology", "geoscience", "groundwater", "government-data", "r", "rstats", "r-package", "peer-reviewed", "data-access"]
-date: "2025-10-11 14:23:42.966337"
+date: "2025-10-18 14:25:00.436267"
 ---

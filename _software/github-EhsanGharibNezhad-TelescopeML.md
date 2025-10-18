@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/EhsanGharibNezhad", "avatar_url": "https://avatars.githubusercontent.com/u/22139918?v=4", "login": "EhsanGharibNezhad", "type": "User"}
 topics: ["astronomy", "atmospheric-modelling", "convolutional-neural-networks", "machine-learning", "star", "telescope"]
-date: "2025-10-11 14:23:43.633103"
+date: "2025-10-18 14:25:00.222182"
 ---

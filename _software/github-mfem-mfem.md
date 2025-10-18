@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 120
 owner: {"html_url": "https://github.com/mfem", "avatar_url": "https://avatars.githubusercontent.com/u/12879105?v=4", "login": "mfem", "type": "Organization"}
 topics: ["finite-elements", "high-order", "high-performance-computing", "parallel-computing", "amr", "computational-science", "fem", "scientific-computing", "hpc", "math-physics", "radiuss"]
-date: "2025-10-11 14:23:44.147875"
+date: "2025-10-18 14:25:00.243921"
 ---

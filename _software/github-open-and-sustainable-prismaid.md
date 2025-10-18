@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/open-and-sustainable", "avatar_url": "https://avatars.githubusercontent.com/u/170118603?v=4", "login": "open-and-sustainable", "type": "Organization"}
 topics: ["systematic-literature-reviews", "generative-ai", "open-science", "open-source"]
-date: "2025-10-11 14:23:43.377733"
+date: "2025-10-18 14:24:59.784499"
 ---

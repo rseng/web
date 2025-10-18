@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/KskAdch", "avatar_url": "https://avatars.githubusercontent.com/u/139373570?v=4", "login": "KskAdch", "type": "User"}
 topics: ["condensed-matter-physics", "julia", "julia-language", "julia-package", "julialang", "chernnumbers", "z2numbers"]
-date: "2025-10-11 14:23:43.107229"
+date: "2025-10-18 14:24:58.944351"
 ---

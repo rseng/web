@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/dfujim", "avatar_url": "https://avatars.githubusercontent.com/u/7872559?v=4", "login": "dfujim", "type": "User"}
 topics: ["b-nmr", "b-nqr", "triumf"]
-date: "2025-10-11 14:23:43.166535"
+date: "2025-10-18 14:25:00.304979"
 ---

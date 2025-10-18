@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/lahovniktadej", "avatar_url": "https://avatars.githubusercontent.com/u/57890734?v=4", "login": "lahovniktadej", "type": "User"}
 topics: ["decision-tree", "machine-learning", "evolutionary-algorithm", "genetic-algorithm"]
-date: "2025-10-11 14:23:43.504784"
+date: "2025-10-18 14:24:59.060935"
 ---

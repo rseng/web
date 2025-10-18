@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 47
 owner: {"html_url": "https://github.com/vgteam", "avatar_url": "https://avatars.githubusercontent.com/u/15925452?v=4", "login": "vgteam", "type": "Organization"}
 topics: ["variation-graph", "graph", "genome-graph", "genomics", "dna"]
-date: "2025-10-11 14:23:43.349761"
+date: "2025-10-18 14:24:59.562497"
 ---
