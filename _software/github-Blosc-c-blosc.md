@@ -23,5 +23,5 @@ topics: ["c", "compression", "fast"]
 timestamp: "2020-07-04 13:22:32.911938"
 avatar: "https://avatars3.githubusercontent.com/u/6469856?v=4"
 repo_url: "https://github.com/Blosc/c-blosc"
-date: "2025-10-18 14:24:59.300113"
+date: "2025-10-25 14:25:28.345324"
 ---

@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 10
 owner: {"html_url": "https://github.com/bcgov", "avatar_url": "https://avatars.githubusercontent.com/u/916280?v=4", "login": "bcgov", "type": "Organization"}
 topics: ["rstats", "ecotoxicology", "species-sensitivity-distribution", "env"]
-date: "2025-10-18 14:24:59.803892"
+date: "2025-10-25 14:25:28.146410"
 ---

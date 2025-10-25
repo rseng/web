@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/druglogics", "avatar_url": "https://avatars.githubusercontent.com/u/56073408?v=4", "login": "druglogics", "type": "Organization"}
 topics: ["bliss", "boolean-model", "drug-target-interactions", "genetic-algorithm", "hsa", "drug-synergy"]
-date: "2025-10-18 14:24:59.825805"
+date: "2025-10-25 14:25:28.398083"
 ---

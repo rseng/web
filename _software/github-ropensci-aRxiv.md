@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["arxiv-api", "arxiv", "arxiv-org", "arxiv-analytics", "r", "rstats", "r-package", "literature"]
-date: "2025-10-18 14:25:00.476932"
+date: "2025-10-25 14:25:27.353502"
 ---

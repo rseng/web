@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ProjectPyRhO", "avatar_url": "https://avatars.githubusercontent.com/u/16543743?v=4", "login": "ProjectPyRhO", "type": "Organization"}
 topics: ["python", "optogenetics", "opsin", "jupyter-widget", "computational-neuroscience", "neuron", "brian2", "neuroscience", "brain", "brainweb"]
-date: "2025-10-18 14:24:59.408035"
+date: "2025-10-25 14:25:27.505276"
 ---

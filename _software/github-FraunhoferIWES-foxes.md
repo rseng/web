@@ -21,5 +21,5 @@ open_issues_count: 3
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/FraunhoferIWES", "avatar_url": "https://avatars.githubusercontent.com/u/88376562?v=4", "login": "FraunhoferIWES", "type": "Organization"}
-date: "2025-10-18 14:24:59.564445"
+date: "2025-10-25 14:25:27.855752"
 ---

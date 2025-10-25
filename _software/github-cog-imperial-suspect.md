@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/cog-imperial", "avatar_url": "https://avatars.githubusercontent.com/u/30658188?v=4", "login": "cog-imperial", "type": "Organization"}
 topics: ["mathematical-programming", "mixed-integer-optimization", "nonlinear-optimization", "pyomo"]
-date: "2025-10-18 14:25:00.246826"
+date: "2025-10-25 14:25:28.838996"
 ---

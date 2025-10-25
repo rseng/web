@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["modis", "gdal", "r", "preprocessing", "time-series", "remote-sensing", "satellite-imagery", "modis-data", "modis-land-products", "peer-reviewed", "r-package", "rstats", "data-access"]
-date: "2025-10-18 14:25:00.480952"
+date: "2025-10-25 14:25:27.360121"
 ---

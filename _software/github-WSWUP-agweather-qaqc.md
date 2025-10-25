@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 7
 owner: {"html_url": "https://github.com/WSWUP", "avatar_url": "https://avatars.githubusercontent.com/u/23201768?v=4", "login": "WSWUP", "type": "Organization"}
 topics: ["evapotranspiration", "python", "quality-assurance", "quality-control", "weather-data", "weather-station"]
-date: "2025-10-18 14:24:59.834254"
+date: "2025-10-25 14:25:27.674682"
 ---

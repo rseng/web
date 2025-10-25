@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/mgalardini", "avatar_url": "https://avatars.githubusercontent.com/u/1125215?v=4", "login": "mgalardini", "type": "User"}
 topics: ["gwas", "bacteria", "k-mer", "reimplementation", "reproducible-science"]
-date: "2025-10-18 14:24:59.880838"
+date: "2025-10-25 14:25:28.421370"
 ---

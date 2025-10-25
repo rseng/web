@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/amkrajewski", "avatar_url": "https://avatars.githubusercontent.com/u/54290107?v=4", "login": "amkrajewski", "type": "User"}
 topics: ["data-analysis", "data-optimization", "data-science", "materials-informatics", "metaprogramming", "nim", "nim-lang"]
-date: "2025-10-18 14:24:59.259594"
+date: "2025-10-25 14:25:28.448324"
 ---

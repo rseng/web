@@ -20,5 +20,5 @@ watchers_count: 2
 language: "C++"
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 owner: {"html_url": "https://github.com/sgshulman", "avatar_url": "https://avatars.githubusercontent.com/u/25725978?v=4", "login": "sgshulman", "type": "User"}
-date: "2025-10-18 14:24:59.525904"
+date: "2025-10-25 14:25:27.698041"
 ---

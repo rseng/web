@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/JuliaGeometry", "avatar_url": "https://avatars.githubusercontent.com/u/10924607?v=4", "login": "JuliaGeometry", "type": "Organization"}
 topics: ["delaunay-triangulation", "tessellation", "triangulation", "computational-geometry", "geometry", "voronoi", "voronoi-diagram", "delaunay", "meshing", "power-diagram"]
-date: "2025-10-18 14:24:59.034627"
+date: "2025-10-25 14:25:28.779580"
 ---

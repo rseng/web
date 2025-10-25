@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["web-api", "biodiversity-heritage-library", "data", "metadata", "api-wrapper", "r", "rstats", "r-package", "API", "BHL", "conservation", "library", "OCR", "species", "taxonomy", "text-mining", "web-services", "data-access"]
-date: "2025-10-18 14:25:00.431968"
+date: "2025-10-25 14:25:27.302647"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/DidierMurilloF", "avatar_url": "https://avatars.githubusercontent.com/u/79462830?v=4", "login": "DidierMurilloF", "type": "User"}
 topics: ["experimental", "design", "breeding", "agricultural"]
-date: "2025-10-18 14:24:59.161338"
+date: "2025-10-25 14:25:27.705363"
 ---

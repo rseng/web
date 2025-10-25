@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 14
 owner: {"html_url": "https://github.com/sibirrer", "avatar_url": "https://avatars.githubusercontent.com/u/6814174?v=4", "login": "sibirrer", "type": "User"}
 topics: ["gravitational-lensing", "image-simulation", "lenstronomy", "astropy-affiliated", "cosmology", "astronomy", "galaxies", "galaxy-morphology", "strong-lensing", "astrophysics"]
-date: "2025-10-18 14:24:59.154481"
+date: "2025-10-25 14:25:28.354745"
 ---

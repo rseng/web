@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rstats", "cran", "cran-r", "r", "unifir", "visualization", "unity", "unity3d"]
-date: "2025-10-18 14:25:00.466977"
+date: "2025-10-25 14:25:27.313638"
 ---

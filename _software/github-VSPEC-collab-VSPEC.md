@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/VSPEC-collab", "avatar_url": "https://avatars.githubusercontent.com/u/126274339?v=4", "login": "VSPEC-collab", "type": "Organization"}
 topics: ["exoplanet"]
-date: "2025-10-18 14:24:59.515431"
+date: "2025-10-25 14:25:28.157764"
 ---

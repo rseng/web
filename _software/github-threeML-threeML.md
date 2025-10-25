@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 12
 owner: {"html_url": "https://github.com/threeML", "avatar_url": "https://avatars.githubusercontent.com/u/44911645?v=4", "login": "threeML", "type": "Organization"}
 topics: ["python-environment", "xspec", "fermi", "fermi-science", "xspec-models", "python", "astronomy", "spectral-analysis", "multi-wavelength", "hawc"]
-date: "2025-10-18 14:24:59.278943"
+date: "2025-10-25 14:25:27.961523"
 ---
