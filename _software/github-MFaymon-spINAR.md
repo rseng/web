@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/MFaymon", "avatar_url": "https://avatars.githubusercontent.com/u/105346023?v=4", "login": "MFaymon", "type": "User"}
 topics: ["bootstrapping", "count-data", "parametric-estimation", "penalization", "semiparametric-estimation", "simulation", "time-series", "validation"]
-date: "2025-10-25 14:25:28.080133"
+date: "2025-11-01 14:25:33.662559"
 ---

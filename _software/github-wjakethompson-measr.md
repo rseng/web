@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/wjakethompson", "avatar_url": "https://avatars.githubusercontent.com/u/6980750?v=4", "login": "wjakethompson", "type": "User"}
 topics: ["bayesian", "cdm", "cmdstanr", "cognitive-diagnostic-models", "dcm", "r", "r-package", "rstan", "rstats", "stan", "diagnostic-classification-models", "cognitive-diagnosis", "psychometrics"]
-date: "2025-10-25 14:25:28.443397"
+date: "2025-11-01 14:25:34.025792"
 ---

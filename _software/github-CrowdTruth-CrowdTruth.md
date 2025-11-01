@@ -23,5 +23,5 @@ topics: ["crowdtruth-framework", "crowdtruth-work-ow", "quality", "microtasks", 
 timestamp: "2020-07-05 00:17:22.218287"
 avatar: "https://avatars3.githubusercontent.com/u/8793398?v=4"
 repo_url: "https://github.com/CrowdTruth/CrowdTruth"
-date: "2025-10-25 14:25:27.979959"
+date: "2025-11-01 14:25:33.562640"
 ---

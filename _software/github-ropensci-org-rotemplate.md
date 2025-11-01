@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ropensci-org", "avatar_url": "https://avatars.githubusercontent.com/u/55517264?v=4", "login": "ropensci-org", "type": "Organization"}
 topics: ["pkgdown", "r", "r-package", "rstats", "pkgdown"]
-date: "2025-10-25 14:25:27.954172"
+date: "2025-11-01 14:25:33.537042"
 ---

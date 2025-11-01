@@ -19,5 +19,5 @@ watchers_count: 10
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/axgoujon", "avatar_url": "https://avatars.githubusercontent.com/u/44649983?v=4", "login": "axgoujon", "type": "User"}
-date: "2025-10-25 14:25:27.733255"
+date: "2025-11-01 14:25:33.316009"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/HAWinther", "avatar_url": "https://avatars.githubusercontent.com/u/10915858?v=4", "login": "HAWinther", "type": "User"}
 topics: ["n-body", "n-body-simulator", "lcdm", "cola", "cosmology", "power-spectrum", "growth-factor"]
-date: "2025-10-25 14:25:27.549004"
+date: "2025-11-01 14:25:33.131479"
 ---

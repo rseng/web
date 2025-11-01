@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/franciscozorrilla", "avatar_url": "https://avatars.githubusercontent.com/u/35606471?v=4", "login": "franciscozorrilla", "type": "User"}
 topics: ["metagenomics", "computational-biology", "metabolic-models", "gut-microbiome", "snakemake", "metagenome-assembled-genomes", "mags", "metabolism", "bioinformatics", "flux-balance-analysis", "genome-scale-metabolic-model", "metabolic-modeling", "microbial-ecology", "microbiome", "systems-biology"]
-date: "2025-10-25 14:25:28.665108"
+date: "2025-11-01 14:25:34.252662"
 ---

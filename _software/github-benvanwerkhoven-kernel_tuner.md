@@ -24,5 +24,5 @@ topics: ["opencl-kernels", "kernel-tuner", "cuda-kernels", "python", "gpu", "cud
 timestamp: "2020-07-05 00:17:14.583713"
 avatar: "https://avatars0.githubusercontent.com/u/2337546?v=4"
 repo_url: "https://github.com/benvanwerkhoven/kernel_tuner"
-date: "2025-10-25 14:25:27.454236"
+date: "2025-11-01 14:25:33.037230"
 ---

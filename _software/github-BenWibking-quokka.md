@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/BenWibking", "avatar_url": "https://avatars.githubusercontent.com/u/1781919?v=4", "login": "BenWibking", "type": "User"}
 topics: ["cuda", "gpu", "hydrodynamics", "adaptive-mesh-refinement"]
-date: "2025-10-25 14:25:27.431781"
+date: "2025-11-01 14:25:33.014886"
 ---

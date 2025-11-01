@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 11
 owner: {"html_url": "https://github.com/MannLabs", "avatar_url": "https://avatars.githubusercontent.com/u/46714192?v=4", "login": "MannLabs", "type": "Organization"}
 topics: ["mass-spectrometry", "bioinformatics", "proteomics"]
-date: "2025-10-25 14:25:28.656005"
+date: "2025-11-01 14:25:34.243452"
 ---

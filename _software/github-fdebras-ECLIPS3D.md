@@ -20,5 +20,5 @@ watchers_count: 3
 language: "Fortran"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/fdebras", "avatar_url": "https://avatars.githubusercontent.com/u/49026312?v=4", "login": "fdebras", "type": "User"}
-date: "2025-10-25 14:25:27.567474"
+date: "2025-11-01 14:25:33.149930"
 ---

@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/equib", "avatar_url": "https://avatars3.githubusercontent.com/u/24842786?v=4", "login": "equib", "type": "Organization"}
 topics: ["atomic-level-populations", "chemical-elements", "line-emissivities", "statistical-equilibrium", "python", "pyequib"]
-date: "2025-10-25 14:25:28.549102"
+date: "2025-11-01 14:25:34.135670"
 ---

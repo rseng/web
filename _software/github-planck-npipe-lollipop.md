@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/planck-npipe", "avatar_url": "https://avatars.githubusercontent.com/u/75025933?v=4", "login": "planck-npipe", "type": "Organization"}
 topics: ["cmb", "likelihood", "cobaya", "planck"]
-date: "2025-10-25 14:25:28.530657"
+date: "2025-11-01 14:25:34.114299"
 ---

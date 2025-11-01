@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/henrycousins", "avatar_url": "https://avatars.githubusercontent.com/u/55973825?v=4", "login": "henrycousins", "type": "User"}
-date: "2025-10-25 14:25:28.162944"
+date: "2025-11-01 14:25:33.745159"
 ---

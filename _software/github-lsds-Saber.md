@@ -21,5 +21,5 @@ open_issues_count: 9
 subscribers_count: 4
 owner: {"html_url": "https://github.com/lsds", "avatar_url": "https://avatars.githubusercontent.com/u/989082?v=4", "login": "lsds", "type": "Organization"}
 topics: ["stream-processing", "hybrid", "multicore", "gpu", "high-throughput", "saber", "stream", "streaming-data", "streaming", "sliding-windows", "multicore-cpu"]
-date: "2025-10-25 14:25:27.256748"
+date: "2025-11-01 14:25:32.842375"
 ---

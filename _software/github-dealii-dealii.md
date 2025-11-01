@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 79
 owner: {"html_url": "https://github.com/dealii", "avatar_url": "https://avatars.githubusercontent.com/u/7506070?v=4", "login": "dealii", "type": "Organization"}
 topics: ["finite-elements", "c-plus-plus"]
-date: "2025-10-25 14:25:27.588597"
+date: "2025-11-01 14:25:33.170867"
 ---

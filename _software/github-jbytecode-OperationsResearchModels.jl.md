@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jbytecode", "avatar_url": "https://avatars.githubusercontent.com/u/8011702?v=4", "login": "jbytecode", "type": "User"}
 topics: ["assignment-problem", "maximum-flow", "shortest-path", "transportation-problem", "cpm", "johnson-algorithm", "knapsack-problem", "p-median-problem", "pert", "scheduling", "minimum-spanning-tree"]
-date: "2025-10-25 14:25:27.719949"
+date: "2025-11-01 14:25:33.302662"
 ---

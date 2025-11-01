@@ -18,5 +18,5 @@ language: "Rust"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/medbioinf", "avatar_url": "https://avatars.githubusercontent.com/u/139237371?v=4", "login": "medbioinf", "type": "Organization"}
-date: "2025-10-25 14:25:28.824601"
+date: "2025-11-01 14:25:34.469683"
 ---

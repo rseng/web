@@ -24,5 +24,5 @@ topics: ["citation", "citation-files", "attribution", "software-sustainability",
 timestamp: "2020-07-05 00:17:10.447070"
 avatar: "https://avatars2.githubusercontent.com/u/32704278?v=4"
 repo_url: "https://github.com/citation-file-format/cff-converter-python"
-date: "2025-10-25 14:25:27.688489"
+date: "2025-11-01 14:25:33.271151"
 ---

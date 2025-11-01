@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/DavidLapous", "avatar_url": "https://avatars.githubusercontent.com/u/15857585?v=4", "login": "DavidLapous", "type": "User"}
 topics: ["persistent-homology", "topological-data-analysis", "tda", "python", "cpp", "cython", "neurips-2023", "icml-2024", "multiparameter-persistence"]
-date: "2025-10-25 14:25:28.062279"
+date: "2025-11-01 14:25:33.644651"
 ---
