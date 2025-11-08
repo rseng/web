@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/morrowcj", "avatar_url": "https://avatars.githubusercontent.com/u/25436787?v=4", "login": "morrowcj", "type": "User"}
 topics: ["remote-sensing-in-r", "statistical-analysis", "big-data", "autocorrelation"]
-date: "2025-11-01 14:25:33.248305"
+date: "2025-11-08 14:26:01.913395"
 ---

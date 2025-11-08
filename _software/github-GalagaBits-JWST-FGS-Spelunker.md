@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/GalagaBits", "avatar_url": "https://avatars.githubusercontent.com/u/34511693?v=4", "login": "GalagaBits", "type": "User"}
 topics: ["fgs", "guidestar", "jwst"]
-date: "2025-11-01 14:25:33.430327"
+date: "2025-11-08 14:26:02.099403"
 ---

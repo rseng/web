@@ -21,5 +21,5 @@ language: "C++"
 open_issues_count: 3
 subscribers_count: 3
 owner: {"html_url": "https://github.com/xavierdidelot", "avatar_url": "https://avatars.githubusercontent.com/u/11612608?v=4", "login": "xavierdidelot", "type": "User"}
-date: "2025-11-01 14:25:34.145171"
+date: "2025-11-08 14:26:02.814607"
 ---

@@ -21,5 +21,5 @@ language: "Fortran"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cdominik", "avatar_url": "https://avatars.githubusercontent.com/u/32773?v=4", "login": "cdominik", "type": "User"}
-date: "2025-11-01 14:25:33.496869"
+date: "2025-11-08 14:26:02.166270"
 ---

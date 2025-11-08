@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 25
 owner: {"html_url": "https://github.com/bcgsc", "avatar_url": "https://avatars.githubusercontent.com/u/2319317?v=4", "login": "bcgsc", "type": "Organization"}
 topics: ["c-plus-plus", "science", "bioinformatics", "assembler", "scaffold", "genome", "10xgenomics", "graph"]
-date: "2025-11-01 14:25:33.155139"
+date: "2025-11-08 14:26:01.820063"
 ---

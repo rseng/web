@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/davidpagnon", "avatar_url": "https://avatars.githubusercontent.com/u/54667644?v=4", "login": "davidpagnon", "type": "User"}
 topics: ["biomechanics", "blazepose", "joint-angles", "kinematics", "markerless", "openpose", "sports-analytics", "kinovea", "pose-estimation", "rtmpose"]
-date: "2025-11-01 14:25:33.568365"
+date: "2025-11-08 14:26:02.238039"
 ---

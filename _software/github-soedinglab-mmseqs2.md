@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 29
 owner: {"html_url": "https://github.com/soedinglab", "avatar_url": "https://avatars.githubusercontent.com/u/7237671?v=4", "login": "soedinglab", "type": "Organization"}
 topics: ["bioinformatics", "sequence-clustering", "profile-search", "sequence-search", "linclust", "mmseqs", "metagenomics", "alignment", "blast", "taxonomy"]
-date: "2025-11-01 14:25:34.226290"
+date: "2025-11-08 14:26:02.895767"
 ---

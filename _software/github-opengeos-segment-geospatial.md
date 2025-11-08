@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 47
 owner: {"html_url": "https://github.com/opengeos", "avatar_url": "https://avatars.githubusercontent.com/u/129896036?v=4", "login": "opengeos", "type": "Organization"}
 topics: ["artificial-intelligence", "deep-learning", "machine-learning", "segmentation", "geopython", "geospatial", "segment-anything"]
-date: "2025-11-01 14:25:34.457863"
+date: "2025-11-08 14:26:03.074868"
 ---

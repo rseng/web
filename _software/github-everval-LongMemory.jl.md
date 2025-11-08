@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/everval", "avatar_url": "https://avatars.githubusercontent.com/u/26837739?v=4", "login": "everval", "type": "User"}
 topics: ["arfima", "fractional-differencing", "har-model", "long-memory", "long-range-dependence", "time-series", "time-series-analysis", "cross-sectional-aggregation", "stochastic-duration-shock", "strong-persistence", "forecasting"]
-date: "2025-11-01 14:25:33.547666"
+date: "2025-11-08 14:26:02.217259"
 ---

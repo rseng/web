@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["epub-files", "r", "rstats", "r-package", "epub", "epub-format", "peer-reviewed", "data-access"]
-date: "2025-11-01 14:25:32.907221"
+date: "2025-11-08 14:26:01.567249"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/EXP-code", "avatar_url": "https://avatars.githubusercontent.com/u/120035355?v=4", "login": "EXP-code", "type": "Organization"}
 topics: ["basis-function-expansion", "c-plus-plus", "n-body-simulation", "python", "time-series-analysis", "galactic-dynamics"]
-date: "2025-11-01 14:25:34.166404"
+date: "2025-11-08 14:26:02.835819"
 ---

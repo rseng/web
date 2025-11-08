@@ -24,5 +24,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 11
 owner: {"html_url": "https://github.com/radis", "avatar_url": "https://avatars.githubusercontent.com/u/35809936?v=4", "login": "radis", "type": "Organization"}
 topics: ["spectroscopy", "spectra", "infrared", "hitran", "hitemp", "plasma", "plasma-physics", "combustion", "radiation", "astrophysics", "exoplanets", "closember"]
-date: "2025-11-01 14:25:33.698847"
+date: "2025-11-08 14:26:02.368928"
 ---

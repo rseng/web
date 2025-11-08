@@ -25,5 +25,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 27
 owner: {"html_url": "https://github.com/biod", "avatar_url": "https://avatars.githubusercontent.com/u/3667078?v=4", "login": "biod", "type": "Organization"}
 topics: ["sam", "bam", "bioinformatics"]
-date: "2025-11-01 14:25:33.824552"
+date: "2025-11-08 14:26:02.495956"
 ---

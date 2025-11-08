@@ -24,5 +24,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 18
 owner: {"html_url": "https://github.com/MESAHub", "avatar_url": "https://avatars.githubusercontent.com/u/13661175?v=4", "login": "MESAHub", "type": "Organization"}
 topics: ["stellar-evolution", "binary-evolution", "astrophysics", "astronomy", "stellar-astrophysics", "fortran"]
-date: "2025-11-01 14:25:34.061196"
+date: "2025-11-08 14:26:02.734288"
 ---

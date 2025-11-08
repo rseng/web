@@ -22,5 +22,5 @@ forks_count: 2
 star_count: 7
 last_activity_at: "2022-03-10T06:10:56.773Z"
 namespace: {"id": 3047937, "name": "\ud300\uc5d0\uc774\uc2a4", "path": "aceteam.kaist", "kind": "user", "full_path": "aceteam.kaist", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/bdecea7c0d8176ff9e2983afcbff4c18?s=80&d=identicon", "web_url": "https://gitlab.com/aceteam.kaist"}
-date: "2025-11-01 14:25:32.838405"
+date: "2025-11-08 14:26:01.497613"
 ---
