@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 201
 owner: {"html_url": "https://github.com/pyro-ppl", "avatar_url": "https://avatars.githubusercontent.com/u/46794900?v=4", "login": "pyro-ppl", "type": "Organization"}
 topics: ["python", "pytorch", "machine-learning", "bayesian", "probabilistic-programming", "bayesian-inference", "variational-inference", "probabilistic-modeling", "deep-learning"]
-date: "2025-11-08 14:26:03.050967"
+date: "2025-11-15 14:26:55.346097"
 ---

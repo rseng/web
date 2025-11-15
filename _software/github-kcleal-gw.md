@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/kcleal", "avatar_url": "https://avatars.githubusercontent.com/u/42997789?v=4", "login": "kcleal", "type": "User"}
 topics: ["annotation-tool", "vcf", "bam-files", "cram-files", "genome-browser"]
-date: "2025-11-08 14:26:01.910429"
+date: "2025-11-15 14:26:54.202454"
 ---

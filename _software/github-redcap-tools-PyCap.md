@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 17
 owner: {"html_url": "https://github.com/redcap-tools", "avatar_url": "https://avatars.githubusercontent.com/u/14996753?v=4", "login": "redcap-tools", "type": "Organization"}
 topics: ["redcap", "python", "redcap-api", "redcap-package"]
-date: "2025-11-08 14:26:01.942472"
+date: "2025-11-15 14:26:54.234262"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/HARMONI-ELT", "avatar_url": "https://avatars.githubusercontent.com/u/45947677?v=4", "login": "HARMONI-ELT", "type": "Organization"}
-date: "2025-11-08 14:26:02.988900"
+date: "2025-11-15 14:26:55.284886"
 ---

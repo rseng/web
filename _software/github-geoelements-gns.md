@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/geoelements", "avatar_url": "https://avatars.githubusercontent.com/u/76979620?v=4", "login": "geoelements", "type": "Organization"}
 topics: ["graph-network-simulator", "deep-learning", "machine-learning", "pytorch"]
-date: "2025-11-08 14:26:03.041299"
+date: "2025-11-15 14:26:55.336600"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 35
 owner: {"html_url": "https://github.com/bowang-lab", "avatar_url": "https://avatars.githubusercontent.com/u/50999261?v=4", "login": "bowang-lab", "type": "Organization"}
 topics: ["foundation-model", "gpt", "single-cell"]
-date: "2025-11-08 14:26:01.974516"
+date: "2025-11-15 14:26:54.267217"
 ---

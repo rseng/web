@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 25
 owner: {"html_url": "https://github.com/fritzsedlazeck", "avatar_url": "https://avatars.githubusercontent.com/u/2081951?v=4", "login": "fritzsedlazeck", "type": "User"}
 topics: ["bioinformatics", "structural-variations", "ngm-lr", "pacbio", "nanopore", "structural-variation", "bioconda"]
-date: "2025-11-08 14:26:02.049200"
+date: "2025-11-15 14:26:54.339672"
 ---

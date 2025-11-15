@@ -1,0 +1,23 @@
+---
+parser: "github"
+uid: "github/DiseaseTranscriptomicsLab/scStudio"
+url: "https://github.com/DiseaseTranscriptomicsLab/scStudio"
+timestamp: "2025-11-09 00:55:29.022552"
+description: "A User-Friendly Web Application for Intuitive and Comprehensive scRNA-seq Data Analysis "
+avatar: "https://avatars.githubusercontent.com/u/125599003?v=4"
+repo_url: "https://github.com/DiseaseTranscriptomicsLab/scStudio"
+doi: "10.1101/2025.04.17.649161"
+name: "scStudio"
+full_name: "DiseaseTranscriptomicsLab/scStudio"
+html_url: "https://github.com/DiseaseTranscriptomicsLab/scStudio"
+created_at: "2024-09-05T11:03:18Z"
+updated_at: "2025-11-03T10:54:21Z"
+clone_url: "https://github.com/DiseaseTranscriptomicsLab/scStudio.git"
+size: 215310
+stargazers_count: 7
+watchers_count: 7
+language: "R"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/DiseaseTranscriptomicsLab", "avatar_url": "https://avatars.githubusercontent.com/u/125599003?v=4", "login": "DiseaseTranscriptomicsLab", "type": "Organization"}
+date: "2025-11-15 14:26:54.033378"
+---

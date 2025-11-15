@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/childmindresearch/wristpy"
+url: "https://github.com/childmindresearch/wristpy"
+timestamp: "2025-11-09 00:55:05.030927"
+description: "A Python package for wrist-worn accelerometer data processing."
+avatar: "https://avatars.githubusercontent.com/u/132617703?v=4"
+repo_url: "https://github.com/childmindresearch/wristpy"
+doi: "https://doi.org/10.5281/zenodo.17289865"
+name: "wristpy"
+full_name: "childmindresearch/wristpy"
+html_url: "https://github.com/childmindresearch/wristpy"
+created_at: "2024-01-26T19:14:29Z"
+updated_at: "2025-10-23T15:06:03Z"
+clone_url: "https://github.com/childmindresearch/wristpy.git"
+homepage: "https://childmindresearch.github.io/wristpy/"
+size: 8665
+stargazers_count: 15
+watchers_count: 15
+language: "Python"
+open_issues_count: 12
+license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1", "node_id": "MDc6TGljZW5zZTEx"}
+subscribers_count: 8
+owner: {"html_url": "https://github.com/childmindresearch", "avatar_url": "https://avatars.githubusercontent.com/u/132617703?v=4", "login": "childmindresearch", "type": "Organization"}
+date: "2025-11-15 14:26:54.436562"
+---

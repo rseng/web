@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/leapigufpb", "avatar_url": "https://avatars.githubusercontent.com/u/126794664?v=4", "login": "leapigufpb", "type": "User"}
 topics: ["fuzzy", "machine-learning", "package", "r"]
-date: "2025-11-08 14:26:02.152600"
+date: "2025-11-15 14:26:54.442914"
 ---

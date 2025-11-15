@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/marius311", "avatar_url": "https://avatars.githubusercontent.com/u/1510968?v=4", "login": "marius311", "type": "User"}
 topics: ["cosmology", "mcmc", "likelihood"]
-date: "2025-11-08 14:26:01.785650"
+date: "2025-11-15 14:26:54.078284"
 ---

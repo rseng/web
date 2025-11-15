@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/yaml2sbml-dev", "avatar_url": "https://avatars.githubusercontent.com/u/69810793?v=4", "login": "yaml2sbml-dev", "type": "Organization"}
 topics: ["sbml", "petab", "ode", "ode-model", "yaml"]
-date: "2025-11-08 14:26:02.301847"
+date: "2025-11-15 14:26:54.594022"
 ---

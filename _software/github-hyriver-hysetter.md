@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/hyriver", "avatar_url": "https://avatars.githubusercontent.com/u/109259800?v=4", "login": "hyriver", "type": "Organization"}
 topics: ["climate-data", "daymet", "gridmet", "hydrology", "nldas", "nwis"]
-date: "2025-11-08 14:26:01.801452"
+date: "2025-11-15 14:26:54.093760"
 ---

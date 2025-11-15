@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/unibe-icelab/thz-image-explorer"
+url: "https://github.com/unibe-icelab/thz-image-explorer"
+timestamp: "2025-11-09 00:54:53.879302"
+description: "THz Image Explorer is an application for THz time-domain image analysis."
+avatar: "https://avatars.githubusercontent.com/u/193905551?v=4"
+repo_url: "https://github.com/unibe-icelab/thz-image-explorer"
+doi: "https://doi.org/10.5281/zenodo.17529048"
+name: "thz-image-explorer"
+full_name: "unibe-icelab/thz-image-explorer"
+html_url: "https://github.com/unibe-icelab/thz-image-explorer"
+created_at: "2024-06-18T11:32:02Z"
+updated_at: "2025-11-07T15:46:29Z"
+clone_url: "https://github.com/unibe-icelab/thz-image-explorer.git"
+size: 53621
+stargazers_count: 1
+watchers_count: 1
+language: "Rust"
+open_issues_count: 6
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/unibe-icelab", "avatar_url": "https://avatars.githubusercontent.com/u/193905551?v=4", "login": "unibe-icelab", "type": "Organization"}
+topics: ["analysis", "rust", "thz", "thz-tds"]
+date: "2025-11-15 14:26:53.934453"
+---

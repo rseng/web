@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/DFKI-NI", "avatar_url": "https://avatars.githubusercontent.com/u/69036303?v=4", "login": "DFKI-NI", "type": "Organization"}
 topics: ["3d-rendering", "annotation", "asset-management", "bounding-boxes", "computer-vision", "data-generation", "dataset-creation", "depth-estimation", "instance-segmentation", "keypoints", "machine-learning", "photorealistic", "point-clouds", "randomization", "semantic-segmentation", "structured-light", "synthetic-data", "virtual-environments"]
-date: "2025-11-08 14:26:01.885688"
+date: "2025-11-15 14:26:54.177895"
 ---

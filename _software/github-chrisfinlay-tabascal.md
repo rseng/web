@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/chrisfinlay/tabascal"
+url: "https://github.com/chrisfinlay/tabascal"
+timestamp: "2025-11-09 00:54:21.201925"
+description: "TrAjectory BAsed RFI Subtraction and CALibration (TABASCAL) of radio interferometry data. A source to visibility model for astronomical and RFI sources including near-field effects. Visibility data is jointly calibrated with excision of specific RFI contamination."
+avatar: "https://avatars.githubusercontent.com/u/18262727?v=4"
+repo_url: "https://github.com/chrisfinlay/tabascal"
+doi: ["https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.3231F", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft10021F/abstract"]
+title: "TABASCAL: Modeling and subtraction of moving radio-frequency interference in interferometric data"
+name: "tabascal"
+full_name: "chrisfinlay/tabascal"
+html_url: "https://github.com/chrisfinlay/tabascal"
+created_at: "2022-11-14T13:11:38Z"
+updated_at: "2025-11-01T12:19:29Z"
+clone_url: "https://github.com/chrisfinlay/tabascal.git"
+size: 1344
+stargazers_count: 9
+watchers_count: 9
+language: "Python"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/chrisfinlay", "avatar_url": "https://avatars.githubusercontent.com/u/18262727?v=4", "login": "chrisfinlay", "type": "User"}
+topics: ["radio-astronomy", "radio-frequency-interference", "radio-interferometry", "lofar", "meerkat", "rfi-mitigation", "rfi-removal", "satellite", "ska-telescope", "gpu"]
+date: "2025-11-15 14:26:54.375794"
+---

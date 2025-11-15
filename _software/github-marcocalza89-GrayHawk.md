@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/marcocalza89/GrayHawk"
+url: "https://github.com/marcocalza89/GrayHawk"
+timestamp: "2025-11-09 00:54:24.779830"
+description: "Tools for computing GrayBody Factors of Spherically Symmetric BHs for different field spin"
+avatar: "https://avatars.githubusercontent.com/u/160862765?v=4"
+repo_url: "https://github.com/marcocalza89/GrayHawk"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025PDU....4801900C", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft10014C/abstract"]
+title: "GrayHawk: Gray-body factor calculations for black holes"
+name: "GrayHawk"
+full_name: "marcocalza89/GrayHawk"
+html_url: "https://github.com/marcocalza89/GrayHawk"
+created_at: "2025-02-04T16:34:43Z"
+updated_at: "2025-10-22T06:48:40Z"
+clone_url: "https://github.com/marcocalza89/GrayHawk.git"
+size: 2615
+stargazers_count: 5
+watchers_count: 5
+language: "Mathematica"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/marcocalza89", "avatar_url": "https://avatars.githubusercontent.com/u/160862765?v=4", "login": "marcocalza89", "type": "User"}
+date: "2025-11-15 14:26:54.030956"
+---

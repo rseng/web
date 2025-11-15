@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/josegcpa/nnunet_serve"
+url: "https://github.com/josegcpa/nnunet_serve"
+timestamp: "2025-11-09 00:55:22.207370"
+description: "A one-size-fits-all solution to run nnU-Net models. Supports TotalSegmentator models."
+avatar: "https://avatars.githubusercontent.com/u/40271262?v=4"
+repo_url: "https://github.com/josegcpa/nnunet_serve"
+doi: "10.1016/j.compbiomed.2024.108216"
+name: "nnunet_serve"
+full_name: "josegcpa/nnunet_serve"
+html_url: "https://github.com/josegcpa/nnunet_serve"
+created_at: "2023-07-27T13:34:20Z"
+updated_at: "2025-11-07T17:18:37Z"
+clone_url: "https://github.com/josegcpa/nnunet_serve.git"
+size: 546
+stargazers_count: 1
+watchers_count: 1
+language: "Python"
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/josegcpa", "avatar_url": "https://avatars.githubusercontent.com/u/40271262?v=4", "login": "josegcpa", "type": "User"}
+topics: ["docker", "nnunet", "wrapper"]
+date: "2025-11-15 14:26:54.908880"
+---

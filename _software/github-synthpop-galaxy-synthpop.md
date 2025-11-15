@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/synthpop-galaxy/synthpop"
+url: "https://github.com/synthpop-galaxy/synthpop"
+timestamp: "2025-11-09 00:54:26.954069"
+description: "A modular Galactic population synthesis code"
+avatar: "https://avatars.githubusercontent.com/u/127166316?v=4"
+repo_url: "https://github.com/synthpop-galaxy/synthpop"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025AJ....169..297A", "https://ui.adsabs.harvard.edu/abs/2025AJ....169..317K", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft10010K/abstract"]
+title: "Synthpop: Modular Galactic population synthesis"
+name: "synthpop"
+full_name: "synthpop-galaxy/synthpop"
+html_url: "https://github.com/synthpop-galaxy/synthpop"
+created_at: "2023-03-09T17:40:04Z"
+updated_at: "2025-11-08T00:55:14Z"
+clone_url: "https://github.com/synthpop-galaxy/synthpop.git"
+homepage: "https://synthpop.readthedocs.io/en/latest/"
+size: 12809
+stargazers_count: 21
+watchers_count: 21
+language: "Batchfile"
+open_issues_count: 3
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 3
+owner: {"html_url": "https://github.com/synthpop-galaxy", "avatar_url": "https://avatars.githubusercontent.com/u/127166316?v=4", "login": "synthpop-galaxy", "type": "Organization"}
+date: "2025-11-15 14:26:55.261512"
+---

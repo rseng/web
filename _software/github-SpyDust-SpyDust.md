@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/SpyDust/SpyDust"
+url: "https://github.com/SpyDust/SpyDust"
+timestamp: "2025-11-09 00:54:24.244197"
+description: "An improved implementation of SPDust for modeling spinning dust radiation"
+avatar: "https://avatars.githubusercontent.com/u/187758865?v=4"
+repo_url: "https://github.com/SpyDust/SpyDust"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025JCAP...03..038Z", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft10015Z/abstract"]
+title: "SpyDust: Improved implementation of SPDust for modeling spinning dust radiation"
+name: "SpyDust"
+full_name: "SpyDust/SpyDust"
+html_url: "https://github.com/SpyDust/SpyDust"
+created_at: "2024-11-08T12:04:56Z"
+updated_at: "2025-11-03T08:12:52Z"
+clone_url: "https://github.com/SpyDust/SpyDust.git"
+size: 33000
+stargazers_count: 4
+watchers_count: 4
+language: "Jupyter Notebook"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/SpyDust", "avatar_url": "https://avatars.githubusercontent.com/u/187758865?v=4", "login": "SpyDust", "type": "Organization"}
+date: "2025-11-15 14:26:54.738886"
+---

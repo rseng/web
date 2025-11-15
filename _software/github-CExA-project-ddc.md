@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/CExA-project/ddc"
+url: "https://github.com/CExA-project/ddc"
+timestamp: "2025-11-09 00:54:55.028970"
+description: "DDC is a discrete domain computation library."
+avatar: "https://avatars.githubusercontent.com/u/134058568?v=4"
+repo_url: "https://github.com/CExA-project/ddc"
+doi: "https://doi.org/10.5281/zenodo.17511922"
+name: "ddc"
+full_name: "CExA-project/ddc"
+html_url: "https://github.com/CExA-project/ddc"
+created_at: "2021-11-27T11:50:14Z"
+updated_at: "2025-11-07T13:17:31Z"
+clone_url: "https://github.com/CExA-project/ddc.git"
+homepage: "https://ddc.mdls.fr"
+size: 33184
+stargazers_count: 41
+watchers_count: 41
+language: "C++"
+open_issues_count: 65
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/CExA-project", "avatar_url": "https://avatars.githubusercontent.com/u/134058568?v=4", "login": "CExA-project", "type": "Organization"}
+topics: ["modern-cpp", "domain-decomposition", "ddc", "cpp", "discretization", "hpc", "kokkos"]
+date: "2025-11-15 14:26:55.267253"
+---

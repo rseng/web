@@ -20,5 +20,5 @@ language: "Julia"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SotaYoshida", "avatar_url": "https://avatars.githubusercontent.com/u/52435497?v=4", "login": "SotaYoshida", "type": "User"}
-date: "2025-11-08 14:26:01.895503"
+date: "2025-11-15 14:26:54.187625"
 ---

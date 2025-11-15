@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/ViennaRNA", "avatar_url": "https://avatars.githubusercontent.com/u/22776520?v=4", "login": "ViennaRNA", "type": "Organization"}
 topics: ["rnablueprint-library", "riboswitch", "design", "rna-design", "inverse-folding", "rna-structure", "viennarna", "nupack"]
-date: "2025-11-08 14:26:03.074611"
+date: "2025-11-15 14:26:55.369272"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["geojson", "wkt", "wkb", "rstats", "wellknown", "geospatial", "spatial", "r", "r-package", "binary", "conversion", "well-known-text"]
-date: "2025-11-08 14:26:01.536242"
+date: "2025-11-15 14:26:53.829308"
 ---

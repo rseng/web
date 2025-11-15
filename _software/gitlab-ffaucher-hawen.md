@@ -20,5 +20,5 @@ web_url: "https://gitlab.com/ffaucher/hawen"
 readme_url: "https://gitlab.com/ffaucher/hawen/-/blob/master/README.md"
 last_activity_at: "2021-01-18T14:20:44.601Z"
 namespace: {"id": 7994521, "name": "Florian Faucher", "path": "ffaucher", "kind": "user", "full_path": "ffaucher", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/cc12c145dbaa8c395154d4e24bab31ce?s=80&d=identicon", "web_url": "https://gitlab.com/ffaucher"}
-date: "2025-11-08 14:26:01.475782"
+date: "2025-11-15 14:26:53.769046"
 ---
