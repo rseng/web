@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/m-dadej", "avatar_url": "https://avatars.githubusercontent.com/u/48299815?v=4", "login": "m-dadej", "type": "User"}
 topics: ["econometrics", "julia", "machine-learning", "markov-chain", "statistics", "time-series", "data-science"]
-date: "2025-11-15 14:26:54.331785"
+date: "2025-11-22 14:26:29.692327"
 ---

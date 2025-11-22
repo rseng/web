@@ -21,5 +21,5 @@ language: "C"
 open_issues_count: 2
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Michalychforever", "avatar_url": "https://avatars.githubusercontent.com/u/25805568?v=4", "login": "Michalychforever", "type": "User"}
-date: "2025-11-15 14:26:54.687950"
+date: "2025-11-22 14:26:30.053724"
 ---

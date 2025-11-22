@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/metagentools", "avatar_url": "https://avatars.githubusercontent.com/u/105288780?v=4", "login": "metagentools", "type": "Organization"}
 topics: ["contigs", "metagenomics", "metagenomic-binning", "assembly-graph", "bioinformatics"]
-date: "2025-11-15 14:26:55.253367"
+date: "2025-11-22 14:26:30.628100"
 ---

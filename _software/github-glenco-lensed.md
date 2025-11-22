@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 10
 owner: {"html_url": "https://github.com/glenco", "avatar_url": "https://avatars.githubusercontent.com/u/10499259?v=4", "login": "glenco", "type": "Organization"}
 topics: ["astronomy", "gravitational-lensing", "astrophysics", "opencl", "gpgpu"]
-date: "2025-11-15 14:26:54.406520"
+date: "2025-11-22 14:26:29.768272"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/liuhao-cn", "avatar_url": "https://avatars.githubusercontent.com/u/31798291?v=4", "login": "liuhao-cn", "type": "User"}
 topics: ["gpu-computing", "spherical-harmonics", "cosmic-microwave-background"]
-date: "2025-11-15 14:26:54.024275"
+date: "2025-11-22 14:26:29.379650"
 ---

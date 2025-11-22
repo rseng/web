@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ManuelRausch", "avatar_url": "https://avatars.githubusercontent.com/u/114725315?v=4", "login": "ManuelRausch", "type": "User"}
 topics: ["cognitive-modeling", "information-theory", "metacognition", "signal-detection-theory"]
-date: "2025-11-15 14:26:55.416631"
+date: "2025-11-22 14:26:30.794748"
 ---

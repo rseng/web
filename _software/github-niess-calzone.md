@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/niess", "avatar_url": "https://avatars.githubusercontent.com/u/11327514?v=4", "login": "niess", "type": "User"}
 topics: ["geant4", "monte-carlo", "python"]
-date: "2025-11-15 14:26:55.284652"
+date: "2025-11-22 14:26:30.660009"
 ---

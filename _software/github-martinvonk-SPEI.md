@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/martinvonk", "avatar_url": "https://avatars.githubusercontent.com/u/66305055?v=4", "login": "martinvonk", "type": "User"}
 topics: ["drought", "groundwater", "hydrology", "python", "sgi", "spei", "timeseries", "spi", "drought-index", "drought-indices"]
-date: "2025-11-15 14:26:54.558078"
+date: "2025-11-22 14:26:29.921749"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/wangbingjie", "avatar_url": "https://avatars.githubusercontent.com/u/12805735?v=4", "login": "wangbingjie", "type": "User"}
 topics: ["sed-fitting", "simulation-based-inference"]
-date: "2025-11-15 14:26:55.348491"
+date: "2025-11-22 14:26:30.725377"
 ---

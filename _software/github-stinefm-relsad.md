@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/stinefm", "avatar_url": "https://avatars.githubusercontent.com/u/61108213?v=4", "login": "stinefm", "type": "User"}
 topics: ["electrical-power-engineering", "reliability"]
-date: "2025-11-15 14:26:54.702951"
+date: "2025-11-22 14:26:30.069209"
 ---

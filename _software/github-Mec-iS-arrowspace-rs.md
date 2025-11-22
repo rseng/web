@@ -18,5 +18,5 @@ watchers_count: 6
 language: "Rust"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 owner: {"html_url": "https://github.com/Mec-iS", "avatar_url": "https://avatars.githubusercontent.com/u/3146196?v=4", "login": "Mec-iS", "type": "User"}
-date: "2025-11-15 14:26:54.571612"
+date: "2025-11-22 14:26:29.935417"
 ---

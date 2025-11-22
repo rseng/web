@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/cicirello", "avatar_url": "https://avatars.githubusercontent.com/u/762030?v=4", "login": "cicirello", "type": "User"}
 topics: ["randomizer", "randomization", "gaussian", "cauchy", "binomial", "pseudorandom", "random-numbers"]
-date: "2025-11-15 14:26:54.020732"
+date: "2025-11-22 14:26:29.376061"
 ---

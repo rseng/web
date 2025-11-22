@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/seamplex", "avatar_url": "https://avatars.githubusercontent.com/u/47778967?v=4", "login": "seamplex", "type": "Organization"}
 topics: ["finite-elements", "hpc", "numerical-methods", "ode-solver", "pde-solver"]
-date: "2025-11-15 14:26:54.398791"
+date: "2025-11-22 14:26:29.760418"
 ---

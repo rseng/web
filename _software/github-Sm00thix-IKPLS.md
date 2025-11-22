@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Sm00thix", "avatar_url": "https://avatars.githubusercontent.com/u/12599803?v=4", "login": "Sm00thix", "type": "User"}
 topics: ["data-science", "gpu-support", "linear-regression", "partial-least-squares", "partial-least-squares-regression", "pls", "plsda", "plsr", "algorithm", "tpu-acceleration"]
-date: "2025-11-15 14:26:54.425379"
+date: "2025-11-22 14:26:29.787253"
 ---
