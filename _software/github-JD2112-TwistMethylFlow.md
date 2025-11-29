@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JD2112", "avatar_url": "https://avatars.githubusercontent.com/u/15922543?v=4", "login": "JD2112", "type": "User"}
 topics: ["dna", "dna-methylation", "docker", "nextflow", "singularity", "twist"]
-date: "2025-11-22 14:26:30.110121"
+date: "2025-11-29 14:28:11.098546"
 ---

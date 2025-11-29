@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/SoFiA-Admin", "avatar_url": "https://avatars.githubusercontent.com/u/6572706?v=4", "login": "SoFiA-Admin", "type": "User"}
 topics: ["astronomy", "radioastronomy", "radio-astronomy", "source-finding", "parameterization", "source-finder"]
-date: "2025-11-22 14:26:30.832856"
+date: "2025-11-29 14:28:11.809433"
 ---

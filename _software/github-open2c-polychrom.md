@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/open2c", "avatar_url": "https://avatars.githubusercontent.com/u/70977326?v=4", "login": "open2c", "type": "Organization"}
 topics: ["loop-extrusion", "simulation", "polymer", "chromatin", "chromosomes", "hi-c"]
-date: "2025-11-22 14:26:29.299627"
+date: "2025-11-29 14:28:10.309472"
 ---

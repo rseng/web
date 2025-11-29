@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 9
 subscribers_count: 6
 owner: {"html_url": "https://github.com/jluastro", "avatar_url": "https://avatars.githubusercontent.com/u/1459392?v=4", "login": "jluastro", "type": "User"}
-date: "2025-11-22 14:26:29.314831"
+date: "2025-11-29 14:28:10.324251"
 ---

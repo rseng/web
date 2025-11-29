@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/mentatpsi", "avatar_url": "https://avatars.githubusercontent.com/u/1183961?v=4", "login": "mentatpsi", "type": "User"}
 topics: ["23andme", "snps", "genome", "data-crawling", "python", "genetic-data", "kendo", "flask", "genetics", "snpedia", "raw-data"]
-date: "2025-11-22 14:26:29.592827"
+date: "2025-11-29 14:28:10.586659"
 ---

@@ -22,5 +22,5 @@ language: "C++"
 open_issues_count: 47
 subscribers_count: 34
 owner: {"html_url": "https://github.com/jts", "avatar_url": "https://avatars.githubusercontent.com/u/389535?v=4", "login": "jts", "type": "User"}
-date: "2025-11-22 14:26:29.672047"
+date: "2025-11-29 14:28:10.664835"
 ---

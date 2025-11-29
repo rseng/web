@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Jingxuan97", "avatar_url": "https://avatars.githubusercontent.com/u/64174530?v=4", "login": "Jingxuan97", "type": "User"}
 topics: ["exoplanet-analysis", "exoplanet-atmospheres", "exoplanets", "radiative-transfer"]
-date: "2025-11-22 14:26:29.964185"
+date: "2025-11-29 14:28:10.953429"
 ---

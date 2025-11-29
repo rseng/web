@@ -21,5 +21,5 @@ open_issues_count: 10
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["predicate-functions", "analysis-pipeline", "assertions", "assertion-methods", "assertion-library", "r", "rstats", "r-package", "peer-reviewed", "scalereprod"]
-date: "2025-11-22 14:26:29.209982"
+date: "2025-11-29 14:28:10.220899"
 ---

@@ -24,5 +24,5 @@ forks_count: 3
 star_count: 6
 last_activity_at: "2022-07-18T20:29:53.613Z"
 namespace: {"id": 3477171, "name": "treangenlab", "path": "treangenlab", "kind": "group", "full_path": "treangenlab", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/treangenlab"}
-date: "2025-11-22 14:26:29.105471"
+date: "2025-11-29 14:28:10.117462"
 ---

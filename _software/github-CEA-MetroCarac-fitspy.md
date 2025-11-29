@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/CEA-MetroCarac", "avatar_url": "https://avatars.githubusercontent.com/u/111420199?v=4", "login": "CEA-MetroCarac", "type": "Organization"}
 topics: ["decomposition", "fitting", "gaussian", "lmfit", "lorentzian", "map", "python", "spectral-analysis", "spectrum"]
-date: "2025-11-22 14:26:29.601201"
+date: "2025-11-29 14:28:10.594966"
 ---

@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "weather-data", "gsod", "ncdc", "weather-stations", "global-data", "data-access", "ncei", "weather", "weather-information", "historical-weather", "historical-data", "daily-data", "daily-weather", "rstats", "r-package", "global-weather", "meteorological-data", "meteorology", "station-data", "surface-weather", "US-NCDC", "US-NCEI"]
-date: "2025-11-22 14:26:29.178459"
+date: "2025-11-29 14:28:10.189866"
 ---

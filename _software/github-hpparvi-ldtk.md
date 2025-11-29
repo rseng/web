@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/hpparvi", "avatar_url": "https://avatars.githubusercontent.com/u/327523?v=4", "login": "hpparvi", "type": "User"}
 topics: ["python", "limb-darkening-profiles", "limb-darkening-models", "astrophysics", "astronomy", "exoplanets", "exoplanet-transits"]
-date: "2025-11-22 14:26:30.025305"
+date: "2025-11-29 14:28:11.013941"
 ---

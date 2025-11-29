@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/prioritizr", "avatar_url": "https://avatars.githubusercontent.com/u/25472841?v=4", "login": "prioritizr", "type": "Organization"}
 topics: ["r", "conservation", "data", "spatial", "database", "biodiversity", "protected-areas", "cran", "r-package", "rstats"]
-date: "2025-11-22 14:26:30.763987"
+date: "2025-11-29 14:28:11.742176"
 ---

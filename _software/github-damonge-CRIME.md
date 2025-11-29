@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/damonge", "avatar_url": "https://avatars.githubusercontent.com/u/8809493?v=4", "login": "damonge", "type": "User"}
-date: "2025-11-22 14:26:30.244497"
+date: "2025-11-29 14:28:11.230824"
 ---

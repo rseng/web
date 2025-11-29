@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/arjunsavel", "avatar_url": "https://avatars.githubusercontent.com/u/35353555?v=4", "login": "arjunsavel", "type": "User"}
 topics: ["astronomy", "atmospheres", "exoplanets", "radiative-transfer"]
-date: "2025-11-22 14:26:29.530755"
+date: "2025-11-29 14:28:10.525130"
 ---

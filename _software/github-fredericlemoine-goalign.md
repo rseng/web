@@ -24,5 +24,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/evolbioinfo", "avatar_url": "https://avatars.githubusercontent.com/u/25950370?v=4", "login": "evolbioinfo", "type": "Organization"}
 topics: ["phylogeny", "alignment", "phylip", "fasta", "phylip-alignment", "nexus"]
-date: "2025-11-22 14:26:30.155996"
+date: "2025-11-29 14:28:11.144139"
 ---

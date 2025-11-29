@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 9
 owner: {"html_url": "https://github.com/Degiacomi-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/102035266?v=4", "login": "Degiacomi-Lab", "type": "Organization"}
 topics: ["machine-learning", "molecular-dynamics", "molecular-modeling", "protein-structure"]
-date: "2025-11-22 14:26:29.800965"
+date: "2025-11-29 14:28:10.792271"
 ---

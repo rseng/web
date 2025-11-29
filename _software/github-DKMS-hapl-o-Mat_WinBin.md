@@ -16,5 +16,5 @@ clone_url: "https://github.com/DKMS/Hapl-o-Mat_WinBin.git"
 size: 115453
 subscribers_count: 2
 owner: {"html_url": "https://github.com/DKMS", "avatar_url": "https://avatars.githubusercontent.com/u/16760698?v=4", "login": "DKMS", "type": "Organization"}
-date: "2025-11-22 14:26:30.147266"
+date: "2025-11-29 14:28:11.135418"
 ---

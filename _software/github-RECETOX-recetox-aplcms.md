@@ -20,5 +20,5 @@ open_issues_count: 21
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 owner: {"html_url": "https://github.com/RECETOX", "avatar_url": "https://avatars.githubusercontent.com/u/69039108?v=4", "login": "RECETOX", "type": "Organization"}
 topics: ["mass-spectrometry", "peak-detection", "lcms", "hacktoberfest"]
-date: "2025-11-22 14:26:30.192144"
+date: "2025-11-29 14:28:11.179582"
 ---

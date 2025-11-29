@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/joefarrington", "avatar_url": "https://avatars.githubusercontent.com/u/22770922?v=4", "login": "joefarrington", "type": "User"}
 topics: ["dynamic-programming", "jax", "optimization", "reinforcement-learning", "value-iteration"]
-date: "2025-11-22 14:26:30.655376"
+date: "2025-11-29 14:28:11.635665"
 ---

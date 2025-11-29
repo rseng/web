@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/OpenMDAO", "avatar_url": "https://avatars.githubusercontent.com/u/861615?v=4", "login": "OpenMDAO", "type": "Organization"}
 topics: ["nasa", "optimal-control", "trajectory-optimization", "pseudospectral", "openmdao", "co-design"]
-date: "2025-11-22 14:26:29.509142"
+date: "2025-11-29 14:28:10.503762"
 ---
