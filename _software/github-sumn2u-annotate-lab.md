@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/sumn2u", "avatar_url": "https://avatars.githubusercontent.com/u/6531541?v=4", "login": "sumn2u", "type": "User"}
 topics: ["annotation-tool", "image-annotation", "image-labeling", "image-segmentation", "collaborate", "computer-vision", "machine-learning", "classification", "image-masking", "segmentation", "python", "react"]
-date: "2025-11-29 14:28:11.509098"
+date: "2025-12-06 14:27:25.033082"
 ---

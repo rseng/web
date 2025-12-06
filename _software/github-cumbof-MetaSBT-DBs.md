@@ -19,5 +19,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cumbof", "avatar_url": "https://avatars.githubusercontent.com/u/3764656?v=4", "login": "cumbof", "type": "User"}
 topics: ["databases", "metagenome-assembled-genomes", "metagenomics", "reference-genomes", "sequence-bloom-trees"]
-date: "2025-11-29 14:28:11.326465"
+date: "2025-12-06 14:27:24.851841"
 ---

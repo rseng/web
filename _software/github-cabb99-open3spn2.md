@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cabb99", "avatar_url": "https://avatars.githubusercontent.com/u/2429859?v=4", "login": "cabb99", "type": "User"}
 topics: ["dna", "forcefield", "openmm"]
-date: "2025-11-29 14:28:11.440520"
+date: "2025-12-06 14:27:24.964814"
 ---

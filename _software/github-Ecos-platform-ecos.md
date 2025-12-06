@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Ecos-platform", "avatar_url": "https://avatars.githubusercontent.com/u/89104260?v=4", "login": "Ecos-platform", "type": "Organization"}
 topics: ["co-simulation", "fmi-standard", "ssp-standard", "command-line-tool", "cpp20", "fmi2", "fmi3", "python3", "fmi1"]
-date: "2025-11-29 14:28:10.914829"
+date: "2025-12-06 14:27:24.445410"
 ---

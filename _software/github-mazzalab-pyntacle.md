@@ -20,5 +20,5 @@ language: "Python"
 open_issues_count: 8
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mazzalab", "avatar_url": "https://avatars0.githubusercontent.com/u/10012441?v=4", "login": "mazzalab", "type": "User"}
-date: "2025-11-29 14:28:10.934397"
+date: "2025-12-06 14:27:24.464877"
 ---

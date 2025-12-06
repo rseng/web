@@ -20,5 +20,5 @@ language: "C"
 open_issues_count: 22
 subscribers_count: 2
 owner: {"html_url": "https://github.com/splicebox", "avatar_url": "https://avatars.githubusercontent.com/u/39348708?v=4", "login": "splicebox", "type": "User"}
-date: "2025-11-29 14:28:10.738977"
+date: "2025-12-06 14:27:24.269478"
 ---

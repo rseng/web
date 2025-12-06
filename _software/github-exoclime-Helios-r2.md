@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/exoclime", "avatar_url": "https://avatars.githubusercontent.com/u/61202311?v=4", "login": "exoclime", "type": "Organization"}
 topics: ["cuda", "exoplanets", "retrieval"]
-date: "2025-11-29 14:28:10.535152"
+date: "2025-12-06 14:27:24.067756"
 ---

@@ -16,5 +16,5 @@ size: 7979
 language: "PLpgSQL"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ptaconet", "avatar_url": "https://avatars.githubusercontent.com/u/15834351?v=4", "login": "ptaconet", "type": "User"}
-date: "2025-11-29 14:28:11.619193"
+date: "2025-12-06 14:27:25.143085"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/rodluger", "avatar_url": "https://avatars.githubusercontent.com/u/9323819?v=4", "login": "rodluger", "type": "User"}
 topics: ["exoplanets", "photometry", "kepler", "k2-light-curves", "k2-data-science", "exoplanet-transits"]
-date: "2025-11-29 14:28:11.704701"
+date: "2025-12-06 14:27:25.227940"
 ---

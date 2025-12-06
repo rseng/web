@@ -22,5 +22,5 @@ language: "Python"
 open_issues_count: 2
 subscribers_count: 9
 owner: {"html_url": "https://github.com/COINtoolbox", "avatar_url": "https://avatars.githubusercontent.com/u/8449310?v=4", "login": "COINtoolbox", "type": "Organization"}
-date: "2025-11-29 14:28:11.243509"
+date: "2025-12-06 14:27:24.770284"
 ---

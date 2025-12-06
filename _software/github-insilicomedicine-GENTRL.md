@@ -20,5 +20,5 @@ language: "Python"
 open_issues_count: 22
 subscribers_count: 36
 owner: {"html_url": "https://github.com/insilicomedicine", "avatar_url": "https://avatars.githubusercontent.com/u/47208953?v=4", "login": "insilicomedicine", "type": "Organization"}
-date: "2025-11-29 14:28:10.460827"
+date: "2025-12-06 14:27:23.993931"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/uaf-arctic-eco-modeling", "avatar_url": "https://avatars.githubusercontent.com/u/115209183?v=4", "login": "uaf-arctic-eco-modeling", "type": "Organization"}
 topics: ["vegetation-dynamics", "ecosystem-modeling", "soil-thermal-dynamics", "fire-dynamics", "carbon-cycling", "permafrost-dynamics", "arctic", "boreal", "carbon", "cryosphere", "permafrost", "terrestrial-ecosystem-modeling"]
-date: "2025-11-29 14:28:11.073205"
+date: "2025-12-06 14:27:24.601191"
 ---

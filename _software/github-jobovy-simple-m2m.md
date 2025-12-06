@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/jobovy", "avatar_url": "https://avatars.githubusercontent.com/u/1044876?v=4", "login": "jobovy", "type": "User"}
-date: "2025-11-29 14:28:11.109252"
+date: "2025-12-06 14:27:24.636735"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/RuthAngus", "avatar_url": "https://avatars.githubusercontent.com/u/2834161?v=4", "login": "RuthAngus", "type": "User"}
 topics: ["stars", "ages", "stellar", "isochrones", "stellar-ages", "isochrone-fitting", "gyrochronology", "age-rotation-relations", "rotation", "stellar-rotation", "stellar-parameters", "field-stars", "bayesian", "astronomy", "astrophysics", "mcmc", "hierarchical", "inference"]
-date: "2025-11-29 14:28:10.539151"
+date: "2025-12-06 14:27:24.071757"
 ---

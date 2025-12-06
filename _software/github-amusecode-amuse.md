@@ -24,5 +24,5 @@ topics: ["astrophysics", "astronomy", "simulations", "python"]
 timestamp: "2020-07-05 00:17:08.644024"
 avatar: "https://avatars1.githubusercontent.com/u/3786289?v=4"
 repo_url: "https://github.com/amusecode/amuse"
-date: "2025-11-29 14:28:10.291402"
+date: "2025-12-06 14:27:23.827772"
 ---

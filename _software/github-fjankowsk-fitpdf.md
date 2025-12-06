@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/fjankowsk", "avatar_url": "https://avatars.githubusercontent.com/u/10989149?v=4", "login": "fjankowsk", "type": "User"}
 topics: ["astrophysics", "data-analysis", "distributions", "fast-radio-bursts", "fitting", "fitting-distributions", "pulsars", "python"]
-date: "2025-11-29 14:28:10.971731"
+date: "2025-12-06 14:27:24.501756"
 ---

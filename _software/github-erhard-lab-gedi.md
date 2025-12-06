@@ -22,5 +22,5 @@ open_issues_count: 19
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/erhard-lab", "avatar_url": "https://avatars.githubusercontent.com/u/24650596?v=4", "login": "erhard-lab", "type": "Organization"}
-date: "2025-11-29 14:28:11.522981"
+date: "2025-12-06 14:27:25.046817"
 ---

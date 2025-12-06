@@ -22,5 +22,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/pangenome", "avatar_url": "https://avatars.githubusercontent.com/u/60657583?v=4", "login": "pangenome", "type": "Organization"}
-date: "2025-11-29 14:28:10.652731"
+date: "2025-12-06 14:27:24.183837"
 ---

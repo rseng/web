@@ -23,5 +23,5 @@ open_issues_count: 10
 subscribers_count: 8
 owner: {"html_url": "https://github.com/Griffan", "avatar_url": "https://avatars.githubusercontent.com/u/2037838?v=4", "login": "Griffan", "type": "User"}
 topics: ["genetics", "dna-sequences", "qc-analysis", "contamination", "bioinformatics", "biostatistics", "bam", "cram"]
-date: "2025-11-29 14:28:10.263293"
+date: "2025-12-06 14:27:23.800113"
 ---

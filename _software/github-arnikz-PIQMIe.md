@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/arnikz", "avatar_url": "https://avatars2.githubusercontent.com/u/7456848?v=4", "login": "arnikz", "type": "User"}
 topics: ["proteomics", "mass-spectrometry", "bioinformatics-analysis", "protein", "identification", "quantification", "web-application"]
-date: "2025-11-29 14:28:10.349968"
+date: "2025-12-06 14:27:23.884140"
 ---

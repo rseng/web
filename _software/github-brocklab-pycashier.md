@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/brocklab", "avatar_url": "https://avatars.githubusercontent.com/u/41652738?v=4", "login": "brocklab", "type": "Organization"}
 topics: ["bioinformatics", "pipeline"]
-date: "2025-11-29 14:28:10.638862"
+date: "2025-12-06 14:27:24.169997"
 ---

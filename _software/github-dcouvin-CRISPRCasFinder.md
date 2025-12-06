@@ -24,5 +24,5 @@ open_issues_count: 25
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/dcouvin", "avatar_url": "https://avatars.githubusercontent.com/u/12830930?v=4", "login": "dcouvin", "type": "User"}
-date: "2025-11-29 14:28:11.346817"
+date: "2025-12-06 14:27:24.872178"
 ---

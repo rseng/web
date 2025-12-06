@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sefffal", "avatar_url": "https://avatars.githubusercontent.com/u/7330605?v=4", "login": "sefffal", "type": "User"}
 topics: ["julia"]
-date: "2025-11-29 14:28:11.455193"
+date: "2025-12-06 14:27:24.979352"
 ---

@@ -23,5 +23,5 @@ open_issues_count: 32
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/AMReX-Astro", "avatar_url": "https://avatars.githubusercontent.com/u/28324385?v=4", "login": "AMReX-Astro", "type": "Organization"}
-date: "2025-11-29 14:28:11.697754"
+date: "2025-12-06 14:27:25.221088"
 ---

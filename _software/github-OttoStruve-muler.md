@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 19
 owner: {"html_url": "https://github.com/OttoStruve", "avatar_url": "https://avatars.githubusercontent.com/u/6210657?v=4", "login": "OttoStruve", "type": "Organization"}
 topics: ["astronomy", "spectroscopy", "exoplanets", "stars", "stellar-atmospheres", "data-analysis", "astronomical-algorithms", "infrared", "echelle", "python", "data-science"]
-date: "2025-11-29 14:28:11.129721"
+date: "2025-12-06 14:27:24.656896"
 ---

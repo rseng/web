@@ -21,5 +21,5 @@ open_issues_count: 10
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/t-brandt", "avatar_url": "https://avatars.githubusercontent.com/u/2295093?v=4", "login": "t-brandt", "type": "User"}
-date: "2025-11-29 14:28:10.404355"
+date: "2025-12-06 14:27:23.938130"
 ---

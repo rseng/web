@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-08-09 00:18:56.101698"
 avatar: "https://avatars1.githubusercontent.com/u/31453876?v=4"
 repo_url: "https://github.com/yanzhanglab/Graph2GO"
-date: "2025-11-29 14:28:11.284453"
+date: "2025-12-06 14:27:24.810324"
 ---

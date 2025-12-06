@@ -24,5 +24,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/heracles-ec", "avatar_url": "https://avatars.githubusercontent.com/u/138018939?v=4", "login": "heracles-ec", "type": "Organization"}
 topics: ["astronomy", "cosmology", "python", "spherical-harmonics", "healpix", "large-scale-structure"]
-date: "2025-11-29 14:28:11.401002"
+date: "2025-12-06 14:27:24.925922"
 ---

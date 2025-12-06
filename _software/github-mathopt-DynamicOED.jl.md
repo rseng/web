@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mathopt", "avatar_url": "https://avatars.githubusercontent.com/u/98813390?v=4", "login": "mathopt", "type": "Organization"}
 topics: ["mixed-integer-programming", "optimal-control", "optimal-experimental-design", "sciml"]
-date: "2025-11-29 14:28:10.408567"
+date: "2025-12-06 14:27:23.942366"
 ---

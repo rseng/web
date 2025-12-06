@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/soleneulmer", "avatar_url": "https://avatars.githubusercontent.com/u/16018533?v=4", "login": "soleneulmer", "type": "User"}
-date: "2025-11-29 14:28:11.646180"
+date: "2025-12-06 14:27:25.169843"
 ---

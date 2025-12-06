@@ -20,5 +20,5 @@ language: "Clojure"
 open_issues_count: 9
 subscribers_count: 5
 owner: {"html_url": "https://github.com/bcbio", "avatar_url": "https://avatars.githubusercontent.com/u/14271794?v=4", "login": "bcbio", "type": "Organization"}
-date: "2025-11-29 14:28:10.686152"
+date: "2025-12-06 14:27:24.217116"
 ---

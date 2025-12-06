@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/phitter-core", "avatar_url": "https://avatars.githubusercontent.com/u/106888809?v=4", "login": "phitter-core", "type": "User"}
 topics: ["operations-research", "probability-distribution", "probability-models", "simulation"]
-date: "2025-11-29 14:28:10.938230"
+date: "2025-12-06 14:27:24.468569"
 ---

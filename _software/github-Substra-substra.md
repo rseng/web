@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/Substra", "avatar_url": "https://avatars.githubusercontent.com/u/84009910?v=4", "login": "Substra", "type": "Organization"}
 topics: ["federated-learning", "federated-learning-framework"]
-date: "2025-11-29 14:28:11.157999"
+date: "2025-12-06 14:27:24.684956"
 ---

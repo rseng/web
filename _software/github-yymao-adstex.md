@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/yymao", "avatar_url": "https://avatars.githubusercontent.com/u/3792659?v=4", "login": "yymao", "type": "User"}
 topics: ["latex", "astronomy", "bibliography", "bibtex-files", "nasa-ads", "python"]
-date: "2025-11-29 14:28:11.043573"
+date: "2025-12-06 14:27:24.572391"
 ---

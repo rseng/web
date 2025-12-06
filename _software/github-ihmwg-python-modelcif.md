@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ihmwg", "avatar_url": "https://avatars.githubusercontent.com/u/19265055?v=4", "login": "ihmwg", "type": "Organization"}
-date: "2025-11-29 14:28:10.385905"
+date: "2025-12-06 14:27:23.919650"
 ---

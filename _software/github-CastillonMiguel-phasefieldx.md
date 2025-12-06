@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/CastillonMiguel", "avatar_url": "https://avatars.githubusercontent.com/u/103516477?v=4", "login": "CastillonMiguel", "type": "User"}
 topics: ["fatigue", "fem", "finite-elements", "fracture", "fracture-mechanics", "phase-field", "phase-field-fracture", "solidification"]
-date: "2025-11-29 14:28:11.521041"
+date: "2025-12-06 14:27:25.044879"
 ---

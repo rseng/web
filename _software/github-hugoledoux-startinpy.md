@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/hugoledoux", "avatar_url": "https://avatars.githubusercontent.com/u/1546518?v=4", "login": "hugoledoux", "type": "User"}
 topics: ["gis", "interpolation", "terrain", "tin", "delaunay-triangulation"]
-date: "2025-11-29 14:28:10.446805"
+date: "2025-12-06 14:27:23.980005"
 ---
