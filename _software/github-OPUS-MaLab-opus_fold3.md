@@ -17,5 +17,5 @@ stargazers_count: 4
 watchers_count: 4
 language: "Python"
 owner: {"html_url": "https://github.com/OPUS-MaLab", "avatar_url": "https://avatars.githubusercontent.com/u/82582402?v=4", "login": "OPUS-MaLab", "type": "User"}
-date: "2025-12-06 14:27:25.318447"
+date: "2025-12-13 14:28:45.007288"
 ---

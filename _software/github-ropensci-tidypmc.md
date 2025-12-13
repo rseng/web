@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 2
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["literature"]
-date: "2025-12-06 14:27:23.714239"
+date: "2025-12-13 14:28:43.349132"
 ---

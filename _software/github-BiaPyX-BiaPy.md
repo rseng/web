@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/BiaPyX", "avatar_url": "https://avatars.githubusercontent.com/u/156199480?v=4", "login": "BiaPyX", "type": "Organization"}
 topics: ["computer-vision", "deep-learning", "biomedical-image-processing", "segmentation", "convolutional-neural-networks", "image-segmentation", "medical-imaging", "semantic-segmentation", "classification", "instance-segmentation", "object-detection", "image-processing", "machine-learning", "denoising", "self-supervised-learning", "super-resolution", "python", "pytorch"]
-date: "2025-12-06 14:27:23.918724"
+date: "2025-12-13 14:28:43.558660"
 ---

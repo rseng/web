@@ -23,5 +23,5 @@ license: {"key": "artistic-2.0", "name": "Artistic License 2.0", "spdx_id": "Art
 subscribers_count: 7
 owner: {"html_url": "https://github.com/copasi", "avatar_url": "https://avatars.githubusercontent.com/u/1854399?v=4", "login": "copasi", "type": "Organization"}
 topics: ["python", "copasi"]
-date: "2025-12-06 14:27:25.130970"
+date: "2025-12-13 14:28:44.815262"
 ---

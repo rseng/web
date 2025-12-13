@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/CoastEgo", "avatar_url": "https://avatars.githubusercontent.com/u/117350929?v=4", "login": "CoastEgo", "type": "User"}
 topics: ["astronomy", "jax", "microlensing", "gravitational-lensing"]
-date: "2025-12-06 14:27:24.673370"
+date: "2025-12-13 14:28:44.347295"
 ---

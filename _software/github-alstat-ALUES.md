@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/alstat", "avatar_url": "https://avatars.githubusercontent.com/u/1414007?v=4", "login": "alstat", "type": "User"}
 topics: ["r", "r-package", "agriculture", "agricultural-modelling"]
-date: "2025-12-06 14:27:25.324170"
+date: "2025-12-13 14:28:45.013125"
 ---

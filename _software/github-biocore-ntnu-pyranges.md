@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/biocore-ntnu", "avatar_url": "https://avatars.githubusercontent.com/u/25345003?v=4", "login": "biocore-ntnu", "type": "Organization"}
 topics: ["genomicranges", "python", "genomics", "pandas", "data-structures"]
-date: "2025-12-06 14:27:24.236657"
+date: "2025-12-13 14:28:43.895035"
 ---

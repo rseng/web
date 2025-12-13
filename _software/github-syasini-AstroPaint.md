@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/syasini", "avatar_url": "https://avatars0.githubusercontent.com/u/47579697?v=4", "login": "syasini", "type": "User"}
 topics: ["cosmology", "astrophysical-signals", "halo-catalog", "python", "simulation-toolkit"]
-date: "2025-12-06 14:27:24.993157"
+date: "2025-12-13 14:28:44.674461"
 ---

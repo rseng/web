@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/lrnv", "avatar_url": "https://avatars.githubusercontent.com/u/15571061?v=4", "login": "lrnv", "type": "User"}
 topics: ["julia", "copula"]
-date: "2025-12-06 14:27:25.159652"
+date: "2025-12-13 14:28:44.844592"
 ---

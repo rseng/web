@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/dazhwu", "avatar_url": "https://avatars.githubusercontent.com/u/63244649?v=4", "login": "dazhwu", "type": "User"}
 topics: ["arellano-bond", "dynamic-panel-data", "system-gmm", "dynamic", "panel", "data"]
-date: "2025-12-06 14:27:23.959338"
+date: "2025-12-13 14:28:43.600296"
 ---

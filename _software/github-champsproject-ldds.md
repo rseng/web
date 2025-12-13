@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/champsproject", "avatar_url": "https://avatars.githubusercontent.com/u/58516742?v=4", "login": "champsproject", "type": "Organization"}
 topics: ["dynamical-systems", "lagrangian-descriptors", "python"]
-date: "2025-12-06 14:27:24.259878"
+date: "2025-12-13 14:28:43.920861"
 ---

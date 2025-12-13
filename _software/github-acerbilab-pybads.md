@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/acerbilab", "avatar_url": "https://avatars.githubusercontent.com/u/99487879?v=4", "login": "acerbilab", "type": "Organization"}
 topics: ["bayesian-optimization", "log-likelihood", "noiseless-functions", "noisy-functions", "optimization-algorithms", "python"]
-date: "2025-12-06 14:27:24.123618"
+date: "2025-12-13 14:28:43.775716"
 ---

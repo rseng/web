@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/pyiron", "avatar_url": "https://avatars.githubusercontent.com/u/25691954?v=4", "login": "pyiron", "type": "Organization"}
 topics: ["hpc", "mpi", "mpi4py", "multiprocessing", "pyiron"]
-date: "2025-12-06 14:27:24.351935"
+date: "2025-12-13 14:28:44.017628"
 ---

@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/rhpvorderman", "avatar_url": "https://avatars.githubusercontent.com/u/26142226?v=4", "login": "rhpvorderman", "type": "User"}
 topics: ["bam", "fastq", "illumina", "nanopore", "qc", "quality-control"]
-date: "2025-12-06 14:27:23.966474"
+date: "2025-12-13 14:28:43.607675"
 ---

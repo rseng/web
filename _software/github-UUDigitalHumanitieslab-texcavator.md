@@ -24,5 +24,5 @@ topics: ["python", "django", "elasticsearch", "dojo"]
 timestamp: "2020-07-05 00:17:22.076897"
 avatar: "https://avatars3.githubusercontent.com/u/7656260?v=4"
 repo_url: "https://github.com/UUDigitalHumanitieslab/texcavator"
-date: "2025-12-06 14:27:24.272648"
+date: "2025-12-13 14:28:43.935213"
 ---

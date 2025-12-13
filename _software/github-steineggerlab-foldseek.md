@@ -25,5 +25,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/steineggerlab", "avatar_url": "https://avatars.githubusercontent.com/u/62094016?v=4", "login": "steineggerlab", "type": "Organization"}
 topics: ["protein-structure", "alignments"]
-date: "2025-12-06 14:27:24.594761"
+date: "2025-12-13 14:28:44.266710"
 ---

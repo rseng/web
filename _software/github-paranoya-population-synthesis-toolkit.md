@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/paranoya", "avatar_url": "https://avatars.githubusercontent.com/u/24282523?v=4", "login": "paranoya", "type": "User"}
 topics: ["astronomy-astrophysics", "galaxies"]
-date: "2025-12-06 14:27:24.266111"
+date: "2025-12-13 14:28:43.927853"
 ---

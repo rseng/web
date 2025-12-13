@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 4
 owner: {"html_url": "https://github.com/precice", "avatar_url": "https://avatars.githubusercontent.com/u/12561035?v=4", "login": "precice", "type": "Organization"}
 topics: ["coupling", "macro-micro", "multiphysics", "multiscale", "research-and-development"]
-date: "2025-12-06 14:27:24.528308"
+date: "2025-12-13 14:28:44.198512"
 ---

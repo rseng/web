@@ -24,5 +24,5 @@ topics: ["satellite-images", "classification", "machine-learning", "machine-lear
 timestamp: "2020-07-05 00:17:24.777997"
 avatar: "https://avatars1.githubusercontent.com/u/23557167?v=4"
 repo_url: "https://github.com/DynaSlum/satsense"
-date: "2025-12-06 14:27:23.921324"
+date: "2025-12-13 14:28:43.561267"
 ---

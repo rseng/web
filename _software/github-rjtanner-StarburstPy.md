@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/rjtanner", "avatar_url": "https://avatars.githubusercontent.com/u/58440445?v=4", "login": "rjtanner", "type": "User"}
 topics: ["astronomy", "astrophysics", "population-synthesis", "stellar-populations"]
-date: "2025-12-06 14:27:24.187154"
+date: "2025-12-13 14:28:43.840499"
 ---

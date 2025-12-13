@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/gianthk", "avatar_url": "https://avatars.githubusercontent.com/u/15721147?v=4", "login": "gianthk", "type": "User"}
 topics: ["simulation", "finite-elements", "computed-tomography", "python", "engineering", "biomechanics"]
-date: "2025-12-06 14:27:24.040419"
+date: "2025-12-13 14:28:43.683628"
 ---

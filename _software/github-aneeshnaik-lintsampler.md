@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/aneeshnaik", "avatar_url": "https://avatars.githubusercontent.com/u/48957123?v=4", "login": "aneeshnaik", "type": "User"}
 topics: ["numpy", "python", "random-generation", "statistics", "random-sampling", "low-discrepancy-sequence"]
-date: "2025-12-06 14:27:25.054725"
+date: "2025-12-13 14:28:44.737698"
 ---
