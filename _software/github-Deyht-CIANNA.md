@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/Deyht", "avatar_url": "https://avatars.githubusercontent.com/u/21009408?v=4", "login": "Deyht", "type": "User"}
 topics: ["deep-neural-networks", "deep-learning", "convolutional-neural-networks", "machine-learning", "ml", "astrophysics", "astronomy", "neural-network", "cuda", "gpu", "object-detection", "yolo"]
-date: "2025-12-13 14:28:44.017872"
+date: "2025-12-20 14:29:01.924624"
 ---

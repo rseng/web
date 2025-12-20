@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/mind-inria", "avatar_url": "https://avatars.githubusercontent.com/u/118902559?v=4", "login": "mind-inria", "type": "Organization"}
 topics: ["cuda", "gpu", "mri", "mri-reconstruction", "nufft", "tensorflow", "numerical-methods", "numpy", "torch"]
-date: "2025-12-13 14:28:43.714298"
+date: "2025-12-20 14:29:01.643907"
 ---

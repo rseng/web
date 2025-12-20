@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ChenfuShi", "avatar_url": "https://avatars.githubusercontent.com/u/40122452?v=4", "login": "ChenfuShi", "type": "User"}
 topics: ["bioinformatics", "bioinformatics-tool", "hichip"]
-date: "2025-12-13 14:28:43.650351"
+date: "2025-12-20 14:29:01.581692"
 ---

@@ -23,5 +23,5 @@ topics: ["conda", "package-management"]
 timestamp: "2020-07-04 13:22:35.940397"
 avatar: "https://avatars0.githubusercontent.com/u/6392739?v=4"
 repo_url: "https://github.com/conda/conda"
-date: "2025-12-13 14:28:44.782588"
+date: "2025-12-20 14:29:02.673067"
 ---

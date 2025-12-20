@@ -23,5 +23,5 @@ topics: ["python", "complex-networks", "graph-theory", "graph-algorithms", "grap
 timestamp: "2020-07-04 13:22:28.232907"
 avatar: "https://avatars2.githubusercontent.com/u/388785?v=4"
 repo_url: "https://github.com/networkx/networkx"
-date: "2025-12-13 14:28:45.008981"
+date: "2025-12-20 14:29:02.895642"
 ---

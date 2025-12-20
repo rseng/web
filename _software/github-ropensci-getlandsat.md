@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["landsat", "data", "rstats", "r", "r-package", "peer-reviewed", "aws", "earth", "image", "imaging", "nasa", "usgs", "data-access"]
-date: "2025-12-13 14:28:43.365664"
+date: "2025-12-20 14:29:01.302838"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/cblearn", "avatar_url": "https://avatars.githubusercontent.com/u/132082914?v=4", "login": "cblearn", "type": "Organization"}
 topics: ["ordinal", "embedding", "machine-learning", "machinelearning", "scikit-learn", "non-metric", "scaling", "multidimensional-scaling", "multidimensional"]
-date: "2025-12-13 14:28:43.479041"
+date: "2025-12-20 14:29:01.414158"
 ---

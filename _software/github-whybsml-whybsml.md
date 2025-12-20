@@ -16,5 +16,5 @@ language: "OCaml"
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/whybsml", "avatar_url": "https://avatars.githubusercontent.com/u/138935718?v=4", "login": "whybsml", "type": "Organization"}
-date: "2025-12-13 14:28:43.915774"
+date: "2025-12-20 14:29:01.828403"
 ---

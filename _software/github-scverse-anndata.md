@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 14
 owner: {"html_url": "https://github.com/scverse", "avatar_url": "https://avatars.githubusercontent.com/u/95305807?v=4", "login": "scverse", "type": "Organization"}
 topics: ["scanpy", "data-science", "transcriptomics", "bioinformatics", "machine-learning", "scverse", "anndata"]
-date: "2025-12-13 14:28:43.592078"
+date: "2025-12-20 14:29:01.524850"
 ---

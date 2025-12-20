@@ -23,5 +23,5 @@ forks_count: 2
 star_count: 4
 last_activity_at: "2021-01-06T14:05:14.194Z"
 namespace: {"id": 6943528, "name": "GIMS-developers", "path": "gims-developers", "kind": "group", "full_path": "gims-developers", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/gims-developers"}
-date: "2025-12-13 14:28:43.288402"
+date: "2025-12-20 14:29:01.227036"
 ---

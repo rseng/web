@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 6
 owner: {"html_url": "https://github.com/thelfer", "avatar_url": "https://avatars.githubusercontent.com/u/13975528?v=4", "login": "thelfer", "type": "User"}
 topics: ["heat-transfer", "material-properties", "solid-mechanics", "material-knowledge-management", "mfront"]
-date: "2025-12-13 14:28:44.837184"
+date: "2025-12-20 14:29:02.726494"
 ---

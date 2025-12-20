@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Ayuei", "avatar_url": "https://avatars.githubusercontent.com/u/18545131?v=4", "login": "Ayuei", "type": "User"}
 topics: ["dense-retrieval", "python", "transformers-ranking"]
-date: "2025-12-13 14:28:43.471500"
+date: "2025-12-20 14:29:01.406732"
 ---

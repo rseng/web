@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:28.699536"
 avatar: "https://avatars1.githubusercontent.com/u/7388996?v=4"
 repo_url: "https://github.com/jupyter/notebook"
-date: "2025-12-13 14:28:43.673643"
+date: "2025-12-20 14:29:01.604428"
 ---

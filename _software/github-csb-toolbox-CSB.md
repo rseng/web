@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/csb-toolbox", "avatar_url": "https://avatars.githubusercontent.com/u/29821482?v=4", "login": "csb-toolbox", "type": "Organization"}
 topics: ["bioinformatics", "algorithms", "structural-bioinformatics", "library"]
-date: "2025-12-13 14:28:43.465998"
+date: "2025-12-20 14:29:01.401409"
 ---

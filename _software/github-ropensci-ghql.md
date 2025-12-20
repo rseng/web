@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["graphql", "graphql-client", "rstats", "r", "graphql-api", "r-package", "API", "curl", "data", "GraphQL", "http", "web-services", "http-tools"]
-date: "2025-12-13 14:28:43.385601"
+date: "2025-12-20 14:29:01.322236"
 ---

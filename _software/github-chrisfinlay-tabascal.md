@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/chrisfinlay", "avatar_url": "https://avatars.githubusercontent.com/u/18262727?v=4", "login": "chrisfinlay", "type": "User"}
 topics: ["radio-astronomy", "radio-frequency-interference", "radio-interferometry", "lofar", "meerkat", "rfi-mitigation", "rfi-removal", "satellite", "ska-telescope", "gpu"]
-date: "2025-12-13 14:28:43.920366"
+date: "2025-12-20 14:29:01.832657"
 ---

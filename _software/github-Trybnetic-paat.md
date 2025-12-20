@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Trybnetic", "avatar_url": "https://avatars.githubusercontent.com/u/7532062?v=4", "login": "Trybnetic", "type": "User"}
 topics: ["physical-activity", "actigraphy", "actigraph", "accelerometry", "hip"]
-date: "2025-12-13 14:28:44.988170"
+date: "2025-12-20 14:29:02.874985"
 ---

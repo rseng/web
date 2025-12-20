@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/kreshuklab", "avatar_url": "https://avatars.githubusercontent.com/u/45267108?v=4", "login": "kreshuklab", "type": "Organization"}
 topics: ["segmentation", "deep-learning", "bioinformatics", "neural-network", "bioimage-analysis", "image-segmentation", "unet"]
-date: "2025-12-13 14:28:43.946415"
+date: "2025-12-20 14:29:01.855707"
 ---

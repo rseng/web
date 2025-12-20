@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/rikenbit", "avatar_url": "https://avatars.githubusercontent.com/u/7158513?v=4", "login": "rikenbit", "type": "Organization"}
-date: "2025-12-13 14:28:44.359873"
+date: "2025-12-20 14:29:02.258726"
 ---

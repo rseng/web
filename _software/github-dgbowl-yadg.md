@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/dgbowl", "avatar_url": "https://avatars.githubusercontent.com/u/97680503?v=4", "login": "dgbowl", "type": "Organization"}
 topics: ["parser", "data-science", "electrochemistry", "chromatography", "catalysis"]
-date: "2025-12-13 14:28:44.431129"
+date: "2025-12-20 14:29:02.328166"
 ---
