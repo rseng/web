@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JuliaHCI", "avatar_url": "https://avatars1.githubusercontent.com/u/62594833?v=4", "login": "JuliaHCI", "type": "Organization"}
 topics: ["astronomy", "hci", "imaging", "reduction", "adi"]
-date: "2025-12-20 14:29:01.828641"
+date: "2025-12-27 14:29:46.937544"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/GEUS-Glaciology-and-Climate", "avatar_url": "https://avatars.githubusercontent.com/u/71171316?v=4", "login": "GEUS-Glaciology-and-Climate", "type": "Organization"}
 topics: ["esa", "remote-sensing", "glacial-lakes", "satellite-imagery", "glofs", "ice-marginal-lakes", "cryosphere"]
-date: "2025-12-20 14:29:02.248318"
+date: "2025-12-27 14:29:47.362578"
 ---

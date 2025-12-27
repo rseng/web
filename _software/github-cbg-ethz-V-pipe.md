@@ -22,5 +22,5 @@ open_issues_count: 13
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/cbg-ethz", "avatar_url": "https://avatars2.githubusercontent.com/u/12068026?v=4", "login": "cbg-ethz", "type": "Organization"}
-date: "2025-12-20 14:29:02.893518"
+date: "2025-12-27 14:29:48.013505"
 ---

@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/egpbos", "avatar_url": "https://avatars.githubusercontent.com/u/6146598?v=4", "login": "egpbos", "type": "User"}
 topics: ["bayesian-inference", "cplusplus", "cosmology", "hamiltonian-monte-carlo", "reconstruction"]
-date: "2025-12-20 14:29:02.559763"
+date: "2025-12-27 14:29:47.676979"
 ---

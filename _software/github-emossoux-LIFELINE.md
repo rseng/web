@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/emossoux", "avatar_url": "https://avatars.githubusercontent.com/u/39989911?v=4", "login": "emossoux", "type": "User"}
 topics: ["x-ray", "binary", "astrophysics", "stars"]
-date: "2025-12-20 14:29:02.596892"
+date: "2025-12-27 14:29:47.714343"
 ---

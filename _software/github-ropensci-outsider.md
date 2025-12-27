@@ -21,5 +21,5 @@ open_issues_count: 3
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["docker", "rstats", "reproducibility", "scalereprod"]
-date: "2025-12-20 14:29:01.352158"
+date: "2025-12-27 14:29:46.456317"
 ---

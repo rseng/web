@@ -20,5 +20,5 @@ language: "Jupyter Notebook"
 open_issues_count: 2
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/OpenQuantumComputing", "avatar_url": "https://avatars.githubusercontent.com/u/60732936?v=4", "login": "OpenQuantumComputing", "type": "Organization"}
-date: "2025-12-20 14:29:02.398034"
+date: "2025-12-27 14:29:47.514005"
 ---

@@ -23,5 +23,5 @@ topics: ["data-analysis", "pandas", "flexible", "alignment", "python"]
 timestamp: "2020-07-04 13:22:08.390971"
 avatar: "https://avatars2.githubusercontent.com/u/21206976?v=4"
 repo_url: "https://github.com/pandas-dev/pandas"
-date: "2025-12-20 14:29:01.831004"
+date: "2025-12-27 14:29:46.939945"
 ---

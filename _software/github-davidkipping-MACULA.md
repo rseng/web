@@ -19,5 +19,5 @@ watchers_count: 1
 language: "Mathematica"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/davidkipping", "avatar_url": "https://avatars.githubusercontent.com/u/12749250?v=4", "login": "davidkipping", "type": "User"}
-date: "2025-12-20 14:29:02.187951"
+date: "2025-12-27 14:29:47.301270"
 ---

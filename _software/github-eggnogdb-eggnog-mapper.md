@@ -24,5 +24,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 13
 owner: {"html_url": "https://github.com/eggnogdb", "avatar_url": "https://avatars.githubusercontent.com/u/44813203?v=4", "login": "eggnogdb", "type": "Organization"}
 topics: ["annotations", "orthology-assignments", "functional-annotation", "genomics"]
-date: "2025-12-20 14:29:02.858591"
+date: "2025-12-27 14:29:47.978427"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/spedas", "avatar_url": "https://avatars.githubusercontent.com/u/16089566?v=4", "login": "spedas", "type": "Organization"}
 topics: ["space-physics", "python", "heliophysics", "space", "science-research"]
-date: "2025-12-20 14:29:01.597228"
+date: "2025-12-27 14:29:46.703622"
 ---

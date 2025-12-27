@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 5
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["rstats", "rspatial", "geocode", "opencage-geocoder", "r", "opencage-api", "opencage", "geocoder", "placenames", "r-package", "peer-reviewed", "geospatial"]
-date: "2025-12-20 14:29:01.338148"
+date: "2025-12-27 14:29:46.442316"
 ---

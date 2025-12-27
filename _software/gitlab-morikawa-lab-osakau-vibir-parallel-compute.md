@@ -23,5 +23,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/58824042/logo.pn
 star_count: 1
 last_activity_at: "2025-04-15T02:55:59.000Z"
 namespace: {"id": 87049389, "name": "morikawa-lab-osakau", "path": "morikawa-lab-osakau", "kind": "group", "full_path": "morikawa-lab-osakau", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/morikawa-lab-osakau"}
-date: "2025-12-20 14:29:01.251283"
+date: "2025-12-27 14:29:46.354814"
 ---

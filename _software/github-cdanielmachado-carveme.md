@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/cdanielmachado", "avatar_url": "https://avatars.githubusercontent.com/u/2588245?v=4", "login": "cdanielmachado", "type": "User"}
 topics: ["metabolism", "modeling", "python", "reconstruction", "genome-scale"]
-date: "2025-12-20 14:29:01.911374"
+date: "2025-12-27 14:29:47.021485"
 ---

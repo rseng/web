@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/esa", "avatar_url": "https://avatars.githubusercontent.com/u/3287599?v=4", "login": "esa", "type": "Organization"}
 topics: ["cpp17", "gravity", "polyhedral-model", "python"]
-date: "2025-12-20 14:29:02.772270"
+date: "2025-12-27 14:29:47.891735"
 ---

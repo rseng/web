@@ -22,5 +22,5 @@ open_issues_count: 6
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/brandon-rhodes", "avatar_url": "https://avatars.githubusercontent.com/u/166162?v=4", "login": "brandon-rhodes", "type": "User"}
-date: "2025-12-20 14:29:02.907325"
+date: "2025-12-27 14:29:48.027513"
 ---

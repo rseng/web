@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/phylo42", "avatar_url": "https://avatars.githubusercontent.com/u/61278577?v=4", "login": "phylo42", "type": "Organization"}
 topics: ["placement", "phylogenetic-placement", "metagenomics", "metabarcoding", "phylogenetics", "genetic-markers", "kmers", "phylo-kmers", "taxonomic-classification"]
-date: "2025-12-20 14:29:01.713064"
+date: "2025-12-27 14:29:46.820905"
 ---

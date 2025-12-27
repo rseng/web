@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ranocha", "avatar_url": "https://avatars.githubusercontent.com/u/12693098?v=4", "login": "ranocha", "type": "User"}
 topics: ["finite-difference", "summation-by-parts", "sbp", "boundary-conditions", "julia", "hacktoberfest", "discontinuous-galerkin", "continuous-galerkin", "fourier", "derivative-operator", "dgsem", "cgsem"]
-date: "2025-12-20 14:29:02.831348"
+date: "2025-12-27 14:29:47.951034"
 ---

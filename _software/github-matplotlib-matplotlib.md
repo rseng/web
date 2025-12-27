@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:33.371667"
 avatar: "https://avatars0.githubusercontent.com/u/215947?v=4"
 repo_url: "https://github.com/matplotlib/matplotlib"
-date: "2025-12-20 14:29:02.626737"
+date: "2025-12-27 14:29:47.744545"
 ---

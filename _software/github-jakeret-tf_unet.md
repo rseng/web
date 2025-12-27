@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 68
 owner: {"html_url": "https://github.com/jakeret", "avatar_url": "https://avatars.githubusercontent.com/u/11830719?v=4", "login": "jakeret", "type": "User"}
 topics: ["image-segmentation", "neural-network", "deep-learning", "tensorflow"]
-date: "2025-12-20 14:29:02.020457"
+date: "2025-12-27 14:29:47.132043"
 ---

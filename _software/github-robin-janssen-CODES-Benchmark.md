@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/robin-janssen", "avatar_url": "https://avatars.githubusercontent.com/u/82322346?v=4", "login": "robin-janssen", "type": "User"}
 topics: ["chemical-reaction-networks", "deeponet", "neuralode", "ode", "operator-learning", "surrogate-models"]
-date: "2025-12-20 14:29:01.547660"
+date: "2025-12-27 14:29:46.653706"
 ---

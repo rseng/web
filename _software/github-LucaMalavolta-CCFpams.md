@@ -20,5 +20,5 @@ watchers_count: 2
 language: "Fortran"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/LucaMalavolta", "avatar_url": "https://avatars.githubusercontent.com/u/15183346?v=4", "login": "LucaMalavolta", "type": "User"}
-date: "2025-12-20 14:29:01.770336"
+date: "2025-12-27 14:29:46.878819"
 ---

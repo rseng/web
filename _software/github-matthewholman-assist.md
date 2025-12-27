@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/matthewholman", "avatar_url": "https://avatars.githubusercontent.com/u/3812057?v=4", "login": "matthewholman", "type": "User"}
 topics: ["astrophysics", "integrator", "n-body", "planetary-science"]
-date: "2025-12-20 14:29:02.398765"
+date: "2025-12-27 14:29:47.514717"
 ---
