@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/miriamkw", "avatar_url": "https://avatars.githubusercontent.com/u/47831805?v=4", "login": "miriamkw", "type": "User"}
 topics: ["glucose-prediction", "deep-learning", "machine-learning", "modelling-biological-systems"]
-date: "2025-12-27 14:29:46.827344"
+date: "2026-01-03 14:29:51.459899"
 ---

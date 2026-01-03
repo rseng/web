@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ropensci-archive", "avatar_url": "https://avatars.githubusercontent.com/u/68704009?v=4", "login": "ropensci-archive", "type": "Organization"}
 topics: ["unconf17", "r", "r-package", "rstats", "unconf", "unconf", "unconf17"]
-date: "2025-12-27 14:29:47.380647"
+date: "2026-01-03 14:29:52.008799"
 ---

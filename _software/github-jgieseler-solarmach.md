@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jgieseler", "avatar_url": "https://avatars.githubusercontent.com/u/39489154?v=4", "login": "jgieseler", "type": "User"}
 topics: ["esa", "heliophysics", "spacephysics", "spaceweather"]
-date: "2025-12-27 14:29:47.529483"
+date: "2026-01-03 14:29:52.156706"
 ---

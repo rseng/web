@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Collab4exaNBody", "avatar_url": "https://avatars.githubusercontent.com/u/138599032?v=4", "login": "Collab4exaNBody", "type": "Organization"}
 topics: ["dem", "gpu", "granular-media", "hpc", "mpi"]
-date: "2025-12-27 14:29:47.085186"
+date: "2026-01-03 14:29:51.715506"
 ---

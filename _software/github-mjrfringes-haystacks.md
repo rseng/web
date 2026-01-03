@@ -19,5 +19,5 @@ watchers_count: 1
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mjrfringes", "avatar_url": "https://avatars.githubusercontent.com/u/13844169?v=4", "login": "mjrfringes", "type": "User"}
-date: "2025-12-27 14:29:46.527494"
+date: "2026-01-03 14:29:51.162796"
 ---

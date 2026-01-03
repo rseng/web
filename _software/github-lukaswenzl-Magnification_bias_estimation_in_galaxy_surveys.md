@@ -18,5 +18,5 @@ size: 87
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/lukaswenzl", "avatar_url": "https://avatars.githubusercontent.com/u/31296160?v=4", "login": "lukaswenzl", "type": "User"}
-date: "2025-12-27 14:29:47.893620"
+date: "2026-01-03 14:29:52.517617"
 ---

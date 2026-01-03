@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/maps-as-data", "avatar_url": "https://avatars.githubusercontent.com/u/179117192?v=4", "login": "maps-as-data", "type": "Organization"}
 topics: ["hut23", "hut23-96", "computer-vision", "deep-learning", "machine-learning", "pytorch", "article", "digital-humanities", "maps", "spatial-data"]
-date: "2025-12-27 14:29:46.905729"
+date: "2026-01-03 14:29:51.537730"
 ---

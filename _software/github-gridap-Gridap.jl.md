@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/gridap", "avatar_url": "https://avatars0.githubusercontent.com/u/49163828?v=4", "login": "gridap", "type": "Organization"}
 topics: ["julia", "pdes", "partial-differential-equations", "finite-elements", "numerical-methods", "gridap"]
-date: "2025-12-27 14:29:46.652729"
+date: "2026-01-03 14:29:51.287082"
 ---

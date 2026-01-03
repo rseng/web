@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 15
 owner: {"html_url": "https://github.com/Qiskit", "avatar_url": "https://avatars.githubusercontent.com/u/30696987?v=4", "login": "Qiskit", "type": "Organization"}
 topics: ["qiskit"]
-date: "2025-12-27 14:29:46.864730"
+date: "2026-01-03 14:29:51.497028"
 ---

@@ -20,5 +20,5 @@ language: "MATLAB"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/YaleTHz", "avatar_url": "https://avatars.githubusercontent.com/u/69858984?v=4", "login": "YaleTHz", "type": "User"}
 topics: ["terahertz", "conductivity", "spectroscopy", "refractive-index"]
-date: "2025-12-27 14:29:47.341799"
+date: "2026-01-03 14:29:51.970612"
 ---

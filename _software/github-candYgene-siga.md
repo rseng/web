@@ -24,5 +24,5 @@ topics: ["rdf", "rdflib", "genome-annotation", "gff", "triples"]
 timestamp: "2020-07-05 00:17:21.483907"
 avatar: "https://avatars2.githubusercontent.com/u/27219573?v=4"
 repo_url: "https://github.com/candYgene/siga"
-date: "2025-12-27 14:29:47.528446"
+date: "2026-01-03 14:29:52.155678"
 ---

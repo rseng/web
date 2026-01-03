@@ -14,5 +14,5 @@ clone_url: "https://github.com/mfruzan/HaploMaker.git"
 size: 115152
 language: "Java"
 owner: {"html_url": "https://github.com/mfruzan", "avatar_url": "https://avatars.githubusercontent.com/u/48665672?v=4", "login": "mfruzan", "type": "User"}
-date: "2025-12-27 14:29:46.481743"
+date: "2026-01-03 14:29:51.117772"
 ---

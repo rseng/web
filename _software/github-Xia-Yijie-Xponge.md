@@ -20,5 +20,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Xia-Yijie", "avatar_url": "https://avatars.githubusercontent.com/u/70470814?v=4", "login": "Xia-Yijie", "type": "User"}
 topics: ["molecular-dynamics", "molecular-modelling"]
-date: "2025-12-27 14:29:47.947150"
+date: "2026-01-03 14:29:52.573353"
 ---

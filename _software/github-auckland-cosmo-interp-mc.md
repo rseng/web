@@ -17,5 +17,5 @@ clone_url: "https://github.com/auckland-cosmo/interp-mc.git"
 size: 28
 subscribers_count: 5
 owner: {"html_url": "https://github.com/auckland-cosmo", "avatar_url": "https://avatars.githubusercontent.com/u/40482857?v=4", "login": "auckland-cosmo", "type": "Organization"}
-date: "2025-12-27 14:29:46.987295"
+date: "2026-01-03 14:29:51.618596"
 ---

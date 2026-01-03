@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 16
 owner: {"html_url": "https://github.com/iraf-community", "avatar_url": "https://avatars.githubusercontent.com/u/39551906?v=4", "login": "iraf-community", "type": "Organization"}
 topics: ["iraf", "python", "astronomy", "pyraf"]
-date: "2025-12-27 14:29:47.879750"
+date: "2026-01-03 14:29:52.503773"
 ---

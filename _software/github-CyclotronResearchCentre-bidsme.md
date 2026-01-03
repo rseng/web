@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/CyclotronResearchCentre", "avatar_url": "https://avatars.githubusercontent.com/u/2012195?v=4", "login": "CyclotronResearchCentre", "type": "Organization"}
 topics: ["bids", "mri-data", "dicom", "nifti", "eeg", "brainvision"]
-date: "2025-12-27 14:29:47.768454"
+date: "2026-01-03 14:29:52.393349"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 25
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/firedrakeproject", "avatar_url": "https://avatars.githubusercontent.com/u/5558005?v=4", "login": "firedrakeproject", "type": "Organization"}
-date: "2025-12-27 14:29:47.568497"
+date: "2026-01-03 14:29:52.195228"
 ---

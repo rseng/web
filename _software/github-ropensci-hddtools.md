@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 5
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "r-package", "hydrology", "sepa", "precipitation", "mopex", "data60uk", "grdc", "kgclimateclass", "peer-reviewed", "data-access"]
-date: "2025-12-27 14:29:46.429838"
+date: "2026-01-03 14:29:51.065795"
 ---

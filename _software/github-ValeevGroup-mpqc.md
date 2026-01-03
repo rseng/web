@@ -20,5 +20,5 @@ language: "C++"
 open_issues_count: 5
 subscribers_count: 27
 owner: {"html_url": "https://github.com/ValeevGroup", "avatar_url": "https://avatars.githubusercontent.com/u/5217762?v=4", "login": "ValeevGroup", "type": "Organization"}
-date: "2025-12-27 14:29:47.662920"
+date: "2026-01-03 14:29:52.288736"
 ---

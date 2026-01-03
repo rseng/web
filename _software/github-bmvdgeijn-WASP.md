@@ -22,5 +22,5 @@ open_issues_count: 40
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/bmvdgeijn", "avatar_url": "https://avatars.githubusercontent.com/u/3441538?v=4", "login": "bmvdgeijn", "type": "User"}
-date: "2025-12-27 14:29:46.708929"
+date: "2026-01-03 14:29:51.342971"
 ---

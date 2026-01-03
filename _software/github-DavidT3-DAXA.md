@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/DavidT3", "avatar_url": "https://avatars.githubusercontent.com/u/17744555?v=4", "login": "DavidT3", "type": "User"}
 topics: ["astronomy", "astrophysics", "python", "x-ray-astronomy", "xmm", "chandra", "erosita", "xga", "archival-astronomy", "nustar", "rosat", "asca", "integral", "suzaku", "swift"]
-date: "2025-12-27 14:29:46.770164"
+date: "2026-01-03 14:29:51.403290"
 ---

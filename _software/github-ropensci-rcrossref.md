@@ -21,5 +21,5 @@ open_issues_count: 18
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["crossref-api", "doi", "metadata", "api", "r", "rstats", "api-wrapper", "r-package", "citations", "Crossref", "full-text", "literature", "pdf", "publications", "TDM", "text-ming", "xml", "literature"]
-date: "2025-12-27 14:29:46.420300"
+date: "2026-01-03 14:29:51.056055"
 ---

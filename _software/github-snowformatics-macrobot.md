@@ -24,5 +24,5 @@ topics: ["plant-pathogen-interactions", "image-analysis", "python", "computer-vi
 timestamp: "2020-07-12 00:26:30.132222"
 avatar: "https://avatars3.githubusercontent.com/u/5192670?v=4"
 repo_url: "https://github.com/snowformatics/macrobot"
-date: "2025-12-27 14:29:47.577815"
+date: "2026-01-03 14:29:52.204501"
 ---

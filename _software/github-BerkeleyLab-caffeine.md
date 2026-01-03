@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/BerkeleyLab", "avatar_url": "https://avatars.githubusercontent.com/u/18706005?v=4", "login": "BerkeleyLab", "type": "Organization"}
 topics: ["coarray", "coarray-fortran", "fortran-2018", "pgas", "partitioned-global-address-space", "parallel-programming", "runtime-library", "fortran-2023", "parallel-computing", "parallelism"]
-date: "2025-12-27 14:29:46.824956"
+date: "2026-01-03 14:29:51.457502"
 ---

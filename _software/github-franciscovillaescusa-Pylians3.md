@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/franciscovillaescusa", "avatar_url": "https://avatars.githubusercontent.com/u/4404316?v=4", "login": "franciscovillaescusa", "type": "User"}
 topics: ["simulations", "n-body", "hydrodynamics", "power-spectrum", "bispectrum", "correlation-functions", "voids", "python3", "cython", "c", "density-estimation", "visualization"]
-date: "2025-12-27 14:29:47.988987"
+date: "2026-01-03 14:29:52.615061"
 ---

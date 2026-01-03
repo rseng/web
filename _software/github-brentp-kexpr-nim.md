@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/brentp", "avatar_url": "https://avatars.githubusercontent.com/u/1739?v=4", "login": "brentp", "type": "User"}
 topics: ["nim-lang", "math-expressions", "math", "evaluator"]
-date: "2025-12-27 14:29:47.750047"
+date: "2026-01-03 14:29:52.375235"
 ---

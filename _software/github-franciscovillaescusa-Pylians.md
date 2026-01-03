@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/franciscovillaescusa", "avatar_url": "https://avatars.githubusercontent.com/u/4404316?v=4", "login": "franciscovillaescusa", "type": "User"}
 topics: ["simulation", "nbody-simulation", "power-spectrum", "density-estimation", "bispectrum", "21cm", "python", "cython", "c"]
-date: "2025-12-27 14:29:47.988713"
+date: "2026-01-03 14:29:52.614796"
 ---

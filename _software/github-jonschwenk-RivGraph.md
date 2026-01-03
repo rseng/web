@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jonschwenk", "avatar_url": "https://avatars.githubusercontent.com/u/14874485?v=4", "login": "jonschwenk", "type": "User"}
-date: "2025-12-27 14:29:46.379929"
+date: "2026-01-03 14:29:51.015768"
 ---

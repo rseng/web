@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:15.705779"
 avatar: "https://avatars1.githubusercontent.com/u/740245?v=4"
 repo_url: "https://github.com/SchedMD/slurm"
-date: "2025-12-27 14:29:47.313593"
+date: "2026-01-03 14:29:51.942648"
 ---

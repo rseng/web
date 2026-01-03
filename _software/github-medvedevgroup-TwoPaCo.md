@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 16
 owner: {"html_url": "https://github.com/medvedevgroup", "avatar_url": "https://avatars.githubusercontent.com/u/6886846?v=4", "login": "medvedevgroup", "type": "Organization"}
 topics: ["bioinformatics", "graph-algorithms", "comparative-genomics", "de-bruijn-graphs", "genomics"]
-date: "2025-12-27 14:29:46.904322"
+date: "2026-01-03 14:29:51.536326"
 ---

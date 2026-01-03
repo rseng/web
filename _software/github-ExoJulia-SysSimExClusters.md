@@ -20,5 +20,5 @@ watchers_count: 4
 language: "Julia"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/ExoJulia", "avatar_url": "https://avatars.githubusercontent.com/u/46846999?v=4", "login": "ExoJulia", "type": "Organization"}
-date: "2025-12-27 14:29:46.575370"
+date: "2026-01-03 14:29:51.210291"
 ---

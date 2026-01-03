@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/cosimameyer", "avatar_url": "https://avatars.githubusercontent.com/u/7782895?v=4", "login": "cosimameyer", "type": "User"}
 topics: ["package-development"]
-date: "2025-12-27 14:29:47.806795"
+date: "2026-01-03 14:29:52.431538"
 ---

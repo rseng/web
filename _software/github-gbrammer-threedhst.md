@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 6
 subscribers_count: 6
 owner: {"html_url": "https://github.com/gbrammer", "avatar_url": "https://avatars.githubusercontent.com/u/1577270?v=4", "login": "gbrammer", "type": "User"}
-date: "2025-12-27 14:29:46.589979"
+date: "2026-01-03 14:29:51.224732"
 ---

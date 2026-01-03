@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CaymanUnterborn", "avatar_url": "https://avatars.githubusercontent.com/u/7727288?v=4", "login": "CaymanUnterborn", "type": "User"}
 topics: ["exoplanets", "interiors", "mineralogy"]
-date: "2025-12-27 14:29:47.385886"
+date: "2026-01-03 14:29:52.014079"
 ---

@@ -23,5 +23,5 @@ open_issues_count: 3
 subscribers_count: 6
 owner: {"html_url": "https://github.com/Kambrian", "avatar_url": "https://avatars.githubusercontent.com/u/7944948?v=4", "login": "Kambrian", "type": "User"}
 topics: ["halofinder", "cosmology", "merger-tree", "subhalo", "hbt", "dark-matter", "astrophysics", "simulation"]
-date: "2025-12-27 14:29:47.709719"
+date: "2026-01-03 14:29:52.335199"
 ---

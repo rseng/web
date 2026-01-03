@@ -21,5 +21,5 @@ open_issues_count: 11
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["bom", "meteorological-data", "weather-forecast", "australia", "weather", "weather-data", "meteorology", "r", "rstats", "australia-bureau-of-meteorology", "r-package", "peer-reviewed", "data-access"]
-date: "2025-12-27 14:29:46.389268"
+date: "2026-01-03 14:29:51.025031"
 ---

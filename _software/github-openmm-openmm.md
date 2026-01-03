@@ -21,5 +21,5 @@ open_issues_count: 288
 subscribers_count: 81
 owner: {"html_url": "https://github.com/openmm", "avatar_url": "https://avatars.githubusercontent.com/u/52428936?v=4", "login": "openmm", "type": "Organization"}
 topics: ["simulation", "molecular-dynamics"]
-date: "2025-12-27 14:29:46.666933"
+date: "2026-01-03 14:29:51.301204"
 ---

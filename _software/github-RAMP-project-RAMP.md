@@ -21,5 +21,5 @@ open_issues_count: 25
 license: {"key": "eupl-1.2", "name": "European Union Public License 1.2", "spdx_id": "EUPL-1.2", "url": "https://api.github.com/licenses/eupl-1.2", "node_id": "MDc6TGljZW5zZTM0"}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/RAMP-project", "avatar_url": "https://avatars.githubusercontent.com/u/65850039?v=4", "login": "RAMP-project", "type": "Organization"}
-date: "2025-12-27 14:29:46.959427"
+date: "2026-01-03 14:29:51.591147"
 ---
