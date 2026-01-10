@@ -23,5 +23,5 @@ open_issues_count: 183
 subscribers_count: 22
 owner: {"html_url": "https://github.com/astropy", "avatar_url": "https://avatars.githubusercontent.com/u/847984?v=4", "login": "astropy", "type": "Organization"}
 topics: ["astropy"]
-date: "2026-01-03 14:29:51.958550"
+date: "2026-01-10 14:30:02.279736"
 ---

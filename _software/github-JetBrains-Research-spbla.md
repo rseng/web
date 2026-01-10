@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/JetBrains-Research", "avatar_url": "https://avatars.githubusercontent.com/u/10167268?v=4", "login": "JetBrains-Research", "type": "Organization"}
 topics: ["cplusplus", "sparse-matrix", "boolean-algebra", "cuda", "opencl", "graphblas", "suitesparse", "python", "graph-algorithms"]
-date: "2026-01-03 14:29:51.411174"
+date: "2026-01-10 14:30:01.726737"
 ---

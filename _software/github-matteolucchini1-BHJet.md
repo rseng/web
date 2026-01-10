@@ -22,5 +22,5 @@ open_issues_count: 12
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/matteolucchini1", "avatar_url": "https://avatars.githubusercontent.com/u/35686549?v=4", "login": "matteolucchini1", "type": "User"}
-date: "2026-01-03 14:29:51.445472"
+date: "2026-01-10 14:30:01.761355"
 ---

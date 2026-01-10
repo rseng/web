@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 7
 owner: {"html_url": "https://github.com/karllark", "avatar_url": "https://avatars.githubusercontent.com/u/1554536?v=4", "login": "karllark", "type": "User"}
 topics: ["dust-extinction", "extinction", "astronomy", "astrophysics", "astropy", "dust", "hacktoberfest"]
-date: "2026-01-03 14:29:51.912991"
+date: "2026-01-10 14:30:02.233589"
 ---

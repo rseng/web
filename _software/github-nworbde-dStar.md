@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/nworbde", "avatar_url": "https://avatars.githubusercontent.com/u/7050112?v=4", "login": "nworbde", "type": "User"}
 topics: ["neutron-stars", "x-ray-binaries", "astrophysics"]
-date: "2026-01-03 14:29:52.434174"
+date: "2026-01-10 14:30:02.790529"
 ---

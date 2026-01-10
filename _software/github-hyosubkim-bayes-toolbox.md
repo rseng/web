@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/hyosubkim", "avatar_url": "https://avatars.githubusercontent.com/u/32351455?v=4", "login": "hyosubkim", "type": "User"}
 topics: ["bayesian-inference", "bayesian-statistics", "kruschke", "probabilistic-programming", "python", "statistics"]
-date: "2026-01-03 14:29:52.308192"
+date: "2026-01-10 14:30:02.663984"
 ---

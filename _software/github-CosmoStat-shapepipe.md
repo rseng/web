@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 35
 subscribers_count: 8
 owner: {"html_url": "https://github.com/CosmoStat", "avatar_url": "https://avatars.githubusercontent.com/u/16947949?v=4", "login": "CosmoStat", "type": "Organization"}
-date: "2026-01-03 14:29:51.362146"
+date: "2026-01-10 14:30:01.677587"
 ---

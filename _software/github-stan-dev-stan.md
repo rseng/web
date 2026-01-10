@@ -23,5 +23,5 @@ topics: ["stan", "bayesian-inference", "bayesian", "bayesian-methods", "bayesian
 timestamp: "2020-07-04 13:22:45.415516"
 avatar: "https://avatars2.githubusercontent.com/u/3374820?v=4"
 repo_url: "https://github.com/stan-dev/stan"
-date: "2026-01-03 14:29:52.031671"
+date: "2026-01-10 14:30:02.353347"
 ---

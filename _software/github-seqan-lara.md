@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/seqan", "avatar_url": "https://avatars.githubusercontent.com/u/1752144?v=4", "login": "seqan", "type": "Organization"}
 topics: ["bioinformatics", "rna", "alignment", "rna-structure"]
-date: "2026-01-03 14:29:51.318089"
+date: "2026-01-10 14:30:01.632721"
 ---

@@ -21,5 +21,5 @@ language: "C"
 open_issues_count: 9
 subscribers_count: 6
 owner: {"html_url": "https://github.com/coccoinomane", "avatar_url": "https://avatars.githubusercontent.com/u/3920436?v=4", "login": "coccoinomane", "type": "User"}
-date: "2026-01-03 14:29:51.903167"
+date: "2026-01-10 14:30:02.223695"
 ---

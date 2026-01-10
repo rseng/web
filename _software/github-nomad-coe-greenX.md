@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/nomad-coe", "avatar_url": "https://avatars.githubusercontent.com/u/14835914?v=4", "login": "nomad-coe", "type": "Organization"}
 topics: ["exascale", "fortran", "greens-functions"]
-date: "2026-01-03 14:29:52.575352"
+date: "2026-01-10 14:30:02.930250"
 ---

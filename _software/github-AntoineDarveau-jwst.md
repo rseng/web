@@ -21,5 +21,5 @@ watchers_count: 1
 open_issues_count: 3
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/AntoineDarveau", "avatar_url": "https://avatars.githubusercontent.com/u/25065082?v=4", "login": "AntoineDarveau", "type": "User"}
-date: "2026-01-03 14:29:52.335670"
+date: "2026-01-10 14:30:02.691722"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/patrickfuchs", "avatar_url": "https://avatars.githubusercontent.com/u/13885052?v=4", "login": "patrickfuchs", "type": "User"}
 topics: ["python", "lipids", "order-parameters", "united-atom", "molecular-dynamics-simulation"]
-date: "2026-01-03 14:29:51.277140"
+date: "2026-01-10 14:30:01.591843"
 ---

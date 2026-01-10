@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/EdwardBerman", "avatar_url": "https://avatars.githubusercontent.com/u/94378814?v=4", "login": "EdwardBerman", "type": "User"}
 topics: ["astrophysics", "julia", "jwst", "point-spread-function", "weak-lensing"]
-date: "2026-01-03 14:29:51.358315"
+date: "2026-01-10 14:30:01.673701"
 ---

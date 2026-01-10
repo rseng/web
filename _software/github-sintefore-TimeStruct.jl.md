@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/sintefore", "avatar_url": "https://avatars.githubusercontent.com/u/151619121?v=4", "login": "sintefore", "type": "Organization"}
-date: "2026-01-03 14:29:52.198302"
+date: "2026-01-10 14:30:02.552355"
 ---

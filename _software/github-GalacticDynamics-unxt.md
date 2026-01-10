@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/GalacticDynamics", "avatar_url": "https://avatars.githubusercontent.com/u/150391400?v=4", "login": "GalacticDynamics", "type": "Organization"}
 topics: ["jax", "quantities", "units", "array", "auto-differentiation"]
-date: "2026-01-03 14:29:52.088582"
+date: "2026-01-10 14:30:02.441316"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 17
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/bempp", "avatar_url": "https://avatars.githubusercontent.com/u/693670?v=4", "login": "bempp", "type": "Organization"}
-date: "2026-01-03 14:29:51.118415"
+date: "2026-01-10 14:30:01.430219"
 ---

@@ -19,5 +19,5 @@ language: "Jupyter Notebook"
 license: {"key": "cc0-1.0", "name": "Creative Commons Zero v1.0 Universal", "spdx_id": "CC0-1.0", "url": "https://api.github.com/licenses/cc0-1.0", "node_id": "MDc6TGljZW5zZTY="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mkplummer", "avatar_url": "https://avatars.githubusercontent.com/u/80552610?v=4", "login": "mkplummer", "type": "User"}
-date: "2026-01-03 14:29:52.336838"
+date: "2026-01-10 14:30:02.692923"
 ---

@@ -20,5 +20,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ttgump", "avatar_url": "https://avatars.githubusercontent.com/u/1187979?v=4", "login": "ttgump", "type": "User"}
 topics: ["deep-learning", "hyperbolic-embeddings", "single-cell", "dimensionality-reduction", "manifold-learning", "visualization"]
-date: "2026-01-03 14:29:51.787836"
+date: "2026-01-10 14:30:02.107510"
 ---

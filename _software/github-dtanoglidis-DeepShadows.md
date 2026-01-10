@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/dtanoglidis", "avatar_url": "https://avatars.githubusercontent.com/u/26015096?v=4", "login": "dtanoglidis", "type": "User"}
 topics: ["deep-learning", "galaxies"]
-date: "2026-01-03 14:29:52.289456"
+date: "2026-01-10 14:30:02.644777"
 ---

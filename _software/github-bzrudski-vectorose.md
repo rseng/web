@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/bzrudski", "avatar_url": "https://avatars.githubusercontent.com/u/49771453?v=4", "login": "bzrudski", "type": "User"}
 topics: ["anisotropy", "directional-statistics", "histogram", "spherical-histograms"]
-date: "2026-01-03 14:29:51.879978"
+date: "2026-01-10 14:30:02.200462"
 ---

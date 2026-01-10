@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/febos", "avatar_url": "https://avatars.githubusercontent.com/u/1099991?v=4", "login": "febos", "type": "User"}
 topics: ["bioinformatics", "bioinformatics-tool", "biological-data-analysis", "biology", "prediction", "prediction-algorithm", "rna", "rna-secondary-structure", "rna-secondary-structure-prediction", "rna-structure", "rna-structure-prediction", "secondary-structure", "secondary-structure-prediction", "structural-biology", "structure", "structure-prediction", "alignment", "single-sequence", "2d", "pseudoknot"]
-date: "2026-01-03 14:29:51.186460"
+date: "2026-01-10 14:30:01.499320"
 ---

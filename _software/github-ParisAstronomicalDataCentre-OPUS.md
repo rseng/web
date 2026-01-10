@@ -22,5 +22,5 @@ language: "JavaScript"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/ParisAstronomicalDataCentre", "avatar_url": "https://avatars.githubusercontent.com/u/18441663?v=4", "login": "ParisAstronomicalDataCentre", "type": "Organization"}
-date: "2026-01-03 14:29:51.454658"
+date: "2026-01-10 14:30:01.770663"
 ---

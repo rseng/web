@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/bio-phys", "avatar_url": "https://avatars.githubusercontent.com/u/30295439?v=4", "login": "bio-phys", "type": "Organization"}
 topics: ["enhanced-sampling", "molecular-dynamics", "molecular-dynamics-simulation", "slurm", "slurm-cluster"]
-date: "2026-01-03 14:29:51.399026"
+date: "2026-01-10 14:30:01.714634"
 ---

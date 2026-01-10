@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 18
 owner: {"html_url": "https://github.com/spacetelescope", "avatar_url": "https://avatars.githubusercontent.com/u/2751928?v=4", "login": "spacetelescope", "type": "Organization"}
 topics: ["spectroscopy", "astronomy", "viewer", "data-analysis"]
-date: "2026-01-03 14:29:51.451070"
+date: "2026-01-10 14:30:01.767071"
 ---

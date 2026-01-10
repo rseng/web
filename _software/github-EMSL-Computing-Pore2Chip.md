@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/EMSL-Computing", "avatar_url": "https://avatars.githubusercontent.com/u/43354427?v=4", "login": "EMSL-Computing", "type": "Organization"}
 topics: ["lab", "openpnm", "pore-network", "soil", "xct", "experimental-design", "flow", "model-data-fusion", "neural-networks", "reactive-transport", "terraforms", "lab-on-chip", "microfluidics-chip-enrichment", "porous-materials", "porous-media", "python", "scientific-visualization", "data-analysis", "data-visualization", "machine-learning"]
-date: "2026-01-03 14:29:51.929923"
+date: "2026-01-10 14:30:02.250610"
 ---

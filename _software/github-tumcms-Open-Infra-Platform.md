@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 9
 owner: {"html_url": "https://github.com/tumcms", "avatar_url": "https://avatars.githubusercontent.com/u/13763357?v=4", "login": "tumcms", "type": "Organization"}
 topics: ["ifc", "infrastructure", "boost", "point-cloud", "building-information-modelling", "okstra"]
-date: "2026-01-03 14:29:52.479242"
+date: "2026-01-10 14:30:02.836115"
 ---

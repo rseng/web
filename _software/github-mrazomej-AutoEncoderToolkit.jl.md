@@ -21,5 +21,5 @@ language: "Julia"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mrazomej", "avatar_url": "https://avatars.githubusercontent.com/u/8460891?v=4", "login": "mrazomej", "type": "User"}
-date: "2026-01-03 14:29:52.600545"
+date: "2026-01-10 14:30:02.955587"
 ---

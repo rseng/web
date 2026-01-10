@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/haimengzhao", "avatar_url": "https://avatars.githubusercontent.com/u/25528207?v=4", "login": "haimengzhao", "type": "User"}
 topics: ["ai4science", "astronomy", "machine-learning", "microlensing"]
-date: "2026-01-03 14:29:52.528251"
+date: "2026-01-10 14:30:02.885450"
 ---

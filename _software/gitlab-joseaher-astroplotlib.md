@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/joseaher/astroplotlib/-/blob/master/README.md"
 star_count: 1
 last_activity_at: "2022-05-13T15:13:00.823Z"
 namespace: {"id": 1421869, "name": "Jose Hernandez Jimenez", "path": "joseaher", "kind": "user", "full_path": "joseaher", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/6e94657b4a6c9682654436e6bf7e8101?s=80&d=identicon", "web_url": "https://gitlab.com/joseaher"}
-date: "2026-01-03 14:29:50.971914"
+date: "2026-01-10 14:30:01.282399"
 ---

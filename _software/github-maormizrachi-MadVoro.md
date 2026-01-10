@@ -20,5 +20,5 @@ language: "Shell"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/maormizrachi", "avatar_url": "https://avatars.githubusercontent.com/u/85169126?v=4", "login": "maormizrachi", "type": "User"}
-date: "2026-01-03 14:29:51.954955"
+date: "2026-01-10 14:30:02.275677"
 ---

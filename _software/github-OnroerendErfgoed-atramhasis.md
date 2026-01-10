@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 18
 owner: {"html_url": "https://github.com/OnroerendErfgoed", "avatar_url": "https://avatars.githubusercontent.com/u/1157802?v=4", "login": "OnroerendErfgoed", "type": "Organization"}
 topics: ["skos", "python", "thesaurus", "vocabulary", "pypi-package"]
-date: "2026-01-03 14:29:51.359296"
+date: "2026-01-10 14:30:01.674700"
 ---

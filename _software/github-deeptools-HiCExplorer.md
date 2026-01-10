@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 15
 owner: {"html_url": "https://github.com/deeptools", "avatar_url": "https://avatars.githubusercontent.com/u/6528975?v=4", "login": "deeptools", "type": "Organization"}
 topics: ["hic", "genomics", "chromosome-conformation-capture", "galaxy", "python", "bioinformatics"]
-date: "2026-01-03 14:29:52.306041"
+date: "2026-01-10 14:30:02.661774"
 ---

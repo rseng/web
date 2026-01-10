@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/muctadir", "avatar_url": "https://avatars.githubusercontent.com/u/2332130?v=4", "login": "muctadir", "type": "User"}
 topics: ["angular", "docker", "python", "qualitative-research", "thematic-analysis", "qualitative-analysis", "text-labeling"]
-date: "2026-01-03 14:29:52.258183"
+date: "2026-01-10 14:30:02.613089"
 ---

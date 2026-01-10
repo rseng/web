@@ -21,5 +21,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/DrafProject", "avatar_url": "https://avatars.githubusercontent.com/u/62054152?v=4", "login": "DrafProject", "type": "Organization"}
 topics: ["carbon-emissions", "electricity-prices", "electricity-market", "demand-response", "energy-system-modeling", "python", "marginal-emissions"]
-date: "2026-01-03 14:29:52.152109"
+date: "2026-01-10 14:30:02.505526"
 ---
