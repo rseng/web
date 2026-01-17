@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/lantunes", "avatar_url": "https://avatars.githubusercontent.com/u/788494?v=4", "login": "lantunes", "type": "User"}
 topics: ["cellular-automata", "complexity", "complex-systems", "nonlinear-dynamics", "computation"]
-date: "2026-01-10 14:30:01.839480"
+date: "2026-01-17 14:30:01.203904"
 ---

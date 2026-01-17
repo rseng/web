@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/rainwoodman/kdcount"
+url: "https://github.com/rainwoodman/kdcount"
+timestamp: "2026-01-11 01:01:19.632895"
+description: "KDTree for low dimensional spatial indexing, a Python extension"
+avatar: "https://avatars.githubusercontent.com/u/138060?v=4"
+repo_url: "https://github.com/rainwoodman/kdcount"
+doi: ["https://ui.adsabs.harvard.edu/abs/2018JCAP...11..009D", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft11017F/abstract"]
+title: "kdcount: KDTree for low dimensional spatial indexing"
+name: "kdcount"
+full_name: "rainwoodman/kdcount"
+html_url: "https://github.com/rainwoodman/kdcount"
+created_at: "2013-06-05T20:10:43Z"
+updated_at: "2025-11-06T17:30:44Z"
+clone_url: "https://github.com/rainwoodman/kdcount.git"
+size: 1283
+stargazers_count: 12
+watchers_count: 12
+language: "Python"
+open_issues_count: 3
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/rainwoodman", "avatar_url": "https://avatars.githubusercontent.com/u/138060?v=4", "login": "rainwoodman", "type": "User"}
+date: "2026-01-17 14:30:01.791400"
+---

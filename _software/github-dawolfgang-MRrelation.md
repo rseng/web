@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dawolfgang", "avatar_url": "https://avatars.githubusercontent.com/u/7773526?v=4", "login": "dawolfgang", "type": "User"}
-date: "2026-01-10 14:30:02.238895"
+date: "2026-01-17 14:30:01.609520"
 ---

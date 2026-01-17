@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/homerjed/sbgm"
+url: "https://github.com/homerjed/sbgm"
+timestamp: "2026-01-11 01:01:50.422776"
+description: "Score-based Diffusion models in JAX."
+avatar: "https://avatars.githubusercontent.com/u/47306716?v=4"
+repo_url: "https://github.com/homerjed/sbgm"
+doi: "https://doi.org/10.5281/zenodo.17807012"
+name: "sbgm"
+full_name: "homerjed/sbgm"
+html_url: "https://github.com/homerjed/sbgm"
+created_at: "2024-07-26T07:59:05Z"
+updated_at: "2026-01-06T10:27:30Z"
+clone_url: "https://github.com/homerjed/sbgm.git"
+size: 21882
+stargazers_count: 16
+watchers_count: 16
+language: "Python"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/homerjed", "avatar_url": "https://avatars.githubusercontent.com/u/47306716?v=4", "login": "homerjed", "type": "User"}
+topics: ["diffusion", "diffusion-models", "equinox", "jax", "score-based-generative-modeling", "score-based-generative-models"]
+date: "2026-01-17 14:30:01.189425"
+---

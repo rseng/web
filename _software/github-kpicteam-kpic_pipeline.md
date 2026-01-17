@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/kpicteam", "avatar_url": "https://avatars.githubusercontent.com/u/53029575?v=4", "login": "kpicteam", "type": "Organization"}
-date: "2026-01-10 14:30:02.776341"
+date: "2026-01-17 14:30:02.139796"
 ---

@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/Professor-G/MicroLIA"
+url: "https://github.com/Professor-G/MicroLIA"
+timestamp: "2026-01-11 01:01:19.205344"
+description: "Gravitational microlensing classification engine using machine learning."
+avatar: "https://avatars.githubusercontent.com/u/19847448?v=4"
+repo_url: "https://github.com/Professor-G/MicroLIA"
+doi: ["https://ui.adsabs.harvard.edu/abs/2019A%26C....2800298G", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft11018G/abstract"]
+title: "MicroLIA: MicroLensing Identification Algorithm"
+name: "MicroLIA"
+full_name: "Professor-G/MicroLIA"
+html_url: "https://github.com/Professor-G/MicroLIA"
+created_at: "2017-01-13T00:03:48Z"
+updated_at: "2025-11-16T20:54:31Z"
+clone_url: "https://github.com/Professor-G/MicroLIA.git"
+size: 205675
+stargazers_count: 15
+watchers_count: 15
+language: "Python"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 8
+owner: {"html_url": "https://github.com/Professor-G", "avatar_url": "https://avatars.githubusercontent.com/u/19847448?v=4", "login": "Professor-G", "type": "User"}
+topics: ["microlensing", "detection", "algorithm", "random-forest", "machine-learning"]
+date: "2026-01-17 14:30:02.088275"
+---

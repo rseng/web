@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-12 00:26:30.737396"
 avatar: "https://avatars3.githubusercontent.com/u/7988823?v=4"
 repo_url: "https://github.com/hrwakeford/ExoTiC-ISM"
-date: "2026-01-10 14:30:02.991147"
+date: "2026-01-17 14:30:02.363017"
 ---

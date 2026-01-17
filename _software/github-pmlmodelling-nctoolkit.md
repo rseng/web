@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/pmlmodelling", "avatar_url": "https://avatars.githubusercontent.com/u/72567641?v=4", "login": "pmlmodelling", "type": "Organization"}
 topics: ["cdo", "python", "netcdf"]
-date: "2026-01-10 14:30:02.591187"
+date: "2026-01-17 14:30:01.945669"
 ---

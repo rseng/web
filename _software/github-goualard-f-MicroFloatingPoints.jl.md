@@ -21,5 +21,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/goualard-f", "avatar_url": "https://avatars.githubusercontent.com/u/26631692?v=4", "login": "goualard-f", "type": "User"}
 topics: ["floating-point", "ieee-754"]
-date: "2026-01-10 14:30:02.436568"
+date: "2026-01-17 14:30:01.784285"
 ---

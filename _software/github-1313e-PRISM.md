@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 9
 owner: {"html_url": "https://github.com/1313e", "avatar_url": "https://avatars.githubusercontent.com/u/30159027?v=4", "login": "1313e", "type": "User"}
 topics: ["model", "analysis-pipeline", "model-analysis", "emulator", "regression", "python3", "python"]
-date: "2026-01-10 14:30:02.401111"
+date: "2026-01-17 14:30:01.747571"
 ---

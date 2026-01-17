@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/mgckind", "avatar_url": "https://avatars.githubusercontent.com/u/6931913?v=4", "login": "mgckind", "type": "User"}
 topics: ["python", "sql-query", "astronomy", "interpreter"]
-date: "2026-01-10 14:30:01.695834"
+date: "2026-01-17 14:30:01.058299"
 ---

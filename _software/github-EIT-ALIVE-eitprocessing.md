@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/EIT-ALIVE/eitprocessing"
+url: "https://github.com/EIT-ALIVE/eitprocessing"
+timestamp: "2026-01-11 01:01:48.098371"
+description: "Software for electrical impedance tomography data loading, visualization and processing"
+avatar: "https://avatars.githubusercontent.com/u/128688874?v=4"
+repo_url: "https://github.com/EIT-ALIVE/eitprocessing"
+doi: "https://doi.org/10.5281/zenodo.17912095"
+name: "eitprocessing"
+full_name: "EIT-ALIVE/eitprocessing"
+html_url: "https://github.com/EIT-ALIVE/eitprocessing"
+created_at: "2023-03-23T12:46:14Z"
+updated_at: "2026-01-07T13:12:37Z"
+clone_url: "https://github.com/EIT-ALIVE/eitprocessing.git"
+homepage: "https://eit-alive.github.io/eitprocessing/"
+size: 165324
+stargazers_count: 12
+watchers_count: 12
+language: "Jupyter Notebook"
+open_issues_count: 105
+license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
+owner: {"html_url": "https://github.com/EIT-ALIVE", "avatar_url": "https://avatars.githubusercontent.com/u/128688874?v=4", "login": "EIT-ALIVE", "type": "Organization"}
+date: "2026-01-17 14:30:01.029128"
+---

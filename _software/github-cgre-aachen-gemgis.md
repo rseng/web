@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 18
 owner: {"html_url": "https://github.com/cgre-aachen", "avatar_url": "https://avatars.githubusercontent.com/u/29890754?v=4", "login": "cgre-aachen", "type": "Organization"}
 topics: ["spatial-data", "processing", "geographic", "geographic-data", "vector-data", "raster-data", "geomodeling", "modeling", "visualization", "python", "jupyter", "jupyter-notebook", "notebooks", "geospatial"]
-date: "2026-01-10 14:30:01.686188"
+date: "2026-01-17 14:30:01.048566"
 ---

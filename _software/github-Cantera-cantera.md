@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:26.048044"
 avatar: "https://avatars2.githubusercontent.com/u/817698?v=4"
 repo_url: "https://github.com/Cantera/cantera"
-date: "2026-01-10 14:30:01.438909"
+date: "2026-01-17 14:30:00.797295"
 ---

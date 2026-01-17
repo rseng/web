@@ -7,5 +7,5 @@ description: "(Model Based Analysis of ChIP-Seq data) a novel algorithm for iden
 title: "MACS2"
 credit: ["Tao Liu"]
 tags: ["chip-sequencing", "high-throughput-sequencing", "high-tpeak-calling"]
-date: "2026-01-10 14:30:02.083746"
+date: "2026-01-17 14:30:01.451168"
 ---

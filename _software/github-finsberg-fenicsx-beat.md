@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/finsberg", "avatar_url": "https://avatars.githubusercontent.com/u/2010323?v=4", "login": "finsberg", "type": "User"}
 topics: ["cardiac", "ecg", "electrophysiology", "fenicsx", "finite-element-analysis", "monodomain-model"]
-date: "2026-01-10 14:30:02.928082"
+date: "2026-01-17 14:30:02.297819"
 ---

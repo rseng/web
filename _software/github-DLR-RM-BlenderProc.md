@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 39
 owner: {"html_url": "https://github.com/DLR-RM", "avatar_url": "https://avatars.githubusercontent.com/u/25227811?v=4", "login": "DLR-RM", "type": "Organization"}
 topics: ["blender-pipeline", "segmentation", "depth-images", "camera-positions", "suncg-scene", "camera-sampling", "blender-installation", "synthetic", "blender", "rendering", "pose-estimation", "synthetic-data", "python", "3d-graphics", "computer-graphics", "3d-reconstruction", "3d-engines", "3d-front-dataset"]
-date: "2026-01-10 14:30:02.686623"
+date: "2026-01-17 14:30:02.045478"
 ---

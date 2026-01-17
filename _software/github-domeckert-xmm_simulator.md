@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/domeckert/xmm_simulator"
+url: "https://github.com/domeckert/xmm_simulator"
+timestamp: "2026-01-11 01:01:05.687813"
+description: "Python class to generate mock XMM-Newton spectra and images from 3D cubes extracted from hydro simulations"
+avatar: "https://avatars.githubusercontent.com/u/47885645?v=4"
+repo_url: "https://github.com/domeckert/xmm_simulator"
+doi: ["https://ui.adsabs.harvard.edu/abs/2022A%26A...662A.123E", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft12018E/abstract"]
+title: "xmm_simulator: XMM mock data simulator"
+name: "xmm_simulator"
+full_name: "domeckert/xmm_simulator"
+html_url: "https://github.com/domeckert/xmm_simulator"
+created_at: "2021-05-21T14:52:31Z"
+updated_at: "2025-11-21T08:21:32Z"
+clone_url: "https://github.com/domeckert/xmm_simulator.git"
+size: 464106
+stargazers_count: 3
+watchers_count: 3
+language: "Python"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/domeckert", "avatar_url": "https://avatars.githubusercontent.com/u/47885645?v=4", "login": "domeckert", "type": "User"}
+date: "2026-01-17 14:30:01.947657"
+---

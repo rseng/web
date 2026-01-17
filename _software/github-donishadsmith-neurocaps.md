@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/donishadsmith", "avatar_url": "https://avatars.githubusercontent.com/u/112973674?v=4", "login": "donishadsmith", "type": "User"}
 topics: ["neuroimaging", "fmri", "kmeans", "fmriprep", "python", "dynamic-functional-connectivity", "co-activation-patterns"]
-date: "2026-01-10 14:30:02.480959"
+date: "2026-01-17 14:30:01.830337"
 ---

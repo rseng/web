@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/sisl", "avatar_url": "https://avatars.githubusercontent.com/u/6294054?v=4", "login": "sisl", "type": "Organization"}
 topics: ["dimensionality-reduction", "exponential-family", "julia", "machine-learning", "pca", "principal-component-analysis", "compression", "epca", "compression-algorithm", "denoising", "interpretability", "reinforcement-learning", "signal-processing"]
-date: "2026-01-10 14:30:02.988976"
+date: "2026-01-17 14:30:02.360681"
 ---

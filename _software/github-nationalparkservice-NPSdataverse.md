@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/nationalparkservice", "avatar_url": "https://avatars.githubusercontent.com/u/1126069?v=4", "login": "nationalparkservice", "type": "Organization"}
 topics: ["datastore", "eml-metadata", "metadata", "national-parks", "data-packages", "r", "r-package", "ecological-metadata-language", "eml", "accessible", "data-package", "findable", "interoperable", "machine-readable", "national-park-service", "open-data", "reuseable"]
-date: "2026-01-10 14:30:02.750347"
+date: "2026-01-17 14:30:02.112860"
 ---

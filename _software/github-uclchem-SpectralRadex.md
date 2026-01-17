@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/uclchem", "avatar_url": "https://avatars.githubusercontent.com/u/14346619?v=4", "login": "uclchem", "type": "Organization"}
 topics: ["astrophysics", "radiative-transfer", "radex", "astronomy", "python"]
-date: "2026-01-10 14:30:01.941137"
+date: "2026-01-17 14:30:01.306380"
 ---

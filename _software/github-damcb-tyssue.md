@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/DamCB", "avatar_url": "https://avatars.githubusercontent.com/u/7861101?v=4", "login": "DamCB", "type": "Organization"}
 topics: ["vertex", "pandas", "biological-simulations", "geometry", "notebook"]
-date: "2026-01-10 14:30:01.946750"
+date: "2026-01-17 14:30:01.312157"
 ---

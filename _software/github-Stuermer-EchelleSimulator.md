@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Stuermer", "avatar_url": "https://avatars.githubusercontent.com/u/6728233?v=4", "login": "Stuermer", "type": "User"}
 topics: ["spectrograph", "zemax", "echelle-simulation"]
-date: "2026-01-10 14:30:01.567677"
+date: "2026-01-17 14:30:00.927929"
 ---

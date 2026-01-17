@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/floodlight-sports", "avatar_url": "https://avatars.githubusercontent.com/u/92793483?v=4", "login": "floodlight-sports", "type": "Organization"}
 topics: ["python", "sports-analytics", "sports-stats"]
-date: "2026-01-10 14:30:02.314208"
+date: "2026-01-17 14:30:01.688142"
 ---

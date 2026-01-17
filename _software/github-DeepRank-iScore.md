@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:27.946201"
 avatar: "https://avatars1.githubusercontent.com/u/31408512?v=4"
 repo_url: "https://github.com/DeepRank/iScore"
-date: "2026-01-10 14:30:02.268953"
+date: "2026-01-17 14:30:01.640070"
 ---

@@ -17,5 +17,5 @@ clone_url: "https://github.com/soerenslarsen/ISPy3.git"
 size: 4677
 subscribers_count: 1
 owner: {"html_url": "https://github.com/soerenslarsen", "avatar_url": "https://avatars.githubusercontent.com/u/69246792?v=4", "login": "soerenslarsen", "type": "User"}
-date: "2026-01-10 14:30:01.420082"
+date: "2026-01-17 14:30:00.778445"
 ---

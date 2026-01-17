@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/dkn16/H21F"
+url: "https://github.com/dkn16/H21F"
+timestamp: "2026-01-11 01:01:10.974725"
+description: "A Gaussian Process based 21-cm foreground separation code."
+avatar: "https://avatars.githubusercontent.com/u/81129696?v=4"
+repo_url: "https://github.com/dkn16/H21F"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025ApJ...987...18D", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft12006D/abstract"]
+title: "H21F: Gaussian Process based 21-cm foreground separation code"
+name: "H21F"
+full_name: "dkn16/H21F"
+html_url: "https://github.com/dkn16/H21F"
+created_at: "2022-10-31T06:05:13Z"
+updated_at: "2024-07-19T01:50:37Z"
+clone_url: "https://github.com/dkn16/H21F.git"
+size: 31258
+stargazers_count: 2
+watchers_count: 2
+language: "Jupyter Notebook"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/dkn16", "avatar_url": "https://avatars.githubusercontent.com/u/81129696?v=4", "login": "dkn16", "type": "User"}
+date: "2026-01-17 14:30:01.185375"
+---

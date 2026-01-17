@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/karpov-sv/stdweb"
+url: "https://github.com/karpov-sv/stdweb"
+timestamp: "2026-01-11 01:01:14.460194"
+description: "STDWeb - Simple Transient Detection for the Web"
+avatar: "https://avatars.githubusercontent.com/u/6555548?v=4"
+repo_url: "https://github.com/karpov-sv/stdweb"
+doi: ["https://ui.adsabs.harvard.edu/abs/2025AcPol..65...50K", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft11028K/abstract"]
+title: "STDWeb: Simple Transient Detection for the Web"
+name: "stdweb"
+full_name: "karpov-sv/stdweb"
+html_url: "https://github.com/karpov-sv/stdweb"
+created_at: "2023-06-30T15:19:50Z"
+updated_at: "2026-01-08T14:23:25Z"
+clone_url: "https://github.com/karpov-sv/stdweb.git"
+size: 785
+stargazers_count: 9
+watchers_count: 9
+language: "Python"
+open_issues_count: 4
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/karpov-sv", "avatar_url": "https://avatars.githubusercontent.com/u/6555548?v=4", "login": "karpov-sv", "type": "User"}
+date: "2026-01-17 14:30:00.826212"
+---

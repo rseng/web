@@ -22,5 +22,5 @@ open_issues_count: 21
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 7
 owner: {"html_url": "https://github.com/jhkorhonen", "avatar_url": "https://avatars.githubusercontent.com/u/3216254?v=4", "login": "jhkorhonen", "type": "User"}
-date: "2026-01-10 14:30:02.096006"
+date: "2026-01-17 14:30:01.463373"
 ---

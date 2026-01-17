@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/bacpop", "avatar_url": "https://avatars.githubusercontent.com/u/78856671?v=4", "login": "bacpop", "type": "Organization"}
 topics: ["bioinformatics", "sequence", "ska", "rust", "alignment", "k-mer"]
-date: "2026-01-10 14:30:01.500596"
+date: "2026-01-17 14:30:00.861005"
 ---

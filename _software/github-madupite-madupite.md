@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/madupite", "avatar_url": "https://avatars.githubusercontent.com/u/179175157?v=4", "login": "madupite", "type": "Organization"}
 topics: ["dynamic-programming", "high-performance-computing", "markov-decision-processes", "mdp", "mpi", "nanobind", "optimal-control", "petsc", "stochastic-optimization", "ethz", "policy-iteration", "optimization", "solver", "stochastic-optimal-control", "cpp", "python", "python3", "mdpsolver"]
-date: "2026-01-10 14:30:02.011736"
+date: "2026-01-17 14:30:01.378011"
 ---

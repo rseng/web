@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/dkn16/Synax"
+url: "https://github.com/dkn16/Synax"
+timestamp: "2026-01-11 01:01:10.541081"
+description: "All sky Synchrotron emission simulation with JAX"
+avatar: "https://avatars.githubusercontent.com/u/81129696?v=4"
+repo_url: "https://github.com/dkn16/Synax"
+doi: ["https://ui.adsabs.harvard.edu/abs/2026JCoPh.54714549M", "https://ui.adsabs.harvard.edu/abs/2024arXiv241001136D", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft12007D/abstract"]
+title: "synax: All sky Synchrotron emission simulation with JAX"
+name: "Synax"
+full_name: "dkn16/Synax"
+html_url: "https://github.com/dkn16/Synax"
+created_at: "2024-06-18T20:57:11Z"
+updated_at: "2025-02-27T18:39:52Z"
+clone_url: "https://github.com/dkn16/Synax.git"
+homepage: "https://synax.readthedocs.io"
+size: 74340
+stargazers_count: 9
+watchers_count: 9
+language: "Jupyter Notebook"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/dkn16", "avatar_url": "https://avatars.githubusercontent.com/u/81129696?v=4", "login": "dkn16", "type": "User"}
+date: "2026-01-17 14:30:01.185607"
+---

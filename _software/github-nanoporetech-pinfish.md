@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 18
 owner: {"html_url": "https://github.com/nanoporetech", "avatar_url": "https://avatars.githubusercontent.com/u/7668184?v=4", "login": "nanoporetech", "type": "Organization"}
 topics: ["rna-seq", "cdna", "transcriptomics", "genome-annotation", "nanopore"]
-date: "2026-01-10 14:30:01.791350"
+date: "2026-01-17 14:30:01.155126"
 ---

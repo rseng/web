@@ -20,5 +20,5 @@ language: "FORTRAN"
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
-date: "2026-01-10 14:30:02.624414"
+date: "2026-01-17 14:30:01.980519"
 ---

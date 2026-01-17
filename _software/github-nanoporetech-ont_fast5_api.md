@@ -22,5 +22,5 @@ open_issues_count: 7
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 21
 owner: {"html_url": "https://github.com/nanoporetech", "avatar_url": "https://avatars.githubusercontent.com/u/7668184?v=4", "login": "nanoporetech", "type": "Organization"}
-date: "2026-01-10 14:30:01.792064"
+date: "2026-01-17 14:30:01.155846"
 ---

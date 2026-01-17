@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/qurit", "avatar_url": "https://avatars.githubusercontent.com/u/58281965?v=4", "login": "qurit", "type": "Organization"}
 topics: ["dicom", "rtstruct", "mask", "roi", "pydicom", "ai", "medical-imaging", "medical-image-processing", "nuclear-medicine", "typed", "rt-structs", "binary-masks", "rt-utils"]
-date: "2026-01-10 14:30:02.123992"
+date: "2026-01-17 14:30:01.491641"
 ---

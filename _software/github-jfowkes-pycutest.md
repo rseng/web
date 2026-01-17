@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jfowkes", "avatar_url": "https://avatars.githubusercontent.com/u/5586192?v=4", "login": "jfowkes", "type": "User"}
 topics: ["optimization-tools"]
-date: "2026-01-10 14:30:02.096703"
+date: "2026-01-17 14:30:01.464113"
 ---

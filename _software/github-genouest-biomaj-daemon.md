@@ -18,5 +18,5 @@ language: "Python"
 open_issues_count: 1
 subscribers_count: 3
 owner: {"html_url": "https://github.com/genouest", "avatar_url": "https://avatars.githubusercontent.com/u/1004255?v=4", "login": "genouest", "type": "Organization"}
-date: "2026-01-10 14:30:02.422171"
+date: "2026-01-17 14:30:01.769559"
 ---

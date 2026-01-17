@@ -21,5 +21,5 @@ language: "Rust"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/Nadi-System", "avatar_url": "https://avatars.githubusercontent.com/u/159494864?v=4", "login": "Nadi-System", "type": "Organization"}
 topics: ["domain-specific-language", "geographical-information-system", "hydrology", "network-analysis", "plugin-system"]
-date: "2026-01-10 14:30:01.470989"
+date: "2026-01-17 14:30:00.830490"
 ---

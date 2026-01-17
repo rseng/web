@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 53
 subscribers_count: 5
 owner: {"html_url": "https://github.com/Hoeijmakers", "avatar_url": "https://avatars.githubusercontent.com/u/57099343?v=4", "login": "Hoeijmakers", "type": "User"}
-date: "2026-01-10 14:30:01.637837"
+date: "2026-01-17 14:30:00.999439"
 ---

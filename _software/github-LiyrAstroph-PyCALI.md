@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/LiyrAstroph/PyCALI"
+url: "https://github.com/LiyrAstroph/PyCALI"
+timestamp: "2026-01-11 01:01:21.323928"
+description: "A Python package to intercalibrate light curves. "
+avatar: "https://avatars.githubusercontent.com/u/22761518?v=4"
+repo_url: "https://github.com/LiyrAstroph/PyCALI"
+doi: ["https://ui.adsabs.harvard.edu/abs/2024ApJ...974...86L", "https://ui.adsabs.harvard.edu/abs/2014ApJ...786L...6L", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft11013L/abstract"]
+title: "PyCALI: Intercalibrate light curves"
+name: "PyCALI"
+full_name: "LiyrAstroph/PyCALI"
+html_url: "https://github.com/LiyrAstroph/PyCALI"
+created_at: "2020-09-14T00:24:45Z"
+updated_at: "2026-01-03T07:09:48Z"
+clone_url: "https://github.com/LiyrAstroph/PyCALI.git"
+size: 4862
+stargazers_count: 11
+watchers_count: 11
+language: "Fortran"
+open_issues_count: 2
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/LiyrAstroph", "avatar_url": "https://avatars.githubusercontent.com/u/22761518?v=4", "login": "LiyrAstroph", "type": "Organization"}
+date: "2026-01-17 14:30:01.601632"
+---

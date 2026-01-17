@@ -21,5 +21,5 @@ language: "Fortran"
 open_issues_count: 1
 subscribers_count: 6
 owner: {"html_url": "https://github.com/garrelt", "avatar_url": "https://avatars.githubusercontent.com/u/856731?v=4", "login": "garrelt", "type": "User"}
-date: "2026-01-10 14:30:02.461979"
+date: "2026-01-17 14:30:01.810772"
 ---

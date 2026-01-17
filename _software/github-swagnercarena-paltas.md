@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/swagnercarena", "avatar_url": "https://avatars.githubusercontent.com/u/8857025?v=4", "login": "swagnercarena", "type": "User"}
 topics: ["simulation-based-inference", "neural-network", "astrophysics", "cosmology", "hierarchical-model"]
-date: "2026-01-10 14:30:02.721142"
+date: "2026-01-17 14:30:02.082211"
 ---

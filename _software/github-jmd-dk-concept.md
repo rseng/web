@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/jmd-dk", "avatar_url": "https://avatars.githubusercontent.com/u/9202794?v=4", "login": "jmd-dk", "type": "User"}
 topics: ["cosmology", "nbody-simulation", "python"]
-date: "2026-01-10 14:30:02.533132"
+date: "2026-01-17 14:30:01.885166"
 ---

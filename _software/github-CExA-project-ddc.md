@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CExA-project", "avatar_url": "https://avatars.githubusercontent.com/u/134058568?v=4", "login": "CExA-project", "type": "Organization"}
 topics: ["modern-cpp", "domain-decomposition", "ddc", "cpp", "discretization", "hpc", "kokkos"]
-date: "2026-01-10 14:30:02.821029"
+date: "2026-01-17 14:30:02.186306"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 16
 owner: {"html_url": "https://github.com/eelregit", "avatar_url": "https://avatars.githubusercontent.com/u/7311098?v=4", "login": "eelregit", "type": "User"}
 topics: ["cosmology", "forward-model", "simulation", "differentiable", "jax", "n-body", "nbody-simulation"]
-date: "2026-01-10 14:30:02.065181"
+date: "2026-01-17 14:30:01.432670"
 ---

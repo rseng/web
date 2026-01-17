@@ -21,5 +21,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/PIK-LPJmL", "avatar_url": "https://avatars.githubusercontent.com/u/39558205?v=4", "login": "PIK-LPJmL", "type": "Organization"}
 topics: ["cran", "r", "r-package"]
-date: "2026-01-10 14:30:02.352116"
+date: "2026-01-17 14:30:01.728404"
 ---

@@ -1,0 +1,26 @@
+---
+parser: "gitlab"
+uid: "gitlab/astrogal/slideParam"
+url: "https://gitlab.com/astrogal/slideParam"
+timestamp: "2026-01-11 01:01:13.532626"
+description: "2D galactic data visualization tool in python"
+avatar: "https://gitlab.com/uploads/-/system/project/avatar/76146374/sliceParam_logo.png"
+repo_url: "https://gitlab.com/astrogal/slideParam"
+title: "slideParam: 2D galactic data visualisation tool in python"
+id: 76146374
+name: "slideParam"
+name_with_namespace: "Astrogal / slideParam"
+path: "slideParam"
+path_with_namespace: "astrogal/slideParam"
+created_at: "2025-11-17T15:30:08.412Z"
+default_branch: "main"
+ssh_url_to_repo: "git@gitlab.com:astrogal/slideParam.git"
+http_url_to_repo: "https://gitlab.com/astrogal/slideParam.git"
+web_url: "https://gitlab.com/astrogal/slideParam"
+readme_url: "https://gitlab.com/astrogal/slideParam/-/blob/main/README.md"
+avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/76146374/sliceParam_logo.png"
+last_activity_at: "2025-12-12T11:02:12.985Z"
+visibility: "public"
+namespace: {"id": 84425721, "name": "Astrogal", "path": "astrogal", "kind": "group", "full_path": "astrogal", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/astrogal"}
+date: "2026-01-17 14:30:00.645154"
+---

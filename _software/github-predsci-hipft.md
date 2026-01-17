@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/predsci", "avatar_url": "https://avatars.githubusercontent.com/u/8443402?v=4", "login": "predsci", "type": "Organization"}
 topics: ["gpu", "magnetogram", "stdpar", "flux-transport", "do-concurrent", "fortran", "gpgpu", "openmp", "openmp-target", "solar-physics", "standard-parallelism"]
-date: "2026-01-10 14:30:01.832502"
+date: "2026-01-17 14:30:01.196906"
 ---

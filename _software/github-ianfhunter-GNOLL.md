@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ianfhunter", "avatar_url": "https://avatars.githubusercontent.com/u/1540737?v=4", "login": "ianfhunter", "type": "User"}
 topics: ["dice", "dice-roller", "dice-notation", "board-game", "c", "cpp", "dice-rolls", "python", "roleplaying-games", "ttrpg", "perl", "golang", "javascript", "go", "js", "rpg-dice-roller", "julia", "r", "java", "haskell"]
-date: "2026-01-10 14:30:02.257638"
+date: "2026-01-17 14:30:01.628427"
 ---

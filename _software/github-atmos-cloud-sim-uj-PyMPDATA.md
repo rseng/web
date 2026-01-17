@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/atmos-cloud-sim-uj", "avatar_url": "https://avatars.githubusercontent.com/u/48702007?v=4", "login": "atmos-cloud-sim-uj", "type": "Organization"}
 topics: ["pde-solver", "numerical-integration", "advection", "numba", "advection-diffusion", "atmospheric-modelling", "python", "simulation", "research", "pypi-package"]
-date: "2026-01-10 14:30:02.202959"
+date: "2026-01-17 14:30:01.571819"
 ---

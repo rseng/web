@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jveitchmichaelis", "avatar_url": "https://avatars.githubusercontent.com/u/3159591?v=4", "login": "jveitchmichaelis", "type": "User"}
 topics: ["python", "gadget", "cosmology"]
-date: "2026-01-10 14:30:02.572385"
+date: "2026-01-17 14:30:01.926157"
 ---

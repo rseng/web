@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/idaholab", "avatar_url": "https://avatars.githubusercontent.com/u/3855370?v=4", "login": "idaholab", "type": "Organization"}
 topics: ["mcnp6", "monte-carlo", "neutronics", "api", "radiation-transport", "mcnp"]
-date: "2026-01-10 14:30:01.520851"
+date: "2026-01-17 14:30:00.881417"
 ---

@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 12
 owner: {"html_url": "https://github.com/RWTH-EBC", "avatar_url": "https://avatars.githubusercontent.com/u/8121773?v=4", "login": "RWTH-EBC", "type": "Organization"}
 topics: ["fiware", "hacktoberfest", "fiware-orion", "fiware-iot-agents", "fiware-ngsi-v2", "python", "iot", "fiware-quantum-leap"]
-date: "2026-01-10 14:30:02.752508"
+date: "2026-01-17 14:30:02.115087"
 ---

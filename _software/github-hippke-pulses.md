@@ -1,0 +1,23 @@
+---
+parser: "github"
+uid: "github/hippke/pulses"
+url: "https://github.com/hippke/pulses"
+timestamp: "2026-01-11 01:01:21.875531"
+description: "Periodic Spectral Modulations Arise from Non-random Spacing of Spectral Absorption Lines"
+avatar: "https://avatars.githubusercontent.com/u/11958117?v=4"
+repo_url: "https://github.com/hippke/pulses"
+doi: ["https://ui.adsabs.harvard.edu/abs/2019PASP..131c4502H", "https://ui.adsabs.harvard.edu/abs/2025ascl.soft11012H/abstract"]
+title: "pulses: Periodic spectral modulation analysis"
+name: "pulses"
+full_name: "hippke/pulses"
+html_url: "https://github.com/hippke/pulses"
+created_at: "2018-12-13T19:31:06Z"
+updated_at: "2019-01-06T19:41:06Z"
+clone_url: "https://github.com/hippke/pulses.git"
+size: 962
+language: "Python"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/hippke", "avatar_url": "https://avatars.githubusercontent.com/u/11958117?v=4", "login": "hippke", "type": "User"}
+date: "2026-01-17 14:30:01.846849"
+---

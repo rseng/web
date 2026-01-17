@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 9
 owner: {"html_url": "https://github.com/vatlab", "avatar_url": "https://avatars.githubusercontent.com/u/20074389?v=4", "login": "vatlab", "type": "Organization"}
 topics: ["jupyter-kernels"]
-date: "2026-01-10 14:30:01.799448"
+date: "2026-01-17 14:30:01.163167"
 ---
