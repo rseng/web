@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 11
 subscribers_count: 3
 owner: {"html_url": "https://github.com/lucatelli", "avatar_url": "https://avatars.githubusercontent.com/u/11822348?v=4", "login": "lucatelli", "type": "User"}
-date: "2026-01-17 14:30:01.812730"
+date: "2026-01-24 14:30:58.178503"
 ---

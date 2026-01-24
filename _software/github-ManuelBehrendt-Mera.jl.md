@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ManuelBehrendt", "avatar_url": "https://avatars.githubusercontent.com/u/29633996?v=4", "login": "ManuelBehrendt", "type": "User"}
 topics: ["astrophysics", "hydrodynamics", "fluid-dynamics", "postprocessing", "julia", "ramses", "adaptive-mesh-refinement", "n-body", "grid", "julialang"]
-date: "2026-01-17 14:30:00.792859"
+date: "2026-01-24 14:30:57.484879"
 ---

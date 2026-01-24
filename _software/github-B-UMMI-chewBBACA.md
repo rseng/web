@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 15
 owner: {"html_url": "https://github.com/B-UMMI", "avatar_url": "https://avatars.githubusercontent.com/u/8566625?v=4", "login": "B-UMMI", "type": "Organization"}
 topics: ["wgmlst", "cgmlst", "mlst", "genomics", "outbreak-detection", "bacterial-genome-analysis", "bacterial-strains", "allele-calling", "bioinformatics"]
-date: "2026-01-17 14:30:00.853366"
+date: "2026-01-24 14:30:57.525656"
 ---

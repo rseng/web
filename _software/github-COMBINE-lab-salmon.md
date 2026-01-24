@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 41
 owner: {"html_url": "https://github.com/COMBINE-lab", "avatar_url": "https://avatars.githubusercontent.com/u/8410750?v=4", "login": "COMBINE-lab", "type": "Organization"}
 topics: ["quasi-mapping", "bioinformatics", "rna-seq", "rnaseq", "salmon", "quantification", "sailfish", "c-plus-plus", "gene-expression", "scrna-seq", "single-cell", "10x", "selective-alignment", "rna-seq-quantification", "single-cell-rna-seq", "transcriptome"]
-date: "2026-01-17 14:30:01.331868"
+date: "2026-01-24 14:30:57.853915"
 ---

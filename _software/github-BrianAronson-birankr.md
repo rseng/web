@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-12 00:26:29.717920"
 avatar: "https://avatars0.githubusercontent.com/u/6536984?v=4"
 repo_url: "https://github.com/BrianAronson/birankr"
-date: "2026-01-17 14:30:01.001089"
+date: "2026-01-24 14:30:57.627525"
 ---

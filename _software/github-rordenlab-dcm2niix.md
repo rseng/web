@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 38
 owner: {"html_url": "https://github.com/rordenlab", "avatar_url": "https://avatars.githubusercontent.com/u/22748159?v=4", "login": "rordenlab", "type": "Organization"}
 topics: ["dicom", "nifti", "mri", "mri-images", "research", "neuroscience", "neuroimaging", "jpeg-image", "jpeg", "dicom-images", "dcm", "nii", "gz", "nitrc", "dcm2niix", "mricrogl", "bids-format", "nifti-format"]
-date: "2026-01-17 14:30:02.121163"
+date: "2026-01-24 14:30:58.385037"
 ---

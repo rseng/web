@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/andr1976", "avatar_url": "https://avatars.githubusercontent.com/u/58475535?v=4", "login": "andr1976", "type": "User"}
 topics: ["heat-transfer", "coolprop", "pressure", "gas-phase", "relief-valve", "blow-down", "depressurisation", "python", "thermodynamics"]
-date: "2026-01-17 14:30:01.249163"
+date: "2026-01-24 14:30:57.797232"
 ---

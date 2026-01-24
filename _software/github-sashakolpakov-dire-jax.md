@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 3
 owner: {"html_url": "https://github.com/sashakolpakov", "avatar_url": "https://avatars.githubusercontent.com/u/5302373?v=4", "login": "sashakolpakov", "type": "User"}
 topics: ["data-science", "data-visualization", "dimensionality-reduction", "embeddings", "jax", "machine-learning"]
-date: "2026-01-17 14:30:00.834762"
+date: "2026-01-24 14:30:57.513166"
 ---

@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ReSurfEMG", "avatar_url": "https://avatars.githubusercontent.com/u/107040410?v=4", "login": "ReSurfEMG", "type": "User"}
 topics: ["electromyogram", "electromyography", "healthcare-analysis"]
-date: "2026-01-17 14:30:00.892878"
+date: "2026-01-24 14:30:57.552906"
 ---

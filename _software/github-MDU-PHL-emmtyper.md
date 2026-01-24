@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/MDU-PHL", "avatar_url": "https://avatars.githubusercontent.com/u/11035838?v=4", "login": "MDU-PHL", "type": "Organization"}
 topics: ["bioinformatics", "streptococcus-pyogenes", "emm-typing", "genotyping", "genome-annotation"]
-date: "2026-01-17 14:30:01.111819"
+date: "2026-01-24 14:30:57.703122"
 ---

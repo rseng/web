@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 98
 owner: {"html_url": "https://github.com/erikbern", "avatar_url": "https://avatars2.githubusercontent.com/u/1027979?v=4", "login": "erikbern", "type": "User"}
 topics: ["nearest-neighbors", "benchmark", "docker"]
-date: "2026-01-17 14:30:01.052631"
+date: "2026-01-24 14:30:57.662621"
 ---

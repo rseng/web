@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 4
 subscribers_count: 4
 owner: {"html_url": "https://github.com/AarhusCosmology", "avatar_url": "https://avatars.githubusercontent.com/u/61975979?v=4", "login": "AarhusCosmology", "type": "Organization"}
-date: "2026-01-17 14:30:00.867281"
+date: "2026-01-24 14:30:57.535350"
 ---

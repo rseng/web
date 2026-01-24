@@ -22,5 +22,5 @@ language: "C"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/devries", "avatar_url": "https://avatars.githubusercontent.com/u/1096938?v=4", "login": "devries", "type": "User"}
 topics: ["radiative-transfer", "c", "star-formation", "interstellar-medium"]
-date: "2026-01-17 14:30:01.723861"
+date: "2026-01-24 14:30:58.119369"
 ---

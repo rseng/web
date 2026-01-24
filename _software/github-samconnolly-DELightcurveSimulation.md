@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 6
 subscribers_count: 5
 owner: {"html_url": "https://github.com/samconnolly", "avatar_url": "https://avatars.githubusercontent.com/u/5765263?v=4", "login": "samconnolly", "type": "User"}
-date: "2026-01-17 14:30:02.040064"
+date: "2026-01-24 14:30:58.330659"
 ---

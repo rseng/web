@@ -24,5 +24,5 @@ license: {"key": "cecill-2.1", "name": "CeCILL Free Software License Agreement v
 subscribers_count: 5
 owner: {"html_url": "https://github.com/Shamrock-code", "avatar_url": "https://avatars.githubusercontent.com/u/120786926?v=4", "login": "Shamrock-code", "type": "Organization"}
 topics: ["amr", "astrophysics", "mpi", "multi-gpu", "sph", "sycl", "adaptivecpp", "oneapi", "phantom", "ramses", "zeus", "fluid-simulation-engine", "fluid-dynamics", "exascale"]
-date: "2026-01-17 14:30:01.866344"
+date: "2026-01-24 14:30:58.214452"
 ---

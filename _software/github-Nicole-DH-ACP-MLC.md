@@ -17,5 +17,5 @@ size: 1065
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Nicole-DH", "avatar_url": "https://avatars.githubusercontent.com/u/58495382?v=4", "login": "Nicole-DH", "type": "User"}
 topics: ["anticancer-peptides", "machine-learning", "multilabel-classification", "sequence-analysis"]
-date: "2026-01-17 14:30:01.357083"
+date: "2026-01-24 14:30:57.871387"
 ---

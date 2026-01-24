@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/AstraZeneca", "avatar_url": "https://avatars.githubusercontent.com/u/16338928?v=4", "login": "AstraZeneca", "type": "Organization"}
 topics: ["chemistry", "computational-chemistry", "machinelearning", "quantum-chemistry"]
-date: "2026-01-17 14:30:01.224967"
+date: "2026-01-24 14:30:57.780654"
 ---

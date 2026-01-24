@@ -20,5 +20,5 @@ language: "JavaScript"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/GenomiqueENS", "avatar_url": "https://avatars.githubusercontent.com/u/7766622?v=4", "login": "GenomiqueENS", "type": "Organization"}
-date: "2026-01-17 14:30:01.910339"
+date: "2026-01-24 14:30:58.243690"
 ---

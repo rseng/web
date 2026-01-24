@@ -22,5 +22,5 @@ language: "Python"
 open_issues_count: 1
 owner: {"html_url": "https://github.com/jpierel14", "avatar_url": "https://avatars.githubusercontent.com/u/22748184?v=4", "login": "jpierel14", "type": "User"}
 topics: ["cosmology", "gravitational-lensing", "supernova"]
-date: "2026-01-17 14:30:01.536015"
+date: "2026-01-24 14:30:57.993783"
 ---

@@ -24,5 +24,5 @@ topics: ["quantum-mechanics", "science", "bioinformatics", "chemistry", "automat
 timestamp: "2020-07-05 00:17:19.084836"
 avatar: "https://avatars2.githubusercontent.com/u/17591901?v=4"
 repo_url: "https://github.com/SCM-NV/qmflows"
-date: "2026-01-17 14:30:02.211412"
+date: "2026-01-24 14:30:58.445164"
 ---

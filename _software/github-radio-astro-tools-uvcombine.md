@@ -22,5 +22,5 @@ language: "Python"
 open_issues_count: 10
 subscribers_count: 12
 owner: {"html_url": "https://github.com/radio-astro-tools", "avatar_url": "https://avatars.githubusercontent.com/u/7228695?v=4", "login": "radio-astro-tools", "type": "Organization"}
-date: "2026-01-17 14:30:02.231225"
+date: "2026-01-24 14:30:58.458355"
 ---

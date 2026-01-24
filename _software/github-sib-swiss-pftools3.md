@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/sib-swiss", "avatar_url": "https://avatars.githubusercontent.com/u/17580039?v=4", "login": "sib-swiss", "type": "Organization"}
 topics: ["profile", "protein-domains", "motif", "sequence-analysis"]
-date: "2026-01-17 14:30:00.965353"
+date: "2026-01-24 14:30:57.602703"
 ---

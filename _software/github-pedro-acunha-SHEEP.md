@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/pedro-acunha", "avatar_url": "https://avatars.githubusercontent.com/u/53006840?v=4", "login": "pedro-acunha", "type": "User"}
 topics: ["astronomy", "astronomy-software", "classification", "machine-learning", "photometric-redshifts", "photometry"]
-date: "2026-01-17 14:30:01.081085"
+date: "2026-01-24 14:30:57.681953"
 ---

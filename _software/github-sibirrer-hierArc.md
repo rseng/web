@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/sibirrer", "avatar_url": "https://avatars.githubusercontent.com/u/6814174?v=4", "login": "sibirrer", "type": "User"}
 topics: ["lenstronomy", "cosmology"]
-date: "2026-01-17 14:30:01.803215"
+date: "2026-01-24 14:30:58.172235"
 ---

@@ -23,5 +23,5 @@ readme_url: "https://gitlab.com/multigris/mgris/-/blob/master/README.org"
 avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/34419388/multigris_small.png"
 last_activity_at: "2022-07-22T14:19:20.697Z"
 namespace: {"id": 16948687, "name": "MULTIGRIS", "path": "multigris", "kind": "group", "full_path": "multigris", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/16948687/multigris_small.png", "web_url": "https://gitlab.com/groups/multigris"}
-date: "2026-01-17 14:30:00.640956"
+date: "2026-01-24 14:30:57.381294"
 ---

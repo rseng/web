@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 11
 owner: {"html_url": "https://github.com/fedbiomed", "avatar_url": "https://avatars.githubusercontent.com/u/131657914?v=4", "login": "fedbiomed", "type": "Organization"}
 topics: ["ai", "biomedical", "clinical", "federated", "learning", "analytics", "collaborative", "healthcare", "multicentric"]
-date: "2026-01-17 14:30:01.125352"
+date: "2026-01-24 14:30:57.712512"
 ---

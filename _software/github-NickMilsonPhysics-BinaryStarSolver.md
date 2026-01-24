@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/NickMilsonPhysics", "avatar_url": "https://avatars.githubusercontent.com/u/71746058?v=4", "login": "NickMilsonPhysics", "type": "Organization"}
 topics: ["astronomy", "binary-stars", "radial-velocity", "rv", "orbit"]
-date: "2026-01-17 14:30:01.910591"
+date: "2026-01-24 14:30:58.243870"
 ---

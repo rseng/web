@@ -22,5 +22,5 @@ open_issues_count: 6
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/fwhigh", "avatar_url": "https://avatars.githubusercontent.com/u/3476531?v=4", "login": "fwhigh", "type": "User"}
-date: "2026-01-17 14:30:01.104998"
+date: "2026-01-24 14:30:57.698366"
 ---

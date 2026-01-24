@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/evanhockings", "avatar_url": "https://avatars.githubusercontent.com/u/9377288?v=4", "login": "evanhockings", "type": "User"}
 topics: ["julia", "quantum", "quantum-computing", "quantum-error-correction"]
-date: "2026-01-17 14:30:01.738354"
+date: "2026-01-24 14:30:58.129046"
 ---

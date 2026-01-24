@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/wdecoster", "avatar_url": "https://avatars.githubusercontent.com/u/11660522?v=4", "login": "wdecoster", "type": "User"}
-date: "2026-01-17 14:30:00.936532"
+date: "2026-01-24 14:30:57.582816"
 ---
