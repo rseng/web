@@ -22,5 +22,5 @@ open_issues_count: 189
 subscribers_count: 42
 owner: {"html_url": "https://github.com/tseemann", "avatar_url": "https://avatars.githubusercontent.com/u/453972?v=4", "login": "tseemann", "type": "User"}
 topics: ["genome-annotation", "functional-assignment", "bacterial-genomes", "gene-finding"]
-date: "2026-01-24 14:30:58.186161"
+date: "2026-01-31 14:36:40.399665"
 ---

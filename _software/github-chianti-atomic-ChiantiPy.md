@@ -22,5 +22,5 @@ open_issues_count: 29
 subscribers_count: 7
 owner: {"html_url": "https://github.com/chianti-atomic", "avatar_url": "https://avatars.githubusercontent.com/u/8628468?v=4", "login": "chianti-atomic", "type": "Organization"}
 topics: ["python", "chianti-atomic-database", "chianti", "spectroscopy", "astrophysics"]
-date: "2026-01-24 14:30:58.197144"
+date: "2026-01-31 14:36:40.415731"
 ---

@@ -22,5 +22,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 9
 owner: {"html_url": "https://github.com/SMTG-Bham", "avatar_url": "https://avatars.githubusercontent.com/u/14860406?v=4", "login": "SMTG-Bham", "type": "Organization"}
 topics: ["thermoelectric", "chemistry", "physics", "materials", "science", "materials-science", "plotting", "tp", "matplotlib", "python", "computational-chemistry", "computational-materials-science"]
-date: "2026-01-24 14:30:57.555397"
+date: "2026-01-31 14:36:39.464526"
 ---

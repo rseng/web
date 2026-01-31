@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 5
 owner: {"html_url": "https://github.com/openmopac", "avatar_url": "https://avatars.githubusercontent.com/u/83091952?v=4", "login": "openmopac", "type": "Organization"}
 topics: ["quantum-chemistry", "electronic-structure", "molecular-orbital-theory", "semiempirical-methods"]
-date: "2026-01-24 14:30:58.062650"
+date: "2026-01-31 14:36:40.214028"
 ---

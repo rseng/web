@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/bradkav", "avatar_url": "https://avatars.githubusercontent.com/u/5381472?v=4", "login": "bradkav", "type": "User"}
 topics: ["dark-matter", "physics", "particle-physics"]
-date: "2026-01-24 14:30:58.327540"
+date: "2026-01-31 14:36:40.609361"
 ---

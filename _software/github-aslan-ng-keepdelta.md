@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/aslan-ng", "avatar_url": "https://avatars.githubusercontent.com/u/42834665?v=4", "login": "aslan-ng", "type": "User"}
 topics: ["data-structures", "delta-compression", "delta-encoding", "python", "sensing", "simulation", "change-tracking", "diff", "data-differencing", "differential-compression", "human-readable", "nested", "reconstruction", "keepdelta", "recursive"]
-date: "2026-01-24 14:30:58.505402"
+date: "2026-01-31 14:36:40.873878"
 ---

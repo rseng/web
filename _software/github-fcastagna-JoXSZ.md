@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/fcastagna", "avatar_url": "https://avatars.githubusercontent.com/u/44572424?v=4", "login": "fcastagna", "type": "User"}
 topics: ["python", "astrostatistics", "mcmc", "galaxy-clusters"]
-date: "2026-01-24 14:30:57.533335"
+date: "2026-01-31 14:36:39.430886"
 ---

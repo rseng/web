@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/exoplanet-dev", "avatar_url": "https://avatars.githubusercontent.com/u/60150744?v=4", "login": "exoplanet-dev", "type": "Organization"}
 topics: ["astronomy", "astrophysics", "bayesian-inference", "exoplanets", "jax", "python", "time-series"]
-date: "2026-01-24 14:30:58.010970"
+date: "2026-01-31 14:36:40.136742"
 ---

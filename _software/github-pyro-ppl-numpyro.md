@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 50
 owner: {"html_url": "https://github.com/pyro-ppl", "avatar_url": "https://avatars.githubusercontent.com/u/46794900?v=4", "login": "pyro-ppl", "type": "Organization"}
 topics: ["pyro", "jax", "hmc", "inference-algorithms", "numpy", "bayesian-inference", "probabilistic-programming", "mcmc"]
-date: "2026-01-24 14:30:58.483318"
+date: "2026-01-31 14:36:40.839798"
 ---

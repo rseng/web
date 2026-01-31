@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/circuitgraph", "avatar_url": "https://avatars1.githubusercontent.com/u/68197630?v=4", "login": "circuitgraph", "type": "Organization"}
 topics: ["python", "boolean-circuits", "satisfiability", "netlist", "graphs", "eda"]
-date: "2026-01-24 14:30:58.537614"
+date: "2026-01-31 14:36:40.920561"
 ---

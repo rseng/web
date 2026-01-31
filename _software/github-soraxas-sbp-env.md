@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/soraxas", "avatar_url": "https://avatars.githubusercontent.com/u/22362177?v=4", "login": "soraxas", "type": "User"}
 topics: ["pathfinding", "robotics", "rrdt", "rrt", "rrt-star", "motion-planning"]
-date: "2026-01-24 14:30:57.410331"
+date: "2026-01-31 14:36:39.248411"
 ---

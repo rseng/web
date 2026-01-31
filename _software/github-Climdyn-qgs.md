@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Climdyn", "avatar_url": "https://avatars0.githubusercontent.com/u/17494336?v=4", "login": "Climdyn", "type": "Organization"}
 topics: ["atmospheric-models", "python", "anaconda", "meteorology", "climate-variability", "numba", "ocean-atmosphere-model"]
-date: "2026-01-24 14:30:58.257768"
+date: "2026-01-31 14:36:40.506025"
 ---

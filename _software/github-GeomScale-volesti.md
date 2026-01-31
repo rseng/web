@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 11
 owner: {"html_url": "https://github.com/GeomScale", "avatar_url": "https://avatars.githubusercontent.com/u/46485370?v=4", "login": "GeomScale", "type": "Organization"}
 topics: ["geometry", "statistics", "polyhedral-computations", "random-walk", "sampling", "volume", "hit-and-run", "polytope", "cran", "finance", "monte-carlo", "scientific-computing"]
-date: "2026-01-24 14:30:58.220566"
+date: "2026-01-31 14:36:40.449781"
 ---

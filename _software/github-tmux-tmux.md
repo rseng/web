@@ -22,5 +22,5 @@ open_issues_count: 26
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 428
 owner: {"html_url": "https://github.com/tmux", "avatar_url": "https://avatars.githubusercontent.com/u/12054114?v=4", "login": "tmux", "type": "Organization"}
-date: "2026-01-24 14:30:57.958099"
+date: "2026-01-31 14:36:40.058180"
 ---

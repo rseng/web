@@ -20,5 +20,5 @@ language: "C"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/morisUtokyo", "avatar_url": "https://avatars.githubusercontent.com/u/30250204?v=4", "login": "morisUtokyo", "type": "User"}
-date: "2026-01-24 14:30:58.470219"
+date: "2026-01-31 14:36:40.820535"
 ---

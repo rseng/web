@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/jiwoncpark", "avatar_url": "https://avatars.githubusercontent.com/u/15166916?v=4", "login": "jiwoncpark", "type": "User"}
 topics: ["lenstronomy", "bayesian-neural-networks", "hierarchical-bayesian-analysis", "strong-lensing"]
-date: "2026-01-24 14:30:58.146095"
+date: "2026-01-31 14:36:40.336849"
 ---

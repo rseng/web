@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 20
 owner: {"html_url": "https://github.com/pyamg", "avatar_url": "https://avatars.githubusercontent.com/u/4763879?v=4", "login": "pyamg", "type": "Organization"}
 topics: ["amg", "solver", "python", "multigrid", "sparse-matrix", "pyamg", "conda", "krylov"]
-date: "2026-01-24 14:30:58.037972"
+date: "2026-01-31 14:36:40.178155"
 ---

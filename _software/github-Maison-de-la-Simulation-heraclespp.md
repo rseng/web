@@ -22,5 +22,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Maison-de-la-Simulation", "avatar_url": "https://avatars.githubusercontent.com/u/60662067?v=4", "login": "Maison-de-la-Simulation", "type": "Organization"}
-date: "2026-01-24 14:30:58.039774"
+date: "2026-01-31 14:36:40.180834"
 ---

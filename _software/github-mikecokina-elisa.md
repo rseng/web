@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/mikecokina", "avatar_url": "https://avatars.githubusercontent.com/u/23422027?v=4", "login": "mikecokina", "type": "User"}
 topics: ["eclipsing-binaries", "astronomy", "analysis", "modeling", "physic"]
-date: "2026-01-24 14:30:58.204886"
+date: "2026-01-31 14:36:40.427008"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/watts-dev", "avatar_url": "https://avatars.githubusercontent.com/u/97905312?v=4", "login": "watts-dev", "type": "Organization"}
 topics: ["python", "simulation", "templates", "nuclear-energy"]
-date: "2026-01-24 14:30:57.753891"
+date: "2026-01-31 14:36:39.756503"
 ---

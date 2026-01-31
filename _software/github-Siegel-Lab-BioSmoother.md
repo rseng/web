@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Siegel-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/124569893?v=4", "login": "Siegel-Lab", "type": "Organization"}
 topics: ["bioinformatics", "data-visualization", "hi-c", "interactome-sequencing", "radicl-seq", "grid-seq"]
-date: "2026-01-24 14:30:57.675101"
+date: "2026-01-31 14:36:39.639854"
 ---

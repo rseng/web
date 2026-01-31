@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/canorve", "avatar_url": "https://avatars.githubusercontent.com/u/3579189?v=4", "login": "canorve", "type": "User"}
 topics: ["galfit", "surface-brightness", "galaxy"]
-date: "2026-01-24 14:30:58.331467"
+date: "2026-01-31 14:36:40.615073"
 ---

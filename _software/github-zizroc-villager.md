@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/zizroc", "avatar_url": "https://avatars.githubusercontent.com/u/38635903?v=4", "login": "zizroc", "type": "User"}
 topics: ["simulation", "abm", "agent-based-modeling"]
-date: "2026-01-24 14:30:57.522032"
+date: "2026-01-31 14:36:39.414491"
 ---

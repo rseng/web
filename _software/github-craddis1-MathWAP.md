@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/craddis1", "avatar_url": "https://avatars.githubusercontent.com/u/67746749?v=4", "login": "craddis1", "type": "User"}
 topics: ["bispectrum", "cosmology", "peturbation-theory", "powerspectrum"]
-date: "2026-01-24 14:30:57.499226"
+date: "2026-01-31 14:36:39.381289"
 ---

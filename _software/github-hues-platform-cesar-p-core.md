@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/hues-platform", "avatar_url": "https://avatars.githubusercontent.com/u/22130502?v=4", "login": "hues-platform", "type": "Organization"}
-date: "2026-01-24 14:30:58.131900"
+date: "2026-01-31 14:36:40.316123"
 ---

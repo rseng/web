@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/NERDSITU", "avatar_url": "https://avatars.githubusercontent.com/u/95076718?v=4", "login": "NERDSITU", "type": "Organization"}
 topics: ["superblocks", "urban-data-science", "geospatial", "network-analysis", "urban-mobility", "urban-planning", "gis", "osmnx", "transportation-network"]
-date: "2026-01-24 14:30:57.771595"
+date: "2026-01-31 14:36:39.783928"
 ---

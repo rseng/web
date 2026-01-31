@@ -21,5 +21,5 @@ web_url: "https://gitlab.com/mcfrith/tantan"
 readme_url: "https://gitlab.com/mcfrith/tantan/-/blob/main/README.rst"
 last_activity_at: "2022-06-10T00:10:48.673Z"
 namespace: {"id": 744022, "name": "Martin Frith", "path": "mcfrith", "kind": "user", "full_path": "mcfrith", "parent_id": null, "avatar_url": "https://secure.gravatar.com/avatar/c3fbdbb8e0bf1cd10256495e870fce10?s=80&d=identicon", "web_url": "https://gitlab.com/mcfrith"}
-date: "2026-01-24 14:30:57.381601"
+date: "2026-01-31 14:36:39.206619"
 ---
