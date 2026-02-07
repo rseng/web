@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/WMD-group", "avatar_url": "https://avatars.githubusercontent.com/u/1716969?v=4", "login": "WMD-group", "type": "Organization"}
 topics: ["defects", "semiconductors", "electronic-structure", "materials-design", "solar-cells"]
-date: "2026-01-31 14:36:40.781941"
+date: "2026-02-07 14:38:53.426156"
 ---

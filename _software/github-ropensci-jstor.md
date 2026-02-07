@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 17
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["jstor", "text-analysis", "text-mining", "r", "peer-reviewed", "r-package", "rstats", "literature"]
-date: "2026-01-31 14:36:39.268111"
+date: "2026-02-07 14:38:51.960461"
 ---

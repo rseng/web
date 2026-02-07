@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mantzaris", "avatar_url": "https://avatars.githubusercontent.com/u/11978807?v=4", "login": "mantzaris", "type": "User"}
 topics: ["approximate-nearest-neighbor-search", "diskann", "julia", "julialang", "vector-database"]
-date: "2026-01-31 14:36:39.749785"
+date: "2026-02-07 14:38:52.430911"
 ---

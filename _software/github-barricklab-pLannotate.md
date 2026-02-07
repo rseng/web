@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 9
 owner: {"html_url": "https://github.com/barricklab", "avatar_url": "https://avatars.githubusercontent.com/u/11457754?v=4", "login": "barricklab", "type": "Organization"}
 topics: ["plasmid-annotation", "webserver"]
-date: "2026-01-31 14:36:39.425078"
+date: "2026-02-07 14:38:52.114123"
 ---

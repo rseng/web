@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/dkirkby", "avatar_url": "https://avatars.githubusercontent.com/u/185007?v=4", "login": "dkirkby", "type": "User"}
 topics: ["cosmology", "machine-learning", "gaussian-processes"]
-date: "2026-01-31 14:36:40.220124"
+date: "2026-02-07 14:38:52.885787"
 ---

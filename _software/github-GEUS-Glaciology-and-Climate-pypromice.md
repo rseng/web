@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/GEUS-Glaciology-and-Climate", "avatar_url": "https://avatars.githubusercontent.com/u/71171316?v=4", "login": "GEUS-Glaciology-and-Climate", "type": "Organization"}
 topics: ["greenland", "weather", "weather-station"]
-date: "2026-01-31 14:36:40.261504"
+date: "2026-02-07 14:38:52.926037"
 ---

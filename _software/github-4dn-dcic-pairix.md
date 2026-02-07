@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/4dn-dcic", "avatar_url": "https://avatars.githubusercontent.com/u/23222469?v=4", "login": "4dn-dcic", "type": "Organization"}
 topics: ["hi-c", "random-access", "bgzip", "bioinformatics", "c", "python", "pypairix", "pairs"]
-date: "2026-01-31 14:36:40.431836"
+date: "2026-02-07 14:38:53.088714"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/furrer-lab", "avatar_url": "https://avatars.githubusercontent.com/u/151543411?v=4", "login": "furrer-lab", "type": "Organization"}
 topics: ["bayesian-network", "binomial", "categorical-data", "gaussian", "grouped-datasets", "mixed-effects", "multinomial", "multivariate", "poisson", "structure-learning"]
-date: "2026-01-31 14:36:40.822618"
+date: "2026-02-07 14:38:53.466375"
 ---

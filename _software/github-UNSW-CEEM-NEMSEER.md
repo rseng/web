@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/UNSW-CEEM", "avatar_url": "https://avatars.githubusercontent.com/u/33536784?v=4", "login": "UNSW-CEEM", "type": "Organization"}
 topics: ["energy", "python", "aemo", "pasa", "forecast", "national-electricity-market", "nem", "pre-dispatch", "australia", "nemweb"]
-date: "2026-01-31 14:36:40.105718"
+date: "2026-02-07 14:38:52.774468"
 ---

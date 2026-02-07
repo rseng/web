@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/stegmaja", "avatar_url": "https://avatars.githubusercontent.com/u/58080521?v=4", "login": "stegmaja", "type": "User"}
 topics: ["astrophysics", "black-holes", "dynamics", "gravitational-waves", "stellar-evolution", "three-body-problem", "three-body-simulation", "lidov-kozai"]
-date: "2026-01-31 14:36:39.252521"
+date: "2026-02-07 14:38:51.946897"
 ---

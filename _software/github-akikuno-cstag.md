@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/akikuno", "avatar_url": "https://avatars.githubusercontent.com/u/15861316?v=4", "login": "akikuno", "type": "User"}
 topics: ["bioinformatics", "python", "sequence", "minimap2", "sam", "cstag"]
-date: "2026-01-31 14:36:40.449541"
+date: "2026-02-07 14:38:53.106516"
 ---

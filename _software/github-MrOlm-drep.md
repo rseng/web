@@ -22,5 +22,5 @@ open_issues_count: 6
 subscribers_count: 6
 owner: {"html_url": "https://github.com/MrOlm", "avatar_url": "https://avatars.githubusercontent.com/u/13424205?v=4", "login": "MrOlm", "type": "User"}
 topics: ["bioinformatics", "metagenomics", "microbiology", "assembly", "microbial-genomes"]
-date: "2026-01-31 14:36:40.335161"
+date: "2026-02-07 14:38:52.997528"
 ---

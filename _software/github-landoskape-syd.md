@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/landoskape", "avatar_url": "https://avatars.githubusercontent.com/u/17303166?v=4", "login": "landoskape", "type": "User"}
 topics: ["data-science", "data-visualization", "flask", "gui", "interactive-visualizations", "matplotlib", "python"]
-date: "2026-01-31 14:36:40.878467"
+date: "2026-02-07 14:38:53.519160"
 ---

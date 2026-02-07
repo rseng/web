@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/easystats", "avatar_url": "https://avatars1.githubusercontent.com/u/47102598?v=4", "login": "easystats", "type": "Organization"}
 topics: ["pvalues", "parameters", "beta", "ci", "confidence-intervals", "r", "easystats", "bootsrap", "standardize", "pca", "feature", "fa"]
-date: "2026-01-31 14:36:39.452316"
+date: "2026-02-07 14:38:52.140990"
 ---

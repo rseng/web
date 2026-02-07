@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jbytecode", "avatar_url": "https://avatars1.githubusercontent.com/u/8011702?v=4", "login": "jbytecode", "type": "User"}
 topics: ["outliers-detection", "linear-regression", "robust-statistics"]
-date: "2026-01-31 14:36:39.709027"
+date: "2026-02-07 14:38:52.390911"
 ---

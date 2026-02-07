@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/pkestene", "avatar_url": "https://avatars.githubusercontent.com/u/8276295?v=4", "login": "pkestene", "type": "User"}
 topics: ["cuda", "gpu", "gpu-acceleration", "gpgpu", "mhd", "cfd", "hydrodynamics", "finite-volume", "parallel-computing", "hpc", "astrophysics", "kelvin-helmholtz-instability", "hdf5", "pnetcdf", "turbulence", "shearing-box", "muscl-hancock", "conservation-law", "euler-equations", "rayleigh-taylor"]
-date: "2026-01-31 14:36:40.817225"
+date: "2026-02-07 14:38:53.460996"
 ---

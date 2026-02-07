@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 19
 owner: {"html_url": "https://github.com/biobakery", "avatar_url": "https://avatars.githubusercontent.com/u/18152373?v=4", "login": "biobakery", "type": "Organization"}
 topics: ["public", "tools", "biobakery", "python", "metagenomics"]
-date: "2026-01-31 14:36:39.548057"
+date: "2026-02-07 14:38:52.234127"
 ---

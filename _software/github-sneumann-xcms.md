@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 21
 owner: {"html_url": "https://github.com/sneumann", "avatar_url": "https://avatars.githubusercontent.com/u/195385?v=4", "login": "sneumann", "type": "User"}
 topics: ["bioconductor", "metabolomics", "mass-spectrometry", "peak-detection", "feature-detection", "r"]
-date: "2026-01-31 14:36:39.370945"
+date: "2026-02-07 14:38:52.060586"
 ---

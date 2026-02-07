@@ -21,5 +21,5 @@ open_issues_count: 93
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 24
 owner: {"html_url": "https://github.com/fitbenchmarking", "avatar_url": "https://avatars.githubusercontent.com/u/49585251?v=4", "login": "fitbenchmarking", "type": "Organization"}
-date: "2026-01-31 14:36:40.046778"
+date: "2026-02-07 14:38:52.718070"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/2decomp-fft", "avatar_url": "https://avatars.githubusercontent.com/u/110181849?v=4", "login": "2decomp-fft", "type": "Organization"}
 topics: ["fast-fourier-transform", "finite-difference-method", "pencil-decomposition"]
-date: "2026-01-31 14:36:40.193901"
+date: "2026-02-07 14:38:52.859903"
 ---

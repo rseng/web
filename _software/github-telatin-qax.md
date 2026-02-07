@@ -17,5 +17,5 @@ language: "Nim"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/telatin", "avatar_url": "https://avatars0.githubusercontent.com/u/15690844?v=4", "login": "telatin", "type": "User"}
-date: "2026-01-31 14:36:40.946872"
+date: "2026-02-07 14:38:53.586330"
 ---

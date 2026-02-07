@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/riatelab", "avatar_url": "https://avatars.githubusercontent.com/u/17590565?v=4", "login": "riatelab", "type": "Organization"}
 topics: ["osrm", "travel", "openstreetmap", "r", "cran", "shortest-paths", "r-package"]
-date: "2026-01-31 14:36:40.018202"
+date: "2026-02-07 14:38:52.689596"
 ---

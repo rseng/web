@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/mkunimoto", "avatar_url": "https://avatars.githubusercontent.com/u/33587249?v=4", "login": "mkunimoto", "type": "User"}
-date: "2026-01-31 14:36:40.207006"
+date: "2026-02-07 14:38:52.872873"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["polyhedra-database", "geometry", "rgl", "data-extraction"]
-date: "2026-01-31 14:36:39.317025"
+date: "2026-02-07 14:38:52.008945"
 ---
