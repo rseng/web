@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/tscnlab", "avatar_url": "https://avatars.githubusercontent.com/u/78920096?v=4", "login": "tscnlab", "type": "Organization"}
 topics: ["dosimetry", "light", "rstats-package", "time-series-analysis", "wearable-devices", "wearable-sensors"]
-date: "2026-02-07 14:38:52.980766"
+date: "2026-02-14 14:39:13.487014"
 ---

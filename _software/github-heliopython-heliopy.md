@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 9
 owner: {"html_url": "https://github.com/heliopython", "avatar_url": "https://avatars.githubusercontent.com/u/24206439?v=4", "login": "heliopython", "type": "Organization"}
 topics: ["space-physics", "python", "physics"]
-date: "2026-02-07 14:38:52.145610"
+date: "2026-02-14 14:39:14.289923"
 ---

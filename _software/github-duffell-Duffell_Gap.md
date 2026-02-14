@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/duffell/Duffell_Gap"
+url: "https://github.com/duffell/Duffell_Gap"
+timestamp: "2026-02-08 01:26:03.767466"
+description: "A 1D Model for the Shape of Planet-Induced Gaps in Protoplanetary Disks"
+avatar: "https://avatars.githubusercontent.com/u/9011517?v=4"
+repo_url: "https://github.com/duffell/Duffell_Gap"
+doi: ["https://scixplorer.org/abs/2020ApJ...889...16D", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft01015D/abstract"]
+title: "Duffell_Gap: 1D model for planet-induced gaps in protoplanetary disks"
+name: "Duffell_Gap"
+full_name: "duffell/Duffell_Gap"
+html_url: "https://github.com/duffell/Duffell_Gap"
+created_at: "2019-05-13T19:54:28Z"
+updated_at: "2023-08-22T08:15:07Z"
+clone_url: "https://github.com/duffell/Duffell_Gap.git"
+size: 7
+stargazers_count: 2
+watchers_count: 2
+language: "Python"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/duffell", "avatar_url": "https://avatars.githubusercontent.com/u/9011517?v=4", "login": "duffell", "type": "User"}
+date: "2026-02-14 14:39:13.626389"
+---

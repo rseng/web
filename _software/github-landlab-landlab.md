@@ -22,5 +22,5 @@ open_issues_count: 259
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 26
 owner: {"html_url": "https://github.com/landlab", "avatar_url": "https://avatars1.githubusercontent.com/u/7543483?v=4", "login": "landlab", "type": "Organization"}
-date: "2026-02-07 14:38:52.386384"
+date: "2026-02-14 14:39:13.800009"
 ---

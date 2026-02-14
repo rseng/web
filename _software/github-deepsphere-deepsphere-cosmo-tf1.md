@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 16
 owner: {"html_url": "https://github.com/deepsphere", "avatar_url": "https://avatars.githubusercontent.com/u/39727223?v=4", "login": "deepsphere", "type": "Organization"}
 topics: ["graph-neural-networks", "deep-learning", "cosmology", "spherical-harmonics", "sphere", "tensorflow", "deepsphere"]
-date: "2026-02-07 14:38:52.882395"
+date: "2026-02-14 14:39:13.784780"
 ---

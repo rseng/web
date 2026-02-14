@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Trovemaster", "avatar_url": "https://avatars.githubusercontent.com/u/12001159?v=4", "login": "Trovemaster", "type": "User"}
 topics: ["physics", "spectroscopy", "molecules"]
-date: "2026-02-07 14:38:53.301549"
+date: "2026-02-14 14:39:14.149611"
 ---

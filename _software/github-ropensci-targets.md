@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 11
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars3.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["reproducibility", "high-performance-computing", "r", "data-science", "pipeline", "rstats", "r-package", "workflow", "targets", "reproducible-research", "make", "r-targetopia", "peer-reviewed"]
-date: "2026-02-07 14:38:52.002875"
+date: "2026-02-14 14:39:12.747465"
 ---

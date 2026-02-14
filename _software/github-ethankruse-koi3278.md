@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ethankruse", "avatar_url": "https://avatars.githubusercontent.com/u/6944089?v=4", "login": "ethankruse", "type": "User"}
 topics: ["astronomy", "science"]
-date: "2026-02-07 14:38:53.052432"
+date: "2026-02-14 14:39:12.834520"
 ---

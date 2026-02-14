@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/bloch-labs/bloch"
+url: "https://github.com/bloch-labs/bloch"
+timestamp: "2026-02-08 01:26:43.021730"
+description: "The Bloch Quantum Programming Language"
+avatar: "https://avatars.githubusercontent.com/u/225359926?v=4"
+repo_url: "https://github.com/bloch-labs/bloch"
+doi: "https://doi.org/10.5281/zenodo.18407424"
+name: "bloch"
+full_name: "bloch-labs/bloch"
+html_url: "https://github.com/bloch-labs/bloch"
+created_at: "2025-06-29T18:28:50Z"
+updated_at: "2026-02-02T23:37:16Z"
+clone_url: "https://github.com/bloch-labs/bloch.git"
+homepage: "https://bloch-labs.com"
+size: 1226
+stargazers_count: 16
+watchers_count: 16
+language: "C++"
+open_issues_count: 12
+license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
+owner: {"html_url": "https://github.com/bloch-labs", "avatar_url": "https://avatars.githubusercontent.com/u/225359926?v=4", "login": "bloch-labs", "type": "Organization"}
+topics: ["quantum", "hybrid", "programming-language", "strongly-typed"]
+date: "2026-02-14 14:39:13.134790"
+---

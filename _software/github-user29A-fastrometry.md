@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/user29A", "avatar_url": "https://avatars.githubusercontent.com/u/40668405?v=4", "login": "user29A", "type": "User"}
 topics: ["world-coordinate-solution", "fits", "fits-image", "wcs"]
-date: "2026-02-07 14:38:52.961541"
+date: "2026-02-14 14:39:14.334393"
 ---

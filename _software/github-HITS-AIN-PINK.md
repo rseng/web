@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/HITS-AIN", "avatar_url": "https://avatars.githubusercontent.com/u/40384418?v=4", "login": "HITS-AIN", "type": "Organization"}
 topics: ["kohonen-map", "machine-learning", "astronomical-algorithms", "som", "som-training", "self-organizing-map"]
-date: "2026-02-07 14:38:52.380453"
+date: "2026-02-14 14:39:13.115933"
 ---

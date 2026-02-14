@@ -24,5 +24,5 @@ topics: ["eigenvalues", "linear-algebra", "davidson-eigensolver", "modern-fortra
 timestamp: "2020-07-05 00:17:28.226210"
 avatar: "https://avatars3.githubusercontent.com/u/44467875?v=4"
 repo_url: "https://github.com/NLESC-JCER/Fortran_Davidson"
-date: "2026-02-07 14:38:52.924841"
+date: "2026-02-14 14:39:13.742953"
 ---

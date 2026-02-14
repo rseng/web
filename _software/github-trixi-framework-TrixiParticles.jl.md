@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/trixi-framework", "avatar_url": "https://avatars.githubusercontent.com/u/67895161?v=4", "login": "trixi-framework", "type": "Organization"}
 topics: ["julia", "multiphysics", "simulation", "smoothed-particle-hydrodynamics"]
-date: "2026-02-07 14:38:52.703631"
+date: "2026-02-14 14:39:13.762017"
 ---

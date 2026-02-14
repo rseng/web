@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Robaina", "avatar_url": "https://avatars.githubusercontent.com/u/21340147?v=4", "login": "Robaina", "type": "User"}
 topics: ["bioinformatics", "genomics", "hmmer", "metagenomics", "prokaryotic-genomes", "synteny", "hmm", "python", "synteny-block", "computational-biology"]
-date: "2026-02-07 14:38:52.163321"
+date: "2026-02-14 14:39:13.644194"
 ---

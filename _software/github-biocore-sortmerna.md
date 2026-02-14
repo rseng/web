@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 15
 owner: {"html_url": "https://github.com/biocore", "avatar_url": "https://avatars.githubusercontent.com/u/6241857?v=4", "login": "biocore", "type": "Organization"}
 topics: ["cpp", "python", "alignment", "bioinformatics"]
-date: "2026-02-07 14:38:52.916280"
+date: "2026-02-14 14:39:13.363823"
 ---

@@ -16,5 +16,5 @@ language: "Java"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/etiennepayet", "avatar_url": "https://avatars.githubusercontent.com/u/4244570?v=4", "login": "etiennepayet", "type": "User"}
-date: "2026-02-07 14:38:53.433479"
+date: "2026-02-14 14:39:13.992770"
 ---

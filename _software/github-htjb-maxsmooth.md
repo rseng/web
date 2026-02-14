@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/htjb", "avatar_url": "https://avatars3.githubusercontent.com/u/40355093?v=4", "login": "htjb", "type": "User"}
 topics: ["astrophysics", "science", "maths", "physics", "optimisation", "optimisation-algorithms"]
-date: "2026-02-07 14:38:52.808444"
+date: "2026-02-14 14:39:13.906962"
 ---

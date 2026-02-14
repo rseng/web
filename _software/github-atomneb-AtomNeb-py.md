@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/atomneb", "avatar_url": "https://avatars2.githubusercontent.com/u/23319970?v=4", "login": "atomneb", "type": "Organization"}
 topics: ["atomneb", "chianti-atomic-database", "atomic-datasets", "recombination-lines", "collisionally-excited-lines", "recombination-coefficients"]
-date: "2026-02-07 14:38:53.351313"
+date: "2026-02-14 14:39:13.936786"
 ---

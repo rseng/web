@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/florent-leclercq", "avatar_url": "https://avatars.githubusercontent.com/u/17030569?v=4", "login": "florent-leclercq", "type": "User"}
 topics: ["bayesian-data-analysis", "likelihood-free-inference", "approximate-bayesian-computation", "cosmology", "large-scale-structure", "galaxy-clustering"]
-date: "2026-02-07 14:38:52.922480"
+date: "2026-02-14 14:39:13.636303"
 ---

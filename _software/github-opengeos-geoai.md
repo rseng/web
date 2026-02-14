@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/opengeos/geoai"
+url: "https://github.com/opengeos/geoai"
+timestamp: "2026-02-08 01:26:34.469039"
+description: "GeoAI: Artificial Intelligence for Geospatial Data"
+avatar: "https://avatars.githubusercontent.com/u/129896036?v=4"
+repo_url: "https://github.com/opengeos/geoai"
+doi: "https://doi.org/10.5281/zenodo.18424048"
+name: "geoai"
+full_name: "opengeos/geoai"
+html_url: "https://github.com/opengeos/geoai"
+created_at: "2023-08-11T20:05:04Z"
+updated_at: "2026-02-08T00:48:10Z"
+clone_url: "https://github.com/opengeos/geoai.git"
+homepage: "https://opengeoai.org"
+size: 56033
+stargazers_count: 2454
+watchers_count: 2454
+language: "Python"
+open_issues_count: 15
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 34
+owner: {"html_url": "https://github.com/opengeos", "avatar_url": "https://avatars.githubusercontent.com/u/129896036?v=4", "login": "opengeos", "type": "Organization"}
+topics: ["ai", "data-science", "geoai", "geopython", "geospatial", "jupyter", "python", "deep-learning", "earth-observation", "pytorch", "remote-sensing", "segmentation"]
+date: "2026-02-14 14:39:13.870026"
+---

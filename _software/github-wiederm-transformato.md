@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/wiederm", "avatar_url": "https://avatars.githubusercontent.com/u/31651017?v=4", "login": "wiederm", "type": "User"}
 topics: ["charmm-gui", "free-energy-calculations"]
-date: "2026-02-07 14:38:51.939608"
+date: "2026-02-14 14:39:14.400706"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 22
 owner: {"html_url": "https://github.com/stefanradev93", "avatar_url": "https://avatars.githubusercontent.com/u/22372377?v=4", "login": "stefanradev93", "type": "User"}
 topics: ["bayesian-inference", "deep-learning", "model-comparison", "amortized-inference", "simulation-based", "invertible-networks", "parameter-estimation", "likelihood-free", "uncertainty-quantification"]
-date: "2026-02-07 14:38:52.231773"
+date: "2026-02-14 14:39:13.318426"
 ---
