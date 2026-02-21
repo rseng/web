@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/toruseo", "avatar_url": "https://avatars.githubusercontent.com/u/34780089?v=4", "login": "toruseo", "type": "User"}
 topics: ["traffic", "traffic-flow", "traffic-flow-simulation", "traffic-simulation", "dynamic-traffic-assignment", "simulation", "transportation", "transportation-network"]
-date: "2026-02-14 14:39:14.072856"
+date: "2026-02-21 14:38:35.460613"
 ---

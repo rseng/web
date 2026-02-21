@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/kadyb", "avatar_url": "https://avatars.githubusercontent.com/u/35004826?v=4", "login": "kadyb", "type": "User"}
 topics: ["geodesy", "cartography", "gis", "open-data", "poland", "r"]
-date: "2026-02-14 14:39:13.824739"
+date: "2026-02-21 14:38:34.859573"
 ---

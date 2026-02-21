@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 14
 owner: {"html_url": "https://github.com/ComputationalBiomechanicsLab", "avatar_url": "https://avatars.githubusercontent.com/u/65425720?v=4", "login": "ComputationalBiomechanicsLab", "type": "Organization"}
 topics: ["biomechanics", "opensim", "physics-simulation"]
-date: "2026-02-14 14:39:13.762781"
+date: "2026-02-21 14:38:35.989353"
 ---

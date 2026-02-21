@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/metawards", "avatar_url": "https://avatars.githubusercontent.com/u/63117563?v=4", "login": "metawards", "type": "Organization"}
 topics: ["epidemiology", "epidemic-simulations", "sir-model", "epidemiology-analysis", "epidemic-model", "epidemics", "covid-19", "covid", "coronavirus"]
-date: "2026-02-14 14:39:13.423231"
+date: "2026-02-21 14:38:35.211290"
 ---

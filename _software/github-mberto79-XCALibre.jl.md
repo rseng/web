@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MPL-2.0", "url": "https://api.github.com/licenses/mpl-2.0", "node_id": "MDc6TGljZW5zZTE0"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mberto79", "avatar_url": "https://avatars.githubusercontent.com/u/61561260?v=4", "login": "mberto79", "type": "User"}
-date: "2026-02-14 14:39:12.906708"
+date: "2026-02-21 14:38:36.201330"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 31
 owner: {"html_url": "https://github.com/Kaixhin", "avatar_url": "https://avatars.githubusercontent.com/u/991891?v=4", "login": "Kaixhin", "type": "User"}
 topics: ["docker", "dockerfiles", "machine-learning", "cuda", "vnc", "deep-learning"]
-date: "2026-02-14 14:39:14.212833"
+date: "2026-02-21 14:38:35.401370"
 ---

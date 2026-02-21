@@ -21,5 +21,5 @@ open_issues_count: 20
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["chronobiology", "mctq", "sleep", "r-package", "peer-reviewed", "r", "rstats", "data-extraction"]
-date: "2026-02-14 14:39:12.751386"
+date: "2026-02-21 14:38:34.725622"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 34
 owner: {"html_url": "https://github.com/opengeos", "avatar_url": "https://avatars.githubusercontent.com/u/129896036?v=4", "login": "opengeos", "type": "Organization"}
 topics: ["ai", "data-science", "geoai", "geopython", "geospatial", "jupyter", "python", "deep-learning", "earth-observation", "pytorch", "remote-sensing", "segmentation"]
-date: "2026-02-14 14:39:13.870026"
+date: "2026-02-21 14:38:36.290112"
 ---

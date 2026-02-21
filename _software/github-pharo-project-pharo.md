@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 42
 owner: {"html_url": "https://github.com/pharo-project", "avatar_url": "https://avatars.githubusercontent.com/u/1838382?v=4", "login": "pharo-project", "type": "Organization"}
 topics: ["pharo", "reflective", "language", "tools", "bootstrap", "object-oriented-programming", "live-programming", "mit"]
-date: "2026-02-14 14:39:13.702799"
+date: "2026-02-21 14:38:35.363709"
 ---

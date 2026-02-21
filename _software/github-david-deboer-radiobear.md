@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/david-deboer", "avatar_url": "https://avatars.githubusercontent.com/u/4715126?v=4", "login": "david-deboer", "type": "User"}
-date: "2026-02-14 14:39:12.709157"
+date: "2026-02-21 14:38:35.960246"
 ---

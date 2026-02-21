@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/lanl", "avatar_url": "https://avatars.githubusercontent.com/u/585305?v=4", "login": "lanl", "type": "Organization"}
 topics: ["computational-imaging", "inverse-problems", "optimization", "admm", "fista", "total-variation", "plug-and-play-priors", "jax", "convex-optimization", "proximal-algorithms", "proximal-operators"]
-date: "2026-02-14 14:39:14.231504"
+date: "2026-02-21 14:38:36.311045"
 ---

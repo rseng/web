@@ -22,5 +22,5 @@ open_issues_count: 4
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/PyLops", "avatar_url": "https://avatars.githubusercontent.com/u/74298005?v=4", "login": "PyLops", "type": "Organization"}
-date: "2026-02-14 14:39:13.023599"
+date: "2026-02-21 14:38:35.871429"
 ---

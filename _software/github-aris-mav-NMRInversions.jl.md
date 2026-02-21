@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/aris-mav", "avatar_url": "https://avatars.githubusercontent.com/u/116081909?v=4", "login": "aris-mav", "type": "User"}
 topics: ["inverse-problems", "nmr", "nmr-relaxation", "nmr-diffusion"]
-date: "2026-02-14 14:39:14.187974"
+date: "2026-02-21 14:38:35.434387"
 ---

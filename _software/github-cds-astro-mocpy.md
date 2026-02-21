@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 12
 owner: {"html_url": "https://github.com/cds-astro", "avatar_url": "https://avatars.githubusercontent.com/u/26145382?v=4", "login": "cds-astro", "type": "Organization"}
 topics: ["astronomy", "astronomy-astrophysics", "tesselation", "healpix", "moc", "astrophysics", "astropy-affiliated", "gravitational-waves", "open-source", "python"]
-date: "2026-02-14 14:39:13.537872"
+date: "2026-02-21 14:38:36.262764"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Santiso-Group", "avatar_url": "https://avatars.githubusercontent.com/u/61851070?v=4", "login": "Santiso-Group", "type": "Organization"}
 topics: ["saft", "thermodynamic-calculations", "eos", "parametrization", "equation-of-state", "equations-of-state"]
-date: "2026-02-14 14:39:14.128735"
+date: "2026-02-21 14:38:35.874068"
 ---

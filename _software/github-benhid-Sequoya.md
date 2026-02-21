@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/benhid", "avatar_url": "https://avatars.githubusercontent.com/u/6999898?v=4", "login": "benhid", "type": "User"}
 topics: ["metaheuristics", "optimization", "sequence-alignments", "msa", "multiple-sequence-alignment", "python"]
-date: "2026-02-14 14:39:14.387682"
+date: "2026-02-21 14:38:36.009558"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Aminsinichi", "avatar_url": "https://avatars.githubusercontent.com/u/126984097?v=4", "login": "Aminsinichi", "type": "User"}
 topics: ["heart-rate", "heart-rate-variability", "hrv", "psychophysiology", "python", "wearables", "validation"]
-date: "2026-02-14 14:39:14.007231"
+date: "2026-02-21 14:38:36.236499"
 ---

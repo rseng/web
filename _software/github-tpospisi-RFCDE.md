@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 7
 subscribers_count: 8
 owner: {"html_url": "https://github.com/tpospisi", "avatar_url": "https://avatars.githubusercontent.com/u/8901856?v=4", "login": "tpospisi", "type": "User"}
-date: "2026-02-14 14:39:13.182885"
+date: "2026-02-21 14:38:35.076650"
 ---

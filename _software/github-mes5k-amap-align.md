@@ -19,5 +19,5 @@ language: "C++"
 open_issues_count: 3
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mes5k", "avatar_url": "https://avatars.githubusercontent.com/u/492641?v=4", "login": "mes5k", "type": "User"}
-date: "2026-02-14 14:39:14.369571"
+date: "2026-02-21 14:38:35.859065"
 ---
