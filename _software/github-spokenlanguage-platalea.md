@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/spokenlanguage", "avatar_url": "https://avatars.githubusercontent.com/u/61155109?v=4", "login": "spokenlanguage", "type": "Organization"}
 topics: ["visually-grounded-speech", "multi-tasking", "spoken-language-understanding", "deep-neural-networks", "speech-processing", "weakly-supervised-learning", "multimodal-learning", "pytorch", "flickr8k", "spokencoco"]
-date: "2026-02-21 14:38:34.925155"
+date: "2026-02-28 14:34:50.159964"
 ---

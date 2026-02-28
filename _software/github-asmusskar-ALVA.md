@@ -19,5 +19,5 @@ open_issues_count: 1
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/asmusskar", "avatar_url": "https://avatars2.githubusercontent.com/u/46743643?v=4", "login": "asmusskar", "type": "User"}
-date: "2026-02-21 14:38:35.536695"
+date: "2026-02-28 14:34:49.236247"
 ---

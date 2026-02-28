@@ -23,5 +23,5 @@ open_issues_count: 1
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/PynPoint", "avatar_url": "https://avatars.githubusercontent.com/u/37398986?v=4", "login": "PynPoint", "type": "Organization"}
-date: "2026-02-21 14:38:34.829340"
+date: "2026-02-28 14:34:50.610300"
 ---

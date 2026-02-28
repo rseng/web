@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/p-sira", "avatar_url": "https://avatars.githubusercontent.com/u/186296676?v=4", "login": "p-sira", "type": "User"}
 topics: ["elliptic-integrals", "math", "rust", "special-functions"]
-date: "2026-02-21 14:38:35.684052"
+date: "2026-02-28 14:34:50.559939"
 ---

@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 5
 owner: {"html_url": "https://github.com/hpc-maths", "avatar_url": "https://avatars.githubusercontent.com/u/75079410?v=4", "login": "hpc-maths", "type": "Organization"}
 topics: ["adaptive-mesh-refinement", "amr", "cartesian", "scientific-computing"]
-date: "2026-02-21 14:38:35.241114"
+date: "2026-02-28 14:34:49.448180"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/range-et", "avatar_url": "https://avatars.githubusercontent.com/u/64481693?v=4", "login": "range-et", "type": "User"}
 topics: ["data-visualization", "graph", "graph-theory", "visualization", "webgl"]
-date: "2026-02-21 14:38:35.544100"
+date: "2026-02-28 14:34:48.898838"
 ---

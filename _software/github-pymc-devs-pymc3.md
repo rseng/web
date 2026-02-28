@@ -24,5 +24,5 @@ timestamp: "2020-07-04 13:22:35.426409"
 avatar: "https://avatars3.githubusercontent.com/u/81121?v=4"
 repo_url: "https://github.com/pymc-devs/pymc3"
 title: "PyMC3"
-date: "2026-02-21 14:38:35.072576"
+date: "2026-02-28 14:34:49.732066"
 ---

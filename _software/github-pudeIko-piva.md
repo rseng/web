@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/pudeIko", "avatar_url": "https://avatars.githubusercontent.com/u/37271202?v=4", "login": "pudeIko", "type": "User"}
 topics: ["angle-resolved-photoemission-spectroscopy", "arpes", "condensed-matter-physics", "data-analysis", "data-visualization", "experimental-physics", "gui", "interactive-visualizations", "physics", "pyqt5", "python", "quantum-materials", "synchrotron-based-data", "xps"]
-date: "2026-02-21 14:38:36.151512"
+date: "2026-02-28 14:34:49.116769"
 ---

@@ -23,5 +23,5 @@ open_issues_count: 32
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 13
 owner: {"html_url": "https://github.com/antismash", "avatar_url": "https://avatars.githubusercontent.com/u/17174811?v=4", "login": "antismash", "type": "Organization"}
-date: "2026-02-21 14:38:36.209902"
+date: "2026-02-28 14:34:49.675513"
 ---

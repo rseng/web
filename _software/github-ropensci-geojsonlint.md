@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["geojson", "linter", "r", "rstats", "r-package", "data", "geospatial", "hint", "lint", "schema", "geospatial"]
-date: "2026-02-21 14:38:34.768566"
+date: "2026-02-28 14:34:48.971631"
 ---

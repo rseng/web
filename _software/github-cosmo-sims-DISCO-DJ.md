@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cosmo-sims", "avatar_url": "https://avatars.githubusercontent.com/u/134970301?v=4", "login": "cosmo-sims", "type": "Organization"}
 topics: ["autodiff", "cosmological-simulations", "cosmology", "inference", "large-scale-structure", "particle-mesh", "perturbation-theory", "cosmology-inference", "jax"]
-date: "2026-02-21 14:38:35.420118"
+date: "2026-02-28 14:34:49.836822"
 ---

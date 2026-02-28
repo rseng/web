@@ -21,5 +21,5 @@ open_issues_count: 14
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["http", "http-mocking", "rstats", "http-mock", "mock", "fakeweb", "tdd", "testing-tools", "testing", "r", "r-package", "API", "curl", "https", "mocking", "web-services", "http-tools"]
-date: "2026-02-21 14:38:34.721605"
+date: "2026-02-28 14:34:48.975544"
 ---

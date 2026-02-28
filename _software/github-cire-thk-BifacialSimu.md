@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cire-thk", "avatar_url": "https://avatars.githubusercontent.com/u/60656081?v=4", "login": "cire-thk", "type": "Organization"}
-date: "2026-02-21 14:38:34.997733"
+date: "2026-02-28 14:34:49.605529"
 ---

@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/tkerscher", "avatar_url": "https://avatars.githubusercontent.com/u/88444139?v=4", "login": "tkerscher", "type": "User"}
 topics: ["blazar", "astrophysics"]
-date: "2026-02-21 14:38:35.208397"
+date: "2026-02-28 14:34:49.244839"
 ---

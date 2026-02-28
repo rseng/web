@@ -19,5 +19,5 @@ watchers_count: 1
 language: "Jupyter Notebook"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Rnazx", "avatar_url": "https://avatars.githubusercontent.com/u/42196798?v=4", "login": "Rnazx", "type": "User"}
-date: "2026-02-21 14:38:35.916239"
+date: "2026-02-28 14:34:49.664641"
 ---

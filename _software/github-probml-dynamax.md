@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 25
 owner: {"html_url": "https://github.com/probml", "avatar_url": "https://avatars.githubusercontent.com/u/6309387?v=4", "login": "probml", "type": "Organization"}
 topics: ["state-space-models", "hidden-markov-models", "jax", "python", "kalman-filter"]
-date: "2026-02-21 14:38:35.358806"
+date: "2026-02-28 14:34:49.307521"
 ---

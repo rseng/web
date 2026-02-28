@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/aritraghsh09", "avatar_url": "https://avatars.githubusercontent.com/u/6251857?v=4", "login": "aritraghsh09", "type": "User"}
 topics: ["astrophysics", "astronomy", "galaxies", "convolutional-neural-networks", "tflearn", "tensorflow", "morphological-analysis", "machine-learning", "neural-networks", "sdss", "candels"]
-date: "2026-02-21 14:38:36.279995"
+date: "2026-02-28 14:34:49.889338"
 ---

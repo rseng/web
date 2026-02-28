@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/unfoldtoolbox", "avatar_url": "https://avatars.githubusercontent.com/u/35995464?v=4", "login": "unfoldtoolbox", "type": "Organization"}
 topics: ["eeg", "erp", "julia", "simulation", "time-series"]
-date: "2026-02-21 14:38:35.707452"
+date: "2026-02-28 14:34:50.263827"
 ---

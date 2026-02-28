@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/pmelchior", "avatar_url": "https://avatars.githubusercontent.com/u/1463403?v=4", "login": "pmelchior", "type": "User"}
 topics: ["astronomy", "autoencoder", "spectroscopy"]
-date: "2026-02-21 14:38:35.914622"
+date: "2026-02-28 14:34:49.434180"
 ---

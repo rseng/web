@@ -21,5 +21,5 @@ open_issues_count: 19
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/DessimozLab", "avatar_url": "https://avatars.githubusercontent.com/u/16049503?v=4", "login": "DessimozLab", "type": "Organization"}
-date: "2026-02-21 14:38:34.842105"
+date: "2026-02-28 14:34:50.410158"
 ---

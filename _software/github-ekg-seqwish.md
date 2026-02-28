@@ -21,5 +21,5 @@ open_issues_count: 24
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 13
 owner: {"html_url": "https://github.com/ekg", "avatar_url": "https://avatars.githubusercontent.com/u/145425?v=4", "login": "ekg", "type": "User"}
-date: "2026-02-21 14:38:35.295939"
+date: "2026-02-28 14:34:50.295259"
 ---

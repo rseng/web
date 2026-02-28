@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/danmoser", "avatar_url": "https://avatars.githubusercontent.com/u/2973004?v=4", "login": "danmoser", "type": "User"}
 topics: ["python", "astronomy", "astrophysics"]
-date: "2026-02-21 14:38:35.358304"
+date: "2026-02-28 14:34:49.036164"
 ---

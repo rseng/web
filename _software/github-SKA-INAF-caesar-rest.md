@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/SKA-INAF", "avatar_url": "https://avatars.githubusercontent.com/u/32369098?v=4", "login": "SKA-INAF", "type": "Organization"}
 topics: ["rest-api", "flask", "celery", "image-processing", "radio-astronomy", "caesar"]
-date: "2026-02-21 14:38:34.902584"
+date: "2026-02-28 14:34:50.600955"
 ---

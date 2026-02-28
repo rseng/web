@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/canorve", "avatar_url": "https://avatars.githubusercontent.com/u/3579189?v=4", "login": "canorve", "type": "User"}
 topics: ["python", "python3"]
-date: "2026-02-21 14:38:36.044535"
+date: "2026-02-28 14:34:50.527653"
 ---

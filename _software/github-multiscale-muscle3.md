@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:26.488992"
 avatar: "https://avatars3.githubusercontent.com/u/34157084?v=4"
 repo_url: "https://github.com/multiscale/muscle3"
-date: "2026-02-21 14:38:35.921915"
+date: "2026-02-28 14:34:49.077714"
 ---

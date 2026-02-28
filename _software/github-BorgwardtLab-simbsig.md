@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/BorgwardtLab", "avatar_url": "https://avatars.githubusercontent.com/u/15212542?v=4", "login": "BorgwardtLab", "type": "Organization"}
-date: "2026-02-21 14:38:35.193049"
+date: "2026-02-28 14:34:49.549406"
 ---

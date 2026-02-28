@@ -21,5 +21,5 @@ watchers_count: 4
 language: "Rust"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mrvollger", "avatar_url": "https://avatars.githubusercontent.com/u/6935283?v=4", "login": "mrvollger", "type": "User"}
-date: "2026-02-21 14:38:35.673307"
+date: "2026-02-28 14:34:49.117743"
 ---

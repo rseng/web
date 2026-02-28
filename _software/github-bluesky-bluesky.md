@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 27
 owner: {"html_url": "https://github.com/bluesky", "avatar_url": "https://avatars1.githubusercontent.com/u/47676189?v=4", "login": "bluesky", "type": "Organization"}
 topics: ["python", "bluesky", "dataacquisition"]
-date: "2026-02-21 14:38:35.135474"
+date: "2026-02-28 14:34:50.456090"
 ---

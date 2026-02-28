@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 19
 owner: {"html_url": "https://github.com/Starlink", "avatar_url": "https://avatars.githubusercontent.com/u/2018671?v=4", "login": "Starlink", "type": "Organization"}
 topics: ["astronomy", "c", "wcs"]
-date: "2026-02-21 14:38:35.185524"
+date: "2026-02-28 14:34:48.921466"
 ---

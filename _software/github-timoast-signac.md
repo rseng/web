@@ -23,5 +23,5 @@ topics: ["single-cell", "bioinformatics", "atac"]
 timestamp: "2020-07-04 13:22:16.732305"
 avatar: "https://avatars2.githubusercontent.com/u/4591688?v=4"
 repo_url: "https://github.com/timoast/signac"
-date: "2026-02-21 14:38:36.346951"
+date: "2026-02-28 14:34:48.920243"
 ---

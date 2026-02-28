@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 25
 owner: {"html_url": "https://github.com/LSSTDESC", "avatar_url": "https://avatars.githubusercontent.com/u/2731443?v=4", "login": "LSSTDESC", "type": "Organization"}
 topics: ["astronomy", "python"]
-date: "2026-02-21 14:38:35.294731"
+date: "2026-02-28 14:34:49.481445"
 ---

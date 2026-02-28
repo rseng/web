@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 14
 owner: {"html_url": "https://github.com/OxES", "avatar_url": "https://avatars.githubusercontent.com/u/2815367?v=4", "login": "OxES", "type": "Organization"}
 topics: ["exoplanets", "exoplanet-transits", "kepler", "k2", "k2-light-curves", "astronomy", "gaussian-processes", "mast-light-curve"]
-date: "2026-02-21 14:38:35.389116"
+date: "2026-02-28 14:34:49.609733"
 ---
