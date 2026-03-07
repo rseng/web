@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/paucablop", "avatar_url": "https://avatars.githubusercontent.com/u/34301441?v=4", "login": "paucablop", "type": "User"}
 topics: ["chemometrics", "machine-learning", "python", "scikit-learn", "sklearn", "spectra", "hacktoberfest", "artificial-intelligence", "autoencoders", "deep-learning", "ir-spectroscopy", "multivariate-analysis", "raman-spectroscopy", "spectroscopy", "nir-spectroscopy"]
-date: "2026-02-28 14:34:49.148194"
+date: "2026-03-07 14:36:28.281605"
 ---

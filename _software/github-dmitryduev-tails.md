@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/dmitryduev/tails"
+url: "https://github.com/dmitryduev/tails"
+timestamp: "2026-03-01 01:14:58.804776"
+description: "Tails: chasing comets with ZTF and deep learning"
+avatar: "https://avatars.githubusercontent.com/u/7557205?v=4"
+repo_url: "https://github.com/dmitryduev/tails"
+doi: ["https://scixplorer.org/abs/2021AJ....161..218D", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft02018D/abstract"]
+title: "Tails: Identify and localize comets in image data"
+name: "tails"
+full_name: "dmitryduev/tails"
+html_url: "https://github.com/dmitryduev/tails"
+created_at: "2020-12-17T00:12:44Z"
+updated_at: "2025-11-04T07:40:31Z"
+clone_url: "https://github.com/dmitryduev/tails.git"
+size: 61
+stargazers_count: 7
+watchers_count: 7
+language: "Python"
+open_issues_count: 8
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 4
+owner: {"html_url": "https://github.com/dmitryduev", "avatar_url": "https://avatars.githubusercontent.com/u/7557205?v=4", "login": "dmitryduev", "type": "User"}
+topics: ["tails", "deep-learning", "comets", "ztf", "ztf-ii", "astronomy", "solar-system"]
+date: "2026-03-07 14:36:29.506256"
+---

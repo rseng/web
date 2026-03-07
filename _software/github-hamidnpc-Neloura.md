@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/hamidnpc/Neloura"
+url: "https://github.com/hamidnpc/Neloura"
+timestamp: "2026-03-01 01:15:06.743594"
+description: "FITS File Visualization, Cataloging, and Interaction Tool"
+avatar: "https://avatars.githubusercontent.com/u/3179916?v=4"
+repo_url: "https://github.com/hamidnpc/Neloura"
+doi: ["https://scixplorer.org/abs/2025arXiv250916459H", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft02001H/abstract"]
+title: "Neloura: Web-based astronomical image analysis and visualization platform"
+name: "Neloura"
+full_name: "hamidnpc/Neloura"
+html_url: "https://github.com/hamidnpc/Neloura"
+created_at: "2025-02-12T10:50:27Z"
+updated_at: "2026-02-28T07:10:32Z"
+clone_url: "https://github.com/hamidnpc/Neloura.git"
+homepage: "https://neloura.com"
+size: 39508
+stargazers_count: 5
+watchers_count: 5
+language: "JavaScript"
+license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/hamidnpc", "avatar_url": "https://avatars.githubusercontent.com/u/3179916?v=4", "login": "hamidnpc", "type": "User"}
+topics: ["astronomy"]
+date: "2026-03-07 14:36:28.327469"
+---

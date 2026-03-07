@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 285
 owner: {"html_url": "https://github.com/google", "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4", "login": "google", "type": "Organization"}
 topics: ["jax"]
-date: "2026-02-28 14:34:49.602646"
+date: "2026-03-07 14:36:28.743247"
 ---

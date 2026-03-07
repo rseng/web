@@ -20,5 +20,5 @@ language: "Fortran"
 open_issues_count: 1
 subscribers_count: 9
 owner: {"html_url": "https://github.com/molscat", "avatar_url": "https://avatars.githubusercontent.com/u/44835777?v=4", "login": "molscat", "type": "Organization"}
-date: "2026-02-28 14:34:49.125711"
+date: "2026-03-07 14:36:28.258000"
 ---

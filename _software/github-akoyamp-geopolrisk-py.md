@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/akoyamp/geopolrisk-py"
+url: "https://github.com/akoyamp/geopolrisk-py"
+timestamp: "2026-03-01 01:15:38.231978"
+description: "A library to calculate the geopolitical supply risk of a resource to an economic unit for a particular year or period."
+avatar: "https://avatars.githubusercontent.com/u/48914966?v=4"
+repo_url: "https://github.com/akoyamp/geopolrisk-py"
+doi: "https://doi.org/10.5281/zenodo.18713988"
+name: "geopolrisk-py"
+full_name: "akoyamp/geopolrisk-py"
+html_url: "https://github.com/akoyamp/geopolrisk-py"
+created_at: "2021-07-08T13:58:02Z"
+updated_at: "2026-02-23T23:01:00Z"
+clone_url: "https://github.com/akoyamp/geopolrisk-py.git"
+homepage: "https://geopolrisk-py.readthedocs.io/en/latest/"
+size: 46498
+stargazers_count: 16
+watchers_count: 16
+language: "Python"
+open_issues_count: 1
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/akoyamp", "avatar_url": "https://avatars.githubusercontent.com/u/48914966?v=4", "login": "akoyamp", "type": "User"}
+date: "2026-03-07 14:36:28.244631"
+---

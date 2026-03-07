@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/cseptesting/floatcsep"
+url: "https://github.com/cseptesting/floatcsep"
+timestamp: "2026-03-01 01:15:40.014603"
+description: "Floating Experiment CSEP"
+avatar: "https://avatars.githubusercontent.com/u/48261923?v=4"
+repo_url: "https://github.com/cseptesting/floatcsep"
+doi: "https://doi.org/10.5281/zenodo.18662328"
+name: "floatcsep"
+full_name: "cseptesting/floatcsep"
+html_url: "https://github.com/cseptesting/floatcsep"
+created_at: "2023-04-03T18:45:57Z"
+updated_at: "2026-02-18T15:49:01Z"
+clone_url: "https://github.com/cseptesting/floatcsep.git"
+size: 108664
+stargazers_count: 4
+watchers_count: 4
+language: "Python"
+open_issues_count: 11
+license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
+subscribers_count: 5
+owner: {"html_url": "https://github.com/cseptesting", "avatar_url": "https://avatars.githubusercontent.com/u/48261923?v=4", "login": "cseptesting", "type": "Organization"}
+date: "2026-03-07 14:36:29.467322"
+---

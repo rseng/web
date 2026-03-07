@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/gcol33/corrselect"
+url: "https://github.com/gcol33/corrselect"
+timestamp: "2026-03-01 01:15:33.112645"
+description: "R package for exhaustive selection of variable subsets below a correlation threshold."
+avatar: "https://avatars.githubusercontent.com/u/25009600?v=4"
+repo_url: "https://github.com/gcol33/corrselect"
+doi: "https://doi.org/10.5281/zenodo.18429041"
+name: "corrselect"
+full_name: "gcol33/corrselect"
+html_url: "https://github.com/gcol33/corrselect"
+created_at: "2025-08-05T12:18:47Z"
+updated_at: "2026-02-24T13:51:45Z"
+clone_url: "https://github.com/gcol33/corrselect.git"
+homepage: "https://gillescolling.com/corrselect/"
+size: 23875
+stargazers_count: 1
+watchers_count: 1
+language: "R"
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+owner: {"html_url": "https://github.com/gcol33", "avatar_url": "https://avatars.githubusercontent.com/u/25009600?v=4", "login": "gcol33", "type": "User"}
+topics: ["cran", "r", "r-package", "rstats", "variable-selection", "feature-selection-", "correlation", "enumeration", "glm", "graph-algorithms", "machine-learning", "mixed-models", "multicollinearity", "regression", "statistics", "vif"]
+date: "2026-03-07 14:36:28.333836"
+---

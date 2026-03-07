@@ -23,5 +23,5 @@ topics: ["mpm", "material-point-method", "parallel", "high-performance-computing
 timestamp: "2020-07-04 13:22:12.955367"
 avatar: "https://avatars2.githubusercontent.com/u/7850930?v=4"
 repo_url: "https://github.com/cb-geo/mpm"
-date: "2026-02-28 14:34:49.159325"
+date: "2026-03-07 14:36:28.293904"
 ---

@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/LeoVarnet/fastACI"
+url: "https://github.com/LeoVarnet/fastACI"
+timestamp: "2026-03-01 01:15:58.494177"
+description: "fastACI toolbox: the MATLAB toolbox for investigating auditory perception using reverse correlation."
+avatar: "https://avatars.githubusercontent.com/u/44163905?v=4"
+repo_url: "https://github.com/LeoVarnet/fastACI"
+doi: "10.3389/FPSYG.2025.1668690"
+name: "fastACI"
+full_name: "LeoVarnet/fastACI"
+html_url: "https://github.com/LeoVarnet/fastACI"
+created_at: "2021-02-02T14:12:32Z"
+updated_at: "2026-01-07T13:58:38Z"
+clone_url: "https://github.com/LeoVarnet/fastACI.git"
+size: 438418
+stargazers_count: 15
+watchers_count: 15
+language: "MATLAB"
+open_issues_count: 1
+subscribers_count: 3
+owner: {"html_url": "https://github.com/LeoVarnet", "avatar_url": "https://avatars.githubusercontent.com/u/44163905?v=4", "login": "LeoVarnet", "type": "User"}
+topics: ["perception", "psychophysics", "revcorr", "aci", "audition", "asr"]
+date: "2026-03-07 14:36:29.039911"
+---

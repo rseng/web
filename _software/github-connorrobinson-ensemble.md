@@ -1,0 +1,23 @@
+---
+parser: "github"
+uid: "github/connorrobinson/ensemble"
+url: "https://github.com/connorrobinson/ensemble"
+timestamp: "2026-03-01 01:14:56.331483"
+avatar: "https://avatars.githubusercontent.com/u/11913238?v=4"
+repo_url: "https://github.com/connorrobinson/ensemble"
+doi: ["https://scixplorer.org/abs/2022ApJ...935...54R", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft02022R/abstract"]
+title: "ensemble: Interactive inhomogeneous ensemble photometry"
+name: "ensemble"
+full_name: "connorrobinson/ensemble"
+html_url: "https://github.com/connorrobinson/ensemble"
+created_at: "2021-05-26T20:22:27Z"
+updated_at: "2021-11-17T22:00:37Z"
+clone_url: "https://github.com/connorrobinson/ensemble.git"
+size: 154
+stargazers_count: 1
+watchers_count: 1
+language: "Python"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/connorrobinson", "avatar_url": "https://avatars.githubusercontent.com/u/11913238?v=4", "login": "connorrobinson", "type": "User"}
+date: "2026-03-07 14:36:28.886151"
+---

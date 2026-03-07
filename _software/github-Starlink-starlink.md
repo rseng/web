@@ -22,5 +22,5 @@ open_issues_count: 21
 subscribers_count: 29
 owner: {"html_url": "https://github.com/Starlink", "avatar_url": "https://avatars.githubusercontent.com/u/2018671?v=4", "login": "Starlink", "type": "Organization"}
 topics: ["astronomy"]
-date: "2026-02-28 14:34:48.920716"
+date: "2026-03-07 14:36:28.049987"
 ---

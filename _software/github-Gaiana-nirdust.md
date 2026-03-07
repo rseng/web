@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/Gaiana", "avatar_url": "https://avatars.githubusercontent.com/u/71792014?v=4", "login": "Gaiana", "type": "User"}
 topics: ["spectra", "dust", "agn", "astronomy", "galaxies"]
-date: "2026-02-28 14:34:49.891761"
+date: "2026-03-07 14:36:29.038686"
 ---

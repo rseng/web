@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/Astroberta/PyTICS"
+url: "https://github.com/Astroberta/PyTICS"
+timestamp: "2026-03-01 01:14:56.951916"
+description: "PyTICS - Telescope Intercalibration using Comparison Stars"
+avatar: "https://avatars.githubusercontent.com/u/157313565?v=4"
+repo_url: "https://github.com/Astroberta/PyTICS"
+doi: ["https://scixplorer.org/abs/2025RASTI...4...21V", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft02021V/abstract"]
+title: "PyTICS: Telescope Intercalibration using Comparison Stars"
+name: "PyTICS"
+full_name: "Astroberta/PyTICS"
+html_url: "https://github.com/Astroberta/PyTICS"
+created_at: "2024-08-19T15:39:50Z"
+updated_at: "2026-01-30T15:23:19Z"
+clone_url: "https://github.com/Astroberta/PyTICS.git"
+size: 16319
+stargazers_count: 7
+watchers_count: 7
+language: "Jupyter Notebook"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/Astroberta", "avatar_url": "https://avatars.githubusercontent.com/u/157313565?v=4", "login": "Astroberta", "type": "User"}
+date: "2026-03-07 14:36:28.583812"
+---
