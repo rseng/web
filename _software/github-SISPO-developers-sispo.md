@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 35
 subscribers_count: 5
 owner: {"html_url": "https://github.com/SISPO-developers", "avatar_url": "https://avatars.githubusercontent.com/u/64485559?v=4", "login": "SISPO-developers", "type": "Organization"}
-date: "2026-03-07 14:36:29.111941"
+date: "2026-03-14 14:42:32.371825"
 ---

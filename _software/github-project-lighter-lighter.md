@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/project-lighter", "avatar_url": "https://avatars.githubusercontent.com/u/122651785?v=4", "login": "project-lighter", "type": "Organization"}
 topics: ["classification", "config", "monai", "object-detection", "pytorch", "pytorch-lightning", "segmentation", "self-supervised-learning", "hydra", "yaml", "deep-learning"]
-date: "2026-03-07 14:36:28.641244"
+date: "2026-03-14 14:42:31.894932"
 ---

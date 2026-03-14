@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/decargroup", "avatar_url": "https://avatars.githubusercontent.com/u/65682789?v=4", "login": "decargroup", "type": "Organization"}
 topics: ["koopman", "machine-learning", "dynamical-systems", "control", "scikit-learn"]
-date: "2026-03-07 14:36:28.953435"
+date: "2026-03-14 14:42:32.210962"
 ---

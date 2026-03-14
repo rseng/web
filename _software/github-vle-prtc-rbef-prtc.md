@@ -16,5 +16,5 @@ clone_url: "https://github.com/vle-prtc/rbef-prtc.git"
 size: 748
 language: "Mathematica"
 owner: {"html_url": "https://github.com/vle-prtc", "avatar_url": "https://avatars.githubusercontent.com/u/245275286?v=4", "login": "vle-prtc", "type": "User"}
-date: "2026-03-07 14:36:28.180967"
+date: "2026-03-14 14:42:31.427485"
 ---

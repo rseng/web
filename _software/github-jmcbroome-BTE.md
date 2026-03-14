@@ -21,5 +21,5 @@ language: "Cython"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/jmcbroome", "avatar_url": "https://avatars.githubusercontent.com/u/42075829?v=4", "login": "jmcbroome", "type": "User"}
-date: "2026-03-07 14:36:28.377780"
+date: "2026-03-14 14:42:31.626724"
 ---

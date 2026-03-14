@@ -21,5 +21,5 @@ open_issues_count: 21
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["data-access"]
-date: "2026-03-07 14:36:28.160355"
+date: "2026-03-14 14:42:31.406539"
 ---

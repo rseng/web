@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AMSSwanglab", "avatar_url": "https://avatars.githubusercontent.com/u/44538141?v=4", "login": "AMSSwanglab", "type": "User"}
 topics: ["gwas", "regulatory-networks", "variant-interpretation", "phenotopic-correlation", "relevant-tissue"]
-date: "2026-03-07 14:36:29.601862"
+date: "2026-03-14 14:42:32.867170"
 ---

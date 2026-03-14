@@ -20,5 +20,5 @@ open_issues_count: 1
 license: {"key": "eupl-1.2", "name": "European Union Public License 1.2", "spdx_id": "EUPL-1.2", "url": "https://api.github.com/licenses/eupl-1.2", "node_id": "MDc6TGljZW5zZTM0"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/fgerick", "avatar_url": "https://avatars.githubusercontent.com/u/12558460?v=4", "login": "fgerick", "type": "User"}
-date: "2026-03-07 14:36:28.726176"
+date: "2026-03-14 14:42:31.981619"
 ---

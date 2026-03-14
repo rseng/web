@@ -23,5 +23,5 @@ open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/castro-gzlz", "avatar_url": "https://avatars.githubusercontent.com/u/132309889?v=4", "login": "castro-gzlz", "type": "User"}
 topics: ["exoplanet-detection", "exoplanets", "tess", "contamination", "tess-photometry"]
-date: "2026-03-07 14:36:29.174353"
+date: "2026-03-14 14:42:32.435042"
 ---

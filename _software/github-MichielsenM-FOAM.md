@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/MichielsenM", "avatar_url": "https://avatars.githubusercontent.com/u/33225623?v=4", "login": "MichielsenM", "type": "User"}
 topics: ["asteroseismology", "astronomy", "python", "astrophysics"]
-date: "2026-03-07 14:36:29.678728"
+date: "2026-03-14 14:42:32.945656"
 ---

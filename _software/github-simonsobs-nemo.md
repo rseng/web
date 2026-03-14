@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/simonsobs", "avatar_url": "https://avatars.githubusercontent.com/u/22817890?v=4", "login": "simonsobs", "type": "Organization"}
 topics: ["astrophysics", "python"]
-date: "2026-03-07 14:36:29.478997"
+date: "2026-03-14 14:42:32.742473"
 ---

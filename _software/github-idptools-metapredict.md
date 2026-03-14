@@ -20,5 +20,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/idptools", "avatar_url": "https://avatars.githubusercontent.com/u/67078335?v=4", "login": "idptools", "type": "Organization"}
-date: "2026-03-07 14:36:28.829461"
+date: "2026-03-14 14:42:32.085216"
 ---

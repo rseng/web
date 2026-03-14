@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/izsvenezie-virology", "avatar_url": "https://avatars.githubusercontent.com/u/172770299?v=4", "login": "izsvenezie-virology", "type": "Organization"}
 topics: ["avian-influenza", "virology", "flumut", "izsve", "izsvenezie", "zoonotic-markers"]
-date: "2026-03-07 14:36:28.674179"
+date: "2026-03-14 14:42:31.928315"
 ---

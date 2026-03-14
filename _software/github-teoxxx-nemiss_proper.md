@@ -19,5 +19,5 @@ language: "Mathematica"
 license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1", "node_id": "MDc6TGljZW5zZTEx"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/teoxxx", "avatar_url": "https://avatars.githubusercontent.com/u/40962945?v=4", "login": "teoxxx", "type": "User"}
-date: "2026-03-07 14:36:28.489491"
+date: "2026-03-14 14:42:31.740745"
 ---

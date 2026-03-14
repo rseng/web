@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/GeminiDRSoftware", "avatar_url": "https://avatars.githubusercontent.com/u/12435450?v=4", "login": "GeminiDRSoftware", "type": "Organization"}
 topics: ["dragons", "gemini-data", "dragons-data-reduction", "gemini-iraf", "astronomy", "gemini-observatory"]
-date: "2026-03-07 14:36:29.678217"
+date: "2026-03-14 14:42:32.945133"
 ---

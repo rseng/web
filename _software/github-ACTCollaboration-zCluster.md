@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/ACTCollaboration", "avatar_url": "https://avatars.githubusercontent.com/u/8562336?v=4", "login": "ACTCollaboration", "type": "Organization"}
 topics: ["astrophysics", "python"]
-date: "2026-03-07 14:36:28.068617"
+date: "2026-03-14 14:42:31.314397"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/delphes", "avatar_url": "https://avatars.githubusercontent.com/u/8037711?v=4", "login": "delphes", "type": "Organization"}
 topics: ["physics-simulation", "delphes", "detector-simulation", "hep"]
-date: "2026-03-07 14:36:28.499155"
+date: "2026-03-14 14:42:31.750818"
 ---

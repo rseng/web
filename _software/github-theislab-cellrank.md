@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 7
 owner: {"html_url": "https://github.com/theislab", "avatar_url": "https://avatars.githubusercontent.com/u/22319415?v=4", "login": "theislab", "type": "Organization"}
 topics: ["machine-learning", "single-cell-rna-seq", "bioinformatics", "rna-velocity", "markov-chains", "genetics", "data-science", "fuzzy-clustering-analyses", "manifold-learning", "single-cell-genomics", "trajectory-generation", "cell-fate-transitions", "cell-fate-determination"]
-date: "2026-03-07 14:36:29.791397"
+date: "2026-03-14 14:42:33.060772"
 ---

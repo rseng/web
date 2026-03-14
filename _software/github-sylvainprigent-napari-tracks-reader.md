@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sylvainprigent", "avatar_url": "https://avatars.githubusercontent.com/u/9695951?v=4", "login": "sylvainprigent", "type": "User"}
 topics: ["napari-plugin"]
-date: "2026-03-07 14:36:29.548533"
+date: "2026-03-14 14:42:32.813137"
 ---

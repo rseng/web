@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 27
 owner: {"html_url": "https://github.com/tseemann", "avatar_url": "https://avatars.githubusercontent.com/u/453972?v=4", "login": "tseemann", "type": "User"}
 topics: ["antimicrobial-resistance-genes", "virulence-genes", "contigs", "bioinformatics-tool", "genomic-regions"]
-date: "2026-03-07 14:36:28.490479"
+date: "2026-03-14 14:42:31.741747"
 ---

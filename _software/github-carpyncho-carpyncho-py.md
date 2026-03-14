@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/carpyncho", "avatar_url": "https://avatars.githubusercontent.com/u/13108515?v=4", "login": "carpyncho", "type": "Organization"}
 topics: ["vvv", "astronomy", "catalog", "lightcurves"]
-date: "2026-03-07 14:36:29.574091"
+date: "2026-03-14 14:42:32.838960"
 ---
