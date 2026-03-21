@@ -21,5 +21,5 @@ open_issues_count: 99
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 26
 owner: {"html_url": "https://github.com/pypeit", "avatar_url": "https://avatars1.githubusercontent.com/u/41153172?v=4", "login": "pypeit", "type": "Organization"}
-date: "2026-03-14 14:42:31.441396"
+date: "2026-03-21 14:38:51.732108"
 ---

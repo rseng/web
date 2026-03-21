@@ -18,5 +18,5 @@ language: "Python"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/julianreul", "avatar_url": "https://avatars.githubusercontent.com/u/42872728?v=4", "login": "julianreul", "type": "User"}
-date: "2026-03-14 14:42:32.994851"
+date: "2026-03-21 14:38:53.283763"
 ---

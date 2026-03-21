@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/BioSTEAMDevelopmentGroup", "avatar_url": "https://avatars0.githubusercontent.com/u/61621970?v=4", "login": "BioSTEAMDevelopmentGroup", "type": "Organization"}
 topics: ["thermodynamics", "reaction", "chemical", "mixture", "properties", "vapor-liquid-equilibrium", "material-and-energy-balance", "chemical-engineering", "equations-of-state", "liquid-liquid-equilibrium"]
-date: "2026-03-14 14:42:31.831661"
+date: "2026-03-21 14:38:52.125334"
 ---

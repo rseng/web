@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/htool-ddm", "avatar_url": "https://avatars.githubusercontent.com/u/63641159?v=4", "login": "htool-ddm", "type": "Organization"}
 topics: ["hmatrix", "ddm", "iterative-solvers"]
-date: "2026-03-14 14:42:32.846621"
+date: "2026-03-21 14:38:53.136502"
 ---

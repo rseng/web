@@ -22,5 +22,5 @@ open_issues_count: 9
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/benmkent", "avatar_url": "https://avatars.githubusercontent.com/u/52756911?v=4", "login": "benmkent", "type": "User"}
-date: "2026-03-14 14:42:31.563837"
+date: "2026-03-21 14:38:51.854110"
 ---

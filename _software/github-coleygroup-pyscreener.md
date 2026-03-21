@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/coleygroup", "avatar_url": "https://avatars.githubusercontent.com/u/55363694?v=4", "login": "coleygroup", "type": "Organization"}
 topics: ["virtual-screening", "computational-biology", "molecular-docking", "distributed-computing", "ray"]
-date: "2026-03-14 14:42:31.774800"
+date: "2026-03-21 14:38:52.063267"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 8
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/simple-crypto", "avatar_url": "https://avatars.githubusercontent.com/u/82374905?v=4", "login": "simple-crypto", "type": "Organization"}
-date: "2026-03-14 14:42:31.853918"
+date: "2026-03-21 14:38:52.147920"
 ---

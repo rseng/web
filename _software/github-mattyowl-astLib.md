@@ -23,5 +23,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mattyowl", "avatar_url": "https://avatars.githubusercontent.com/u/8531799?v=4", "login": "mattyowl", "type": "User"}
 topics: ["astronomy-library"]
-date: "2026-03-14 14:42:32.893018"
+date: "2026-03-21 14:38:53.182676"
 ---

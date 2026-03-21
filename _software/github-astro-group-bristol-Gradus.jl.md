@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/astro-group-bristol", "avatar_url": "https://avatars.githubusercontent.com/u/93991759?v=4", "login": "astro-group-bristol", "type": "Organization"}
 topics: ["astrophysics", "black-holes", "general-relativity", "julia", "ray-tracing", "physics", "grrt", "relativistic-ray-tracing", "geodesic", "raytracing", "radiative-transfer"]
-date: "2026-03-14 14:42:32.090399"
+date: "2026-03-21 14:38:52.385217"
 ---

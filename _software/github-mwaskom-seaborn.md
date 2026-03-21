@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 246
 owner: {"html_url": "https://github.com/mwaskom", "avatar_url": "https://avatars.githubusercontent.com/u/315810?v=4", "login": "mwaskom", "type": "User"}
 topics: ["python", "data-visualization", "data-science", "matplotlib", "pandas"]
-date: "2026-03-14 14:42:31.610431"
+date: "2026-03-21 14:38:51.900508"
 ---

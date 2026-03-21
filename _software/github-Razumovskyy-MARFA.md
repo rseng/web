@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Razumovskyy", "avatar_url": "https://avatars.githubusercontent.com/u/49871805?v=4", "login": "Razumovskyy", "type": "User"}
 topics: ["atmospheric-modelling", "spectroscopy", "absorption-spectra"]
-date: "2026-03-14 14:42:32.648777"
+date: "2026-03-21 14:38:52.940324"
 ---

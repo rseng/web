@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:21.308467"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/ShiCo"
-date: "2026-03-14 14:42:32.477963"
+date: "2026-03-21 14:38:52.770947"
 ---

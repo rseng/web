@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/umami-hep", "avatar_url": "https://avatars.githubusercontent.com/u/104375517?v=4", "login": "umami-hep", "type": "Organization"}
-date: "2026-03-14 14:42:32.709682"
+date: "2026-03-21 14:38:53.000062"
 ---

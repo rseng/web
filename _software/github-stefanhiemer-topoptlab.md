@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/stefanhiemer", "avatar_url": "https://avatars.githubusercontent.com/u/57184890?v=4", "login": "stefanhiemer", "type": "User"}
 topics: ["finite-elements", "optimization", "topology-optimization"]
-date: "2026-03-14 14:42:32.895027"
+date: "2026-03-21 14:38:53.184640"
 ---

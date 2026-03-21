@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 12
 owner: {"html_url": "https://github.com/ICRAR", "avatar_url": "https://avatars.githubusercontent.com/u/1192804?v=4", "login": "ICRAR", "type": "Organization"}
 topics: ["astronomy", "photometry", "opencl", "openmp", "convolution"]
-date: "2026-03-14 14:42:32.791389"
+date: "2026-03-21 14:38:53.081222"
 ---

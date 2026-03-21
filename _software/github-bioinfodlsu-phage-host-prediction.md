@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/bioinfodlsu", "avatar_url": "https://avatars.githubusercontent.com/u/121936683?v=4", "login": "bioinfodlsu", "type": "Organization"}
 topics: ["bioinformatics", "genomics", "phage-host-prediction", "protein", "protein-embedding", "protein-language-model", "proteomics", "representation-learning", "transfer-learning", "transformer", "machine-learning"]
-date: "2026-03-14 14:42:32.634107"
+date: "2026-03-21 14:38:52.925625"
 ---

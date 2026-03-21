@@ -23,5 +23,5 @@ open_issues_count: 31
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 20
 owner: {"html_url": "https://github.com/fermiPy", "avatar_url": "https://avatars.githubusercontent.com/u/10644247?v=4", "login": "fermiPy", "type": "Organization"}
-date: "2026-03-14 14:42:32.577954"
+date: "2026-03-21 14:38:52.870428"
 ---

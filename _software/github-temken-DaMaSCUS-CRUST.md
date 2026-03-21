@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/temken", "avatar_url": "https://avatars.githubusercontent.com/u/29034913?v=4", "login": "temken", "type": "User"}
 topics: ["dark-matter", "montecarlo-simulation", "simulation", "physics-simulation", "particle-physics", "trajectory-simulator", "astroparticle-physics"]
-date: "2026-03-14 14:42:31.543388"
+date: "2026-03-21 14:38:51.833722"
 ---
