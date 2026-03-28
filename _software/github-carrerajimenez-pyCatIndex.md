@@ -20,5 +20,5 @@ watchers_count: 1
 language: "Python"
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 owner: {"html_url": "https://github.com/carrerajimenez", "avatar_url": "https://avatars.githubusercontent.com/u/51076902?v=4", "login": "carrerajimenez", "type": "User"}
-date: "2026-03-21 14:38:52.574847"
+date: "2026-03-28 14:47:01.563428"
 ---

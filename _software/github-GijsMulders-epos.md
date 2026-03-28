@@ -20,5 +20,5 @@ watchers_count: 13
 language: "Python"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/GijsMulders", "avatar_url": "https://avatars.githubusercontent.com/u/13457058?v=4", "login": "GijsMulders", "type": "User"}
-date: "2026-03-21 14:38:52.416251"
+date: "2026-03-28 14:47:01.565420"
 ---

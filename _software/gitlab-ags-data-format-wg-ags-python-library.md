@@ -22,5 +22,5 @@ forks_count: 12
 star_count: 9
 last_activity_at: "2022-11-02T04:20:34.613Z"
 namespace: {"id": 6190891, "name": "AGS Data Format WG", "path": "ags-data-format-wg", "kind": "group", "full_path": "ags-data-format-wg", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/6190891/ags.png", "web_url": "https://gitlab.com/groups/ags-data-format-wg"}
-date: "2026-03-21 14:38:53.380361"
+date: "2026-03-28 14:47:01.144201"
 ---

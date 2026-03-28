@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/lifs-tools", "avatar_url": "https://avatars.githubusercontent.com/u/43466647?v=4", "login": "lifs-tools", "type": "Organization"}
 topics: ["parsing", "nomenclature", "grammar", "metabolomics", "mass-spectrometry", "lipid", "lipidomics"]
-date: "2026-03-21 14:38:53.298962"
+date: "2026-03-28 14:47:02.590685"
 ---

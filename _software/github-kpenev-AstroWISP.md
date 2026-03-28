@@ -20,5 +20,5 @@ open_issues_count: 10
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/kpenev", "avatar_url": "https://avatars.githubusercontent.com/u/7349174?v=4", "login": "kpenev", "type": "User"}
-date: "2026-03-21 14:38:52.858416"
+date: "2026-03-28 14:47:02.314092"
 ---

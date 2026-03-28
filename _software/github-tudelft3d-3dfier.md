@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 32
 owner: {"html_url": "https://github.com/tudelft3d", "avatar_url": "https://avatars.githubusercontent.com/u/1544391?v=4", "login": "tudelft3d", "type": "Organization"}
 topics: ["3dgis", "gis", "citygml", "lidar", "laz", "cityjson", "yaml-cpp", "3d"]
-date: "2026-03-21 14:38:52.900153"
+date: "2026-03-28 14:47:02.343653"
 ---

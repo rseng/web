@@ -25,5 +25,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 51
 owner: {"html_url": "https://github.com/pachterlab", "avatar_url": "https://avatars.githubusercontent.com/u/10359946?v=4", "login": "pachterlab", "type": "Organization"}
 topics: ["kallisto", "rna-seq", "pseudoalignment"]
-date: "2026-03-21 14:38:52.469851"
+date: "2026-03-28 14:47:01.193388"
 ---

@@ -24,5 +24,5 @@ topics: ["interactive-visualizations", "3d-data", "embedded-data", "web-applicat
 timestamp: "2020-07-05 00:17:11.370369"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/DiVE"
-date: "2026-03-21 14:38:52.772049"
+date: "2026-03-28 14:47:02.744971"
 ---

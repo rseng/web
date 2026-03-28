@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/EliabCanul", "avatar_url": "https://avatars.githubusercontent.com/u/43527963?v=4", "login": "EliabCanul", "type": "User"}
 topics: ["jupyter-notebook", "python"]
-date: "2026-03-21 14:38:53.208516"
+date: "2026-03-28 14:47:01.308286"
 ---

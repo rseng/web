@@ -21,5 +21,5 @@ open_issues_count: 9
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/bokulich-lab", "avatar_url": "https://avatars.githubusercontent.com/u/66746566?v=4", "login": "bokulich-lab", "type": "Organization"}
-date: "2026-03-21 14:38:52.222512"
+date: "2026-03-28 14:47:01.169674"
 ---

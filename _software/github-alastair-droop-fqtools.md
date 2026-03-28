@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/alastair-droop", "avatar_url": "https://avatars.githubusercontent.com/u/13238060?v=4", "login": "alastair-droop", "type": "User"}
 topics: ["fastq", "fastq-files", "next-generation-sequencing", "bioinformatics"]
-date: "2026-03-21 14:38:51.837706"
+date: "2026-03-28 14:47:02.879758"
 ---
