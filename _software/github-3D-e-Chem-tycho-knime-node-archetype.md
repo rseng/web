@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:14.732404"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/tycho-knime-node-archetype"
-date: "2026-03-28 14:47:02.412438"
+date: "2026-04-04 14:47:46.163144"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 10
 owner: {"html_url": "https://github.com/dfki-ric", "avatar_url": "https://avatars.githubusercontent.com/u/37366708?v=4", "login": "dfki-ric", "type": "Organization"}
 topics: ["navigation", "robotics", "traversability", "traversability-estimation", "traversability-mapping"]
-date: "2026-03-28 14:47:01.168203"
+date: "2026-04-04 14:47:44.929725"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 14
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/lemene", "avatar_url": "https://avatars.githubusercontent.com/u/22316379?v=4", "login": "lemene", "type": "User"}
-date: "2026-03-28 14:47:01.652648"
+date: "2026-04-04 14:47:45.409329"
 ---

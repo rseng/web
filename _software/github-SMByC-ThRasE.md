@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/SMByC", "avatar_url": "https://avatars.githubusercontent.com/u/30393883?v=4", "login": "SMByC", "type": "Organization"}
 topics: ["qgis", "qgis-plugin", "raster", "editing", "pixels", "plugin", "annotation-tool", "recoder", "quality-assurance", "thematic-maps"]
-date: "2026-03-28 14:47:01.384319"
+date: "2026-04-04 14:47:45.143702"
 ---

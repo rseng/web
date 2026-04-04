@@ -23,5 +23,5 @@ forks_count: 4
 star_count: 11
 last_activity_at: "2022-07-29T22:08:10.539Z"
 namespace: {"id": 624864, "name": "Paul Molli\u00e8re", "path": "mauricemolli", "kind": "user", "full_path": "mauricemolli", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/528453/avatar.png", "web_url": "https://gitlab.com/mauricemolli"}
-date: "2026-03-28 14:47:01.142504"
+date: "2026-04-04 14:47:44.904606"
 ---

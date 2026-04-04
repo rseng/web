@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/dokester", "avatar_url": "https://avatars.githubusercontent.com/u/10372360?v=4", "login": "dokester", "type": "User"}
 topics: ["fitters", "data-analysis", "modeling", "bayesian", "evidence", "calibration-toolbox", "jupyter-notebook", "history", "java", "hope", "nested-sampling", "test-harness", "pypi", "exercise"]
-date: "2026-03-28 14:47:01.944952"
+date: "2026-04-04 14:47:45.700014"
 ---

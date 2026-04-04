@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/alessiospuriomancini", "avatar_url": "https://avatars.githubusercontent.com/u/16155457?v=4", "login": "alessiospuriomancini", "type": "User"}
 topics: ["machine-learning", "deep-learning", "tensorflow", "cosmology", "bayesian-inference"]
-date: "2026-03-28 14:47:01.645379"
+date: "2026-04-04 14:47:45.402043"
 ---

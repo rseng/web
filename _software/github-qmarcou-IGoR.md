@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/qmarcou", "avatar_url": "https://avatars.githubusercontent.com/u/18257721?v=4", "login": "qmarcou", "type": "User"}
 topics: ["inference", "igor", "recombination", "immunology", "simulation", "hypermutation"]
-date: "2026-03-28 14:47:02.093952"
+date: "2026-04-04 14:47:45.847134"
 ---

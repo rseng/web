@@ -20,5 +20,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/alan-tabore", "avatar_url": "https://avatars.githubusercontent.com/u/110981024?v=4", "login": "alan-tabore", "type": "User"}
 topics: ["analysis", "chemical", "kinetics", "optimization", "rate", "reaction", "isoconversional"]
-date: "2026-03-28 14:47:01.551808"
+date: "2026-04-04 14:47:45.309860"
 ---
