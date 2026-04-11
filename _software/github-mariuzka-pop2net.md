@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mariuzka", "avatar_url": "https://avatars.githubusercontent.com/u/64357369?v=4", "login": "mariuzka", "type": "User"}
 topics: ["agent-based-modeling", "bipartite-graphs", "network-generator", "survey-data"]
-date: "2026-04-04 14:47:46.586830"
+date: "2026-04-11 14:50:28.262300"
 ---

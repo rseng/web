@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/zkbt/exoatlas"
+url: "https://github.com/zkbt/exoatlas"
+timestamp: "2026-04-05 01:19:55.221872"
+description: "Tools for compiling and plotting populations of transiting exoplanets."
+avatar: "https://avatars.githubusercontent.com/u/4691081?v=4"
+repo_url: "https://github.com/zkbt/exoatlas"
+doi: ["https://scixplorer.org/abs/2026arXiv260118769D", "https://scixplorer.org/abs/2025arXiv250702210B", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft03012B/abstract"]
+title: "exoatlas: Tools for compiling and plotting populations of transiting exoplanets"
+name: "exoatlas"
+full_name: "zkbt/exoatlas"
+html_url: "https://github.com/zkbt/exoatlas"
+created_at: "2015-08-18T13:02:13Z"
+updated_at: "2026-03-18T05:38:15Z"
+clone_url: "https://github.com/zkbt/exoatlas.git"
+size: 16837
+stargazers_count: 9
+watchers_count: 9
+language: "Python"
+open_issues_count: 16
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/zkbt", "avatar_url": "https://avatars.githubusercontent.com/u/4691081?v=4", "login": "zkbt", "type": "User"}
+date: "2026-04-11 14:50:28.364197"
+---

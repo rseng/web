@@ -21,5 +21,5 @@ open_issues_count: 39
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/Dfam-consortium", "avatar_url": "https://avatars0.githubusercontent.com/u/40807771?v=4", "login": "Dfam-consortium", "type": "Organization"}
-date: "2026-04-04 14:47:45.232790"
+date: "2026-04-11 14:50:27.539448"
 ---

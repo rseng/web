@@ -18,5 +18,5 @@ watchers_count: 45
 language: "R"
 open_issues_count: 13
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
-date: "2026-04-04 14:47:45.661117"
+date: "2026-04-11 14:50:27.248368"
 ---

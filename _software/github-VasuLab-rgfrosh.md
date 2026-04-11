@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/VasuLab", "avatar_url": "https://avatars.githubusercontent.com/u/88801849?v=4", "login": "VasuLab", "type": "Organization"}
 topics: ["shock-tube", "equation-of-state", "numpy", "python", "ideal-gas", "real-gas"]
-date: "2026-04-04 14:47:45.603905"
+date: "2026-04-11 14:50:28.610512"
 ---

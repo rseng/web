@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ixakalabadie", "avatar_url": "https://avatars.githubusercontent.com/u/71155566?v=4", "login": "ixakalabadie", "type": "User"}
 topics: ["3d", "astrophysics", "datacube", "spectral-lines", "visualisation", "interac"]
-date: "2026-04-04 14:47:45.002607"
+date: "2026-04-11 14:50:28.254356"
 ---

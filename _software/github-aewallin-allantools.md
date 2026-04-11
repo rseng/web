@@ -22,5 +22,5 @@ open_issues_count: 22
 license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "spdx_id": "LGPL-3.0", "url": "https://api.github.com/licenses/lgpl-3.0", "node_id": "MDc6TGljZW5zZTEy"}
 subscribers_count: 31
 owner: {"html_url": "https://github.com/aewallin", "avatar_url": "https://avatars.githubusercontent.com/u/909509?v=4", "login": "aewallin", "type": "User"}
-date: "2026-04-04 14:47:46.186002"
+date: "2026-04-11 14:50:28.598695"
 ---

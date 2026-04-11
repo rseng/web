@@ -22,5 +22,5 @@ open_issues_count: 9
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/ocxtal", "avatar_url": "https://avatars.githubusercontent.com/u/16234240?v=4", "login": "ocxtal", "type": "User"}
-date: "2026-04-04 14:47:45.346226"
+date: "2026-04-11 14:50:27.748137"
 ---

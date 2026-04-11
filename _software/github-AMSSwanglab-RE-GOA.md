@@ -19,5 +19,5 @@ watchers_count: 5
 language: "Python"
 owner: {"html_url": "https://github.com/AMSSwanglab", "avatar_url": "https://avatars.githubusercontent.com/u/44538141?v=4", "login": "AMSSwanglab", "type": "Organization"}
 topics: ["gene-ontology", "network-embedding", "regulatory-elements"]
-date: "2026-04-04 14:47:46.310933"
+date: "2026-04-11 14:50:27.634293"
 ---

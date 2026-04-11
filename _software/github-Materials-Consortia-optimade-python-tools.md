@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/Materials-Consortia", "avatar_url": "https://avatars.githubusercontent.com/u/23107754?v=4", "login": "Materials-Consortia", "type": "Organization"}
 topics: ["optimade-specification", "optimade-python", "optimade-api", "openapi", "python"]
-date: "2026-04-04 14:47:46.193194"
+date: "2026-04-11 14:50:28.410778"
 ---

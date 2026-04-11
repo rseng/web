@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/datagrok-ai/diff-grok"
+url: "https://github.com/datagrok-ai/diff-grok"
+timestamp: "2026-04-05 01:20:19.213497"
+description: "Lightweight library for solving initial value problem for ordinary differential equations"
+avatar: "https://avatars.githubusercontent.com/u/57326445?v=4"
+repo_url: "https://github.com/datagrok-ai/diff-grok"
+doi: "https://doi.org/10.5281/zenodo.19219694"
+name: "diff-grok"
+full_name: "datagrok-ai/diff-grok"
+html_url: "https://github.com/datagrok-ai/diff-grok"
+created_at: "2025-01-24T16:12:34Z"
+updated_at: "2026-04-01T16:47:00Z"
+clone_url: "https://github.com/datagrok-ai/diff-grok.git"
+homepage: "https://datagrok-ai.github.io/diff-grok/"
+size: 4343
+stargazers_count: 1
+watchers_count: 1
+language: "TypeScript"
+open_issues_count: 1
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 3
+owner: {"html_url": "https://github.com/datagrok-ai", "avatar_url": "https://avatars.githubusercontent.com/u/57326445?v=4", "login": "datagrok-ai", "type": "Organization"}
+topics: ["initial-value-problem", "modeling", "multi-stage-modeling", "ordinary-differential-equations", "stiff-ode", "non-stiff-ode"]
+date: "2026-04-11 14:50:27.621146"
+---

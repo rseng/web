@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 29
 owner: {"html_url": "https://github.com/MilesCranmer", "avatar_url": "https://avatars.githubusercontent.com/u/7593028?v=4", "login": "MilesCranmer", "type": "User"}
 topics: ["symbolic-regression", "machine-learning", "python", "julia", "genetic-algorithm", "automl", "interpretable-ml", "data-science", "explainable-ai", "scikit-learn", "symbolic", "algorithm", "distributed-systems", "evolutionary-algorithms", "equation-discovery"]
-date: "2026-04-04 14:47:45.601213"
+date: "2026-04-11 14:50:27.912281"
 ---

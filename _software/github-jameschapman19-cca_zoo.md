@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jameschapman19", "avatar_url": "https://avatars.githubusercontent.com/u/56592797?v=4", "login": "jameschapman19", "type": "User"}
 topics: ["dcca", "deep", "cca", "canonical-correlation-analysis", "kernel", "multiview", "pytorch", "cca-zoo", "multiset-cca", "tensor-cca", "pls"]
-date: "2026-04-04 14:47:46.614803"
+date: "2026-04-11 14:50:27.873624"
 ---

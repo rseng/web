@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/cbml-forth/lethe_anon_pipeline"
+url: "https://github.com/cbml-forth/lethe_anon_pipeline"
+timestamp: "2026-04-05 01:20:32.778518"
+description: "DICOM anonymization pipeline"
+avatar: "https://avatars.githubusercontent.com/u/24669067?v=4"
+repo_url: "https://github.com/cbml-forth/lethe_anon_pipeline"
+doi: "10.5281/zenodo.19097245"
+name: "lethe_anon_pipeline"
+full_name: "cbml-forth/lethe_anon_pipeline"
+html_url: "https://github.com/cbml-forth/lethe_anon_pipeline"
+created_at: "2025-10-02T12:12:59Z"
+updated_at: "2026-04-03T09:47:29Z"
+clone_url: "https://github.com/cbml-forth/lethe_anon_pipeline.git"
+size: 5328
+stargazers_count: 1
+watchers_count: 1
+language: "Python"
+open_issues_count: 1
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/cbml-forth", "avatar_url": "https://avatars.githubusercontent.com/u/24669067?v=4", "login": "cbml-forth", "type": "Organization"}
+topics: ["anonymization", "dicom"]
+date: "2026-04-11 14:50:28.644777"
+---

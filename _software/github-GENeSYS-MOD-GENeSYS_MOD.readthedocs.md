@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/GENeSYS-MOD/GENeSYS_MOD.readthedocs"
+url: "https://github.com/GENeSYS-MOD/GENeSYS_MOD.readthedocs"
+timestamp: "2026-04-05 01:20:21.117175"
+description: "The Global Energy System Model (GENeSYS-MOD) - Documentation"
+avatar: "https://avatars.githubusercontent.com/u/106666860?v=4"
+repo_url: "https://github.com/GENeSYS-MOD/GENeSYS_MOD.readthedocs"
+doi: "https://doi.org/10.5281/zenodo.19187071"
+name: "GENeSYS_MOD.readthedocs"
+full_name: "GENeSYS-MOD/GENeSYS_MOD.readthedocs"
+html_url: "https://github.com/GENeSYS-MOD/GENeSYS_MOD.readthedocs"
+created_at: "2024-10-11T14:12:04Z"
+updated_at: "2026-02-27T15:41:41Z"
+clone_url: "https://github.com/GENeSYS-MOD/GENeSYS_MOD.readthedocs.git"
+size: 5445
+stargazers_count: 1
+watchers_count: 1
+open_issues_count: 1
+license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
+subscribers_count: 4
+owner: {"html_url": "https://github.com/GENeSYS-MOD", "avatar_url": "https://avatars.githubusercontent.com/u/106666860?v=4", "login": "GENeSYS-MOD", "type": "Organization"}
+date: "2026-04-11 14:50:28.843873"
+---

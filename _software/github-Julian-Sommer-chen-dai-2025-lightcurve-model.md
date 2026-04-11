@@ -18,5 +18,5 @@ stargazers_count: 1
 watchers_count: 1
 language: "Python"
 owner: {"html_url": "https://github.com/Julian-Sommer", "avatar_url": "https://avatars.githubusercontent.com/u/65716879?v=4", "login": "Julian-Sommer", "type": "User"}
-date: "2026-04-04 14:47:45.178865"
+date: "2026-04-11 14:50:27.403749"
 ---

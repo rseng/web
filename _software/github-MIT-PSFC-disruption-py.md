@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/MIT-PSFC/disruption-py"
+url: "https://github.com/MIT-PSFC/disruption-py"
+timestamp: "2026-04-05 01:20:21.562055"
+description: "An open-source physics-based Scientific Framework for Disruption Analysis of Fusion Plasmas for AI/ML applications"
+avatar: "https://avatars.githubusercontent.com/u/127346817?v=4"
+repo_url: "https://github.com/MIT-PSFC/disruption-py"
+doi: "https://doi.org/10.5281/zenodo.19051387"
+name: "disruption-py"
+full_name: "MIT-PSFC/disruption-py"
+html_url: "https://github.com/MIT-PSFC/disruption-py"
+created_at: "2021-12-09T16:39:06Z"
+updated_at: "2026-04-02T18:06:55Z"
+clone_url: "https://github.com/MIT-PSFC/disruption-py.git"
+homepage: "https://mit-psfc.github.io/disruption-py/"
+size: 50298
+stargazers_count: 36
+watchers_count: 36
+language: "Python"
+open_issues_count: 17
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 5
+owner: {"html_url": "https://github.com/MIT-PSFC", "avatar_url": "https://avatars.githubusercontent.com/u/127346817?v=4", "login": "MIT-PSFC", "type": "Organization"}
+date: "2026-04-11 14:50:28.407890"
+---

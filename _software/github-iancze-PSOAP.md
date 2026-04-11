@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/iancze", "avatar_url": "https://avatars.githubusercontent.com/u/467948?v=4", "login": "iancze", "type": "User"}
 topics: ["astronomy", "spectroscopy", "radial", "velocity", "python", "gaussian-processes", "radial-velocities", "spectra", "exoplanet", "orbit"]
-date: "2026-04-04 14:47:45.710361"
+date: "2026-04-11 14:50:28.408407"
 ---

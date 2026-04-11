@@ -23,5 +23,5 @@ topics: ["swagger-ui", "sparql", "linked-data", "semantic-web", "api", "linked-d
 timestamp: "2020-07-04 13:22:39.072176"
 avatar: "https://avatars0.githubusercontent.com/u/15210767?v=4"
 repo_url: "https://github.com/CLARIAH/grlc"
-date: "2026-04-04 14:47:45.067845"
+date: "2026-04-11 14:50:28.140899"
 ---

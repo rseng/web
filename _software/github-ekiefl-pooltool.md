@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 10
 owner: {"html_url": "https://github.com/ekiefl", "avatar_url": "https://avatars.githubusercontent.com/u/8688665?v=4", "login": "ekiefl", "type": "User"}
 topics: ["billiards", "panda3d", "physics", "pool", "python", "snooker", "simulation", "eight-ball"]
-date: "2026-04-04 14:47:44.933406"
+date: "2026-04-11 14:50:27.217879"
 ---

@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/SpaceOdyssey", "avatar_url": "https://avatars.githubusercontent.com/u/20017927?v=4", "login": "SpaceOdyssey", "type": "User"}
 topics: ["astrophysics", "bayesian-inference", "spectroscopy"]
-date: "2026-04-04 14:47:45.162724"
+date: "2026-04-11 14:50:28.860753"
 ---

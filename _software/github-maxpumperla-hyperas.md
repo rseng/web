@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 62
 owner: {"html_url": "https://github.com/maxpumperla", "avatar_url": "https://avatars.githubusercontent.com/u/3462566?v=4", "login": "maxpumperla", "type": "User"}
 topics: ["hyperopt", "keras", "hyperparameter-optimization"]
-date: "2026-04-04 14:47:45.232061"
+date: "2026-04-11 14:50:28.415311"
 ---

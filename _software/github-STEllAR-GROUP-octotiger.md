@@ -24,5 +24,5 @@ license: {"key": "bsl-1.0", "name": "Boost Software License 1.0", "spdx_id": "BS
 subscribers_count: 10
 owner: {"html_url": "https://github.com/STEllAR-GROUP", "avatar_url": "https://avatars.githubusercontent.com/u/1780988?v=4", "login": "STEllAR-GROUP", "type": "Organization"}
 topics: ["astrophysics", "hpx", "cuda-kernels", "cuda", "stellar-mergers"]
-date: "2026-04-04 14:47:46.351792"
+date: "2026-04-11 14:50:28.684972"
 ---

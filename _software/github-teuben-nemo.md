@@ -24,5 +24,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/teuben", "avatar_url": "https://avatars.githubusercontent.com/u/3393049?v=4", "login": "teuben", "type": "User"}
 topics: ["galactic-astronomy", "image-analysis", "orbital-simulation", "fits-files", "tabular-data", "nbody-gravity"]
-date: "2026-04-04 14:47:45.754020"
+date: "2026-04-11 14:50:28.499764"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/mrc-ide", "avatar_url": "https://avatars.githubusercontent.com/u/25453642?v=4", "login": "mrc-ide", "type": "Organization"}
 topics: ["infrastructure", "cluster"]
-date: "2026-04-04 14:47:46.158229"
+date: "2026-04-11 14:50:27.720592"
 ---
