@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/CAMI-challenge", "avatar_url": "https://avatars.githubusercontent.com/u/8009060?v=4", "login": "CAMI-challenge", "type": "Organization"}
 topics: ["binning", "metagenomics", "benchmarking", "biobox"]
-date: "2026-04-11 14:50:28.278113"
+date: "2026-04-18 14:54:11.748610"
 ---

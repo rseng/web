@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/prashjet", "avatar_url": "https://avatars.githubusercontent.com/u/34376548?v=4", "login": "prashjet", "type": "User"}
 topics: ["astronomy", "astrophysics", "datacube", "galaxy", "python", "spectroscopy", "stellar-kinematics", "stellar-populations"]
-date: "2026-04-11 14:50:28.008802"
+date: "2026-04-18 14:54:11.475972"
 ---

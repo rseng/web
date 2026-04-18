@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/synthesizer-project", "avatar_url": "https://avatars.githubusercontent.com/u/182127563?v=4", "login": "synthesizer-project", "type": "Organization"}
 topics: ["astrophysics", "numerical-simulations", "synthetic-data"]
-date: "2026-04-11 14:50:27.386604"
+date: "2026-04-18 14:54:10.853832"
 ---

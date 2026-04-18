@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ArnaudCassan", "avatar_url": "https://avatars.githubusercontent.com/u/25842440?v=4", "login": "ArnaudCassan", "type": "User"}
 topics: ["microlensing", "astronomy", "numerical-computation", "caustics", "critical-curves"]
-date: "2026-04-11 14:50:28.632480"
+date: "2026-04-18 14:54:12.108081"
 ---

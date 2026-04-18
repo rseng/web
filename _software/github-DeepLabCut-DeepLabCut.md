@@ -24,5 +24,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 120
 owner: {"html_url": "https://github.com/DeepLabCut", "avatar_url": "https://avatars.githubusercontent.com/u/59848143?v=4", "login": "DeepLabCut", "type": "Organization"}
 topics: ["behavior-analysis", "deep-learning", "pose-estimation", "feature-detectors", "toolbox", "deeplabcut", "animal-pose-estimation", "labeling-tool", "keypoint-tracking", "keypoint-detection"]
-date: "2026-04-11 14:50:28.447928"
+date: "2026-04-18 14:54:11.920661"
 ---

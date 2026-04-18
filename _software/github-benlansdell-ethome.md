@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/benlansdell", "avatar_url": "https://avatars.githubusercontent.com/u/7505975?v=4", "login": "benlansdell", "type": "User"}
 topics: ["boris", "dlc", "pose-tracking", "supervised-learning", "deeplabcut", "neurodata-without-borders", "ndx-pose"]
-date: "2026-04-11 14:50:28.689450"
+date: "2026-04-18 14:54:12.166570"
 ---

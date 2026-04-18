@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/bioinfodlsu", "avatar_url": "https://avatars.githubusercontent.com/u/121936683?v=4", "login": "bioinfodlsu", "type": "Organization"}
 topics: ["bioinformatics", "deep-learning", "genomics", "machine-learning", "phage-host-prediction", "protein", "protein-embedding", "protein-language-model", "protein-structure", "proteomics", "representation-learning", "transfer-learning", "transformer", "alphafold", "alphafold2"]
-date: "2026-04-11 14:50:28.479396"
+date: "2026-04-18 14:54:11.952486"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/dfki-ric", "avatar_url": "https://avatars.githubusercontent.com/u/37366708?v=4", "login": "dfki-ric", "type": "Organization"}
 topics: ["launch", "ros2"]
-date: "2026-04-11 14:50:28.707602"
+date: "2026-04-18 14:54:12.184954"
 ---

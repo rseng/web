@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 7
 owner: {"html_url": "https://github.com/artis-mcrt", "avatar_url": "https://avatars.githubusercontent.com/u/80631204?v=4", "login": "artis-mcrt", "type": "Organization"}
 topics: ["monte-carlo"]
-date: "2026-04-11 14:50:27.158652"
+date: "2026-04-18 14:54:10.620757"
 ---

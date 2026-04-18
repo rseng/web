@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/cschreib", "avatar_url": "https://avatars.githubusercontent.com/u/2236577?v=4", "login": "cschreib", "type": "User"}
 topics: ["tool", "astronomy", "astrophysics", "catalog", "mock"]
-date: "2026-04-11 14:50:28.786318"
+date: "2026-04-18 14:54:12.264510"
 ---

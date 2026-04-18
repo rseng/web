@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/adrientaudiere", "avatar_url": "https://avatars.githubusercontent.com/u/6680165?v=4", "login": "adrientaudiere", "type": "User"}
 topics: ["ecology", "metabarcoding", "ngs-analysis", "package", "r"]
-date: "2026-04-11 14:50:28.377632"
+date: "2026-04-18 14:54:11.849335"
 ---

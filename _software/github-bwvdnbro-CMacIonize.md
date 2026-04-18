@@ -24,5 +24,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/bwvdnbro", "avatar_url": "https://avatars.githubusercontent.com/u/7336967?v=4", "login": "bwvdnbro", "type": "User"}
 topics: ["simulation", "radiative-transfer", "hydrodynamics", "post-processing"]
-date: "2026-04-11 14:50:27.561625"
+date: "2026-04-18 14:54:11.021889"
 ---

@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 24
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "genome-retrieval", "biomart", "database-retrieval", "ncbi-genbank", "genomics", "ensembl-servers", "sequenced-genomes", "proteome", "genome", "genome-annotation", "metagenomics", "meta-analysis", "rstats", "r-package", "peer-reviewed", "annotation-retrieval", "biological-data-retrieval", "BioMart", "ENSEMBL", "genomic-data-retrieval", "NCBI", "data-access"]
-date: "2026-04-11 14:50:27.316742"
+date: "2026-04-18 14:54:10.782560"
 ---

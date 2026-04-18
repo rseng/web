@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/AD-SDL", "avatar_url": "https://avatars.githubusercontent.com/u/85184949?v=4", "login": "AD-SDL", "type": "Organization"}
 topics: ["lab-automation", "robotics", "self-driving-lab", "self-driving-laboratories", "autonomous-discovery"]
-date: "2026-04-11 14:50:28.464300"
+date: "2026-04-18 14:54:11.937227"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/peterspackman", "avatar_url": "https://avatars.githubusercontent.com/u/7966525?v=4", "login": "peterspackman", "type": "User"}
 topics: ["chemistry", "library", "quantum-chemistry", "cpp17"]
-date: "2026-04-11 14:50:27.702039"
+date: "2026-04-18 14:54:11.164528"
 ---

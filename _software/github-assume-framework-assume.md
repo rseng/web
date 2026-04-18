@@ -22,5 +22,5 @@ open_issues_count: 20
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/assume-framework", "avatar_url": "https://avatars.githubusercontent.com/u/131251735?v=4", "login": "assume-framework", "type": "Organization"}
-date: "2026-04-11 14:50:28.584981"
+date: "2026-04-18 14:54:12.059486"
 ---

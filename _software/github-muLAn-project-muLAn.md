@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/muLAn-project", "avatar_url": "https://avatars.githubusercontent.com/u/29952484?v=4", "login": "muLAn-project", "type": "Organization"}
 topics: ["microlensing", "modelling", "astronomy", "science"]
-date: "2026-04-11 14:50:28.242607"
+date: "2026-04-18 14:54:11.712754"
 ---
