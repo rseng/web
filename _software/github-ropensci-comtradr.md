@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 8
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["comtrade", "api", "supply-chain", "r", "rstats", "r-package", "peer-reviewed", "data-access"]
-date: "2026-04-18 14:54:10.730301"
+date: "2026-04-25 14:56:05.707860"
 ---

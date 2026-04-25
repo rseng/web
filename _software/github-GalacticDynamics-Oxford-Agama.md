@@ -22,5 +22,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 16
 owner: {"html_url": "https://github.com/GalacticDynamics-Oxford", "avatar_url": "https://avatars.githubusercontent.com/u/9365694?v=4", "login": "GalacticDynamics-Oxford", "type": "Organization"}
-date: "2026-04-18 14:54:11.353493"
+date: "2026-04-25 14:56:06.135833"
 ---

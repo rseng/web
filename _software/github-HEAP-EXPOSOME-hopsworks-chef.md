@@ -15,5 +15,5 @@ clone_url: "https://github.com/HEAP-EXPOSOME/hopsworks-chef.git"
 size: 7105
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 owner: {"html_url": "https://github.com/HEAP-EXPOSOME", "avatar_url": "https://avatars.githubusercontent.com/u/86734080?v=4", "login": "HEAP-EXPOSOME", "type": "Organization"}
-date: "2026-04-18 14:54:11.994725"
+date: "2026-04-25 14:56:06.580969"
 ---

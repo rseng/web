@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:15.191079"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-molviewer"
-date: "2026-04-18 14:54:11.988727"
+date: "2026-04-25 14:56:06.576908"
 ---

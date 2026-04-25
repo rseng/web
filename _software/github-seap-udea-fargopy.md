@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/seap-udea/fargopy"
+url: "https://github.com/seap-udea/fargopy"
+timestamp: "2026-04-19 01:27:37.587460"
+description: "A Python wrapping to FARGO3D"
+avatar: "https://avatars.githubusercontent.com/u/11349479?v=4"
+repo_url: "https://github.com/seap-udea/fargopy"
+title: "FARGOpy: A Python Package for Post-processing and Analyzing FARGO3D Hydrodynamical Simulations"
+name: "fargopy"
+full_name: "seap-udea/fargopy"
+html_url: "https://github.com/seap-udea/fargopy"
+created_at: "2023-11-15T20:54:00Z"
+updated_at: "2026-04-17T15:45:50Z"
+clone_url: "https://github.com/seap-udea/fargopy.git"
+size: 815926
+stargazers_count: 1
+watchers_count: 1
+language: "Jupyter Notebook"
+license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/seap-udea", "avatar_url": "https://avatars.githubusercontent.com/u/11349479?v=4", "login": "seap-udea", "type": "User"}
+date: "2026-04-25 14:56:06.621717"
+---

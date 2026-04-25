@@ -1,0 +1,21 @@
+---
+parser: "github"
+uid: "github/Simthembile/frb-png-pipeline"
+url: "https://github.com/Simthembile/frb-png-pipeline"
+timestamp: "2026-04-19 01:27:36.936232"
+description: "Constraining Primordial Non-Gaussianity with Fast Radio Burst Dispersion Measure and Timing Cross-Spectra"
+avatar: "https://avatars.githubusercontent.com/u/20681273?v=4"
+repo_url: "https://github.com/Simthembile/frb-png-pipeline"
+title: "FRB DM cross Timing: Primordial Non-Gaussianity Fisher Pipeline"
+name: "frb-png-pipeline"
+full_name: "Simthembile/frb-png-pipeline"
+html_url: "https://github.com/Simthembile/frb-png-pipeline"
+created_at: "2026-04-06T13:44:45Z"
+updated_at: "2026-04-10T00:46:55Z"
+clone_url: "https://github.com/Simthembile/frb-png-pipeline.git"
+size: 33
+language: "Python"
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+owner: {"html_url": "https://github.com/Simthembile", "avatar_url": "https://avatars.githubusercontent.com/u/20681273?v=4", "login": "Simthembile", "type": "User"}
+date: "2026-04-25 14:56:06.125234"
+---

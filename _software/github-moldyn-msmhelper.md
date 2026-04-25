@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/moldyn", "avatar_url": "https://avatars.githubusercontent.com/u/45035941?v=4", "login": "moldyn", "type": "Organization"}
-date: "2026-04-18 14:54:12.254203"
+date: "2026-04-25 14:56:06.758720"
 ---

@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/alesantuz", "avatar_url": "https://avatars.githubusercontent.com/u/7524938?v=4", "login": "alesantuz", "type": "User"}
 topics: ["muscle-synergies", "emg", "nmf", "rstudio", "r", "physiol"]
-date: "2026-04-18 14:54:11.005473"
+date: "2026-04-25 14:56:05.896973"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 6
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "survey", "aapor", "standards", "disposition-codes", "peer-reviewed", "r-package", "rstats", "scalereprod"]
-date: "2026-04-18 14:54:10.751777"
+date: "2026-04-25 14:56:05.722291"
 ---

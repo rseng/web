@@ -19,5 +19,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Materials-Consortia", "avatar_url": "https://avatars.githubusercontent.com/u/23107754?v=4", "login": "Materials-Consortia", "type": "Organization"}
 topics: ["perl5", "optimade", "parser"]
-date: "2026-04-18 14:54:11.883285"
+date: "2026-04-25 14:56:06.503589"
 ---
