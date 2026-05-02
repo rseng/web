@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/COVID-IWG", "avatar_url": "https://avatars.githubusercontent.com/u/82750933?v=4", "login": "COVID-IWG", "type": "Organization"}
 topics: ["covid19", "bayesian-methods", "india", "sird-model", "stochastic-modeling"]
-date: "2026-04-25 14:56:05.816321"
+date: "2026-05-02 15:01:11.115408"
 ---

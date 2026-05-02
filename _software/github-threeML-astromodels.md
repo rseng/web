@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/threeML", "avatar_url": "https://avatars.githubusercontent.com/u/44911645?v=4", "login": "threeML", "type": "Organization"}
 topics: ["astrophysics", "spectral-models", "modeling-tool", "astronomy", "multi-wavelength", "multi-messenger"]
-date: "2026-04-25 14:56:05.662192"
+date: "2026-05-02 15:01:10.889746"
 ---

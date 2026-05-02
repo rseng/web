@@ -24,5 +24,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 9
 owner: {"html_url": "https://github.com/astrorama", "avatar_url": "https://avatars.githubusercontent.com/u/48352705?v=4", "login": "astrorama", "type": "Organization"}
 topics: ["astronomy", "c-plus-plus", "science", "model-fitting"]
-date: "2026-04-25 14:56:06.477670"
+date: "2026-05-02 15:01:12.082637"
 ---

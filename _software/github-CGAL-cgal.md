@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 156
 owner: {"html_url": "https://github.com/CGAL", "avatar_url": "https://avatars0.githubusercontent.com/u/5746664?v=4", "login": "CGAL", "type": "Organization"}
 topics: ["cgal", "c-plus-plus", "geometry", "algorithms", "library", "cpp", "template-library", "geometry-processing", "computational-geometry", "triangulation", "mesh-processing", "arrange", "point-cloud", "boolean-operations", "polygon", "meshes", "voronoi-diagram"]
-date: "2026-04-25 14:56:06.041238"
+date: "2026-05-02 15:01:11.446450"
 ---

@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 20
 owner: {"html_url": "https://github.com/Ecogenomics", "avatar_url": "https://avatars.githubusercontent.com/u/1404161?v=4", "login": "Ecogenomics", "type": "Organization"}
 topics: ["taxonomy", "species-assignments", "phylogenetics", "archaea", "bacteria", "nomenclature", "bioinformatics", "metagenomics"]
-date: "2026-04-25 14:56:06.689835"
+date: "2026-05-02 15:01:12.442586"
 ---

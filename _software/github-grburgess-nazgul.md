@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/grburgess", "avatar_url": "https://avatars.githubusercontent.com/u/6764007?v=4", "login": "grburgess", "type": "User"}
 topics: ["grb", "localization", "random-fourier-features", "non-parametric-inference", "time-series-analysis", "stan", "fermi"]
-date: "2026-04-25 14:56:06.004367"
+date: "2026-05-02 15:01:11.392301"
 ---

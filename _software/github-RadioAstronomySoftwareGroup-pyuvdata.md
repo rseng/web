@@ -24,5 +24,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 31
 owner: {"html_url": "https://github.com/RadioAstronomySoftwareGroup", "avatar_url": "https://avatars.githubusercontent.com/u/41453363?v=4", "login": "RadioAstronomySoftwareGroup", "type": "Organization"}
 topics: ["python", "astronomy", "radio-astronomy", "interferometry"]
-date: "2026-04-25 14:56:06.085754"
+date: "2026-05-02 15:01:11.511282"
 ---

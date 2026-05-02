@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/ICB-DCM", "avatar_url": "https://avatars.githubusercontent.com/u/17879961?v=4", "login": "ICB-DCM", "type": "Organization"}
 topics: ["abc", "approximate-bayesian-inference", "likelihood-free-inference", "parameter-inference"]
-date: "2026-04-25 14:56:05.853727"
+date: "2026-05-02 15:01:11.170528"
 ---

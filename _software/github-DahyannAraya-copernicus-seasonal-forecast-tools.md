@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/DahyannAraya", "avatar_url": "https://avatars.githubusercontent.com/u/144444954?v=4", "login": "DahyannAraya", "type": "User"}
 topics: ["cds", "cds-api", "climada", "climate-adaptation", "copernicus", "copernicus-climate-data-store", "open-source", "python", "seasonal-forecast", "climate-hazard-modeling", "hazard-modeling", "c3s", "copernicus-climate-change-service", "dwd", "copernicus-api", "c3s-seasonal-forecast"]
-date: "2026-04-25 14:56:06.724717"
+date: "2026-05-02 15:01:12.493625"
 ---

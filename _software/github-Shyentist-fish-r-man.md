@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Shyentist", "avatar_url": "https://avatars.githubusercontent.com/u/44335296?v=4", "login": "Shyentist", "type": "User"}
 topics: ["marine-biology", "fisheries", "fisheries-research", "fisheries-management", "shiny", "r", "open-source", "globalfishingwatch", "global-fishing-watch", "dashboard", "fishing-effort"]
-date: "2026-04-25 14:56:06.722991"
+date: "2026-05-02 15:01:12.491120"
 ---

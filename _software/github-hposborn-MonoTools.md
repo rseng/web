@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 3
 owner: {"html_url": "https://github.com/hposborn", "avatar_url": "https://avatars.githubusercontent.com/u/13677414?v=4", "login": "hposborn", "type": "User"}
 topics: ["transits", "lightcurve", "planets", "exoplanet", "duo-transits"]
-date: "2026-04-25 14:56:06.102275"
+date: "2026-05-02 15:01:11.534860"
 ---

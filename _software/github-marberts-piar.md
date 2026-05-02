@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/marberts", "avatar_url": "https://avatars.githubusercontent.com/u/62676717?v=4", "login": "marberts", "type": "User"}
 topics: ["cran", "economics", "r", "r-package", "statistics", "rstats", "inflation", "official-statistics"]
-date: "2026-04-25 14:56:06.187445"
+date: "2026-05-02 15:01:11.659135"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/hajimes", "avatar_url": "https://avatars.githubusercontent.com/u/1262041?v=4", "login": "hajimes", "type": "User"}
 topics: ["cpython", "hash", "murmurhash", "python", "murmurhash3"]
-date: "2026-04-25 14:56:06.368763"
+date: "2026-05-02 15:01:11.923896"
 ---

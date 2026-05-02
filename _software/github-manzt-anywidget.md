@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/manzt", "avatar_url": "https://avatars.githubusercontent.com/u/24403730?v=4", "login": "manzt", "type": "User"}
 topics: ["jupyter", "python", "widgets"]
-date: "2026-04-25 14:56:06.253235"
+date: "2026-05-02 15:01:11.755177"
 ---

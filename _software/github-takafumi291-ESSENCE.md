@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/takafumi291", "avatar_url": "https://avatars.githubusercontent.com/u/44293952?v=4", "login": "takafumi291", "type": "User"}
 topics: ["astronomy", "astronomy-astrophysics", "image", "noise-generator", "image-processing", "statistics"]
-date: "2026-04-25 14:56:06.121721"
+date: "2026-05-02 15:01:11.563243"
 ---

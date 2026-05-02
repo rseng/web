@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jtschindler", "avatar_url": "https://avatars.githubusercontent.com/u/16090889?v=4", "login": "jtschindler", "type": "User"}
 topics: ["lmfit", "gui", "sculptor", "astronomy", "astrophysics", "spectroscopy"]
-date: "2026-04-25 14:56:05.988361"
+date: "2026-05-02 15:01:11.368631"
 ---

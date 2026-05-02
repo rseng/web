@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/wfondrie", "avatar_url": "https://avatars.githubusercontent.com/u/9124668?v=4", "login": "wfondrie", "type": "User"}
 topics: ["proteomics", "machine-learning", "bioinformatics", "python", "conda", "peptide-detection", "percolator"]
-date: "2026-04-25 14:56:06.185783"
+date: "2026-05-02 15:01:11.656699"
 ---

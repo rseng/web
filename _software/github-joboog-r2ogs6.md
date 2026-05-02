@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/joboog", "avatar_url": "https://avatars.githubusercontent.com/u/24472234?v=4", "login": "joboog", "type": "User"}
 topics: ["geoscience", "hydrogeology", "hydrology", "multi-physics", "opengeosys", "porous-media-flow", "r", "transport-modelling"]
-date: "2026-04-25 14:56:06.633406"
+date: "2026-05-02 15:01:12.357146"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/nebblu", "avatar_url": "https://avatars.githubusercontent.com/u/45853389?v=4", "login": "nebblu", "type": "User"}
-date: "2026-04-25 14:56:05.868802"
+date: "2026-05-02 15:01:11.192579"
 ---

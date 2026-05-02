@@ -23,5 +23,5 @@ topics: ["solar-energy", "python", "renewable-energy", "renewables", "photovolta
 timestamp: "2020-07-04 13:22:20.875456"
 avatar: "https://avatars3.githubusercontent.com/u/11037261?v=4"
 repo_url: "https://github.com/pvlib/pvlib-python"
-date: "2026-04-25 14:56:06.627287"
+date: "2026-05-02 15:01:12.347993"
 ---

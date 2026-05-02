@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/llrs", "avatar_url": "https://avatars.githubusercontent.com/u/6818218?v=4", "login": "llrs", "type": "User"}
 topics: ["experiment-design", "batch", "cran"]
-date: "2026-04-25 14:56:06.350331"
+date: "2026-05-02 15:01:11.897072"
 ---

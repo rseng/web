@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:49.043605"
 avatar: "https://avatars1.githubusercontent.com/u/828302?v=4"
 repo_url: "https://github.com/PyTables/PyTables"
-date: "2026-04-25 14:56:06.002362"
+date: "2026-05-02 15:01:11.389373"
 ---
