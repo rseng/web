@@ -21,5 +21,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/PRIDE-Archive", "avatar_url": "https://avatars.githubusercontent.com/u/10128554?v=4", "login": "PRIDE-Archive", "type": "Organization"}
 topics: ["pride-database", "pride", "python", "proteomics", "mass-spectrometry", "python-client"]
-date: "2026-05-02 15:01:12.015278"
+date: "2026-05-09 15:06:51.947143"
 ---

@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Protea-Glycosciences", "avatar_url": "https://avatars.githubusercontent.com/u/160320341?v=4", "login": "Protea-Glycosciences", "type": "Organization"}
 topics: ["glycans", "glycobiology", "glycomics", "n-glycosylation", "o-glycosylation", "polysaccharides"]
-date: "2026-05-02 15:01:12.015756"
+date: "2026-05-09 15:06:51.947780"
 ---

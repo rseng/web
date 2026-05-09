@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AstroAI-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/111747777?v=4", "login": "AstroAI-Lab", "type": "Organization"}
 topics: ["chemical-reaction-networks", "deeponet", "neuralode", "ode", "operator-learning", "surrogate-models"]
-date: "2026-05-02 15:01:11.713296"
+date: "2026-05-09 15:06:51.641703"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/Music-and-Culture-Technology-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/46015501?v=4", "login": "Music-and-Culture-Technology-Lab", "type": "Organization"}
 topics: ["music-transcription", "drum-transcription", "vocal", "beat-tracking", "chord", "music-information-retrieval"]
-date: "2026-05-02 15:01:11.813106"
+date: "2026-05-09 15:06:51.743119"
 ---

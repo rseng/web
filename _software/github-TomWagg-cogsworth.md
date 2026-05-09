@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/TomWagg", "avatar_url": "https://avatars.githubusercontent.com/u/21990332?v=4", "login": "TomWagg", "type": "User"}
 topics: ["astrophysics", "galactic-dynamics", "population-synthesis", "python"]
-date: "2026-05-02 15:01:12.349483"
+date: "2026-05-09 15:06:52.232228"
 ---

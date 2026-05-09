@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JoWestermann", "avatar_url": "https://avatars.githubusercontent.com/u/91186482?v=4", "login": "JoWestermann", "type": "User"}
 topics: ["barycentric-interpolation", "jax", "polynomial-interpolation", "sparse-grids", "smolyak-operator", "numba", "polynomial-chaos"]
-date: "2026-05-02 15:01:11.649614"
+date: "2026-05-09 15:06:51.578544"
 ---

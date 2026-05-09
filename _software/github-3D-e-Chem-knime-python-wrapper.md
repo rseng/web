@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:07.148367"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-python-wrapper"
-date: "2026-05-02 15:01:12.219446"
+date: "2026-05-09 15:06:52.152062"
 ---

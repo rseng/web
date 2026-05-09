@@ -24,5 +24,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 169
 owner: {"html_url": "https://github.com/jonas", "avatar_url": "https://avatars.githubusercontent.com/u/8417?v=4", "login": "jonas", "type": "User"}
 topics: ["git", "c", "ncurses", "tui"]
-date: "2026-05-02 15:01:12.611108"
+date: "2026-05-09 15:06:52.492545"
 ---

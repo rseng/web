@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/adtzlr", "avatar_url": "https://avatars.githubusercontent.com/u/5793153?v=4", "login": "adtzlr", "type": "User"}
 topics: ["finite-element-analysis", "python", "hyperelasticity", "fem", "partial-differential-equations", "pde", "scientific-computing", "solid-mechanics", "fea", "finite-element-methods", "solid-mechanics-codes", "finite-elements", "umat", "3d", "jax"]
-date: "2026-05-02 15:01:12.217777"
+date: "2026-05-09 15:06:52.150392"
 ---

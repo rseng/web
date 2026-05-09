@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/soedinglab", "avatar_url": "https://avatars.githubusercontent.com/u/7237671?v=4", "login": "soedinglab", "type": "Organization"}
 topics: ["bioinformatics", "metagenomics", "sequence-assembler", "proteins", "opensource", "proteomics", "metatranscriptomics"]
-date: "2026-05-02 15:01:12.430930"
+date: "2026-05-09 15:06:52.312099"
 ---
