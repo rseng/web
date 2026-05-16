@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 13
 owner: {"html_url": "https://github.com/PennyLaneAI", "avatar_url": "https://avatars.githubusercontent.com/u/64286425?v=4", "login": "PennyLaneAI", "type": "Organization"}
 topics: ["jit", "mlir", "qir", "quantum-compiler", "autodiff", "automatic-differentiation", "jax", "llvm", "python", "quantum", "quantum-computing", "pennylane"]
-date: "2026-05-09 15:06:52.254305"
+date: "2026-05-16 15:10:43.972006"
 ---

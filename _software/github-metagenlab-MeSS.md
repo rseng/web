@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/metagenlab", "avatar_url": "https://avatars.githubusercontent.com/u/33333195?v=4", "login": "metagenlab", "type": "Organization"}
 topics: ["bioinformatics", "shotgun-metagenomics", "snakemake-workflow"]
-date: "2026-05-09 15:06:51.845152"
+date: "2026-05-16 15:10:42.927471"
 ---

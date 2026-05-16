@@ -20,5 +20,5 @@ open_issues_count: 2
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/florpi", "avatar_url": "https://avatars.githubusercontent.com/u/15879020?v=4", "login": "florpi", "type": "User"}
-date: "2026-05-09 15:06:50.968351"
+date: "2026-05-16 15:10:43.669136"
 ---

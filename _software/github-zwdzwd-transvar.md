@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/zwdzwd/transvar"
+url: "https://github.com/zwdzwd/transvar"
+timestamp: "2026-05-10 01:51:43.312526"
+description: "TransVar - multiway annotator for precision medicine"
+avatar: "https://avatars.githubusercontent.com/u/7670339?v=4"
+repo_url: "https://github.com/zwdzwd/transvar"
+doi: "10.1038/nmeth.3622"
+name: "transvar"
+full_name: "zwdzwd/transvar"
+html_url: "https://github.com/zwdzwd/transvar"
+created_at: "2016-02-02T15:55:41Z"
+updated_at: "2026-04-20T02:14:46Z"
+clone_url: "https://github.com/zwdzwd/transvar.git"
+size: 5670
+stargazers_count: 128
+watchers_count: 128
+language: "Python"
+open_issues_count: 36
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+subscribers_count: 7
+owner: {"html_url": "https://github.com/zwdzwd", "avatar_url": "https://avatars.githubusercontent.com/u/7670339?v=4", "login": "zwdzwd", "type": "User"}
+date: "2026-05-16 15:10:43.396116"
+---

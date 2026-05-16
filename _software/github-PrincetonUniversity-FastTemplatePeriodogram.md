@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/PrincetonUniversity", "avatar_url": "https://avatars.githubusercontent.com/u/1919273?v=4", "login": "PrincetonUniversity", "type": "Organization"}
 topics: ["periodogram", "nfft", "fourier-series", "harmonics", "lomb-scargle-periodogram", "frequencies", "optimal-parameters", "time-series", "astronomy", "periodic", "signal-processing"]
-date: "2026-05-09 15:06:52.310889"
+date: "2026-05-16 15:10:44.183331"
 ---

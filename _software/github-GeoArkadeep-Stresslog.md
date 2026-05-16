@@ -21,5 +21,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/GeoArkadeep", "avatar_url": "https://avatars.githubusercontent.com/u/160126374?v=4", "login": "GeoArkadeep", "type": "User"}
 topics: ["cross-platform", "geomechanics", "las-files", "pore-pressure-prediction", "well-logs", "dlis"]
-date: "2026-05-09 15:06:51.038925"
+date: "2026-05-16 15:10:42.931596"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Varnani", "avatar_url": "https://avatars.githubusercontent.com/u/32557144?v=4", "login": "Varnani", "type": "User"}
 topics: ["pyqt5", "astronomy", "astrophysics", "python3", "python27", "binary-stars"]
-date: "2026-05-09 15:06:52.124194"
+date: "2026-05-16 15:10:42.991106"
 ---

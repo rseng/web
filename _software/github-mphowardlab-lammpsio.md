@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mphowardlab", "avatar_url": "https://avatars.githubusercontent.com/u/64987711?v=4", "login": "mphowardlab", "type": "Organization"}
 topics: ["python", "lammps", "molecular-dynamics"]
-date: "2026-05-09 15:06:51.067228"
+date: "2026-05-16 15:10:42.893071"
 ---

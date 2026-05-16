@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 30
 owner: {"html_url": "https://github.com/dynamicslab", "avatar_url": "https://avatars.githubusercontent.com/u/59835780?v=4", "login": "dynamicslab", "type": "Organization"}
 topics: ["dynamical-systems", "machine-learning", "sparse-regression", "model-discovery", "system-identification", "nonlinear-dynamics"]
-date: "2026-05-09 15:06:51.359104"
+date: "2026-05-16 15:10:43.672795"
 ---

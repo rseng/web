@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/im-ethz/flirt"
+url: "https://github.com/im-ethz/flirt"
+timestamp: "2026-05-10 01:51:41.745371"
+description: "Are you ready to FLIRT with your wearable data?"
+avatar: "https://avatars.githubusercontent.com/u/72924969?v=4"
+repo_url: "https://github.com/im-ethz/flirt"
+doi: "10.1016/J.CMPB.2021.106461"
+name: "flirt"
+full_name: "im-ethz/flirt"
+html_url: "https://github.com/im-ethz/flirt"
+created_at: "2020-10-16T10:15:29Z"
+updated_at: "2026-04-09T14:34:29Z"
+clone_url: "https://github.com/im-ethz/flirt.git"
+homepage: "https://flirt.readthedocs.io"
+size: 309788
+stargazers_count: 80
+watchers_count: 80
+language: "Jupyter Notebook"
+open_issues_count: 9
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+subscribers_count: 4
+owner: {"html_url": "https://github.com/im-ethz", "avatar_url": "https://avatars.githubusercontent.com/u/72924969?v=4", "login": "im-ethz", "type": "Organization"}
+topics: ["acc", "eda", "hrv", "ai", "wearables", "machine-learning", "health", "flirt", "ubiquitous-computing", "empatica-e4", "empatica", "mhealth", "digital-signal-processing", "biosignals", "digital-biomarker"]
+date: "2026-05-16 15:10:44.149433"
+---

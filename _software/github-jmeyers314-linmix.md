@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/jmeyers314/linmix"
+url: "https://github.com/jmeyers314/linmix"
+timestamp: "2026-05-10 01:50:46.541619"
+description: "Python port of B. Kelly's LINMIX_ERR IDL package"
+avatar: "https://avatars.githubusercontent.com/u/3650485?v=4"
+repo_url: "https://github.com/jmeyers314/linmix"
+doi: ["https://scixplorer.org/abs/2025RASTI...4...35M", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04025M/abstract"]
+title: "linmix: Python port of LINMIX_ERR IDL package"
+name: "linmix"
+full_name: "jmeyers314/linmix"
+html_url: "https://github.com/jmeyers314/linmix"
+created_at: "2015-05-01T22:53:36Z"
+updated_at: "2026-01-21T22:02:58Z"
+clone_url: "https://github.com/jmeyers314/linmix.git"
+size: 544
+stargazers_count: 83
+watchers_count: 83
+language: "IDL"
+open_issues_count: 12
+license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
+subscribers_count: 8
+owner: {"html_url": "https://github.com/jmeyers314", "avatar_url": "https://avatars.githubusercontent.com/u/3650485?v=4", "login": "jmeyers314", "type": "User"}
+date: "2026-05-16 15:10:43.021808"
+---

@@ -1,0 +1,28 @@
+---
+parser: "github"
+uid: "github/william-h-oliver/astrolink"
+url: "https://github.com/william-h-oliver/astrolink"
+timestamp: "2026-05-10 01:50:55.793030"
+description: "A general-purpose algorithm for finding astrophysically-relevant clusters from point-cloud data."
+avatar: "https://avatars.githubusercontent.com/u/144013301?v=4"
+repo_url: "https://github.com/william-h-oliver/astrolink"
+doi: ["https://scixplorer.org/abs/2025PASA...42..115E", "https://scixplorer.org/abs/2024MNRAS.530.2637O", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04007O/abstract"]
+title: "AstroLink: Find astrophysically-relevant clusters from point-cloud data"
+name: "astrolink"
+full_name: "william-h-oliver/astrolink"
+html_url: "https://github.com/william-h-oliver/astrolink"
+created_at: "2024-02-09T11:07:45Z"
+updated_at: "2025-11-13T17:10:35Z"
+clone_url: "https://github.com/william-h-oliver/astrolink.git"
+homepage: "https://astrolink.readthedocs.io/"
+size: 60537
+stargazers_count: 13
+watchers_count: 13
+language: "Python"
+open_issues_count: 1
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/william-h-oliver", "avatar_url": "https://avatars.githubusercontent.com/u/144013301?v=4", "login": "william-h-oliver", "type": "User"}
+topics: ["astronomy", "astrophysics", "clustering", "clustering-algorithm", "machine-learning", "machine-learning-algorithms"]
+date: "2026-05-16 15:10:44.120171"
+---

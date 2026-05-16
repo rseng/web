@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/MREYE-LUMC", "avatar_url": "https://avatars.githubusercontent.com/u/64529547?v=4", "login": "MREYE-LUMC", "type": "Organization"}
 topics: ["python", "opticstudio", "zos-api", "zemax", "optics", "optics-simulation"]
-date: "2026-05-09 15:06:51.151483"
+date: "2026-05-16 15:10:43.508846"
 ---

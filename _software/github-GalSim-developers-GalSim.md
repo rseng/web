@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 45
 owner: {"html_url": "https://github.com/GalSim-developers", "avatar_url": "https://avatars.githubusercontent.com/u/1462196?v=4", "login": "GalSim-developers", "type": "Organization"}
 topics: ["python", "c-plus-plus", "astronomy", "galaxy", "simulation", "simulate-images", "weaklensing", "lsst", "des", "wfirst", "euclid"]
-date: "2026-05-09 15:06:51.857415"
+date: "2026-05-16 15:10:43.613276"
 ---

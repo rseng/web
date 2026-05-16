@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ptaconet", "avatar_url": "https://avatars.githubusercontent.com/u/15834351?v=4", "login": "ptaconet", "type": "User"}
 topics: ["r", "data-cube", "opendap", "environmental-data", "earth-science-data", "gpm", "land", "modis", "viirs", "nasa", "precipitation-data", "temperature-data", "vegetation-data"]
-date: "2026-05-09 15:06:52.430174"
+date: "2026-05-16 15:10:43.731001"
 ---

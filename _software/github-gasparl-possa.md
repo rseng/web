@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/gasparl", "avatar_url": "https://avatars.githubusercontent.com/u/37374850?v=4", "login": "gasparl", "type": "User"}
 topics: ["multiple-testing", "r", "r-pkg", "sequential-analyses", "sequential-design", "statistical-analysis"]
-date: "2026-05-09 15:06:51.849889"
+date: "2026-05-16 15:10:43.987460"
 ---

@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/DSIMB", "avatar_url": "https://avatars.githubusercontent.com/u/76147763?v=4", "login": "DSIMB", "type": "Organization"}
 topics: ["protein", "flexibility", "protein-sequence", "prediction", "deep-learning"]
-date: "2026-05-09 15:06:51.116388"
+date: "2026-05-16 15:10:44.268102"
 ---

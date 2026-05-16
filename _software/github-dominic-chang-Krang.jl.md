@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/dominic-chang", "avatar_url": "https://avatars.githubusercontent.com/u/12768908?v=4", "login": "dominic-chang", "type": "User"}
 topics: ["black-hole", "general-relativity", "julia", "kerr", "raytracer", "raytracing", "automatic-differentiation", "gpu-acceleration"]
-date: "2026-05-09 15:06:52.499115"
+date: "2026-05-16 15:10:43.962662"
 ---

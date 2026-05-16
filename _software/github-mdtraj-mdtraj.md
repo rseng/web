@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/mdtraj/mdtraj"
+url: "https://github.com/mdtraj/mdtraj"
+timestamp: "2026-05-10 01:51:48.416996"
+description: "An open library for the analysis of molecular dynamics trajectories"
+avatar: "https://avatars.githubusercontent.com/u/9259532?v=4"
+repo_url: "https://github.com/mdtraj/mdtraj"
+doi: "10.1016/j.bpj.2015.08.015"
+name: "mdtraj"
+full_name: "mdtraj/mdtraj"
+html_url: "https://github.com/mdtraj/mdtraj"
+created_at: "2012-11-08T22:01:24Z"
+updated_at: "2026-05-09T05:52:58Z"
+clone_url: "https://github.com/mdtraj/mdtraj.git"
+homepage: "https://mdtraj.readthedocs.io/en/latest/"
+size: 57942
+stargazers_count: 713
+watchers_count: 713
+language: "Python"
+open_issues_count: 79
+license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "spdx_id": "LGPL-2.1", "url": "https://api.github.com/licenses/lgpl-2.1", "node_id": "MDc6TGljZW5zZTEx"}
+subscribers_count: 45
+owner: {"html_url": "https://github.com/mdtraj", "avatar_url": "https://avatars.githubusercontent.com/u/9259532?v=4", "login": "mdtraj", "type": "Organization"}
+topics: ["molecular-dynamics", "python", "mdtraj", "rmsd", "dihedral-angles", "pdb", "pdb-files", "molecular-dynamics-trajectories"]
+date: "2026-05-16 15:10:43.932882"
+---

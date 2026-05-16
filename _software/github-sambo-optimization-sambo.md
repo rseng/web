@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 3
 owner: {"html_url": "https://github.com/sambo-optimization", "avatar_url": "https://avatars.githubusercontent.com/u/189691326?v=4", "login": "sambo-optimization", "type": "Organization"}
 topics: ["bayesian-optimization", "blackbox-optimization", "global-optimization", "global-optimization-algorithms", "sce-ua", "scikit-optimize", "scipy-optimize", "surrogate-based-optimization", "bayesopt", "hyperparameter-optimization", "hyperparameter-tuning", "partial-dependence-plot", "scientific-computing", "hyperparameter-search", "optimize", "optimization-tools", "hydrological-modelling", "optimization-algorithms", "hydrology", "optimization"]
-date: "2026-05-09 15:06:52.232504"
+date: "2026-05-16 15:10:42.916967"
 ---

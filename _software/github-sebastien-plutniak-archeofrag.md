@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/sebastien-plutniak", "avatar_url": "https://avatars.githubusercontent.com/u/53480606?v=4", "login": "sebastien-plutniak", "type": "User"}
 topics: ["archaeology", "archaeological-science", "archaeological-objects", "network-analysis", "fragmentation"]
-date: "2026-05-09 15:06:52.483018"
+date: "2026-05-16 15:10:43.744221"
 ---

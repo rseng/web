@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/FabianPlum", "avatar_url": "https://avatars.githubusercontent.com/u/26245490?v=4", "login": "FabianPlum", "type": "User"}
 topics: ["blender", "deeplabcut", "deeplearning", "object-detection", "tracking", "yolo"]
-date: "2026-05-09 15:06:52.069676"
+date: "2026-05-16 15:10:43.812226"
 ---

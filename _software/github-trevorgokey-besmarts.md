@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/trevorgokey", "avatar_url": "https://avatars.githubusercontent.com/u/50244806?v=4", "login": "trevorgokey", "type": "User"}
 topics: ["cheminformatics", "smarts", "forcefields"]
-date: "2026-05-09 15:06:52.157732"
+date: "2026-05-16 15:10:43.317725"
 ---

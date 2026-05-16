@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/NBISweden/GenErode"
+url: "https://github.com/NBISweden/GenErode"
+timestamp: "2026-05-10 01:51:42.788701"
+description: "GitHub repository for GenErode, a Snakemake workflow for the analysis of whole-genome sequencing data from historical and modern samples to study patterns of genome erosion."
+avatar: "https://avatars.githubusercontent.com/u/1224807?v=4"
+repo_url: "https://github.com/NBISweden/GenErode"
+doi: "10.1186/s12859-022-04757-0"
+name: "GenErode"
+full_name: "NBISweden/GenErode"
+html_url: "https://github.com/NBISweden/GenErode"
+created_at: "2022-03-01T14:56:37Z"
+updated_at: "2026-05-08T13:16:14Z"
+clone_url: "https://github.com/NBISweden/GenErode.git"
+size: 349862
+stargazers_count: 31
+watchers_count: 31
+language: "Python"
+open_issues_count: 22
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 6
+owner: {"html_url": "https://github.com/NBISweden", "avatar_url": "https://avatars.githubusercontent.com/u/1224807?v=4", "login": "NBISweden", "type": "Organization"}
+date: "2026-05-16 15:10:44.188116"
+---

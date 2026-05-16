@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/xgi-org", "avatar_url": "https://avatars.githubusercontent.com/u/85237625?v=4", "login": "xgi-org", "type": "Organization"}
 topics: ["hypergraphs"]
-date: "2026-05-09 15:06:51.665273"
+date: "2026-05-16 15:10:43.604376"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/GoekeLab", "avatar_url": "https://avatars.githubusercontent.com/u/46366103?v=4", "login": "GoekeLab", "type": "Organization"}
 topics: ["rna", "modification", "transcriptomics", "machine-learning", "genomics", "nanopore-sequencing", "rna-seq", "rna-modifications", "nanopore", "python"]
-date: "2026-05-09 15:06:52.030530"
+date: "2026-05-16 15:10:44.361001"
 ---

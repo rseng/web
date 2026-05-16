@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/vprusso", "avatar_url": "https://avatars.githubusercontent.com/u/1562214?v=4", "login": "vprusso", "type": "User"}
 topics: ["quantum-computing", "python", "quantum-information", "matrix-analysis", "python-3", "unitaryhack", "physics", "quantum"]
-date: "2026-05-09 15:06:52.037986"
+date: "2026-05-16 15:10:43.611095"
 ---

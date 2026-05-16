@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/rbooth200/DiscEvolution"
+url: "https://github.com/rbooth200/DiscEvolution"
+timestamp: "2026-05-10 01:50:54.238320"
+description: "A python code to model the evolution of dust and gas in protoplanetary discs."
+avatar: "https://avatars.githubusercontent.com/u/15370420?v=4"
+repo_url: "https://github.com/rbooth200/DiscEvolution"
+doi: ["https://ui.adsabs.harvard.edu/abs/2017MNRAS.469.3994B", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04010B/abstract"]
+title: "DiscEvolution: Model the evolution of dust and gas in protoplanetary discs"
+name: "DiscEvolution"
+full_name: "rbooth200/DiscEvolution"
+html_url: "https://github.com/rbooth200/DiscEvolution"
+created_at: "2017-02-23T15:30:53Z"
+updated_at: "2026-04-29T22:11:38Z"
+clone_url: "https://github.com/rbooth200/DiscEvolution.git"
+size: 6793
+stargazers_count: 12
+watchers_count: 12
+language: "Python"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 3
+owner: {"html_url": "https://github.com/rbooth200", "avatar_url": "https://avatars.githubusercontent.com/u/15370420?v=4", "login": "rbooth200", "type": "User"}
+date: "2026-05-16 15:10:44.249546"
+---

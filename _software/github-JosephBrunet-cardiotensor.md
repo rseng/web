@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/JosephBrunet/cardiotensor"
+url: "https://github.com/JosephBrunet/cardiotensor"
+timestamp: "2026-05-10 01:51:26.257004"
+description: "A Python package to quantify and visualize 3D cardiomyocyte orientation in heart imaging datasets"
+avatar: "https://avatars.githubusercontent.com/u/60674109?v=4"
+repo_url: "https://github.com/JosephBrunet/cardiotensor"
+doi: "https://doi.org/10.5281/zenodo.19444615"
+name: "cardiotensor"
+full_name: "JosephBrunet/cardiotensor"
+html_url: "https://github.com/JosephBrunet/cardiotensor"
+created_at: "2023-07-23T10:48:26Z"
+updated_at: "2026-05-08T23:40:03Z"
+clone_url: "https://github.com/JosephBrunet/cardiotensor.git"
+homepage: "http://www.josephbrunet.fr/cardiotensor/"
+size: 266088
+stargazers_count: 8
+watchers_count: 8
+language: "Python"
+open_issues_count: 4
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 3
+owner: {"html_url": "https://github.com/JosephBrunet", "avatar_url": "https://avatars.githubusercontent.com/u/60674109?v=4", "login": "JosephBrunet", "type": "User"}
+topics: ["3d-data-processing", "cardiac", "orientation", "python", "structure-tensor", "cardiac-imaging"]
+date: "2026-05-16 15:10:42.835840"
+---

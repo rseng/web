@@ -22,5 +22,5 @@ language: "Mathematica"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/pierrexyz", "avatar_url": "https://avatars.githubusercontent.com/u/27974627?v=4", "login": "pierrexyz", "type": "User"}
-date: "2026-05-09 15:06:52.191634"
+date: "2026-05-16 15:10:44.378349"
 ---

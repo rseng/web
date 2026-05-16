@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/aymgal", "avatar_url": "https://avatars.githubusercontent.com/u/10706063?v=4", "login": "aymgal", "type": "User"}
 topics: ["astrophysics", "gravitational-lensing", "lens-modeling", "standardization"]
-date: "2026-05-09 15:06:51.337969"
+date: "2026-05-16 15:10:43.881871"
 ---

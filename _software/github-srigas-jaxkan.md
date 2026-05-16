@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/srigas", "avatar_url": "https://avatars.githubusercontent.com/u/70939180?v=4", "login": "srigas", "type": "User"}
 topics: ["flax", "jax", "kolmogorov-arnold-networks"]
-date: "2026-05-09 15:06:51.623923"
+date: "2026-05-16 15:10:43.946433"
 ---

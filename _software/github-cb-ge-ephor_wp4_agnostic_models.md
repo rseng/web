@@ -14,5 +14,5 @@ clone_url: "https://github.com/cb-ge/ephor_wp4_agnostic_models.git"
 size: 49
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cb-ge", "avatar_url": "https://avatars.githubusercontent.com/u/79517349?v=4", "login": "cb-ge", "type": "User"}
-date: "2026-05-09 15:06:51.847859"
+date: "2026-05-16 15:10:43.585504"
 ---

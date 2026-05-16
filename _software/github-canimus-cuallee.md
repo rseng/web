@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/canimus", "avatar_url": "https://avatars.githubusercontent.com/u/278303?v=4", "login": "canimus", "type": "User"}
 topics: ["bigdata", "performance-metrics", "pyspark", "python3", "unit-testing", "pydeequ", "pandas", "snowpark", "dataquality", "data-quality", "data-quality-checks"]
-date: "2026-05-09 15:06:52.067953"
+date: "2026-05-16 15:10:43.499082"
 ---

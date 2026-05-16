@@ -22,5 +22,5 @@ open_issues_count: 12
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 owner: {"html_url": "https://github.com/bloch-labs", "avatar_url": "https://avatars.githubusercontent.com/u/225359926?v=4", "login": "bloch-labs", "type": "Organization"}
 topics: ["quantum", "hybrid", "programming-language", "strongly-typed"]
-date: "2026-05-09 15:06:51.892506"
+date: "2026-05-16 15:10:44.264879"
 ---

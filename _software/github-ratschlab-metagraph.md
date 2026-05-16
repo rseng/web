@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 13
 owner: {"html_url": "https://github.com/ratschlab", "avatar_url": "https://avatars.githubusercontent.com/u/1820852?v=4", "login": "ratschlab", "type": "Organization"}
 topics: ["graph", "dna", "alignment", "metagenomics", "search", "assembly"]
-date: "2026-05-09 15:06:50.953119"
+date: "2026-05-16 15:10:43.707893"
 ---

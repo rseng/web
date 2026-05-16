@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/mdovale/DeepFMKit"
+url: "https://github.com/mdovale/DeepFMKit"
+timestamp: "2026-05-10 01:50:49.697676"
+description: "A Python toolbox for simulating and analyzing Deep Frequency Modulation Interferometers"
+avatar: "https://avatars.githubusercontent.com/u/21078439?v=4"
+repo_url: "https://github.com/mdovale/DeepFMKit"
+doi: ["https://scixplorer.org/abs/2026CoPhC.31909934D", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04018D/abstract"]
+title: "DeepFMKit: Simulation and analysis toolkit for Deep Frequency Modulation Interferometry"
+name: "DeepFMKit"
+full_name: "mdovale/DeepFMKit"
+html_url: "https://github.com/mdovale/DeepFMKit"
+created_at: "2025-08-09T18:42:04Z"
+updated_at: "2026-02-23T12:57:17Z"
+clone_url: "https://github.com/mdovale/DeepFMKit.git"
+size: 1272
+stargazers_count: 3
+watchers_count: 3
+language: "Python"
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+owner: {"html_url": "https://github.com/mdovale", "avatar_url": "https://avatars.githubusercontent.com/u/21078439?v=4", "login": "mdovale", "type": "User"}
+date: "2026-05-16 15:10:43.026346"
+---

@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/samgolds/PNGolin"
+url: "https://github.com/samgolds/PNGolin"
+timestamp: "2026-05-10 01:50:51.743809"
+description: "Fun stuff with PNG."
+avatar: "https://avatars.githubusercontent.com/u/51204145?v=4"
+repo_url: "https://github.com/samgolds/PNGolin"
+doi: ["https://scixplorer.org/abs/2024PhRvD.110h3516G", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04014G/abstract"]
+title: "PNGolin:  Binned power, bi-, and trispectrum estimators for cosmological density fields"
+name: "PNGolin"
+full_name: "samgolds/PNGolin"
+html_url: "https://github.com/samgolds/PNGolin"
+created_at: "2024-02-05T23:01:43Z"
+updated_at: "2025-08-06T22:52:05Z"
+clone_url: "https://github.com/samgolds/PNGolin.git"
+size: 27330
+stargazers_count: 1
+watchers_count: 1
+language: "Cython"
+subscribers_count: 1
+owner: {"html_url": "https://github.com/samgolds", "avatar_url": "https://avatars.githubusercontent.com/u/51204145?v=4", "login": "samgolds", "type": "User"}
+date: "2026-05-16 15:10:44.509120"
+---

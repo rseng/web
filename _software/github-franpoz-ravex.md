@@ -1,0 +1,23 @@
+---
+parser: "github"
+uid: "github/franpoz/ravex"
+url: "https://github.com/franpoz/ravex"
+timestamp: "2026-05-10 01:50:53.732059"
+description: "A Python package for simulating and analyzing radial-velocity observations of exoplanetary systems, including signal injection, recovery, and detectability studies. Proposals oriented."
+avatar: "https://avatars.githubusercontent.com/u/15654884?v=4"
+repo_url: "https://github.com/franpoz/ravex"
+title: "ravex: RAdial VElocity eXplorer"
+name: "ravex"
+full_name: "franpoz/ravex"
+html_url: "https://github.com/franpoz/ravex"
+created_at: "2026-04-04T12:50:51Z"
+updated_at: "2026-04-27T08:33:48Z"
+clone_url: "https://github.com/franpoz/ravex.git"
+size: 3614
+language: "Python"
+open_issues_count: 1
+license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
+owner: {"html_url": "https://github.com/franpoz", "avatar_url": "https://avatars.githubusercontent.com/u/15654884?v=4", "login": "franpoz", "type": "User"}
+topics: ["exoplanets", "radial-velocities", "simulations"]
+date: "2026-05-16 15:10:43.114026"
+---

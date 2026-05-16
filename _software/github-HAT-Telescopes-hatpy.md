@@ -1,0 +1,21 @@
+---
+parser: "github"
+uid: "github/HAT-Telescopes/hatpy"
+url: "https://github.com/HAT-Telescopes/hatpy"
+timestamp: "2026-05-10 01:50:58.070216"
+description: "HATPI image and light curve processing pipeline."
+avatar: "https://avatars.githubusercontent.com/u/153840459?v=4"
+repo_url: "https://github.com/HAT-Telescopes/hatpy"
+title: "hatpy: HATPI image and light curve processing pipeline"
+name: "hatpy"
+full_name: "HAT-Telescopes/hatpy"
+html_url: "https://github.com/HAT-Telescopes/hatpy"
+created_at: "2026-03-13T16:26:26Z"
+updated_at: "2026-04-23T19:17:14Z"
+clone_url: "https://github.com/HAT-Telescopes/hatpy.git"
+size: 1481
+language: "Python"
+license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
+owner: {"html_url": "https://github.com/HAT-Telescopes", "avatar_url": "https://avatars.githubusercontent.com/u/153840459?v=4", "login": "HAT-Telescopes", "type": "Organization"}
+date: "2026-05-16 15:10:44.087973"
+---

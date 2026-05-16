@@ -21,5 +21,5 @@ language: "C++"
 open_issues_count: 8
 subscribers_count: 10
 owner: {"html_url": "https://github.com/BitSeq", "avatar_url": "https://avatars.githubusercontent.com/u/6389353?v=4", "login": "BitSeq", "type": "Organization"}
-date: "2026-05-09 15:06:51.169468"
+date: "2026-05-16 15:10:43.307581"
 ---
