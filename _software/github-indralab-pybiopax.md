@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 5
 owner: {"html_url": "https://github.com/indralab", "avatar_url": "https://avatars.githubusercontent.com/u/41387246?v=4", "login": "indralab", "type": "Organization"}
 topics: ["python", "biopax", "biology", "systems-biology"]
-date: "2026-05-16 15:10:44.218331"
+date: "2026-05-23 15:14:29.774027"
 ---

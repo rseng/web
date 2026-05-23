@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jonaspleyer", "avatar_url": "https://avatars.githubusercontent.com/u/59249415?v=4", "login": "jonaspleyer", "type": "User"}
 topics: ["agent-based", "agent-based-modeling", "biology", "cellular", "rust", "rust-library", "simulation"]
-date: "2026-05-16 15:10:43.758184"
+date: "2026-05-23 15:14:29.314952"
 ---

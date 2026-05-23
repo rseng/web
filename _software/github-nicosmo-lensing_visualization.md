@@ -23,5 +23,5 @@ license: {"key": "cc0-1.0", "name": "Creative Commons Zero v1.0 Universal", "spd
 subscribers_count: 1
 owner: {"html_url": "https://github.com/nicosmo", "avatar_url": "https://avatars.githubusercontent.com/u/77626333?v=4", "login": "nicosmo", "type": "User"}
 topics: ["astronomy", "gravitational-lensing", "gravitational-lensing-visualization", "interactive-visualizations", "physics-education", "webgl"]
-date: "2026-05-16 15:10:43.324391"
+date: "2026-05-23 15:14:28.882575"
 ---

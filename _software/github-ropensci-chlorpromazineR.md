@@ -19,5 +19,5 @@ watchers_count: 8
 language: "R"
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["psychiatry", "pharmacology", "r", "antipsychotic", "schizophrenia", "scalereprod"]
-date: "2026-05-16 15:10:44.011269"
+date: "2026-05-23 15:14:29.569268"
 ---

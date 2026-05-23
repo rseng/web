@@ -23,5 +23,5 @@ license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MP
 subscribers_count: 12
 owner: {"html_url": "https://github.com/genai-impact", "avatar_url": "https://avatars.githubusercontent.com/u/166227099?v=4", "login": "genai-impact", "type": "Organization"}
 topics: ["genai", "generative-ai", "green-ai", "green-software", "llm", "llm-inference", "python", "sustainability", "sustainable-ai"]
-date: "2026-05-16 15:10:44.178439"
+date: "2026-05-23 15:14:29.734205"
 ---

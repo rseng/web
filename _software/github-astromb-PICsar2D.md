@@ -20,5 +20,5 @@ watchers_count: 5
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/astromb", "avatar_url": "https://avatars.githubusercontent.com/u/8334286?v=4", "login": "astromb", "type": "User"}
-date: "2026-05-16 15:10:43.781687"
+date: "2026-05-23 15:14:29.338872"
 ---

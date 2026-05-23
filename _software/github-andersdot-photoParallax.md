@@ -20,5 +20,5 @@ watchers_count: 1
 language: "Jupyter Notebook"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/andersdot", "avatar_url": "https://avatars.githubusercontent.com/u/2364711?v=4", "login": "andersdot", "type": "User"}
-date: "2026-05-16 15:10:44.500819"
+date: "2026-05-23 15:14:30.053625"
 ---

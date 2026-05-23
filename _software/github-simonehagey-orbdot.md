@@ -20,5 +20,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/simonehagey", "avatar_url": "https://avatars.githubusercontent.com/u/71101756?v=4", "login": "simonehagey", "type": "User"}
 topics: ["exoplanet-transits", "exoplanets", "exoplanet-radial-velocities", "model-fitting", "nested-sampling", "orbital-evolution"]
-date: "2026-05-16 15:10:44.191391"
+date: "2026-05-23 15:14:29.747184"
 ---

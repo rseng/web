@@ -21,5 +21,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 3
 owner: {"html_url": "https://github.com/tkonolige", "avatar_url": "https://avatars.githubusercontent.com/u/1501680?v=4", "login": "tkonolige", "type": "User"}
 topics: ["bundle-adjustment"]
-date: "2026-05-16 15:10:43.082127"
+date: "2026-05-23 15:14:28.637618"
 ---

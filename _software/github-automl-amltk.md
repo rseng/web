@@ -22,5 +22,5 @@ open_issues_count: 34
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/automl", "avatar_url": "https://avatars.githubusercontent.com/u/6469053?v=4", "login": "automl", "type": "Organization"}
-date: "2026-05-16 15:10:43.325832"
+date: "2026-05-23 15:14:28.883998"
 ---

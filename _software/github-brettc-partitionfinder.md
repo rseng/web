@@ -21,5 +21,5 @@ open_issues_count: 22
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 11
 owner: {"html_url": "https://github.com/brettc", "avatar_url": "https://avatars.githubusercontent.com/u/457283?v=4", "login": "brettc", "type": "User"}
-date: "2026-05-16 15:10:44.340546"
+date: "2026-05-23 15:14:29.895813"
 ---

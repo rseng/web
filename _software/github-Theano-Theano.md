@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:31.818405"
 avatar: "https://avatars2.githubusercontent.com/u/970517?v=4"
 repo_url: "https://github.com/Theano/Theano"
-date: "2026-05-16 15:10:42.913287"
+date: "2026-05-23 15:14:28.467036"
 ---

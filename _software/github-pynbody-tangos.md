@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/pynbody", "avatar_url": "https://avatars.githubusercontent.com/u/4417908?v=4", "login": "pynbody", "type": "Organization"}
 topics: ["python", "cosmology", "simulation"]
-date: "2026-05-16 15:10:43.690191"
+date: "2026-05-23 15:14:29.245972"
 ---

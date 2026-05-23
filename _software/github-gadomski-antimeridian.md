@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/gadomski", "avatar_url": "https://avatars.githubusercontent.com/u/58314?v=4", "login": "gadomski", "type": "User"}
 topics: ["antimeridian", "geojson", "python", "geospatial"]
-date: "2026-05-16 15:10:43.457205"
+date: "2026-05-23 15:14:29.015321"
 ---

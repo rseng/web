@@ -24,5 +24,5 @@ topics: ["cosmology", "particle", "hdf5"]
 timestamp: "2020-08-02 16:35:22.309096"
 avatar: "https://avatars1.githubusercontent.com/u/37541309?v=4"
 repo_url: "https://github.com/SWIFTSIM/swiftsimio"
-date: "2026-05-16 15:10:43.728051"
+date: "2026-05-23 15:14:29.284444"
 ---

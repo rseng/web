@@ -20,5 +20,5 @@ language: "Java"
 open_issues_count: 1
 subscribers_count: 4
 owner: {"html_url": "https://github.com/inrae", "avatar_url": "https://avatars.githubusercontent.com/u/64418390?v=4", "login": "inrae", "type": "Organization"}
-date: "2026-05-16 15:10:43.793733"
+date: "2026-05-23 15:14:29.350972"
 ---

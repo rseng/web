@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/tobiasrausch", "avatar_url": "https://avatars.githubusercontent.com/u/5946458?v=4", "login": "tobiasrausch", "type": "User"}
 topics: ["genomics", "sequencing", "visualization", "alignment", "sequencing-data", "mapping", "plotting", "assembly", "contigs"]
-date: "2026-05-16 15:10:42.816414"
+date: "2026-05-23 15:14:28.369376"
 ---

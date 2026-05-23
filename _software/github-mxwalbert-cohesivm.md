@@ -19,5 +19,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mxwalbert", "avatar_url": "https://avatars.githubusercontent.com/u/84664695?v=4", "login": "mxwalbert", "type": "User"}
 topics: ["lab-automation", "materials-science", "python", "combinatorial-approach", "high-throughput-analysis"]
-date: "2026-05-16 15:10:44.480063"
+date: "2026-05-23 15:14:30.033201"
 ---

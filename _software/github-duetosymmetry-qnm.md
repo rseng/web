@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/duetosymmetry", "avatar_url": "https://avatars.githubusercontent.com/u/679461?v=4", "login": "duetosymmetry", "type": "User"}
 topics: ["python", "scientific-computing", "numerical-methods", "physics", "black-holes", "general-relativity"]
-date: "2026-05-16 15:10:44.434277"
+date: "2026-05-23 15:14:29.988341"
 ---
