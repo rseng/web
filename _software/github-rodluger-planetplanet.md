@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/rodluger", "avatar_url": "https://avatars.githubusercontent.com/u/9323819?v=4", "login": "rodluger", "type": "User"}
 topics: ["exoplanets", "exoplanet-transits", "light-curves", "binary-stars", "exomoons"]
-date: "2026-05-23 15:14:29.242562"
+date: "2026-05-30 15:20:01.052104"
 ---

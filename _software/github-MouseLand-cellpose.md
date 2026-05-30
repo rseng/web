@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 28
 owner: {"html_url": "https://github.com/MouseLand", "avatar_url": "https://avatars.githubusercontent.com/u/28845184?v=4", "login": "MouseLand", "type": "Organization"}
 topics: ["segmentation", "cell-segmentation", "cell-biology"]
-date: "2026-05-23 15:14:28.782946"
+date: "2026-05-30 15:20:01.599272"
 ---

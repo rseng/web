@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 14
 owner: {"html_url": "https://github.com/seqan", "avatar_url": "https://avatars.githubusercontent.com/u/1752144?v=4", "login": "seqan", "type": "Organization"}
 topics: ["bioinformatics", "blast", "blast-searches", "ncbi-taxonomy", "alignment", "metagenomics", "protein-sequences", "high-performance", "cpp14", "seqan"]
-date: "2026-05-23 15:14:29.356497"
+date: "2026-05-30 15:20:01.468708"
 ---

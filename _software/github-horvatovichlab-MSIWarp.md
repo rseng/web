@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/horvatovichlab", "avatar_url": "https://avatars.githubusercontent.com/u/19997545?v=4", "login": "horvatovichlab", "type": "User"}
-date: "2026-05-23 15:14:28.549751"
+date: "2026-05-30 15:20:01.613867"
 ---

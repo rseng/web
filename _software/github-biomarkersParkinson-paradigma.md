@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/biomarkersParkinson", "avatar_url": "https://avatars.githubusercontent.com/u/90848973?v=4", "login": "biomarkersParkinson", "type": "Organization"}
 topics: ["gait-analysis", "imu-data", "parkinsons-disease", "ppg-signal", "smartwatch", "tremor"]
-date: "2026-05-23 15:14:29.746215"
+date: "2026-05-30 15:20:01.280274"
 ---

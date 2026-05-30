@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/AP6YC", "avatar_url": "https://avatars.githubusercontent.com/u/17498866?v=4", "login": "AP6YC", "type": "User"}
 topics: ["julia", "machine-learning"]
-date: "2026-05-23 15:14:28.631951"
+date: "2026-05-30 15:20:01.294488"
 ---

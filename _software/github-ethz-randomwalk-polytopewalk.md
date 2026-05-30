@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ethz-randomwalk", "avatar_url": "https://avatars.githubusercontent.com/u/169664313?v=4", "login": "ethz-randomwalk", "type": "Organization"}
-date: "2026-05-23 15:14:29.973877"
+date: "2026-05-30 15:20:01.680892"
 ---

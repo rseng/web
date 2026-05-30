@@ -21,5 +21,5 @@ open_issues_count: 16
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/GOALS-survey", "avatar_url": "https://avatars.githubusercontent.com/u/121973992?v=4", "login": "GOALS-survey", "type": "Organization"}
-date: "2026-05-23 15:14:29.730290"
+date: "2026-05-30 15:20:01.225092"
 ---

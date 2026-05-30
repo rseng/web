@@ -20,5 +20,5 @@ language: "R"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "rstats", "api-client", "wikimedia", "citoid", "doi", "pmid", "pmcid", "isbn", "r-package", "citations", "Citoid", "literature", "publications", "text-ming", "Wikicite", "Wikipedia", "literature"]
-date: "2026-05-23 15:14:29.606479"
+date: "2026-05-30 15:20:01.103763"
 ---

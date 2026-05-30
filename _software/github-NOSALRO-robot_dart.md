@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 12
 owner: {"html_url": "https://github.com/NOSALRO", "avatar_url": "https://avatars.githubusercontent.com/u/117092888?v=4", "login": "NOSALRO", "type": "Organization"}
 topics: ["dart", "magnum", "eigen3"]
-date: "2026-05-23 15:14:28.409554"
+date: "2026-05-30 15:20:01.494213"
 ---

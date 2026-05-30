@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/rhyspoulton", "avatar_url": "https://avatars.githubusercontent.com/u/13027948?v=4", "login": "rhyspoulton", "type": "User"}
-date: "2026-05-23 15:14:29.846137"
+date: "2026-05-30 15:20:01.549201"
 ---

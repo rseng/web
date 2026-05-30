@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/profjsb", "avatar_url": "https://avatars.githubusercontent.com/u/480799?v=4", "login": "profjsb", "type": "User"}
 topics: ["astronomy", "deep-learning", "pytorch", "python3", "convolutional-neural-networks", "astronomical-images"]
-date: "2026-05-23 15:14:28.450283"
+date: "2026-05-30 15:20:01.382084"
 ---

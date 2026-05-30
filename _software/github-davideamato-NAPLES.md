@@ -20,5 +20,5 @@ watchers_count: 3
 language: "Fortran"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/davideamato", "avatar_url": "https://avatars.githubusercontent.com/u/50680451?v=4", "login": "davideamato", "type": "User"}
-date: "2026-05-23 15:14:29.133892"
+date: "2026-05-30 15:20:02.088719"
 ---

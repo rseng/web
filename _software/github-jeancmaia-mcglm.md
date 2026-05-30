@@ -22,5 +22,5 @@ license: {"key": "isc", "name": "ISC License", "spdx_id": "ISC", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/jeancmaia", "avatar_url": "https://avatars.githubusercontent.com/u/33667670?v=4", "login": "jeancmaia", "type": "User"}
 topics: ["statistical-inference", "statistical-models", "data-science", "python"]
-date: "2026-05-23 15:14:29.999035"
+date: "2026-05-30 15:20:01.573683"
 ---

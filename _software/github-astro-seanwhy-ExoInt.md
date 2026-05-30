@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/astro-seanwhy", "avatar_url": "https://avatars.githubusercontent.com/u/30588030?v=4", "login": "astro-seanwhy", "type": "User"}
-date: "2026-05-23 15:14:29.775995"
+date: "2026-05-30 15:20:01.211675"
 ---

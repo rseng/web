@@ -21,5 +21,5 @@ open_issues_count: 15
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/lucydot", "avatar_url": "https://avatars.githubusercontent.com/u/2452935?v=4", "login": "lucydot", "type": "User"}
-date: "2026-05-23 15:14:29.889908"
+date: "2026-05-30 15:20:02.131997"
 ---

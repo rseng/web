@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/xuanxu", "avatar_url": "https://avatars.githubusercontent.com/u/6528?v=4", "login": "xuanxu", "type": "User"}
 topics: ["astrophysics", "galaxies"]
-date: "2026-05-23 15:14:29.813282"
+date: "2026-05-30 15:20:01.762714"
 ---

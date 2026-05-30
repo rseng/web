@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/jacob-long", "avatar_url": "https://avatars.githubusercontent.com/u/4957401?v=4", "login": "jacob-long", "type": "User"}
 topics: ["r", "social-sciences", "r-package"]
-date: "2026-05-23 15:14:29.968306"
+date: "2026-05-30 15:20:01.201799"
 ---

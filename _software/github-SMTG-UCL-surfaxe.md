@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/SMTG-UCL", "avatar_url": "https://avatars.githubusercontent.com/u/14860406?v=4", "login": "SMTG-UCL", "type": "Organization"}
 topics: ["python3", "science", "computational-chemistry", "materials", "surfaces", "pymatgen", "vasp"]
-date: "2026-05-23 15:14:29.132631"
+date: "2026-05-30 15:20:01.227339"
 ---
