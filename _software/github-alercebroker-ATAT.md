@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 open_issues_count: 1
 subscribers_count: 3
 owner: {"html_url": "https://github.com/alercebroker", "avatar_url": "https://avatars.githubusercontent.com/u/46603914?v=4", "login": "alercebroker", "type": "Organization"}
-date: "2026-05-30 15:20:02.200282"
+date: "2026-06-06 15:23:29.911605"
 ---

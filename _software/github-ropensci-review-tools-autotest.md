@@ -21,5 +21,5 @@ open_issues_count: 17
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ropensci-review-tools", "avatar_url": "https://avatars.githubusercontent.com/u/85607140?v=4", "login": "ropensci-review-tools", "type": "Organization"}
 topics: ["scalereprod"]
-date: "2026-05-30 15:20:01.735680"
+date: "2026-06-06 15:23:29.327282"
 ---

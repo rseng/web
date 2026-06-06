@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/trchudley", "avatar_url": "https://avatars.githubusercontent.com/u/24896931?v=4", "login": "trchudley", "type": "User"}
 topics: ["coregistration", "dem", "digital-elevation-model", "geospatial", "glaciers", "python", "rema", "terrain-analysis", "arcticdem", "polar-geospatial-center", "glaciology"]
-date: "2026-05-30 15:20:02.217663"
+date: "2026-06-06 15:23:29.933325"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/jan-rybizki", "avatar_url": "https://avatars.githubusercontent.com/u/25322899?v=4", "login": "jan-rybizki", "type": "User"}
 topics: ["scientific-computations", "astronomy", "mcmc", "tutorial"]
-date: "2026-05-30 15:20:01.342850"
+date: "2026-06-06 15:23:28.834520"
 ---

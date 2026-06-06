@@ -20,5 +20,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/radicamc", "avatar_url": "https://avatars.githubusercontent.com/u/44100686?v=4", "login": "radicamc", "type": "User"}
 topics: ["atmosphere", "exoplanet", "jwst", "miri", "niriss", "nirspec", "soss", "spectroscopy", "tedorf"]
-date: "2026-05-30 15:20:01.872724"
+date: "2026-06-06 15:23:29.500477"
 ---

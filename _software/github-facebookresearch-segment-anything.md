@@ -22,5 +22,5 @@ open_issues_count: 93
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 155
 owner: {"html_url": "https://github.com/facebookresearch", "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4", "login": "facebookresearch", "type": "Organization"}
-date: "2026-05-30 15:20:01.280615"
+date: "2026-06-06 15:23:28.756250"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/TuringLang", "avatar_url": "https://avatars.githubusercontent.com/u/26261527?v=4", "login": "TuringLang", "type": "Organization"}
 topics: ["hmc", "nuts", "hamiltonian-monte-carlo", "mcmc"]
-date: "2026-05-30 15:20:01.490854"
+date: "2026-06-06 15:23:29.019420"
 ---

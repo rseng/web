@@ -20,5 +20,5 @@ language: "C++"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/MOSAICS-NIH", "avatar_url": "https://avatars.githubusercontent.com/u/113941588?v=4", "login": "MOSAICS-NIH", "type": "Organization"}
 topics: ["biophysics", "dynamics", "grid", "lattice", "lipids", "membrane", "mosaics", "simulations", "structure", "nih"]
-date: "2026-05-30 15:20:01.493054"
+date: "2026-06-06 15:23:29.022165"
 ---

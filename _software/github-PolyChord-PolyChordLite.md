@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/PolyChord", "avatar_url": "https://avatars.githubusercontent.com/u/38859081?v=4", "login": "PolyChord", "type": "Organization"}
 topics: ["bayesian-inference", "nested-sampling", "astronomy", "cosmology", "particle-physics", "sampling-methods", "statistics", "polychord", "log-likelihood", "mpi", "posterior", "openmpi", "gfortran"]
-date: "2026-05-30 15:20:00.994619"
+date: "2026-06-06 15:23:28.387376"
 ---

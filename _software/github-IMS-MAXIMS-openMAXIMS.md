@@ -21,5 +21,5 @@ open_issues_count: 23
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 36
 owner: {"html_url": "https://github.com/IMS-MAXIMS", "avatar_url": "https://avatars.githubusercontent.com/u/7870089?v=4", "login": "IMS-MAXIMS", "type": "Organization"}
-date: "2026-05-30 15:20:01.233671"
+date: "2026-06-06 15:23:28.692065"
 ---

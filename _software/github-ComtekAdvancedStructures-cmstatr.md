@@ -24,5 +24,5 @@ topics: ["statistics", "r", "data", "materials-science"]
 timestamp: "2020-07-12 00:26:30.614321"
 avatar: "https://avatars3.githubusercontent.com/u/9559756?v=4"
 repo_url: "https://github.com/ComtekAdvancedStructures/cmstatr"
-date: "2026-05-30 15:20:01.768572"
+date: "2026-06-06 15:23:29.368770"
 ---

@@ -20,5 +20,5 @@ language: "Python"
 open_issues_count: 16
 subscribers_count: 21
 owner: {"html_url": "https://github.com/marbl", "avatar_url": "https://avatars.githubusercontent.com/u/6492934?v=4", "login": "marbl", "type": "Organization"}
-date: "2026-05-30 15:20:01.837271"
+date: "2026-06-06 15:23:29.455994"
 ---

@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/musoke", "avatar_url": "https://avatars.githubusercontent.com/u/16665084?v=4", "login": "musoke", "type": "User"}
 topics: ["cosmology", "julia", "dark-matter", "reheating", "scalar-dark-matter"]
-date: "2026-05-30 15:20:01.965212"
+date: "2026-06-06 15:23:29.615530"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/krab1k", "avatar_url": "https://avatars.githubusercontent.com/u/16164737?v=4", "login": "krab1k", "type": "User"}
 topics: ["charges"]
-date: "2026-05-30 15:20:01.468196"
+date: "2026-06-06 15:23:28.991091"
 ---

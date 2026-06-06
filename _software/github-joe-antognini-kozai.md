@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/joe-antognini", "avatar_url": "https://avatars.githubusercontent.com/u/7061933?v=4", "login": "joe-antognini", "type": "User"}
-date: "2026-05-30 15:20:01.518633"
+date: "2026-06-06 15:23:29.054388"
 ---

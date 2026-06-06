@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/bradkav", "avatar_url": "https://avatars.githubusercontent.com/u/5381472?v=4", "login": "bradkav", "type": "User"}
 topics: ["cross-sections", "neutrinos", "physics"]
-date: "2026-05-30 15:20:01.893266"
+date: "2026-06-06 15:23:29.525729"
 ---

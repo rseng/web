@@ -18,5 +18,5 @@ watchers_count: 7
 language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/pepamengual", "avatar_url": "https://avatars.githubusercontent.com/u/31403723?v=4", "login": "pepamengual", "type": "User"}
-date: "2026-05-30 15:20:02.135505"
+date: "2026-06-06 15:23:29.830527"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/felixbur", "avatar_url": "https://avatars.githubusercontent.com/u/2063797?v=4", "login": "felixbur", "type": "User"}
 topics: ["speech", "machine-learning", "pytorch"]
-date: "2026-05-30 15:20:01.211144"
+date: "2026-06-06 15:23:28.663890"
 ---

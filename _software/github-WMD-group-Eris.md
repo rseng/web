@@ -20,5 +20,5 @@ language: "Jupyter Notebook"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/WMD-group", "avatar_url": "https://avatars.githubusercontent.com/u/1716969?v=4", "login": "WMD-group", "type": "Organization"}
 topics: ["monte-carlo", "photovoltaic", "materials", "thermodynamics", "physics", "semiconductor", "defects"]
-date: "2026-05-30 15:20:01.858167"
+date: "2026-06-06 15:23:29.482572"
 ---

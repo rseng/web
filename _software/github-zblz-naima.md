@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 13
 owner: {"html_url": "https://github.com/zblz", "avatar_url": "https://avatars.githubusercontent.com/u/576258?v=4", "login": "zblz", "type": "User"}
 topics: ["astronomy", "astrophysics", "python", "data-analysis", "gamma-ray-astronomy"]
-date: "2026-05-30 15:20:01.564335"
+date: "2026-06-06 15:23:29.111824"
 ---

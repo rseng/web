@@ -19,5 +19,5 @@ stargazers_count: 1
 watchers_count: 1
 language: "Fortran"
 owner: {"html_url": "https://github.com/calboo", "avatar_url": "https://avatars.githubusercontent.com/u/33519577?v=4", "login": "calboo", "type": "User"}
-date: "2026-05-30 15:20:01.535076"
+date: "2026-06-06 15:23:29.075069"
 ---

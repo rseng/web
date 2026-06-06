@@ -21,5 +21,5 @@ language: "Fortran"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/blankhaar", "avatar_url": "https://avatars.githubusercontent.com/u/50137743?v=4", "login": "blankhaar", "type": "User"}
-date: "2026-05-30 15:20:02.202769"
+date: "2026-06-06 15:23:29.914717"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/COSIMA", "avatar_url": "https://avatars.githubusercontent.com/u/12704607?v=4", "login": "COSIMA", "type": "Organization"}
 topics: ["mom6", "ocean-modelling", "python", "regional-model"]
-date: "2026-05-30 15:20:01.167707"
+date: "2026-06-06 15:23:28.609484"
 ---

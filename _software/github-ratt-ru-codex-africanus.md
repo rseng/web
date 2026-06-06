@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 19
 owner: {"html_url": "https://github.com/ratt-ru", "avatar_url": "https://avatars.githubusercontent.com/u/7933570?v=4", "login": "ratt-ru", "type": "Organization"}
 topics: ["radio-astronomy", "python", "numba", "dask"]
-date: "2026-05-30 15:20:01.520853"
+date: "2026-06-06 15:23:29.057110"
 ---

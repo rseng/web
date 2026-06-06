@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 26
 owner: {"html_url": "https://github.com/halcy", "avatar_url": "https://avatars.githubusercontent.com/u/59633?v=4", "login": "halcy", "type": "User"}
 topics: ["mastodon", "mastodon-api", "mastodon-client", "api", "api-client", "api-rest", "mastodon-app", "social", "social-network"]
-date: "2026-05-30 15:20:01.978321"
+date: "2026-06-06 15:23:29.631941"
 ---

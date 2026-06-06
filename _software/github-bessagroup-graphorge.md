@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/bessagroup", "avatar_url": "https://avatars.githubusercontent.com/u/64279108?v=4", "login": "bessagroup", "type": "Organization"}
 topics: ["graph-neural-network", "sci-ml", "machine-learning", "nvidia-gpu", "pytorch", "deep-learning"]
-date: "2026-05-30 15:20:01.518292"
+date: "2026-06-06 15:23:29.053939"
 ---

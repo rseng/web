@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/dspelaez", "avatar_url": "https://avatars.githubusercontent.com/u/6423179?v=4", "login": "dspelaez", "type": "User"}
 topics: ["spotter", "wavelets", "waves", "wdm", "adcps", "directional-spectrum", "wavestaffs"]
-date: "2026-05-30 15:20:02.124104"
+date: "2026-06-06 15:23:29.816190"
 ---

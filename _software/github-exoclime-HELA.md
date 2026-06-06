@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 3
 subscribers_count: 7
 owner: {"html_url": "https://github.com/exoclime", "avatar_url": "https://avatars.githubusercontent.com/u/61202311?v=4", "login": "exoclime", "type": "Organization"}
-date: "2026-05-30 15:20:01.849458"
+date: "2026-06-06 15:23:29.471527"
 ---

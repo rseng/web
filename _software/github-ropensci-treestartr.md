@@ -20,5 +20,5 @@ language: "TeX"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "r-package", "rstats", "data-extraction"]
-date: "2026-05-30 15:20:01.117948"
+date: "2026-06-06 15:23:28.541893"
 ---

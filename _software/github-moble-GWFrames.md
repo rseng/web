@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/moble", "avatar_url": "https://avatars.githubusercontent.com/u/1470769?v=4", "login": "moble", "type": "User"}
-date: "2026-05-30 15:20:01.668345"
+date: "2026-06-06 15:23:29.242229"
 ---
