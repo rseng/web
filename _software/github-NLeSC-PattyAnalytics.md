@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:17.841122"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/PattyAnalytics"
-date: "2026-06-06 15:23:29.264947"
+date: "2026-06-13 15:46:48.131368"
 ---

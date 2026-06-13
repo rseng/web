@@ -24,5 +24,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/17312517/apollin
 star_count: 1
 last_activity_at: "2023-06-26T09:31:59.697Z"
 namespace: {"id": 4832365, "name": "Sylvain Breton", "path": "sybreton", "kind": "user", "full_path": "sybreton", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/3712939/avatar.png", "web_url": "https://gitlab.com/sybreton"}
-date: "2026-06-06 15:23:28.363821"
+date: "2026-06-13 15:46:49.220843"
 ---

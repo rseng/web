@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 4
 owner: {"html_url": "https://github.com/pasteurlabs", "avatar_url": "https://avatars.githubusercontent.com/u/94583413?v=4", "login": "pasteurlabs", "type": "Organization"}
 topics: ["containers", "differentiable-programming", "api-rest", "automatic-differentiation", "remote-procedure-calls", "scientific-machine-learning"]
-date: "2026-06-06 15:23:29.806372"
+date: "2026-06-13 15:46:48.474227"
 ---

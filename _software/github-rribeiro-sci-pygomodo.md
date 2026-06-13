@@ -21,5 +21,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/rribeiro-sci", "avatar_url": "https://avatars.githubusercontent.com/u/33298926?v=4", "login": "rribeiro-sci", "type": "User"}
 topics: ["bioinformatics", "bioinformatics-pipeline", "bioinformatics-tool", "gpcr", "homology-modeling", "molecular-docking"]
-date: "2026-06-06 15:23:29.404799"
+date: "2026-06-13 15:46:48.471511"
 ---

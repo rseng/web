@@ -21,5 +21,5 @@ open_issues_count: 4
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["dryad-api", "dryad", "data", "doi", "oai-pmh", "r", "rstats", "r-package", "data-access"]
-date: "2026-06-06 15:23:28.554004"
+date: "2026-06-13 15:46:48.528193"
 ---

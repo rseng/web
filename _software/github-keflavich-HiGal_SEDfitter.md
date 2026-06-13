@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 2
 subscribers_count: 2
 owner: {"html_url": "https://github.com/keflavich", "avatar_url": "https://avatars.githubusercontent.com/u/143715?v=4", "login": "keflavich", "type": "User"}
-date: "2026-06-06 15:23:29.919393"
+date: "2026-06-13 15:46:49.146483"
 ---

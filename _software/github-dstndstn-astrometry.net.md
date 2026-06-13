@@ -23,5 +23,5 @@ open_issues_count: 68
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 63
 owner: {"html_url": "https://github.com/dstndstn", "avatar_url": "https://avatars.githubusercontent.com/u/1065981?v=4", "login": "dstndstn", "type": "User"}
-date: "2026-06-06 15:23:28.925105"
+date: "2026-06-13 15:46:48.006981"
 ---

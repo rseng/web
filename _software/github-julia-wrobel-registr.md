@@ -21,5 +21,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/julia-wrobel", "avatar_url": "https://avatars.githubusercontent.com/u/11615315?v=4", "login": "julia-wrobel", "type": "User"}
-date: "2026-06-06 15:23:29.007168"
+date: "2026-06-13 15:46:48.265532"
 ---

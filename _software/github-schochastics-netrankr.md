@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/schochastics", "avatar_url": "https://avatars.githubusercontent.com/u/17147355?v=4", "login": "schochastics", "type": "User"}
 topics: ["network-analysis", "r-package", "network-centrality"]
-date: "2026-06-06 15:23:29.566760"
+date: "2026-06-13 15:46:48.491243"
 ---

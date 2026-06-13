@@ -22,5 +22,5 @@ open_issues_count: 93
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 21
 owner: {"html_url": "https://github.com/dask", "avatar_url": "https://avatars.githubusercontent.com/u/17131925?v=4", "login": "dask", "type": "Organization"}
-date: "2026-06-06 15:23:28.605495"
+date: "2026-06-13 15:46:48.205847"
 ---

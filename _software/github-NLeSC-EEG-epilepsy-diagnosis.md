@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:12.496286"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/EEG-epilepsy-diagnosis"
-date: "2026-06-06 15:23:29.261038"
+date: "2026-06-13 15:46:48.125838"
 ---

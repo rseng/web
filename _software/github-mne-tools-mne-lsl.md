@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/mne-tools", "avatar_url": "https://avatars.githubusercontent.com/u/583875?v=4", "login": "mne-tools", "type": "Organization"}
 topics: ["neuroscience", "lsl", "real-time", "neuroimaging", "brain", "labstreaminglayer", "brain-computer-interfaces", "network", "visualisation"]
-date: "2026-06-06 15:23:28.890669"
+date: "2026-06-13 15:46:48.112699"
 ---
