@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:08.854461"
 avatar: "https://avatars1.githubusercontent.com/u/8703060?v=4"
 repo_url: "https://github.com/QuantEcon/QuantEcon.py"
-date: "2026-06-13 15:46:48.109833"
+date: "2026-06-20 15:51:36.849978"
 ---

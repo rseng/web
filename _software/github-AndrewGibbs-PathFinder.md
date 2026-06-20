@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/AndrewGibbs", "avatar_url": "https://avatars.githubusercontent.com/u/32740541?v=4", "login": "AndrewGibbs", "type": "User"}
 topics: ["oscillatory-integrals", "steepest-descent", "saddle-point"]
-date: "2026-06-13 15:46:48.749722"
+date: "2026-06-20 15:51:37.784409"
 ---

@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:07.000894"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-python-node-archetype"
-date: "2026-06-13 15:46:48.008034"
+date: "2026-06-20 15:51:36.700900"
 ---

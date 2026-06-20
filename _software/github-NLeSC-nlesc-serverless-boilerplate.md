@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:27.782908"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/nlesc-serverless-boilerplate"
-date: "2026-06-13 15:46:48.126040"
+date: "2026-06-20 15:51:36.873375"
 ---

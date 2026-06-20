@@ -22,5 +22,5 @@ open_issues_count: 28
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/rqtl", "avatar_url": "https://avatars.githubusercontent.com/u/9142954?v=4", "login": "rqtl", "type": "Organization"}
-date: "2026-06-13 15:46:48.465078"
+date: "2026-06-20 15:51:37.371025"
 ---

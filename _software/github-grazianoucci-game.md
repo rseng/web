@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/grazianoucci", "avatar_url": "https://avatars.githubusercontent.com/u/31356318?v=4", "login": "grazianoucci", "type": "User"}
-date: "2026-06-13 15:46:48.471021"
+date: "2026-06-20 15:51:37.379627"
 ---

@@ -19,5 +19,5 @@ watchers_count: 2
 language: "Mathematica"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CoolWorlds", "avatar_url": "https://avatars.githubusercontent.com/u/12749277?v=4", "login": "CoolWorlds", "type": "Organization"}
-date: "2026-06-13 15:46:48.304333"
+date: "2026-06-20 15:51:37.137507"
 ---

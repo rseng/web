@@ -23,5 +23,5 @@ license: {"key": "cc0-1.0", "name": "Creative Commons Zero v1.0 Universal", "spd
 subscribers_count: 3
 owner: {"html_url": "https://github.com/earth-metabolome-initiative", "avatar_url": "https://avatars.githubusercontent.com/u/121333592?v=4", "login": "earth-metabolome-initiative", "type": "Organization"}
 topics: ["metabolomics", "ontology", "owl-ontology", "plants", "rdf"]
-date: "2026-06-13 15:46:49.098671"
+date: "2026-06-20 15:51:38.290682"
 ---

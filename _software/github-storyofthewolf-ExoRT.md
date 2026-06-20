@@ -21,5 +21,5 @@ language: "Fortran"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/storyofthewolf", "avatar_url": "https://avatars.githubusercontent.com/u/19943455?v=4", "login": "storyofthewolf", "type": "User"}
-date: "2026-06-13 15:46:48.386129"
+date: "2026-06-20 15:51:37.256989"
 ---

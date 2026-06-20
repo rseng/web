@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "bsd-3-clause-clear", "name": "BSD 3-Clause Clear License", "spdx_id": "BSD-3-Clause-Clear", "url": "https://api.github.com/licenses/bsd-3-clause-clear", "node_id": "MDc6TGljZW5zZTIx"}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/PacificBiosciences", "avatar_url": "https://avatars.githubusercontent.com/u/999745?v=4", "login": "PacificBiosciences", "type": "Organization"}
-date: "2026-06-13 15:46:47.993330"
+date: "2026-06-20 15:51:36.679538"
 ---

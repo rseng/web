@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/LMBooth", "avatar_url": "https://avatars.githubusercontent.com/u/31129153?v=4", "login": "LMBooth", "type": "User"}
 topics: ["bci", "brain-computer-interface", "human-computer-interaction", "labstreaminglayer", "machine-learning", "lsl", "pytorch", "sklearn", "tensorflow", "human-machine-interface", "python", "python-brain-computer-interface"]
-date: "2026-06-13 15:46:48.709657"
+date: "2026-06-20 15:51:37.725926"
 ---

@@ -20,5 +20,5 @@ watchers_count: 5
 language: "Mathematica"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/marcocalza89", "avatar_url": "https://avatars.githubusercontent.com/u/160862765?v=4", "login": "marcocalza89", "type": "User"}
-date: "2026-06-13 15:46:48.218740"
+date: "2026-06-20 15:51:37.013661"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/braindatalab", "avatar_url": "https://avatars.githubusercontent.com/u/65342931?v=4", "login": "braindatalab", "type": "Organization"}
 topics: ["connectivity", "neuroscience", "python", "signal-processing", "spectral-analysis", "bicoherence", "bispectrum", "cross-frequency-coupling", "phase-amplitude-coupling", "time-delay-estimation", "amplitude-amplitude-coupling", "phase-phase-coupling", "waveform", "waveshape", "non-sinusoidal", "ssd", "hpmax", "spatiospectral"]
-date: "2026-06-13 15:46:49.031585"
+date: "2026-06-20 15:51:38.192433"
 ---

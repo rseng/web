@@ -19,5 +19,5 @@ watchers_count: 1
 language: "Nextflow"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/bcgsc", "avatar_url": "https://avatars.githubusercontent.com/u/2319317?v=4", "login": "bcgsc", "type": "Organization"}
-date: "2026-06-13 15:46:49.180398"
+date: "2026-06-20 15:51:38.409235"
 ---

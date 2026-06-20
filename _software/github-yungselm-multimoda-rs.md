@@ -20,5 +20,5 @@ watchers_count: 6
 language: "Rust"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/yungselm", "avatar_url": "https://avatars.githubusercontent.com/u/113677263?v=4", "login": "yungselm", "type": "User"}
-date: "2026-06-13 15:46:48.655532"
+date: "2026-06-20 15:51:37.647848"
 ---

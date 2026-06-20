@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ml-evs", "avatar_url": "https://avatars2.githubusercontent.com/u/7916000?v=4", "login": "ml-evs", "type": "User"}
 topics: ["materials-science", "python", "computational-chemistry"]
-date: "2026-06-13 15:46:48.074420"
+date: "2026-06-20 15:51:36.798765"
 ---

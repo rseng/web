@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/isoverse", "avatar_url": "https://avatars.githubusercontent.com/u/47226588?v=4", "login": "isoverse", "type": "Organization"}
 topics: ["r", "data", "isotopes", "geochemistry", "ecology"]
-date: "2026-06-13 15:46:48.212689"
+date: "2026-06-20 15:51:37.004885"
 ---
