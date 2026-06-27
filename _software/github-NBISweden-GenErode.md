@@ -21,5 +21,5 @@ open_issues_count: 22
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/NBISweden", "avatar_url": "https://avatars.githubusercontent.com/u/1224807?v=4", "login": "NBISweden", "type": "Organization"}
-date: "2026-06-20 15:51:37.727845"
+date: "2026-06-27 15:23:08.109306"
 ---

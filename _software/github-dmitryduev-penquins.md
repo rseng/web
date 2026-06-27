@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/dmitryduev", "avatar_url": "https://avatars.githubusercontent.com/u/7557205?v=4", "login": "dmitryduev", "type": "User"}
 topics: ["kowalski", "python-client", "ztf", "ztf-ii"]
-date: "2026-06-20 15:51:37.085471"
+date: "2026-06-27 15:23:07.475801"
 ---

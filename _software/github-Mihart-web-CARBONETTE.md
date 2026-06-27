@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Mihart-web", "avatar_url": "https://avatars.githubusercontent.com/u/80395512?v=4", "login": "Mihart-web", "type": "User"}
 topics: ["cnt", "engine", "hnt", "spectral-analysis", "spectral-data", "spectral-methods"]
-date: "2026-06-20 15:51:37.737847"
+date: "2026-06-27 15:23:08.119180"
 ---

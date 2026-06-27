@@ -21,5 +21,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tpronk", "avatar_url": "https://avatars.githubusercontent.com/u/8987504?v=4", "login": "tpronk", "type": "User"}
 topics: ["cognitive-tasks", "confounding-effects", "non-linear-scoring-algorithms", "split-half-reliability"]
-date: "2026-06-20 15:51:37.956502"
+date: "2026-06-27 15:23:08.335787"
 ---

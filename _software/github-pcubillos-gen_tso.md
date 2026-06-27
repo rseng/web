@@ -24,5 +24,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/pcubillos", "avatar_url": "https://avatars.githubusercontent.com/u/2119263?v=4", "login": "pcubillos", "type": "User"}
 topics: ["etc", "exoplanets", "jwst"]
-date: "2026-06-20 15:51:36.683945"
+date: "2026-06-27 15:23:07.038663"
 ---

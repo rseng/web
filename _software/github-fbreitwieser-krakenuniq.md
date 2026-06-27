@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 13
 owner: {"html_url": "https://github.com/fbreitwieser", "avatar_url": "https://avatars.githubusercontent.com/u/516060?v=4", "login": "fbreitwieser", "type": "User"}
 topics: ["bioinformatics", "metagenomics"]
-date: "2026-06-20 15:51:37.862242"
+date: "2026-06-27 15:23:08.241850"
 ---

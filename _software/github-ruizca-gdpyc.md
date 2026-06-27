@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause-clear", "name": "BSD 3-Clause Clear License", "sp
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ruizca", "avatar_url": "https://avatars.githubusercontent.com/u/33510677?v=4", "login": "ruizca", "type": "User"}
 topics: ["astronomy", "astronomy-library", "xray", "dust", "extinction", "reddening", "python27", "python3"]
-date: "2026-06-20 15:51:37.813982"
+date: "2026-06-27 15:23:08.194062"
 ---

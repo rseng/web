@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/chainsawriot", "avatar_url": "https://avatars.githubusercontent.com/u/637269?v=4", "login": "chainsawriot", "type": "User"}
 topics: ["r", "wordembedding", "bias-detection", "textanalysis"]
-date: "2026-06-20 15:51:37.423504"
+date: "2026-06-27 15:23:07.809348"
 ---

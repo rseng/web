@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/sbailey", "avatar_url": "https://avatars.githubusercontent.com/u/218471?v=4", "login": "sbailey", "type": "User"}
-date: "2026-06-20 15:51:37.327857"
+date: "2026-06-27 15:23:07.715113"
 ---

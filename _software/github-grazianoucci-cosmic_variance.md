@@ -17,5 +17,5 @@ size: 502417
 language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/grazianoucci", "avatar_url": "https://avatars.githubusercontent.com/u/31356318?v=4", "login": "grazianoucci", "type": "User"}
-date: "2026-06-20 15:51:37.379399"
+date: "2026-06-27 15:23:07.765908"
 ---

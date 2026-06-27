@@ -24,5 +24,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 146
 owner: {"html_url": "https://github.com/Stellarium", "avatar_url": "https://avatars.githubusercontent.com/u/7320160?v=4", "login": "Stellarium", "type": "Organization"}
 topics: ["c", "c-plus-plus", "astronomy", "science", "stars", "sky", "universe", "planetarium", "stellarium", "qt5", "qt6"]
-date: "2026-06-20 15:51:38.073325"
+date: "2026-06-27 15:23:08.451363"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 32
 subscribers_count: 21
 owner: {"html_url": "https://github.com/lsds", "avatar_url": "https://avatars.githubusercontent.com/u/989082?v=4", "login": "lsds", "type": "Organization"}
 topics: ["dataflow-programming", "stateful", "sdg", "cluster-computing"]
-date: "2026-06-20 15:51:37.306623"
+date: "2026-06-27 15:23:07.694032"
 ---

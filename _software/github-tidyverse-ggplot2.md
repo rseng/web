@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 299
 owner: {"html_url": "https://github.com/tidyverse", "avatar_url": "https://avatars.githubusercontent.com/u/22032646?v=4", "login": "tidyverse", "type": "Organization"}
 topics: ["r", "visualisation", "data-visualisation"]
-date: "2026-06-20 15:51:37.338981"
+date: "2026-06-27 15:23:07.725909"
 ---

@@ -20,5 +20,5 @@ open_issues_count: 33
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/casasglobal-org", "avatar_url": "https://avatars.githubusercontent.com/u/126283305?v=4", "login": "casasglobal-org", "type": "Organization"}
-date: "2026-06-20 15:51:37.299206"
+date: "2026-06-27 15:23:07.686497"
 ---

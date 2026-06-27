@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 4
 owner: {"html_url": "https://github.com/frank1010111", "avatar_url": "https://avatars.githubusercontent.com/u/4694479?v=4", "login": "frank1010111", "type": "User"}
 topics: ["python", "petroleum-engineering", "reservoir", "rust"]
-date: "2026-06-20 15:51:37.858497"
+date: "2026-06-27 15:23:08.237982"
 ---
