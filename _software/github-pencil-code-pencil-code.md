@@ -21,5 +21,5 @@ language: "Fortran"
 open_issues_count: 4
 subscribers_count: 85
 owner: {"html_url": "https://github.com/pencil-code", "avatar_url": "https://avatars.githubusercontent.com/u/11549701?v=4", "login": "pencil-code", "type": "Organization"}
-date: "2026-06-27 15:23:08.332364"
+date: "2026-07-04 15:17:57.548193"
 ---

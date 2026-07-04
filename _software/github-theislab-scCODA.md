@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 9
 owner: {"html_url": "https://github.com/theislab", "avatar_url": "https://avatars.githubusercontent.com/u/22319415?v=4", "login": "theislab", "type": "Organization"}
 topics: ["tensorflow", "compositional-changes", "statistical-analysis", "single-cell-rna-seq"]
-date: "2026-06-27 15:23:07.296416"
+date: "2026-07-04 15:17:56.503422"
 ---

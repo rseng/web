@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 10
 subscribers_count: 3
 owner: {"html_url": "https://github.com/rreischke", "avatar_url": "https://avatars.githubusercontent.com/u/31727230?v=4", "login": "rreischke", "type": "User"}
-date: "2026-06-27 15:23:07.977107"
+date: "2026-07-04 15:17:57.188997"
 ---

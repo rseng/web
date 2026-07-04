@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 1
 owner: {"html_url": "https://github.com/nikhilroxtomar", "avatar_url": "https://avatars.githubusercontent.com/u/17056306?v=4", "login": "nikhilroxtomar", "type": "User"}
 topics: ["semantic-segmentation", "deep-learning", "computer-vision", "machine-learning", "unet", "pytorch"]
-date: "2026-06-27 15:23:08.213420"
+date: "2026-07-04 15:17:57.429095"
 ---

@@ -24,5 +24,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 19
 owner: {"html_url": "https://github.com/sbi-dev", "avatar_url": "https://avatars.githubusercontent.com/u/141135423?v=4", "login": "sbi-dev", "type": "Organization"}
 topics: ["simulation-based-inference", "likelihood-free-inference", "bayesian-inference", "parameter-estimation", "pytorch", "machine-learning"]
-date: "2026-06-27 15:23:07.061141"
+date: "2026-07-04 15:17:56.304558"
 ---

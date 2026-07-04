@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/GOBLIN-Proj", "avatar_url": "https://avatars.githubusercontent.com/u/164409538?v=4", "login": "GOBLIN-Proj", "type": "Organization"}
 topics: ["goblin"]
-date: "2026-06-27 15:23:07.053250"
+date: "2026-07-04 15:17:56.296670"
 ---

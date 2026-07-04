@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 18
 owner: {"html_url": "https://github.com/aertslab", "avatar_url": "https://avatars.githubusercontent.com/u/3940817?v=4", "login": "aertslab", "type": "Organization"}
 topics: ["single-cell", "transcriptomics", "gene-regulatory-network", "transcription-factors"]
-date: "2026-06-27 15:23:07.904790"
+date: "2026-07-04 15:17:57.115606"
 ---

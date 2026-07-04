@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 6
 owner: {"html_url": "https://github.com/oscaribv", "avatar_url": "https://avatars.githubusercontent.com/u/8753089?v=4", "login": "oscaribv", "type": "User"}
 topics: ["exoplanets", "planets", "mcmc", "radial-velocities", "multi-planet-fitting", "transiting-planets"]
-date: "2026-06-27 15:23:08.605873"
+date: "2026-07-04 15:17:57.828961"
 ---

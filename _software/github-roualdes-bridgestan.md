@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 7
 owner: {"html_url": "https://github.com/roualdes", "avatar_url": "https://avatars.githubusercontent.com/u/3252729?v=4", "login": "roualdes", "type": "User"}
 topics: ["c", "cpp", "julia", "python", "r", "stan"]
-date: "2026-06-27 15:23:07.509064"
+date: "2026-07-04 15:17:56.714315"
 ---

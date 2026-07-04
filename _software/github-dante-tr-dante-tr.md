@@ -1,0 +1,22 @@
+---
+parser: "github"
+uid: "github/dante-tr/dante-tr"
+url: "https://github.com/dante-tr/dante-tr"
+timestamp: "2026-06-28 02:16:13.966319"
+avatar: "https://avatars.githubusercontent.com/u/288849354?v=4"
+repo_url: "https://github.com/dante-tr/dante-tr"
+doi: "10.1093/bioinformatics/bty791"
+name: "dante-tr"
+full_name: "dante-tr/dante-tr"
+html_url: "https://github.com/dante-tr/dante-tr"
+created_at: "2026-06-17T08:55:03Z"
+updated_at: "2026-06-17T19:09:37Z"
+clone_url: "https://github.com/dante-tr/dante-tr.git"
+size: 2662
+stargazers_count: 1
+watchers_count: 1
+language: "Rust"
+license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
+owner: {"html_url": "https://github.com/dante-tr", "avatar_url": "https://avatars.githubusercontent.com/u/288849354?v=4", "login": "dante-tr", "type": "Organization"}
+date: "2026-07-04 15:17:57.385479"
+---

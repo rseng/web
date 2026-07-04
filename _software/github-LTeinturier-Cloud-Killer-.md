@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/LTeinturier", "avatar_url": "https://avatars.githubusercontent.com/u/91485873?v=4", "login": "LTeinturier", "type": "User"}
-date: "2026-06-27 15:23:08.133174"
+date: "2026-07-04 15:17:57.347158"
 ---

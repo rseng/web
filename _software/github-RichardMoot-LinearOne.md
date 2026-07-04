@@ -21,5 +21,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 4
 owner: {"html_url": "https://github.com/RichardMoot", "avatar_url": "https://avatars.githubusercontent.com/u/1473033?v=4", "login": "RichardMoot", "type": "User"}
 topics: ["linear-logic", "first-order-logic", "theorem-proving", "proof-net", "displacement-calculus-grammars", "swi-prolog", "logic-programming", "latex"]
-date: "2026-06-27 15:23:07.030485"
+date: "2026-07-04 15:17:56.273734"
 ---

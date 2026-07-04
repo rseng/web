@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/ErickNavarroD/RAMEN"
+url: "https://github.com/ErickNavarroD/RAMEN"
+timestamp: "2026-06-28 02:16:12.506614"
+description: "Regional Association of DNA Methylome variability with the Exposome and geNome (RAMEN) is an R package which goal is to identify Variable Methylated Loci (VML) in microarray DNA methylation data. Then, using genome (G) and exposome (E) data, it can identify which individual (G or E) or joint (G+E or GxE) model better explains the VML variability."
+avatar: "https://avatars.githubusercontent.com/u/32532987?v=4"
+repo_url: "https://github.com/ErickNavarroD/RAMEN"
+doi: "10.1186/s13059-025-03864-4"
+name: "RAMEN"
+full_name: "ErickNavarroD/RAMEN"
+html_url: "https://github.com/ErickNavarroD/RAMEN"
+created_at: "2023-01-06T16:22:15Z"
+updated_at: "2026-02-17T21:04:38Z"
+clone_url: "https://github.com/ErickNavarroD/RAMEN.git"
+homepage: "https://ericknavarrod.github.io/RAMEN/"
+size: 14909
+stargazers_count: 5
+watchers_count: 5
+language: "R"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/ErickNavarroD", "avatar_url": "https://avatars.githubusercontent.com/u/32532987?v=4", "login": "ErickNavarroD", "type": "User"}
+topics: ["exposome", "genome", "methylation-analysis", "methylation-microarrays", "multiomics", "r-package", "bioinformatics-tool", "dna-methylation"]
+date: "2026-07-04 15:17:56.965418"
+---

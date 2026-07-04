@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/dforero0896/pydive"
+url: "https://github.com/dforero0896/pydive"
+timestamp: "2026-06-28 02:14:50.272720"
+description: "Python implementation of the Delaunay TrIangulation Void findEr (DIVE) originally by Cheng Zhao"
+avatar: "https://avatars.githubusercontent.com/u/10046708?v=4"
+repo_url: "https://github.com/dforero0896/pydive"
+doi: ["https://scixplorer.org/abs/2022MNRAS.513.5407F", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft05030F/abstract"]
+title: "pydive: Delaunay-based cosmic void finder in Python"
+name: "pydive"
+full_name: "dforero0896/pydive"
+html_url: "https://github.com/dforero0896/pydive"
+created_at: "2020-09-13T05:25:15Z"
+updated_at: "2024-01-19T10:14:25Z"
+clone_url: "https://github.com/dforero0896/pydive.git"
+size: 98036
+stargazers_count: 1
+watchers_count: 1
+language: "Makefile"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/dforero0896", "avatar_url": "https://avatars.githubusercontent.com/u/10046708?v=4", "login": "dforero0896", "type": "User"}
+date: "2026-07-04 15:17:57.115114"
+---

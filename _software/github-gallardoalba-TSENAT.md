@@ -18,5 +18,5 @@ language: "R"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/gallardoalba", "avatar_url": "https://avatars.githubusercontent.com/u/26678117?v=4", "login": "gallardoalba", "type": "User"}
 topics: ["isoform-diversity", "rna-seq", "tsallis-entropy", "complex-systems"]
-date: "2026-06-27 15:23:08.588595"
+date: "2026-07-04 15:17:57.810829"
 ---

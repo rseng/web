@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/adrn", "avatar_url": "https://avatars.githubusercontent.com/u/583379?v=4", "login": "adrn", "type": "User"}
 topics: ["multiprocessing", "mpi", "parallel-computing"]
-date: "2026-06-27 15:23:07.356472"
+date: "2026-07-04 15:17:56.561525"
 ---

@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/cheng-zhao/DIVE"
+url: "https://github.com/cheng-zhao/DIVE"
+timestamp: "2026-06-28 02:14:57.667403"
+description: "Delaunay trIangulation Void findEr"
+avatar: "https://avatars.githubusercontent.com/u/13256863?v=4"
+repo_url: "https://github.com/cheng-zhao/DIVE"
+doi: ["https://scixplorer.org/abs/2022MNRAS.513.5407F", "https://scixplorer.org/abs/2016MNRAS.459.2670Z", "https://ui.adsabs.harvard.edu/abs/2026ascl.soft05019Z/abstract"]
+title: "DIVE: Delaunay trIangulation Void findEr"
+name: "DIVE"
+full_name: "cheng-zhao/DIVE"
+html_url: "https://github.com/cheng-zhao/DIVE"
+created_at: "2021-07-30T21:32:19Z"
+updated_at: "2024-06-02T12:40:14Z"
+clone_url: "https://github.com/cheng-zhao/DIVE.git"
+size: 20
+stargazers_count: 8
+watchers_count: 8
+language: "C++"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/cheng-zhao", "avatar_url": "https://avatars.githubusercontent.com/u/13256863?v=4", "login": "cheng-zhao", "type": "User"}
+topics: ["cosmic-voids", "large-scale-structure-cosmology", "cosmology"]
+date: "2026-07-04 15:17:57.623304"
+---

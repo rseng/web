@@ -1,0 +1,25 @@
+---
+parser: "github"
+uid: "github/idm-oxford/climate-epidemics"
+url: "https://github.com/idm-oxford/climate-epidemics"
+timestamp: "2026-06-28 02:15:39.998118"
+description: "Incorporating climate data into epidemiological models"
+avatar: "https://avatars.githubusercontent.com/u/194074118?v=4"
+repo_url: "https://github.com/idm-oxford/climate-epidemics"
+doi: "https://doi.org/10.5281/zenodo.20448728"
+name: "climate-epidemics"
+full_name: "idm-oxford/climate-epidemics"
+html_url: "https://github.com/idm-oxford/climate-epidemics"
+created_at: "2023-09-19T08:55:17Z"
+updated_at: "2026-06-24T09:35:01Z"
+clone_url: "https://github.com/idm-oxford/climate-epidemics.git"
+homepage: "https://idm-oxford.github.io/climate-epidemics/"
+size: 2269025
+stargazers_count: 1
+watchers_count: 1
+language: "Python"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/idm-oxford", "avatar_url": "https://avatars.githubusercontent.com/u/194074118?v=4", "login": "idm-oxford", "type": "Organization"}
+date: "2026-07-04 15:17:56.983073"
+---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Magritte-code", "avatar_url": "https://avatars.githubusercontent.com/u/34956055?v=4", "login": "Magritte-code", "type": "Organization"}
 topics: ["radiative-transfer", "astrophysics", "physics-simulation"]
-date: "2026-06-27 15:23:08.258465"
+date: "2026-07-04 15:17:57.473839"
 ---

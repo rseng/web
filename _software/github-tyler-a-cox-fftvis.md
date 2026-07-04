@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/tyler-a-cox", "avatar_url": "https://avatars.githubusercontent.com/u/17678594?v=4", "login": "tyler-a-cox", "type": "User"}
 topics: ["radio-astronomy", "radio-interferometry", "21cm-signal", "simulation", "telescopes"]
-date: "2026-06-27 15:23:08.310438"
+date: "2026-07-04 15:17:57.525998"
 ---

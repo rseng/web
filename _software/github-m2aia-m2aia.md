@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/m2aia", "avatar_url": "https://avatars.githubusercontent.com/u/115093852?v=4", "login": "m2aia", "type": "Organization"}
 topics: ["interactive-analysis", "mass-spectrometry-imaging", "3d-reconstruction", "multi-modal", "docker"]
-date: "2026-06-27 15:23:08.528377"
+date: "2026-07-04 15:17:57.750050"
 ---

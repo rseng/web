@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/desResLab", "avatar_url": "https://avatars.githubusercontent.com/u/39108751?v=4", "login": "desResLab", "type": "Organization"}
 topics: ["annealing", "normalizing-flows", "variational-inference", "computational-expensive-models"]
-date: "2026-06-27 15:23:07.094570"
+date: "2026-07-04 15:17:56.338718"
 ---

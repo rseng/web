@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JuliaGeo", "avatar_url": "https://avatars.githubusercontent.com/u/10616454?v=4", "login": "JuliaGeo", "type": "Organization"}
 topics: ["cf-conventions", "julia", "netcdf", "time"]
-date: "2026-06-27 15:23:08.382857"
+date: "2026-07-04 15:17:57.599387"
 ---

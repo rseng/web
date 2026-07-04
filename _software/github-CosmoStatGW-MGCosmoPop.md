@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CosmoStatGW", "avatar_url": "https://avatars.githubusercontent.com/u/78158898?v=4", "login": "CosmoStatGW", "type": "Organization"}
 topics: ["gravitational-waves", "hierarchical-bayesian-analysis", "cosmology"]
-date: "2026-06-27 15:23:07.925498"
+date: "2026-07-04 15:17:57.136535"
 ---

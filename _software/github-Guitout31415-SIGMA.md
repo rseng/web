@@ -1,0 +1,20 @@
+---
+parser: "github"
+uid: "github/Guitout31415/SIGMA"
+url: "https://github.com/Guitout31415/SIGMA"
+timestamp: "2026-06-28 02:16:29.850658"
+avatar: "https://avatars.githubusercontent.com/u/98963076?v=4"
+repo_url: "https://github.com/Guitout31415/SIGMA"
+name: "SIGMA"
+full_name: "Guitout31415/SIGMA"
+html_url: "https://github.com/Guitout31415/SIGMA"
+created_at: "2025-05-15T21:02:50Z"
+updated_at: "2026-05-08T23:00:30Z"
+clone_url: "https://github.com/Guitout31415/SIGMA.git"
+size: 72936
+language: "Jupyter Notebook"
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/Guitout31415", "avatar_url": "https://avatars.githubusercontent.com/u/98963076?v=4", "login": "Guitout31415", "type": "User"}
+date: "2026-07-04 15:17:56.528768"
+---

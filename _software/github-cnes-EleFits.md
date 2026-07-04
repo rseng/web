@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/CNES", "avatar_url": "https://avatars.githubusercontent.com/u/30655936?v=4", "login": "CNES", "type": "Organization"}
 topics: ["actively-maintained", "fits-files", "fitsio", "cpp"]
-date: "2026-06-27 15:23:08.434139"
+date: "2026-07-04 15:17:57.651702"
 ---
