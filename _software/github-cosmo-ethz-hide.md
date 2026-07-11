@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/cosmo-ethz", "avatar_url": "https://avatars.githubusercontent.com/u/8969967?v=4", "login": "cosmo-ethz", "type": "User"}
-date: "2026-07-04 15:17:57.666407"
+date: "2026-07-11 15:09:19.340044"
 ---

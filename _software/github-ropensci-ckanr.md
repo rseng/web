@@ -21,5 +21,5 @@ open_issues_count: 19
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["ckan-api", "ckan", "api-wrapper", "open-data", "r", "rstats", "r-package", "api", "data", "database", "dataset", "databases"]
-date: "2026-07-04 15:17:57.026828"
+date: "2026-07-11 15:09:18.693956"
 ---

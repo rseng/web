@@ -20,5 +20,5 @@ open_issues_count: 2
 license: {"key": "cc0-1.0", "name": "Creative Commons Zero v1.0 Universal", "spdx_id": "CC0-1.0", "url": "https://api.github.com/licenses/cc0-1.0", "node_id": "MDc6TGljZW5zZTY="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Dfam-consortium", "avatar_url": "https://avatars.githubusercontent.com/u/40807771?v=4", "login": "Dfam-consortium", "type": "Organization"}
-date: "2026-07-04 15:17:56.772533"
+date: "2026-07-11 15:09:18.436992"
 ---

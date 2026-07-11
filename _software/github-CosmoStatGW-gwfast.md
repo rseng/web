@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/CosmoStatGW", "avatar_url": "https://avatars.githubusercontent.com/u/78158898?v=4", "login": "CosmoStatGW", "type": "Organization"}
 topics: ["automatic-differentiation", "fisher-information", "gravitational-waves", "jax", "python"]
-date: "2026-07-04 15:17:57.136063"
+date: "2026-07-11 15:09:18.804029"
 ---

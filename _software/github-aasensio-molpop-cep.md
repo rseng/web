@@ -21,5 +21,5 @@ language: "Fortran"
 open_issues_count: 2
 subscribers_count: 2
 owner: {"html_url": "https://github.com/aasensio", "avatar_url": "https://avatars.githubusercontent.com/u/1766597?v=4", "login": "aasensio", "type": "User"}
-date: "2026-07-04 15:17:57.486940"
+date: "2026-07-11 15:09:19.158839"
 ---

@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/enes-ak", "avatar_url": "https://avatars.githubusercontent.com/u/60985581?v=4", "login": "enes-ak", "type": "User"}
 topics: ["bioinformatics", "coverage-analysis", "genomics", "ngs", "python", "quality-control", "targeted-sequencing"]
-date: "2026-07-04 15:17:57.345244"
+date: "2026-07-11 15:09:19.015701"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/kazewong", "avatar_url": "https://avatars.githubusercontent.com/u/8803931?v=4", "login": "kazewong", "type": "User"}
 topics: ["jax", "mcmc", "normalizing-flows", "stat"]
-date: "2026-07-04 15:17:56.345530"
+date: "2026-07-11 15:09:17.983435"
 ---

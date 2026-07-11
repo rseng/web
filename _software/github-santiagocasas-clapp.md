@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/santiagocasas", "avatar_url": "https://avatars.githubusercontent.com/u/6987716?v=4", "login": "santiagocasas", "type": "User"}
 topics: ["ai", "class", "cosmology", "ag2", "agentic-ai", "llm", "openai-api"]
-date: "2026-07-04 15:17:57.980651"
+date: "2026-07-11 15:09:19.656641"
 ---

@@ -22,5 +22,5 @@ license: {"key": "bsl-1.0", "name": "Boost Software License 1.0", "spdx_id": "BS
 subscribers_count: 4
 owner: {"html_url": "https://github.com/nonlocalmodels", "avatar_url": "https://avatars.githubusercontent.com/u/52047777?v=4", "login": "nonlocalmodels", "type": "Organization"}
 topics: ["computational-mechanics", "peridynamics", "fracture", "nonlocalmodels"]
-date: "2026-07-04 15:17:57.104855"
+date: "2026-07-11 15:09:18.772588"
 ---

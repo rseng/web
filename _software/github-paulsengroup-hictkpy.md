@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/paulsengroup", "avatar_url": "https://avatars.githubusercontent.com/u/100847901?v=4", "login": "paulsengroup", "type": "Organization"}
 topics: ["bindings", "bioinformatics", "cooler", "hic", "hictk", "python3"]
-date: "2026-07-04 15:17:57.598412"
+date: "2026-07-11 15:09:19.271001"
 ---

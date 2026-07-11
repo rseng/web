@@ -21,5 +21,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/jkbonfield", "avatar_url": "https://avatars.githubusercontent.com/u/2210525?v=4", "login": "jkbonfield", "type": "User"}
-date: "2026-07-04 15:17:56.599507"
+date: "2026-07-11 15:09:18.253910"
 ---

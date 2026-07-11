@@ -23,5 +23,5 @@ license: {"key": "lgpl-2.1", "name": "GNU Lesser General Public License v2.1", "
 subscribers_count: 45
 owner: {"html_url": "https://github.com/mdtraj", "avatar_url": "https://avatars.githubusercontent.com/u/9259532?v=4", "login": "mdtraj", "type": "Organization"}
 topics: ["molecular-dynamics", "python", "mdtraj", "rmsd", "dihedral-angles", "pdb", "pdb-files", "molecular-dynamics-trajectories"]
-date: "2026-07-04 15:17:56.446177"
+date: "2026-07-11 15:09:18.085883"
 ---

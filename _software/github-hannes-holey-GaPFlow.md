@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/hannes-holey", "avatar_url": "https://avatars.githubusercontent.com/u/56032774?v=4", "login": "hannes-holey", "type": "User"}
-date: "2026-07-04 15:17:56.999565"
+date: "2026-07-11 15:09:18.666483"
 ---

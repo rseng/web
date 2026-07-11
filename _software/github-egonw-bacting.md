@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/egonw", "avatar_url": "https://avatars.githubusercontent.com/u/26721?v=4", "login": "egonw", "type": "User"}
 topics: ["cheminformatics", "bioinformatics", "rdf", "bioclipse", "excel", "blueobelisk"]
-date: "2026-07-04 15:17:56.569255"
+date: "2026-07-11 15:09:18.216809"
 ---

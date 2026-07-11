@@ -22,5 +22,5 @@ open_issues_count: 4
 subscribers_count: 9
 owner: {"html_url": "https://github.com/aarondotter", "avatar_url": "https://avatars.githubusercontent.com/u/3239471?v=4", "login": "aarondotter", "type": "User"}
 topics: ["stars", "evolution", "isochrones"]
-date: "2026-07-04 15:17:57.345934"
+date: "2026-07-11 15:09:19.016431"
 ---

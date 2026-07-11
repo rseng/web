@@ -20,5 +20,5 @@ watchers_count: 4
 language: "Rust"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/dragoon-rs", "avatar_url": "https://avatars.githubusercontent.com/u/186074765?v=4", "login": "dragoon-rs", "type": "Organization"}
-date: "2026-07-04 15:17:56.886544"
+date: "2026-07-11 15:09:18.551812"
 ---

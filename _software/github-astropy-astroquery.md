@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 30
 owner: {"html_url": "https://github.com/astropy", "avatar_url": "https://avatars.githubusercontent.com/u/847984?v=4", "login": "astropy", "type": "Organization"}
 topics: ["astropy", "python", "astropy-affiliated", "astronomy", "hacktoberfest", "closember"]
-date: "2026-07-04 15:17:56.914839"
+date: "2026-07-11 15:09:18.580762"
 ---

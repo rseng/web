@@ -19,5 +19,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/LeoTorreblanca", "avatar_url": "https://avatars.githubusercontent.com/u/164967738?v=4", "login": "LeoTorreblanca", "type": "User"}
 topics: ["astrophysics", "cosmology", "dark-energy", "geometry", "hubble-tension", "large-scale-structure", "mathematical-model", "python", "reproducibility"]
-date: "2026-07-04 15:17:57.301141"
+date: "2026-07-11 15:09:18.971221"
 ---

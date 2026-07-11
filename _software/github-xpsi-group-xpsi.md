@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/xpsi-group", "avatar_url": "https://avatars.githubusercontent.com/u/87758280?v=4", "login": "xpsi-group", "type": "Organization"}
 topics: ["astrophysics", "astronomy", "astronomical-algorithms", "astrophysical-simulation", "sampling", "parameter-estimation", "statistics-modeling", "modeling", "likelihood-functions", "posterior-sampling", "x-ray-astronomy"]
-date: "2026-07-04 15:17:57.780050"
+date: "2026-07-11 15:09:19.454723"
 ---

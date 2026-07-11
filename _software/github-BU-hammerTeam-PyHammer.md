@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 15
 owner: {"html_url": "https://github.com/BU-hammerTeam", "avatar_url": "https://avatars.githubusercontent.com/u/21038240?v=4", "login": "BU-hammerTeam", "type": "Organization"}
 topics: ["spectral-types", "metallicity", "python", "spectral-lines"]
-date: "2026-07-04 15:17:57.897860"
+date: "2026-07-11 15:09:19.573138"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 3
 subscribers_count: 5
 owner: {"html_url": "https://github.com/bwinkel", "avatar_url": "https://avatars.githubusercontent.com/u/6582333?v=4", "login": "bwinkel", "type": "User"}
 topics: ["astronomy", "python", "gridding", "resampling"]
-date: "2026-07-04 15:17:57.691435"
+date: "2026-07-11 15:09:19.365412"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/abmantz", "avatar_url": "https://avatars.githubusercontent.com/u/10962486?v=4", "login": "abmantz", "type": "User"}
 topics: ["statistics", "markov-chain-monte-carlo"]
-date: "2026-07-04 15:17:57.291423"
+date: "2026-07-11 15:09:18.961184"
 ---

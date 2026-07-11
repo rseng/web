@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/quantum-exeter", "avatar_url": "https://avatars.githubusercontent.com/u/99965031?v=4", "login": "quantum-exeter", "type": "Organization"}
 topics: ["open-systems", "spin-dynamics", "harmonic-oscillator", "stochastic"]
-date: "2026-07-04 15:17:57.213521"
+date: "2026-07-11 15:09:18.882425"
 ---

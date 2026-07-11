@@ -21,5 +21,5 @@ language: "JavaScript"
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 owner: {"html_url": "https://github.com/jerseroman", "avatar_url": "https://avatars.githubusercontent.com/u/6087316?v=4", "login": "jerseroman", "type": "User"}
 topics: ["astronomy", "astronomy-astrophysics", "drake-equation", "exoplanets", "fermi-paradox", "github-pages", "habitability", "milky-way", "monte-carlo-simulation", "observable-universe", "planetary-science", "probabilistic-modeling", "scientific-calculator", "seti", "source-available", "static-site", "uncertainty-analysis", "earth-like-planets", "poisson-distance-estimation"]
-date: "2026-07-04 15:17:57.519792"
+date: "2026-07-11 15:09:19.191997"
 ---

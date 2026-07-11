@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 341
 owner: {"html_url": "https://github.com/horovod", "avatar_url": "https://avatars.githubusercontent.com/u/46361271?v=4", "login": "horovod", "type": "Organization"}
 topics: ["tensorflow", "uber", "machine-learning", "machinelearning", "mpi", "baidu", "deep-learning", "deeplearning", "keras", "pytorch", "mxnet", "spark", "ray"]
-date: "2026-07-04 15:17:56.743953"
+date: "2026-07-11 15:09:18.407740"
 ---

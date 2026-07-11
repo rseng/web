@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/metagentools", "avatar_url": "https://avatars.githubusercontent.com/u/105288780?v=4", "login": "metagentools", "type": "Organization"}
 topics: ["metagenomics", "binning", "contigs", "assembly-graph", "label-propagation"]
-date: "2026-07-04 15:17:56.830646"
+date: "2026-07-11 15:09:18.495539"
 ---

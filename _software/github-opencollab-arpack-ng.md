@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 18
 owner: {"html_url": "https://github.com/opencollab", "avatar_url": "https://avatars.githubusercontent.com/u/7782996?v=4", "login": "opencollab", "type": "Organization"}
 topics: ["eigenvalue", "linear-algebra", "arpack", "parpack"]
-date: "2026-07-04 15:17:56.243469"
+date: "2026-07-11 15:09:17.880546"
 ---

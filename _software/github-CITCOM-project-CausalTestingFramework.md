@@ -21,5 +21,5 @@ open_issues_count: 37
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CITCOM-project", "avatar_url": "https://avatars.githubusercontent.com/u/76901837?v=4", "login": "CITCOM-project", "type": "Organization"}
-date: "2026-07-04 15:17:57.243898"
+date: "2026-07-11 15:09:18.913078"
 ---

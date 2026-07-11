@@ -20,5 +20,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/nialljmiller", "avatar_url": "https://avatars.githubusercontent.com/u/86417120?v=4", "login": "nialljmiller", "type": "User"}
 topics: ["ai", "astronomy", "astrophysical-data", "astrophysics", "machine-learning", "mathematics", "photometry", "spectral-energy-distribution"]
-date: "2026-07-04 15:17:57.640908"
+date: "2026-07-11 15:09:19.313808"
 ---

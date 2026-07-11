@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/anam-org", "avatar_url": "https://avatars.githubusercontent.com/u/156597016?v=4", "login": "anam-org", "type": "Organization"}
 topics: ["data", "metadata", "pipelines", "python", "caching", "multimodal", "versioning"]
-date: "2026-07-04 15:17:57.834727"
+date: "2026-07-11 15:09:19.509782"
 ---

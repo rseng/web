@@ -24,5 +24,5 @@ topics: ["tree-detection", "tree-pixels", "tree-canopy", "remote-sensing", "pyth
 timestamp: "2020-07-05 00:17:05.037088"
 avatar: "https://avatars0.githubusercontent.com/u/5831581?v=4"
 repo_url: "https://github.com/martibosch/detectree"
-date: "2026-07-04 15:17:56.496629"
+date: "2026-07-11 15:09:18.137241"
 ---
