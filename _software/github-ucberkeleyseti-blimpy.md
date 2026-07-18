@@ -23,5 +23,5 @@ open_issues_count: 12
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 15
 owner: {"html_url": "https://github.com/UCBerkeleySETI", "avatar_url": "https://avatars.githubusercontent.com/u/1209848?v=4", "login": "UCBerkeleySETI", "type": "Organization"}
-date: "2026-07-11 15:09:19.334478"
+date: "2026-07-18 15:08:46.907850"
 ---

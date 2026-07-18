@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CDSP-SCPO", "avatar_url": "https://avatars.githubusercontent.com/u/32896728?v=4", "login": "CDSP-SCPO", "type": "Organization"}
 topics: ["rdm", "repository", "research", "data", "javascript", "dataverse", "integration", "api", "svelte"]
-date: "2026-07-11 15:09:18.215777"
+date: "2026-07-18 15:08:47.317587"
 ---

@@ -21,5 +21,5 @@ language: "IDL"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 owner: {"html_url": "https://github.com/equib", "avatar_url": "https://avatars.githubusercontent.com/u/24842786?v=4", "login": "equib", "type": "Organization"}
 topics: ["atomic-level-populations", "chemical-elements", "line-emissivities", "statistical-equilibrium", "idl", "gdl", "proequib", "idl-library"]
-date: "2026-07-11 15:09:19.219807"
+date: "2026-07-18 15:08:48.141235"
 ---

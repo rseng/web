@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JGCRI", "avatar_url": "https://avatars.githubusercontent.com/u/8431983?v=4", "login": "JGCRI", "type": "Organization"}
 topics: ["economics", "food-security", "scientific-computing"]
-date: "2026-07-11 15:09:18.629612"
+date: "2026-07-18 15:08:48.228903"
 ---

@@ -15,5 +15,5 @@ clone_url: "https://github.com/liniguez/Insplico_simulations.git"
 size: 6
 subscribers_count: 1
 owner: {"html_url": "https://github.com/liniguez", "avatar_url": "https://avatars.githubusercontent.com/u/36859003?v=4", "login": "liniguez", "type": "User"}
-date: "2026-07-11 15:09:18.659102"
+date: "2026-07-18 15:08:47.074470"
 ---

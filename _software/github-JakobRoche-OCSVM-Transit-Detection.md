@@ -19,5 +19,5 @@ size: 11
 language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JakobRoche", "avatar_url": "https://avatars.githubusercontent.com/u/175963631?v=4", "login": "JakobRoche", "type": "User"}
-date: "2026-07-11 15:09:19.027768"
+date: "2026-07-18 15:08:48.401321"
 ---

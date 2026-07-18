@@ -22,5 +22,5 @@ open_issues_count: 60
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/statgen", "avatar_url": "https://avatars.githubusercontent.com/u/651584?v=4", "login": "statgen", "type": "Organization"}
-date: "2026-07-11 15:09:18.461135"
+date: "2026-07-18 15:08:48.475115"
 ---

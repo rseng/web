@@ -20,5 +20,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/equib", "avatar_url": "https://avatars.githubusercontent.com/u/24842786?v=4", "login": "equib", "type": "Organization"}
 topics: ["atomic-level-populations", "line-emissivities", "statistical-equilibrium", "equib", "fortran", "electron-density", "electron-temperature"]
-date: "2026-07-11 15:09:19.219569"
+date: "2026-07-18 15:08:48.141703"
 ---

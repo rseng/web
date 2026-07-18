@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/javicarron", "avatar_url": "https://avatars.githubusercontent.com/u/25009611?v=4", "login": "javicarron", "type": "User"}
 topics: ["cmb", "gaussian", "healpix", "healpy", "minkowski", "non-gaussian", "polarization", "spherical", "topology", "cosmology", "maps", "curvature", "anisotropy", "minkowski-functionals", "non-gaussianities", "python"]
-date: "2026-07-11 15:09:19.321017"
+date: "2026-07-18 15:08:48.525694"
 ---

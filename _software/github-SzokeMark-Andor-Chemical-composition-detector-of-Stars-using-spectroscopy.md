@@ -19,5 +19,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/SzokeMark-Andor", "avatar_url": "https://avatars.githubusercontent.com/u/110973012?v=4", "login": "SzokeMark-Andor", "type": "User"}
 topics: ["spectroscopy", "stellar-composition"]
-date: "2026-07-11 15:09:19.652387"
+date: "2026-07-18 15:08:47.946298"
 ---

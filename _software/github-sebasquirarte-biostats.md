@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sebasquirarte", "avatar_url": "https://avatars.githubusercontent.com/u/39809366?v=4", "login": "sebasquirarte", "type": "User"}
 topics: ["biostatistics", "clinical-data", "clinical-research", "clinical-trials", "r-package"]
-date: "2026-07-11 15:09:19.056711"
+date: "2026-07-18 15:08:47.184575"
 ---

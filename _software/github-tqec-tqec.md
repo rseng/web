@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 14
 owner: {"html_url": "https://github.com/tqec", "avatar_url": "https://avatars.githubusercontent.com/u/187762427?v=4", "login": "tqec", "type": "Organization"}
 topics: ["quantum-error-correction", "surface-code", "quantum-computing"]
-date: "2026-07-11 15:09:19.267041"
+date: "2026-07-18 15:08:46.886619"
 ---

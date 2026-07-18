@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 11
 owner: {"html_url": "https://github.com/sunpy", "avatar_url": "https://avatars.githubusercontent.com/u/963197?v=4", "login": "sunpy", "type": "Organization"}
 topics: ["sunpy", "nddata", "wcs", "numfocus", "astropy"]
-date: "2026-07-11 15:09:19.699612"
+date: "2026-07-18 15:08:46.989419"
 ---

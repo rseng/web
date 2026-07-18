@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 1
 owner: {"html_url": "https://github.com/PyLops", "avatar_url": "https://avatars.githubusercontent.com/u/74298005?v=4", "login": "PyLops", "type": "Organization"}
 topics: ["proximal-algorithms", "linear-algebra", "inverse-problems", "python"]
-date: "2026-07-11 15:09:17.910054"
+date: "2026-07-18 15:08:48.037604"
 ---

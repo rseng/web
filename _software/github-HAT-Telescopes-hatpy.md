@@ -17,5 +17,5 @@ size: 1481
 language: "Python"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 owner: {"html_url": "https://github.com/HAT-Telescopes", "avatar_url": "https://avatars.githubusercontent.com/u/153840459?v=4", "login": "HAT-Telescopes", "type": "Organization"}
-date: "2026-07-11 15:09:19.313067"
+date: "2026-07-18 15:08:47.058607"
 ---

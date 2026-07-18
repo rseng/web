@@ -23,5 +23,5 @@ open_issues_count: 18
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 45
 owner: {"html_url": "https://github.com/freebayes", "avatar_url": "https://avatars.githubusercontent.com/u/15815823?v=4", "login": "freebayes", "type": "Organization"}
-date: "2026-07-11 15:09:19.620532"
+date: "2026-07-18 15:08:47.586547"
 ---

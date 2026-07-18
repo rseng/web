@@ -23,5 +23,5 @@ open_issues_count: 12
 license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id": "GPL-2.0", "url": "https://api.github.com/licenses/gpl-2.0", "node_id": "MDc6TGljZW5zZTg="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/tfwillems", "avatar_url": "https://avatars.githubusercontent.com/u/4562953?v=4", "login": "tfwillems", "type": "User"}
-date: "2026-07-11 15:09:18.939225"
+date: "2026-07-18 15:08:47.215836"
 ---

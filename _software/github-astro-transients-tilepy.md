@@ -23,5 +23,5 @@ open_issues_count: 34
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/astro-transients", "avatar_url": "https://avatars.githubusercontent.com/u/125971930?v=4", "login": "astro-transients", "type": "User"}
-date: "2026-07-11 15:09:19.594138"
+date: "2026-07-18 15:08:48.488041"
 ---

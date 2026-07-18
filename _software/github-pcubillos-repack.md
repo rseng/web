@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/pcubillos", "avatar_url": "https://avatars.githubusercontent.com/u/2119263?v=4", "login": "pcubillos", "type": "User"}
 topics: ["radiative-transfer", "exoplanets", "spectroscopy", "hitran", "exomol"]
-date: "2026-07-11 15:09:17.920318"
+date: "2026-07-18 15:08:47.796571"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ctkelley", "avatar_url": "https://avatars.githubusercontent.com/u/10243067?v=4", "login": "ctkelley", "type": "User"}
 topics: ["iterative-methods", "iterative-refinement", "linear-solvers", "multiprecision"]
-date: "2026-07-11 15:09:19.232198"
+date: "2026-07-18 15:08:48.419984"
 ---

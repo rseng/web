@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 191
 owner: {"html_url": "https://github.com/nf-core", "avatar_url": "https://avatars.githubusercontent.com/u/35520196?v=4", "login": "nf-core", "type": "Organization"}
 topics: ["bioinformatics", "metagenomics", "nextflow", "nf-core", "pipeline", "protein-families", "proteomics", "workflow"]
-date: "2026-07-11 15:09:18.896012"
+date: "2026-07-18 15:08:47.140986"
 ---

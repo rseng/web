@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:26.358704"
 avatar: "https://avatars0.githubusercontent.com/u/12843269?v=4"
 repo_url: "https://github.com/eWaterCycle/era5cli"
-date: "2026-07-11 15:09:18.511445"
+date: "2026-07-18 15:08:47.933795"
 ---

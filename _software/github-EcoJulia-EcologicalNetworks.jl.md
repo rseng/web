@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/EcoJulia", "avatar_url": "https://avatars.githubusercontent.com/u/22506369?v=4", "login": "EcoJulia", "type": "Organization"}
 topics: ["julia", "ecology", "networks"]
-date: "2026-07-11 15:09:18.372590"
+date: "2026-07-18 15:08:47.540574"
 ---
