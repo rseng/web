@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 3
 owner: {"html_url": "https://github.com/DaymudeLab", "avatar_url": "https://avatars.githubusercontent.com/u/120212518?v=4", "login": "DaymudeLab", "type": "Organization"}
 topics: ["assembly-theory"]
-date: "2026-07-18 15:08:46.972472"
+date: "2026-07-25 15:15:42.006032"
 ---

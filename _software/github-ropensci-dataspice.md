@@ -21,5 +21,5 @@ open_issues_count: 32
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["unconf18", "schema-org", "metadata", "data", "dataset", "r", "r-package", "rstats", "unconf", "data-publication"]
-date: "2026-07-18 15:08:48.247064"
+date: "2026-07-25 15:15:41.603520"
 ---

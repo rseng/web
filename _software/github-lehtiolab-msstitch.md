@@ -21,5 +21,5 @@ language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/lehtiolab", "avatar_url": "https://avatars.githubusercontent.com/u/32761652?v=4", "login": "lehtiolab", "type": "Organization"}
-date: "2026-07-18 15:08:47.929911"
+date: "2026-07-25 15:15:41.974121"
 ---

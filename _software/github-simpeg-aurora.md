@@ -21,5 +21,5 @@ open_issues_count: 92
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/simpeg", "avatar_url": "https://avatars.githubusercontent.com/u/6043842?v=4", "login": "simpeg", "type": "Organization"}
-date: "2026-07-18 15:08:47.115849"
+date: "2026-07-25 15:15:41.916971"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/quadram-institute-bioscience", "avatar_url": "https://avatars.githubusercontent.com/u/37581082?v=4", "login": "quadram-institute-bioscience", "type": "Organization"}
 topics: ["dada2", "asv", "bioinformatics", "16s", "amplicon-pipeline", "taxonomy", "phyloseq", "metabarcoding"]
-date: "2026-07-18 15:08:46.846738"
+date: "2026-07-25 15:15:41.854223"
 ---

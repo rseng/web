@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/bandframework", "avatar_url": "https://avatars.githubusercontent.com/u/63761723?v=4", "login": "bandframework", "type": "Organization"}
 topics: ["bayesian-model-mixing", "bayesian-statistics", "regression-trees"]
-date: "2026-07-18 15:08:47.792460"
+date: "2026-07-25 15:15:41.583120"
 ---

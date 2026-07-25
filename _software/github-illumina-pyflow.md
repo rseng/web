@@ -22,5 +22,5 @@ open_issues_count: 13
 subscribers_count: 31
 owner: {"html_url": "https://github.com/Illumina", "avatar_url": "https://avatars.githubusercontent.com/u/11462464?v=4", "login": "Illumina", "type": "Organization"}
 topics: ["workflow", "workflow-engine", "task-runner"]
-date: "2026-07-18 15:08:47.066075"
+date: "2026-07-25 15:15:41.733900"
 ---

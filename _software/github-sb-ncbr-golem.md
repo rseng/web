@@ -19,5 +19,5 @@ language: "Dart"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sb-ncbr", "avatar_url": "https://avatars.githubusercontent.com/u/108478300?v=4", "login": "sb-ncbr", "type": "Organization"}
-date: "2026-07-18 15:08:46.958982"
+date: "2026-07-25 15:15:42.464813"
 ---

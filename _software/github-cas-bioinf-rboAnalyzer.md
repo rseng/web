@@ -21,5 +21,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cas-bioinf", "avatar_url": "https://avatars1.githubusercontent.com/u/25302416?v=4", "login": "cas-bioinf", "type": "Organization"}
 topics: ["rna", "rna-structure-prediction", "blast", "blast-search"]
-date: "2026-07-18 15:08:48.086204"
+date: "2026-07-25 15:15:41.467545"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/steineggerlab", "avatar_url": "https://avatars.githubusercontent.com/u/62094016?v=4", "login": "steineggerlab", "type": "Organization"}
 topics: ["bioinformatics", "msa", "protein-structure"]
-date: "2026-07-18 15:08:47.610139"
+date: "2026-07-25 15:15:42.348443"
 ---

@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/NLeSC", "avatar_url": "https://avatars.githubusercontent.com/u/1705862?v=4", "login": "NLeSC", "type": "Organization"}
 topics: ["literature-review", "literature-search", "literature-review-tool", "python", "jupyter", "systematic-literature-reviews", "systematic-reviews", "bibliographics", "bibliometric-analysis", "bibliometric-visualization", "bibliometrics", "scientometrics"]
-date: "2026-07-18 15:08:47.469686"
+date: "2026-07-25 15:15:42.287966"
 ---

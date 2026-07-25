@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 26
 owner: {"html_url": "https://github.com/simonsobs", "avatar_url": "https://avatars.githubusercontent.com/u/22817890?v=4", "login": "simonsobs", "type": "Organization"}
 topics: ["cosmology", "image-processing", "astrophysics"]
-date: "2026-07-18 15:08:47.870113"
+date: "2026-07-25 15:15:42.179150"
 ---
