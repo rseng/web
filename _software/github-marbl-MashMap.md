@@ -22,5 +22,5 @@ open_issues_count: 22
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 16
 owner: {"html_url": "https://github.com/marbl", "avatar_url": "https://avatars.githubusercontent.com/u/6492934?v=4", "login": "marbl", "type": "Organization"}
-date: "2026-07-25 15:15:42.122238"
+date: "2026-08-01 15:12:51.485114"
 ---

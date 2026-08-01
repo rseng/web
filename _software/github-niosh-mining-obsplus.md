@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 5
 owner: {"html_url": "https://github.com/niosh-mining", "avatar_url": "https://avatars.githubusercontent.com/u/32000029?v=4", "login": "niosh-mining", "type": "Organization"}
 topics: ["seismology", "pandas"]
-date: "2026-07-25 15:15:42.309901"
+date: "2026-08-01 15:12:51.803844"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 9
 owner: {"html_url": "https://github.com/Starlink", "avatar_url": "https://avatars.githubusercontent.com/u/2018671?v=4", "login": "Starlink", "type": "Organization"}
 topics: ["python", "astronomy", "wcs"]
-date: "2026-07-25 15:15:41.663359"
+date: "2026-08-01 15:12:50.698698"
 ---

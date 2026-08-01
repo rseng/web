@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/neuromodulation", "avatar_url": "https://avatars.githubusercontent.com/u/58917760?v=4", "login": "neuromodulation", "type": "Organization"}
 topics: ["python", "deep-brain-stimulation", "electrocorticography", "ecog", "dbs", "machine-learning", "real-time"]
-date: "2026-07-25 15:15:42.430449"
+date: "2026-08-01 15:12:52.024897"
 ---

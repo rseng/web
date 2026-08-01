@@ -23,5 +23,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/19967329/cosapp_
 star_count: 15
 last_activity_at: "2024-03-01T13:18:58.694Z"
 namespace: {"id": 8566193, "name": "CoSApp", "path": "cosapp", "kind": "group", "full_path": "cosapp", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/8566193/cosapp_web.png", "web_url": "https://gitlab.com/groups/cosapp"}
-date: "2026-07-25 15:15:42.473514"
+date: "2026-08-01 15:12:52.097920"
 ---

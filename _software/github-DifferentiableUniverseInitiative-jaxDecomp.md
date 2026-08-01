@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/DifferentiableUniverseInitiative", "avatar_url": "https://avatars.githubusercontent.com/u/57510041?v=4", "login": "DifferentiableUniverseInitiative", "type": "Organization"}
 topics: ["cuda", "hpc", "jax", "xla"]
-date: "2026-07-25 15:15:41.660768"
+date: "2026-08-01 15:12:50.694233"
 ---

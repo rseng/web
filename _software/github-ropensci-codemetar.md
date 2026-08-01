@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 25
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["metadata", "json-ld", "codemeta", "r", "rstats", "r-package", "peer-reviewed", "citation", "credit", "linked-data", "ropensci", "data-publication"]
-date: "2026-07-25 15:15:41.617260"
+date: "2026-08-01 15:12:50.618592"
 ---

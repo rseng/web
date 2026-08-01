@@ -23,5 +23,5 @@ open_issues_count: 15
 subscribers_count: 6
 owner: {"html_url": "https://github.com/karllark", "avatar_url": "https://avatars.githubusercontent.com/u/1554536?v=4", "login": "karllark", "type": "User"}
 topics: ["radiative-transfer", "radiative-transfer-models", "monte-carlo", "interstellar-medium", "dust"]
-date: "2026-07-25 15:15:41.896034"
+date: "2026-08-01 15:12:51.097719"
 ---

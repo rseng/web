@@ -24,5 +24,5 @@ topics: ["eigen3", "gpu-computing", "cpp14", "matrix-multiplication"]
 timestamp: "2020-07-05 00:17:28.362133"
 avatar: "https://avatars3.githubusercontent.com/u/44467875?v=4"
 repo_url: "https://github.com/NLESC-JCER/EigenCuda"
-date: "2026-07-25 15:15:41.571145"
+date: "2026-08-01 15:12:50.538814"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 4
 subscribers_count: 6
 owner: {"html_url": "https://github.com/mriener", "avatar_url": "https://avatars.githubusercontent.com/u/26575754?v=4", "login": "mriener", "type": "User"}
 topics: ["decomposition", "python-packages", "spectra"]
-date: "2026-07-25 15:15:41.794928"
+date: "2026-08-01 15:12:50.925551"
 ---

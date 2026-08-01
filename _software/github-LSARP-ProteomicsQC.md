@@ -16,5 +16,5 @@ size: 2961
 language: "JavaScript"
 owner: {"html_url": "https://github.com/LSARP", "avatar_url": "https://avatars.githubusercontent.com/u/43147062?v=4", "login": "LSARP", "type": "Organization"}
 topics: ["proteomics", "proteomics-data", "proteomics-data-analysis", "quality-control", "pipelines", "pipeline-framework", "docker-compose"]
-date: "2026-07-25 15:15:41.872407"
+date: "2026-08-01 15:12:51.056792"
 ---

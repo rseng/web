@@ -22,5 +22,5 @@ open_issues_count: 25
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 18
 owner: {"html_url": "https://github.com/biocore", "avatar_url": "https://avatars.githubusercontent.com/u/6241857?v=4", "login": "biocore", "type": "Organization"}
-date: "2026-07-25 15:15:41.722992"
+date: "2026-08-01 15:12:50.802063"
 ---

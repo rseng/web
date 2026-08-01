@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 13
 owner: {"html_url": "https://github.com/nextgenusfs", "avatar_url": "https://avatars.githubusercontent.com/u/6164308?v=4", "login": "nextgenusfs", "type": "User"}
 topics: ["genome-annotation", "gene-models", "comparative-genomics", "ncbi-submission"]
-date: "2026-07-25 15:15:42.216971"
+date: "2026-08-01 15:12:51.646159"
 ---

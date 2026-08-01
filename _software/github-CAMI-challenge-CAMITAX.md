@@ -22,5 +22,5 @@ open_issues_count: 3
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 6
 owner: {"html_url": "https://github.com/CAMI-challenge", "avatar_url": "https://avatars.githubusercontent.com/u/8009060?v=4", "login": "CAMI-challenge", "type": "Organization"}
-date: "2026-07-25 15:15:42.459350"
+date: "2026-08-01 15:12:52.073984"
 ---

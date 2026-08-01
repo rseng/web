@@ -20,5 +20,5 @@ open_issues_count: 11
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/medema-group", "avatar_url": "https://avatars0.githubusercontent.com/u/60616973?v=4", "login": "medema-group", "type": "Organization"}
-date: "2026-07-25 15:15:41.714499"
+date: "2026-08-01 15:12:50.787614"
 ---

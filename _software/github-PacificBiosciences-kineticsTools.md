@@ -20,5 +20,5 @@ language: "Python"
 open_issues_count: 42
 subscribers_count: 27
 owner: {"html_url": "https://github.com/PacificBiosciences", "avatar_url": "https://avatars.githubusercontent.com/u/999745?v=4", "login": "PacificBiosciences", "type": "Organization"}
-date: "2026-07-25 15:15:41.846412"
+date: "2026-08-01 15:12:51.012505"
 ---

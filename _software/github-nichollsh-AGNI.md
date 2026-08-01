@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/nichollsh", "avatar_url": "https://avatars.githubusercontent.com/u/32022679?v=4", "login": "nichollsh", "type": "User"}
 topics: ["atmosphere-model", "convection", "exoplanets", "physics", "radiation", "fortran", "julia", "planetary-science", "radiative-transfer", "nonlinear-optimization", "optimization", "thermodynamics", "atmosphere", "jwst", "magma"]
-date: "2026-07-25 15:15:42.184541"
+date: "2026-08-01 15:12:51.591228"
 ---

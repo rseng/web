@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 20
 owner: {"html_url": "https://github.com/spacepy", "avatar_url": "https://avatars.githubusercontent.com/u/2671009?v=4", "login": "spacepy", "type": "Organization"}
 topics: ["python", "python2", "python3", "space", "coordinates", "batsrus", "swmf", "cdf"]
-date: "2026-07-25 15:15:42.279670"
+date: "2026-08-01 15:12:51.752166"
 ---

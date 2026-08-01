@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mcfit", "avatar_url": "https://avatars.githubusercontent.com/u/21207104?v=4", "login": "mcfit", "type": "Organization"}
 topics: ["mcmc", "emcee", "idl", "ensemble-sampler", "hammer"]
-date: "2026-07-25 15:15:41.779277"
+date: "2026-08-01 15:12:50.899171"
 ---

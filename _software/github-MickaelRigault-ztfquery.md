@@ -22,5 +22,5 @@ open_issues_count: 7
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/MickaelRigault", "avatar_url": "https://avatars.githubusercontent.com/u/7812822?v=4", "login": "MickaelRigault", "type": "User"}
-date: "2026-07-25 15:15:42.447054"
+date: "2026-08-01 15:12:52.053431"
 ---

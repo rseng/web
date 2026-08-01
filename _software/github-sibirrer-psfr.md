@@ -21,5 +21,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/sibirrer", "avatar_url": "https://avatars.githubusercontent.com/u/6814174?v=4", "login": "sibirrer", "type": "User"}
 topics: ["astronomy", "psf-estimation", "lenstronomy"]
-date: "2026-07-25 15:15:42.243280"
+date: "2026-08-01 15:12:51.690451"
 ---

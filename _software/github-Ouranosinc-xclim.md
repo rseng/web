@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 20
 owner: {"html_url": "https://github.com/Ouranosinc", "avatar_url": "https://avatars.githubusercontent.com/u/1696763?v=4", "login": "Ouranosinc", "type": "Organization"}
 topics: ["climate-analysis", "climate-science", "python", "xarray", "icclim", "netcdf4", "xclim", "anuclim", "dask"]
-date: "2026-07-25 15:15:42.113456"
+date: "2026-08-01 15:12:51.470072"
 ---

@@ -24,5 +24,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 10
 owner: {"html_url": "https://github.com/s4hts", "avatar_url": "https://avatars.githubusercontent.com/u/64926039?v=4", "login": "s4hts", "type": "Organization"}
 topics: ["bioinformatics", "bioinformatics-tool", "genomics", "streaming", "linux-pipes", "sequence-analysis", "next-generation-sequencing"]
-date: "2026-07-25 15:15:41.984625"
+date: "2026-08-01 15:12:51.250368"
 ---

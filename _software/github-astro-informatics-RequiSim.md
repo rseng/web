@@ -19,5 +19,5 @@ watchers_count: 1
 language: "Python"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
-date: "2026-07-25 15:15:42.132780"
+date: "2026-08-01 15:12:51.503094"
 ---

@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:20.105248"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/root-conda-recipes"
-date: "2026-07-25 15:15:42.287823"
+date: "2026-08-01 15:12:51.766083"
 ---

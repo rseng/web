@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/ORNL", "avatar_url": "https://avatars.githubusercontent.com/u/5138006?v=4", "login": "ORNL", "type": "Organization"}
 topics: ["calphad", "python"]
-date: "2026-07-25 15:15:42.187533"
+date: "2026-08-01 15:12:51.596466"
 ---

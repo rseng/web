@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 8
 owner: {"html_url": "https://github.com/ParkerLab", "avatar_url": "https://avatars.githubusercontent.com/u/10228461?v=4", "login": "ParkerLab", "type": "Organization"}
 topics: ["atac-seq", "quality-control", "visualization", "software", "tool"]
-date: "2026-07-25 15:15:42.292741"
+date: "2026-08-01 15:12:51.774376"
 ---

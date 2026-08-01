@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/Deltares", "avatar_url": "https://avatars.githubusercontent.com/u/6613768?v=4", "login": "Deltares", "type": "Organization"}
 topics: ["filter", "terrain", "dtm", "julia", "hacktoberfest", "cost", "friction", "pcraster"]
-date: "2026-07-25 15:15:42.092715"
+date: "2026-08-01 15:12:51.434579"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/epiforecasts", "avatar_url": "https://avatars.githubusercontent.com/u/54675094?v=4", "login": "epiforecasts", "type": "Organization"}
 topics: ["covid-19", "rstats", "data", "regional-data", "open-science", "r6"]
-date: "2026-07-25 15:15:41.952028"
+date: "2026-08-01 15:12:51.194394"
 ---

@@ -19,5 +19,5 @@ watchers_count: 3
 language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/astronomical-data-processing", "avatar_url": "https://avatars.githubusercontent.com/u/47811859?v=4", "login": "astronomical-data-processing", "type": "Organization"}
-date: "2026-07-25 15:15:41.924055"
+date: "2026-08-01 15:12:51.145919"
 ---

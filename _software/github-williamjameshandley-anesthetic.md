@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/williamjameshandley", "avatar_url": "https://avatars.githubusercontent.com/u/3708486?v=4", "login": "williamjameshandley", "type": "User"}
 topics: ["nested-sampling", "bayesian-inference", "mcmc", "samples", "matplotlib", "pandas", "fastkde", "numpy", "scipy"]
-date: "2026-07-25 15:15:41.670886"
+date: "2026-08-01 15:12:50.711600"
 ---

@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/dstansby", "avatar_url": "https://avatars0.githubusercontent.com/u/6197628?v=4", "login": "dstansby", "type": "User"}
 topics: ["python", "physics", "solar-physics", "sun"]
-date: "2026-07-25 15:15:41.482476"
+date: "2026-08-01 15:12:50.388021"
 ---

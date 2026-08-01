@@ -22,5 +22,5 @@ language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/RozanskiT", "avatar_url": "https://avatars.githubusercontent.com/u/30845410?v=4", "login": "RozanskiT", "type": "User"}
 topics: ["spectroscopy", "astronomy", "astronomy-software"]
-date: "2026-07-25 15:15:42.056372"
+date: "2026-08-01 15:12:51.372282"
 ---

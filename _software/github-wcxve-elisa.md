@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/wcxve", "avatar_url": "https://avatars.githubusercontent.com/u/58248583?v=4", "login": "wcxve", "type": "User"}
 topics: ["spectral-analysis", "python", "astrophysics", "astronomy", "jax", "numpyro", "elisa", "gamma-ray", "x-ray"]
-date: "2026-07-25 15:15:42.269324"
+date: "2026-08-01 15:12:51.734640"
 ---

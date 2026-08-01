@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/munich-quantum-toolkit", "avatar_url": "https://avatars.githubusercontent.com/u/177826161?v=4", "login": "munich-quantum-toolkit", "type": "Organization"}
 topics: ["quantum-computing", "quantum-intermediate-representation", "mqt", "tum"]
-date: "2026-07-25 15:15:42.126885"
+date: "2026-08-01 15:12:51.492995"
 ---

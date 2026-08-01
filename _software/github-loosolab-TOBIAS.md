@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/loosolab", "avatar_url": "https://avatars.githubusercontent.com/u/12712804?v=4", "login": "loosolab", "type": "Organization"}
 topics: ["bioinformatics", "atac-seq", "footprinting"]
-date: "2026-07-25 15:15:42.407950"
+date: "2026-08-01 15:12:51.986231"
 ---

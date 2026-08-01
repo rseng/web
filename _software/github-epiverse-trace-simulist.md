@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/epiverse-trace", "avatar_url": "https://avatars.githubusercontent.com/u/101338582?v=4", "login": "epiverse-trace", "type": "Organization"}
 topics: ["epidemiology", "epiverse", "linelist", "outbreaks", "r", "r-package"]
-date: "2026-07-25 15:15:42.350875"
+date: "2026-08-01 15:12:51.874646"
 ---

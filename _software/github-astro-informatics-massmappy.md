@@ -22,5 +22,5 @@ language: "Python"
 open_issues_count: 1
 subscribers_count: 8
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
-date: "2026-07-25 15:15:42.131411"
+date: "2026-08-01 15:12:51.500772"
 ---

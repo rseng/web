@@ -22,5 +22,5 @@ open_issues_count: 14
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 26
 owner: {"html_url": "https://github.com/tidymodels", "avatar_url": "https://avatars.githubusercontent.com/u/29100987?v=4", "login": "tidymodels", "type": "Organization"}
-date: "2026-07-25 15:15:41.761211"
+date: "2026-08-01 15:12:50.867925"
 ---

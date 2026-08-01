@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 11
 owner: {"html_url": "https://github.com/CobayaSampler", "avatar_url": "https://avatars.githubusercontent.com/u/37546658?v=4", "login": "CobayaSampler", "type": "Organization"}
 topics: ["bayesian-inference", "cosmological-inference", "mcmc-sampler"]
-date: "2026-07-25 15:15:41.444534"
+date: "2026-08-01 15:12:50.322721"
 ---

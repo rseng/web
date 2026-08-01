@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/PaulHancock", "avatar_url": "https://avatars.githubusercontent.com/u/8219382?v=4", "login": "PaulHancock", "type": "User"}
 topics: ["astronomy-library", "source-finding", "python", "cataloguer"]
-date: "2026-07-25 15:15:41.937442"
+date: "2026-08-01 15:12:51.169221"
 ---

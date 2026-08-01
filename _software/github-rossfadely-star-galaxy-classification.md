@@ -21,5 +21,5 @@ language: "TeX"
 open_issues_count: 3
 subscribers_count: 6
 owner: {"html_url": "https://github.com/rossfadely", "avatar_url": "https://avatars.githubusercontent.com/u/1253511?v=4", "login": "rossfadely", "type": "User"}
-date: "2026-07-25 15:15:41.782335"
+date: "2026-08-01 15:12:50.904299"
 ---

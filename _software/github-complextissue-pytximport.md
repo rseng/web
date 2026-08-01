@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/complextissue", "avatar_url": "https://avatars.githubusercontent.com/u/124284698?v=4", "login": "complextissue", "type": "Organization"}
 topics: ["python", "rna", "rna-seq", "scverse", "tximport", "bioinformatics", "deseq2", "anndata"]
-date: "2026-07-25 15:15:42.318678"
+date: "2026-08-01 15:12:51.818630"
 ---

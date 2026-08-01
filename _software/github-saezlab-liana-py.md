@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/saezlab", "avatar_url": "https://avatars.githubusercontent.com/u/9979042?v=4", "login": "saezlab", "type": "Organization"}
 topics: ["cell-cell-communication", "ligand-receptor", "python", "single-cell", "single-cell-rna-seq", "spatial", "spatialomics"]
-date: "2026-07-25 15:15:41.671857"
+date: "2026-08-01 15:12:50.713238"
 ---

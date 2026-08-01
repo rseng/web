@@ -21,5 +21,5 @@ readme_url: "https://gitlab.com/ComputationalScience/idinn/-/blob/main/README.md
 last_activity_at: "2025-08-21T17:39:51.429Z"
 visibility: "public"
 namespace: {"id": 10153436, "name": "ComputationalScience", "path": "ComputationalScience", "kind": "group", "full_path": "ComputationalScience", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/ComputationalScience"}
-date: "2026-07-25 15:15:42.480905"
+date: "2026-08-01 15:12:52.110517"
 ---

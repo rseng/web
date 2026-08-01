@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 33
 subscribers_count: 17
 owner: {"html_url": "https://github.com/mrc-ide", "avatar_url": "https://avatars.githubusercontent.com/u/25453642?v=4", "login": "mrc-ide", "type": "Organization"}
-date: "2026-07-25 15:15:42.117352"
+date: "2026-08-01 15:12:51.476691"
 ---

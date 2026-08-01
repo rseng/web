@@ -24,5 +24,5 @@ star_count: 3
 last_activity_at: "2025-09-24T10:34:50.146Z"
 visibility: "public"
 namespace: {"id": 115222929, "name": "miop", "path": "miop-project", "kind": "group", "full_path": "miop-project", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/miop-project"}
-date: "2026-07-25 15:15:42.482231"
+date: "2026-08-01 15:12:52.112845"
 ---

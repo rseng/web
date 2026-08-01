@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/davidgardenier", "avatar_url": "https://avatars.githubusercontent.com/u/14091346?v=4", "login": "davidgardenier", "type": "User"}
 topics: ["frbs"]
-date: "2026-07-25 15:15:42.436947"
+date: "2026-08-01 15:12:52.036068"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/miniufo", "avatar_url": "https://avatars.githubusercontent.com/u/9312831?v=4", "login": "miniufo", "type": "User"}
 topics: ["successive-over-relaxation", "inversion-problem", "atmospheric-science", "oceanography", "meteorology", "omega-equation", "gill-matsuno-model", "munk-stommel", "wind-driven-circulation", "eliassen-model", "pv-inversion", "streamfunction", "velocity-potential", "geophysical-fluid-dynamics", "poisson-equation"]
-date: "2026-07-25 15:15:41.525480"
+date: "2026-08-01 15:12:50.461024"
 ---

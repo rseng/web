@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/bacpop", "avatar_url": "https://avatars.githubusercontent.com/u/78856671?v=4", "login": "bacpop", "type": "Organization"}
 topics: ["bacteria", "genomics", "population-genetics", "k-mer", "sketching"]
-date: "2026-07-25 15:15:42.410723"
+date: "2026-08-01 15:12:51.991009"
 ---

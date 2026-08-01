@@ -23,5 +23,5 @@ open_issues_count: 132
 subscribers_count: 10
 owner: {"html_url": "https://github.com/BEAST-Fitting", "avatar_url": "https://avatars.githubusercontent.com/u/2017911?v=4", "login": "BEAST-Fitting", "type": "Organization"}
 topics: ["astronomy", "stars", "dust", "fitting", "bayesian", "astrophysics", "hacktoberfest"]
-date: "2026-07-25 15:15:41.470946"
+date: "2026-08-01 15:12:50.368374"
 ---

@@ -23,5 +23,5 @@ topics: ["dask", "python", "pydata", "numpy", "pandas", "scikit-learn", "scipy"]
 timestamp: "2020-07-04 13:22:34.374666"
 avatar: "https://avatars1.githubusercontent.com/u/17131925?v=4"
 repo_url: "https://github.com/dask/dask"
-date: "2026-07-25 15:15:42.331575"
+date: "2026-08-01 15:12:51.840744"
 ---

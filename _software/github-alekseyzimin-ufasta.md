@@ -17,5 +17,5 @@ size: 65
 language: "C++"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/alekseyzimin", "avatar_url": "https://avatars.githubusercontent.com/u/27226909?v=4", "login": "alekseyzimin", "type": "User"}
-date: "2026-07-25 15:15:41.831414"
+date: "2026-08-01 15:12:50.987111"
 ---
