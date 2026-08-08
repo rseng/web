@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/opnavlab", "avatar_url": "https://avatars.githubusercontent.com/u/166256530?v=4", "login": "opnavlab", "type": "Organization"}
 topics: ["camera-calibration", "opnav", "projective-geometry", "triangulation", "astrometry"]
-date: "2026-08-01 15:12:51.644971"
+date: "2026-08-08 14:44:49.481069"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CoLRev-Environment", "avatar_url": "https://avatars.githubusercontent.com/u/101105237?v=4", "login": "CoLRev-Environment", "type": "Organization"}
 topics: ["openscience", "reproducible-research", "research", "systematic-literature-review", "systematic-review"]
-date: "2026-08-01 15:12:51.575453"
+date: "2026-08-08 14:44:49.445933"
 ---

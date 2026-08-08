@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/hpparvi", "avatar_url": "https://avatars.githubusercontent.com/u/327523?v=4", "login": "hpparvi", "type": "User"}
 topics: ["transiting-exoplanets", "python", "light-curve-models", "transit-model", "astrophysics", "astronomy", "exoplanets"]
-date: "2026-08-01 15:12:51.670085"
+date: "2026-08-08 14:44:49.493886"
 ---

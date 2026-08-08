@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/JuliaDynamics", "avatar_url": "https://avatars1.githubusercontent.com/u/31774341?v=4", "login": "JuliaDynamics", "type": "Organization"}
 topics: ["science", "science-research", "project-management", "project-assistant", "simulations", "setup-tool"]
-date: "2026-08-01 15:12:51.119924"
+date: "2026-08-08 14:44:49.216805"
 ---

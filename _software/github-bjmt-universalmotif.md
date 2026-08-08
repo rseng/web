@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/bjmt", "avatar_url": "https://avatars.githubusercontent.com/u/24674853?v=4", "login": "bjmt", "type": "User"}
 topics: ["r", "motif-analysis", "motif-enrichment-analysis", "sequence-logo"]
-date: "2026-08-01 15:12:50.651268"
+date: "2026-08-08 14:44:48.979114"
 ---

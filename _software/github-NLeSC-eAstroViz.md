@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-05 00:17:11.684385"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/eAstroViz"
-date: "2026-08-01 15:12:51.763588"
+date: "2026-08-08 14:44:49.541470"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/Keck-DataReductionPipelines", "avatar_url": "https://avatars.githubusercontent.com/u/9344298?v=4", "login": "Keck-DataReductionPipelines", "type": "Organization"}
 topics: ["keck", "kcwi", "drp", "python"]
-date: "2026-08-01 15:12:52.085912"
+date: "2026-08-08 14:44:49.697317"
 ---

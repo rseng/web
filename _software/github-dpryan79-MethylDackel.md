@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/dpryan79", "avatar_url": "https://avatars.githubusercontent.com/u/6399000?v=4", "login": "dpryan79", "type": "User"}
 topics: ["methylation", "bioinformatics", "methylation-extraction", "bisulfite"]
-date: "2026-08-01 15:12:51.666973"
+date: "2026-08-08 14:44:49.492265"
 ---

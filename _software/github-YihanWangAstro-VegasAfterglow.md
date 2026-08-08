@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/YihanWangAstro", "avatar_url": "https://avatars.githubusercontent.com/u/26609492?v=4", "login": "YihanWangAstro", "type": "User"}
 topics: ["afterglow", "astrophysics", "gravitational-waves", "grb", "high-performance", "jet", "kilonova", "magnetar", "mcmc", "modeling", "neutron-star", "transients"]
-date: "2026-08-01 15:12:50.567760"
+date: "2026-08-08 14:44:48.937852"
 ---

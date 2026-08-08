@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ejmackrell", "avatar_url": "https://avatars.githubusercontent.com/u/32281663?v=4", "login": "ejmackrell", "type": "User"}
 topics: ["proteins", "data-exploration", "differential-expression", "mass-spectrometry", "ontology-enrichment", "peptides", "proteomics", "shiny", "shiny-apps"]
-date: "2026-08-01 15:12:51.742839"
+date: "2026-08-08 14:44:49.530946"
 ---

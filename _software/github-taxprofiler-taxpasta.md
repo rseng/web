@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 3
 owner: {"html_url": "https://github.com/taxprofiler", "avatar_url": "https://avatars.githubusercontent.com/u/104501065?v=4", "login": "taxprofiler", "type": "Organization"}
 topics: ["metagenomics", "python", "standardisation", "bioinformatics", "profiling", "classification", "metagenomic-classification", "taxonomic-classifications", "taxonomic-profiling"]
-date: "2026-08-01 15:12:51.094354"
+date: "2026-08-08 14:44:49.203989"
 ---

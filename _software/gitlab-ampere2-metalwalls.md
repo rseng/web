@@ -20,5 +20,5 @@ readme_url: "https://gitlab.com/ampere2/metalwalls/-/blob/release/README.md"
 star_count: 7
 last_activity_at: "2020-09-21T13:06:24.685Z"
 namespace: {"id": 8060889, "name": "AMPERE", "path": "ampere2", "kind": "group", "full_path": "ampere2", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/ampere2"}
-date: "2026-08-01 15:12:52.117896"
+date: "2026-08-08 14:44:49.713461"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/cmateu", "avatar_url": "https://avatars.githubusercontent.com/u/4968584?v=4", "login": "cmateu", "type": "User"}
-date: "2026-08-01 15:12:51.446576"
+date: "2026-08-08 14:44:49.380510"
 ---

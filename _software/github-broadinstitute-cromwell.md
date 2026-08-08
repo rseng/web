@@ -23,5 +23,5 @@ topics: ["workflow-execution", "workflow", "cloud", "hpc", "bioinformatics", "ex
 timestamp: "2020-07-04 13:22:41.059112"
 avatar: "https://avatars0.githubusercontent.com/u/393552?v=4"
 repo_url: "https://github.com/broadinstitute/cromwell"
-date: "2026-08-01 15:12:50.989585"
+date: "2026-08-08 14:44:49.150925"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 11
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars3.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["science", "data", "data-science", "database", "datasets", "r", "rstats", "r-package"]
-date: "2026-08-01 15:12:50.627533"
+date: "2026-08-08 14:44:48.967505"
 ---
