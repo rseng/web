@@ -23,5 +23,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/12210898/porta-l
 forks_count: 1
 last_activity_at: "2020-11-18T12:15:24.816Z"
 namespace: {"id": 5195138, "name": "polmag", "path": "polmag", "kind": "group", "full_path": "polmag", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/5195138/POLMAG_COMPACTO_COLOR_NEGRO.png", "web_url": "https://gitlab.com/groups/polmag"}
-date: "2026-08-08 14:44:49.707950"
+date: "2026-08-15 14:33:57.671283"
 ---

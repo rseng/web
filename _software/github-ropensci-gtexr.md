@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["api-wrapper", "bioinformatics", "gtex", "r", "eqtl", "sqtl"]
-date: "2026-08-08 14:44:48.978521"
+date: "2026-08-15 14:33:58.864447"
 ---

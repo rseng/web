@@ -21,5 +21,5 @@ language: "C"
 open_issues_count: 1
 subscribers_count: 4
 owner: {"html_url": "https://github.com/CosmoStat", "avatar_url": "https://avatars.githubusercontent.com/u/16947949?v=4", "login": "CosmoStat", "type": "Organization"}
-date: "2026-08-08 14:44:48.862125"
+date: "2026-08-15 14:33:58.878469"
 ---

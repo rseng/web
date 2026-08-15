@@ -22,5 +22,5 @@ language: "C#"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/user29A", "avatar_url": "https://avatars.githubusercontent.com/u/40668405?v=4", "login": "user29A", "type": "User"}
 topics: ["image-processing", "fits", "world-coordinates", "fits-image", "fits-files", "fits-bintables", "fits-image-sets", "wcs-solver"]
-date: "2026-08-08 14:44:49.033869"
+date: "2026-08-15 14:33:57.740468"
 ---

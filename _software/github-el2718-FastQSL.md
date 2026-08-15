@@ -17,5 +17,5 @@ size: 90
 language: "Fortran"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/el2718", "avatar_url": "https://avatars.githubusercontent.com/u/45861675?v=4", "login": "el2718", "type": "User"}
-date: "2026-08-08 14:44:49.374259"
+date: "2026-08-15 14:33:58.230353"
 ---

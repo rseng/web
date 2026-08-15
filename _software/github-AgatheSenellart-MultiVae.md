@@ -21,5 +21,5 @@ open_issues_count: 1
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/AgatheSenellart", "avatar_url": "https://avatars.githubusercontent.com/u/60698682?v=4", "login": "AgatheSenellart", "type": "User"}
-date: "2026-08-08 14:44:49.357661"
+date: "2026-08-15 14:33:59.189038"
 ---

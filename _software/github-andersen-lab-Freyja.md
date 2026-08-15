@@ -20,5 +20,5 @@ open_issues_count: 7
 license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", "spdx_id": "BSD-2-Clause", "url": "https://api.github.com/licenses/bsd-2-clause", "node_id": "MDc6TGljZW5zZTQ="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/andersen-lab", "avatar_url": "https://avatars.githubusercontent.com/u/16296068?v=4", "login": "andersen-lab", "type": "Organization"}
-date: "2026-08-08 14:44:48.854510"
+date: "2026-08-15 14:33:57.714499"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/tao-bioinfo", "avatar_url": "https://avatars.githubusercontent.com/u/1146090?v=4", "login": "tao-bioinfo", "type": "User"}
 topics: ["gff3", "tabix", "bgzip"]
-date: "2026-08-08 14:44:49.533236"
+date: "2026-08-15 14:33:58.314515"
 ---

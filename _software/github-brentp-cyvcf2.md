@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/brentp", "avatar_url": "https://avatars.githubusercontent.com/u/1739?v=4", "login": "brentp", "type": "User"}
 topics: ["vcf", "htslib", "cython", "genomics", "bioinformatics"]
-date: "2026-08-08 14:44:49.415638"
+date: "2026-08-15 14:33:58.202205"
 ---

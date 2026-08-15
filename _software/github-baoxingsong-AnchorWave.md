@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 8
 owner: {"html_url": "https://github.com/baoxingsong", "avatar_url": "https://avatars.githubusercontent.com/u/18551962?v=4", "login": "baoxingsong", "type": "User"}
 topics: ["genome", "genome-alignment"]
-date: "2026-08-08 14:44:49.208334"
+date: "2026-08-15 14:33:58.402665"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 11
 subscribers_count: 7
 owner: {"html_url": "https://github.com/cmzmasek", "avatar_url": "https://avatars.githubusercontent.com/u/82889?v=4", "login": "cmzmasek", "type": "User"}
 topics: ["evolution", "java", "ruby", "genomics", "biology", "computational-biology", "phylogenetics", "visualization", "phylogenetic-trees"]
-date: "2026-08-08 14:44:49.622511"
+date: "2026-08-15 14:33:59.210494"
 ---

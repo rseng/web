@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/sebhoof", "avatar_url": "https://avatars.githubusercontent.com/u/15237674?v=4", "login": "sebhoof", "type": "User"}
 topics: ["physics", "sun", "axions", "helioscopes", "alps"]
-date: "2026-08-08 14:44:48.823454"
+date: "2026-08-15 14:33:58.158272"
 ---

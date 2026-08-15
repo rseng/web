@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tmweigand", "avatar_url": "https://avatars.githubusercontent.com/u/68024672?v=4", "login": "tmweigand", "type": "User"}
 topics: ["morphology", "porous-media", "topology"]
-date: "2026-08-08 14:44:49.191144"
+date: "2026-08-15 14:33:58.728781"
 ---

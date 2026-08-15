@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/shandley", "avatar_url": "https://avatars.githubusercontent.com/u/660111?v=4", "login": "shandley", "type": "User"}
 topics: ["virome", "viral-metagenomes", "snakemake"]
-date: "2026-08-08 14:44:49.244166"
+date: "2026-08-15 14:33:57.830497"
 ---

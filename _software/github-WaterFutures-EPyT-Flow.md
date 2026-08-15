@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/WaterFutures", "avatar_url": "https://avatars.githubusercontent.com/u/149570313?v=4", "login": "WaterFutures", "type": "Organization"}
 topics: ["epanet", "epanet-python-toolkit", "python", "simulation", "water", "water-distribution-networks"]
-date: "2026-08-08 14:44:49.069733"
+date: "2026-08-15 14:33:58.270398"
 ---

@@ -21,5 +21,5 @@ open_issues_count: 29
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/bempp", "avatar_url": "https://avatars.githubusercontent.com/u/693670?v=4", "login": "bempp", "type": "Organization"}
-date: "2026-08-08 14:44:49.208933"
+date: "2026-08-15 14:33:58.658521"
 ---

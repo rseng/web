@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/rhdtownsend", "avatar_url": "https://avatars.githubusercontent.com/u/13732464?v=4", "login": "rhdtownsend", "type": "User"}
 topics: ["astrophysics"]
-date: "2026-08-08 14:44:49.638429"
+date: "2026-08-15 14:33:58.164039"
 ---

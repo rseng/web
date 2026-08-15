@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/datagrok-ai", "avatar_url": "https://avatars.githubusercontent.com/u/57326445?v=4", "login": "datagrok-ai", "type": "Organization"}
 topics: ["initial-value-problem", "modeling", "multi-stage-modeling", "ordinary-differential-equations", "stiff-ode", "non-stiff-ode"]
-date: "2026-08-08 14:44:48.897934"
+date: "2026-08-15 14:33:58.770914"
 ---
