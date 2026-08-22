@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/theislab", "avatar_url": "https://avatars.githubusercontent.com/u/22319415?v=4", "login": "theislab", "type": "Organization"}
 topics: ["scanpy", "single-cell", "bioconductor", "jupyter", "rpy2"]
-date: "2026-08-15 14:33:58.560248"
+date: "2026-08-22 14:32:55.617402"
 ---

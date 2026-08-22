@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/marschall-lab", "avatar_url": "https://avatars.githubusercontent.com/u/86833642?v=4", "login": "marschall-lab", "type": "Organization"}
 topics: ["gfa", "pangenomics", "pangenome-growth", "graph", "pangenome", "pangenome-graph"]
-date: "2026-08-15 14:33:59.027985"
+date: "2026-08-22 14:32:56.259132"
 ---

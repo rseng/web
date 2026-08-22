@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/astro-informatics", "avatar_url": "https://avatars.githubusercontent.com/u/10872187?v=4", "login": "astro-informatics", "type": "Organization"}
 topics: ["cosmic-strings", "cosmology", "emulation", "scattering-transform", "statistics", "wavelet-transform"]
-date: "2026-08-15 14:33:58.794095"
+date: "2026-08-22 14:32:55.897318"
 ---

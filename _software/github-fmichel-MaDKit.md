@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/fmichel", "avatar_url": "https://avatars.githubusercontent.com/u/645197?v=4", "login": "fmichel", "type": "User"}
 topics: ["multi-agent", "simulation", "agent", "java", "artificial-intelligence", "agent-based", "agent-based-simulation"]
-date: "2026-08-15 14:33:59.192502"
+date: "2026-08-22 14:32:56.456174"
 ---

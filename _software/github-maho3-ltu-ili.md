@@ -22,5 +22,5 @@ language: "Jupyter Notebook"
 open_issues_count: 9
 subscribers_count: 7
 owner: {"html_url": "https://github.com/maho3", "avatar_url": "https://avatars.githubusercontent.com/u/11132524?v=4", "login": "maho3", "type": "User"}
-date: "2026-08-15 14:33:58.486243"
+date: "2026-08-22 14:32:55.528757"
 ---

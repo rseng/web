@@ -23,5 +23,5 @@ open_issues_count: 12
 subscribers_count: 15
 owner: {"html_url": "https://github.com/GATB", "avatar_url": "https://avatars.githubusercontent.com/u/10297284?v=4", "login": "GATB", "type": "Organization"}
 topics: ["bioinformatics", "de-bruijn-graphs", "genomics", "gatb"]
-date: "2026-08-15 14:33:58.301211"
+date: "2026-08-22 14:32:55.313162"
 ---

@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/T0ngChen", "avatar_url": "https://avatars.githubusercontent.com/u/44077157?v=4", "login": "T0ngChen", "type": "User"}
 topics: ["causal-inference", "causal-mediation-analysis", "interventional-effects", "mediation", "target-trial", "rstats", "mediation-analysis", "rstat", "rstats-package"]
-date: "2026-08-15 14:33:58.496475"
+date: "2026-08-22 14:32:55.541114"
 ---

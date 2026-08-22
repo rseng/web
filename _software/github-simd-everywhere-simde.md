@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 39
 owner: {"html_url": "https://github.com/simd-everywhere", "avatar_url": "https://avatars.githubusercontent.com/u/67172048?v=4", "login": "simd-everywhere", "type": "Organization"}
 topics: ["simd-intrinsics", "sse", "neon", "arm", "avx", "simd", "sse2", "sse3", "ssse3", "sse41", "sse42", "avx2", "avx512", "fma", "gfni", "mmx", "altivec", "powerpc", "arm64", "vectorization"]
-date: "2026-08-15 14:33:58.237851"
+date: "2026-08-22 14:32:55.237748"
 ---

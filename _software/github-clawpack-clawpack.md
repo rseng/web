@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:17.891009"
 avatar: "https://avatars3.githubusercontent.com/u/725474?v=4"
 repo_url: "https://github.com/clawpack/clawpack"
-date: "2026-08-15 14:33:57.766622"
+date: "2026-08-22 14:32:54.685166"
 ---

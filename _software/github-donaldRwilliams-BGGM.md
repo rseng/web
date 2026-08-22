@@ -24,5 +24,5 @@ topics: ["gaussian-graphical-models", "bayes-factors", "bayesian-hypothesis-test
 timestamp: "2020-07-26 00:16:59.230512"
 avatar: "https://avatars3.githubusercontent.com/u/19657194?v=4"
 repo_url: "https://github.com/donaldRwilliams/BGGM"
-date: "2026-08-15 14:33:59.090420"
+date: "2026-08-22 14:32:56.333780"
 ---

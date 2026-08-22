@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/m-shahbaz-kharal", "avatar_url": "https://avatars.githubusercontent.com/u/9637550?v=4", "login": "m-shahbaz-kharal", "type": "User"}
 topics: ["bulk-operation", "camera", "image-processing", "image-visualization", "lidar", "lidar-camera-fusion", "open3d", "opencv", "point-cloud-processing", "point-cloud-visualization", "python"]
-date: "2026-08-15 14:33:59.139785"
+date: "2026-08-22 14:32:56.392870"
 ---

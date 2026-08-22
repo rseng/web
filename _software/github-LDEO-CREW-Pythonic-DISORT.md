@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/LDEO-CREW", "avatar_url": "https://avatars.githubusercontent.com/u/112423107?v=4", "login": "LDEO-CREW", "type": "Organization"}
 topics: ["atmospheric-modelling", "discrete-ordinates-method", "disort", "python", "radiative-transfer", "radiative-transfer-models"]
-date: "2026-08-15 14:33:59.111293"
+date: "2026-08-22 14:32:56.358767"
 ---

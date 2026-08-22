@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/homerjed", "avatar_url": "https://avatars.githubusercontent.com/u/47306716?v=4", "login": "homerjed", "type": "User"}
 topics: ["diffusion", "diffusion-models", "equinox", "jax", "score-based-generative-modeling", "score-based-generative-models"]
-date: "2026-08-15 14:33:58.766967"
+date: "2026-08-22 14:32:55.864746"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 9
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/remi-adam", "avatar_url": "https://avatars.githubusercontent.com/u/49564579?v=4", "login": "remi-adam", "type": "User"}
-date: "2026-08-15 14:33:58.141205"
+date: "2026-08-22 14:32:55.121560"
 ---

@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 6
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["taxonomy"]
-date: "2026-08-15 14:33:58.857557"
+date: "2026-08-22 14:32:55.973839"
 ---

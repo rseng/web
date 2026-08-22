@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 4
 subscribers_count: 4
 owner: {"html_url": "https://github.com/marius311", "avatar_url": "https://avatars.githubusercontent.com/u/1510968?v=4", "login": "marius311", "type": "User"}
-date: "2026-08-15 14:33:58.020495"
+date: "2026-08-22 14:32:54.981450"
 ---

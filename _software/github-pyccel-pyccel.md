@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/pyccel", "avatar_url": "https://avatars.githubusercontent.com/u/34218410?v=4", "login": "pyccel", "type": "Organization"}
 topics: ["hpc", "mpi", "openmp", "fortran", "dsl", "sympy", "openacc", "python", "python3", "transpiler"]
-date: "2026-08-15 14:33:57.797142"
+date: "2026-08-22 14:32:54.721876"
 ---

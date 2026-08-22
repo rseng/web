@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 3
 owner: {"html_url": "https://github.com/KolmogorovLab", "avatar_url": "https://avatars.githubusercontent.com/u/115726369?v=4", "login": "KolmogorovLab", "type": "Organization"}
-date: "2026-08-15 14:33:57.880142"
+date: "2026-08-22 14:32:54.820654"
 ---

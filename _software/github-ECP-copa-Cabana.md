@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 18
 owner: {"html_url": "https://github.com/ECP-copa", "avatar_url": "https://avatars.githubusercontent.com/u/24921631?v=4", "login": "ECP-copa", "type": "Organization"}
 topics: ["particles", "exascale-computing", "exascale", "kokkos", "co-design"]
-date: "2026-08-15 14:33:58.727936"
+date: "2026-08-22 14:32:55.818405"
 ---

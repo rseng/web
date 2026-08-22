@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 16
 owner: {"html_url": "https://github.com/devsim", "avatar_url": "https://avatars.githubusercontent.com/u/3003034?v=4", "login": "devsim", "type": "Organization"}
 topics: ["c-plus-plus", "python", "semiconductor-physics", "devsim", "tcad", "tcad-device-simulator", "semiconductor", "finite-volume", "pde"]
-date: "2026-08-15 14:33:57.930666"
+date: "2026-08-22 14:32:54.879978"
 ---

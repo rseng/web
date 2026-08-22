@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/TeaspoonTDA", "avatar_url": "https://avatars.githubusercontent.com/u/123311460?v=4", "login": "TeaspoonTDA", "type": "Organization"}
 topics: ["persistent-homology", "persistent-homology-graphs", "signal-processing", "tda", "topological-data-analysis", "topological-signal-processing", "python", "tda-python"]
-date: "2026-08-15 14:33:59.037477"
+date: "2026-08-22 14:32:56.270302"
 ---
