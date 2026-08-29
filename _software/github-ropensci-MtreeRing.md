@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 6
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["r", "tree-ring-width", "shiny-apps", "shinyapp", "tree-rings", "dendrochronology", "forest", "forestry", "image-processing"]
-date: "2026-08-22 14:32:55.914919"
+date: "2026-08-29 17:42:12.843676"
 ---

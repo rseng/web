@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/spglib", "avatar_url": "https://avatars.githubusercontent.com/u/64672219?v=4", "login": "spglib", "type": "Organization"}
 topics: ["crystallography", "group-theory", "irreducible-representations", "materials-science", "python", "representation-theory"]
-date: "2026-08-22 14:32:55.521929"
+date: "2026-08-29 17:42:12.659650"
 ---

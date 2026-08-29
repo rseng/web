@@ -17,5 +17,5 @@ size: 38934
 language: "Python"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 owner: {"html_url": "https://github.com/ssi-dk", "avatar_url": "https://avatars.githubusercontent.com/u/26898069?v=4", "login": "ssi-dk", "type": "Organization"}
-date: "2026-08-22 14:32:55.117504"
+date: "2026-08-29 17:42:12.464249"
 ---

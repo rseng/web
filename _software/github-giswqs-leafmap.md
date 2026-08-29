@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 30
 owner: {"html_url": "https://github.com/giswqs", "avatar_url": "https://avatars.githubusercontent.com/u/5016453?v=4", "login": "giswqs", "type": "User"}
 topics: ["ipyleaflet", "folium", "mapping", "python", "geopython", "jupyter-notebook", "jupyter", "gis", "dataviz", "data-science", "whiteboxtools", "geospatial", "geospatial-analysis"]
-date: "2026-08-22 14:32:55.431064"
+date: "2026-08-29 17:42:12.616684"
 ---

@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 37
 subscribers_count: 15
 owner: {"html_url": "https://github.com/Keck-DataReductionPipelines", "avatar_url": "https://avatars.githubusercontent.com/u/9344298?v=4", "login": "Keck-DataReductionPipelines", "type": "Organization"}
-date: "2026-08-22 14:32:55.078465"
+date: "2026-08-29 17:42:12.444111"
 ---

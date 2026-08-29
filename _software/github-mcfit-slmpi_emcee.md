@@ -19,5 +19,5 @@ language: "Slash"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/mcfit", "avatar_url": "https://avatars.githubusercontent.com/u/21207104?v=4", "login": "mcfit", "type": "Organization"}
 topics: ["mcmc", "emcee", "s-lang", "isis", "hammer", "mpi", "slmpi-emcee", "heasoft"]
-date: "2026-08-22 14:32:55.370887"
+date: "2026-08-29 17:42:12.588483"
 ---

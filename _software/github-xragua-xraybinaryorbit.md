@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/xragua", "avatar_url": "https://avatars.githubusercontent.com/u/152065965?v=4", "login": "xragua", "type": "User"}
 topics: ["orbital-mechanics", "x-ray-binaries", "astrophysics"]
-date: "2026-08-22 14:32:54.673411"
+date: "2026-08-29 17:42:12.251922"
 ---

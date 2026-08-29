@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/SouthGreenPlatform", "avatar_url": "https://avatars.githubusercontent.com/u/6577134?v=4", "login": "SouthGreenPlatform", "type": "Organization"}
 topics: ["rice", "bioinformatics-analysis"]
-date: "2026-08-22 14:32:54.886814"
+date: "2026-08-29 17:42:12.352218"
 ---

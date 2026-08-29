@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:07.480646"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-sygma"
-date: "2026-08-22 14:32:56.098486"
+date: "2026-08-29 17:42:12.890287"
 ---

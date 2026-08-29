@@ -17,5 +17,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ChristopheBerthod", "avatar_url": "https://avatars.githubusercontent.com/u/36079222?v=4", "login": "ChristopheBerthod", "type": "User"}
-date: "2026-08-22 14:32:55.282836"
+date: "2026-08-29 17:42:12.546285"
 ---

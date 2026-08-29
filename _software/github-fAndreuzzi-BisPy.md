@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/fAndreuzzi", "avatar_url": "https://avatars.githubusercontent.com/u/8464342?v=4", "login": "fAndreuzzi", "type": "User"}
 topics: ["bisimulation", "graph-algorithms", "graph-theory", "algorithms"]
-date: "2026-08-22 14:32:55.716790"
+date: "2026-08-29 17:42:12.750836"
 ---

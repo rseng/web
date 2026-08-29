@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 13
 owner: {"html_url": "https://github.com/labsquare", "avatar_url": "https://avatars.githubusercontent.com/u/2106259?v=4", "login": "labsquare", "type": "Organization"}
 topics: ["sanger-chromatograms", "ab1", "scf"]
-date: "2026-08-22 14:32:55.540648"
+date: "2026-08-29 17:42:12.668317"
 ---

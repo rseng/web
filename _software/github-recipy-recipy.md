@@ -23,5 +23,5 @@ topics: ["python", "recipy", "science", "reproducible-research", "database", "pr
 timestamp: "2020-07-05 00:17:19.443691"
 avatar: "https://avatars2.githubusercontent.com/u/11677462?v=4"
 repo_url: "https://github.com/recipy/recipy"
-date: "2026-08-22 14:32:55.182881"
+date: "2026-08-29 17:42:12.497947"
 ---

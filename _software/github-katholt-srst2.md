@@ -22,5 +22,5 @@ open_issues_count: 20
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 22
 owner: {"html_url": "https://github.com/katholt", "avatar_url": "https://avatars.githubusercontent.com/u/832158?v=4", "login": "katholt", "type": "User"}
-date: "2026-08-22 14:32:56.349916"
+date: "2026-08-29 17:42:13.009551"
 ---

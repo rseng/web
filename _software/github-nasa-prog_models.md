@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 7
 owner: {"html_url": "https://github.com/nasa", "avatar_url": "https://avatars.githubusercontent.com/u/848102?v=4", "login": "nasa", "type": "Organization"}
 topics: ["simulation", "modeling", "prognostics", "prognostic-models", "prognostics-health-management"]
-date: "2026-08-22 14:32:54.921601"
+date: "2026-08-29 17:42:12.368549"
 ---

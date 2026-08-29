@@ -22,5 +22,5 @@ open_issues_count: 21
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/freelawproject", "avatar_url": "https://avatars.githubusercontent.com/u/6012898?v=4", "login": "freelawproject", "type": "Organization"}
-date: "2026-08-22 14:32:56.110035"
+date: "2026-08-29 17:42:12.895668"
 ---

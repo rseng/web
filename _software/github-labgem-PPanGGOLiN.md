@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 13
 owner: {"html_url": "https://github.com/labgem", "avatar_url": "https://avatars.githubusercontent.com/u/50515420?v=4", "login": "labgem", "type": "Organization"}
 topics: ["comparative-genomics", "bioinformatics", "microbial-genomics", "microbiology", "bacteria", "pangenome"]
-date: "2026-08-22 14:32:55.248169"
+date: "2026-08-29 17:42:12.529599"
 ---

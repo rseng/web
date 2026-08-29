@@ -22,5 +22,5 @@ license: {"key": "mpl-2.0", "name": "Mozilla Public License 2.0", "spdx_id": "MP
 subscribers_count: 3
 owner: {"html_url": "https://github.com/otvam", "avatar_url": "https://avatars.githubusercontent.com/u/24779927?v=4", "login": "otvam", "type": "User"}
 topics: ["3d", "fft", "magnetic", "peec", "voxel", "pypeec", "frequency-domain", "conductor", "electric", "maxwell-equations", "power-electronics", "field-simulation"]
-date: "2026-08-22 14:32:56.453411"
+date: "2026-08-29 17:42:13.057909"
 ---

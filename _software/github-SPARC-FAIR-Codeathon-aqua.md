@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SPARC-FAIR-Codeathon", "avatar_url": "https://avatars.githubusercontent.com/u/86933347?v=4", "login": "SPARC-FAIR-Codeathon", "type": "Organization"}
 topics: ["nlp", "search-engine", "machine-learning", "hackathon", "scigraph", "docker"]
-date: "2026-08-22 14:32:55.361093"
+date: "2026-08-29 17:42:12.583814"
 ---

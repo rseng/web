@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 4
 owner: {"html_url": "https://github.com/matvii", "avatar_url": "https://avatars.githubusercontent.com/u/11883500?v=4", "login": "matvii", "type": "User"}
 topics: ["asteroids", "adaptive-optics", "shape-reconstruction", "lightcurves", "photometry", "occultations"]
-date: "2026-08-22 14:32:55.395683"
+date: "2026-08-29 17:42:12.600091"
 ---

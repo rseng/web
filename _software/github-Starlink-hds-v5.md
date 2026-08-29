@@ -21,5 +21,5 @@ language: "C"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/Starlink", "avatar_url": "https://avatars.githubusercontent.com/u/2018671?v=4", "login": "Starlink", "type": "Organization"}
 topics: ["astronomy", "file-format", "c"]
-date: "2026-08-22 14:32:55.099920"
+date: "2026-08-29 17:42:12.455064"
 ---

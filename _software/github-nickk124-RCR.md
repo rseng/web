@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/nickk124", "avatar_url": "https://avatars.githubusercontent.com/u/37184532?v=4", "login": "nickk124", "type": "User"}
 topics: ["outlier-rejection", "outlier-detection", "regression", "robust", "robust-statistics"]
-date: "2026-08-22 14:32:55.343226"
+date: "2026-08-29 17:42:12.575339"
 ---

@@ -24,5 +24,5 @@ topics: ["hydrodynamic-interactions", "phoretic-interactions", "force-fields", "
 timestamp: "2020-07-05 00:17:04.768274"
 avatar: "https://avatars2.githubusercontent.com/u/5037991?v=4"
 repo_url: "https://github.com/rajeshrinet/pystokes"
-date: "2026-08-22 14:32:55.144821"
+date: "2026-08-29 17:42:12.478529"
 ---

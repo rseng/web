@@ -22,5 +22,5 @@ open_issues_count: 1
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/bioexcel", "avatar_url": "https://avatars.githubusercontent.com/u/15978232?v=4", "login": "bioexcel", "type": "Organization"}
-date: "2026-08-22 14:32:55.077956"
+date: "2026-08-29 17:42:12.443874"
 ---

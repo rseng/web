@@ -20,5 +20,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 2
 owner: {"html_url": "https://github.com/dirmeier", "avatar_url": "https://avatars.githubusercontent.com/u/16086606?v=4", "login": "dirmeier", "type": "User"}
 topics: ["normalizing-flows", "python", "surjections", "density-estimation", "bijections"]
-date: "2026-08-22 14:32:55.015612"
+date: "2026-08-29 17:42:12.414308"
 ---
