@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/Sbrussee", "avatar_url": "https://avatars.githubusercontent.com/u/43212355?v=4", "login": "Sbrussee", "type": "User"}
 topics: ["benchmark", "benchmarking", "computational-pathology", "histopathology", "multiple-instance-learning", "pathology", "automl", "automated-machine-learning", "foundation-model"]
-date: "2026-08-29 17:42:13.064406"
+date: "2026-09-05 16:46:47.319173"
 ---

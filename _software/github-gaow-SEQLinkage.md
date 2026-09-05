@@ -1,0 +1,26 @@
+---
+parser: "github"
+uid: "github/gaow/SEQLinkage"
+url: "https://github.com/gaow/SEQLinkage"
+timestamp: "2026-08-30 02:12:36.113104"
+description: "Collapsed Haplotype Pattern Method for Linkage Analysis of Next-Generation Sequencing Data"
+avatar: "https://avatars.githubusercontent.com/u/917985?v=4"
+repo_url: "https://github.com/gaow/SEQLinkage"
+title: "SEQLinkage"
+tags: ["chip-sequencing", "genomics"]
+name: "SEQLinkage"
+full_name: "gaow/SEQLinkage"
+html_url: "https://github.com/gaow/SEQLinkage"
+created_at: "2016-04-09T19:18:09Z"
+updated_at: "2025-03-10T01:41:55Z"
+clone_url: "https://github.com/gaow/SEQLinkage.git"
+size: 10005
+stargazers_count: 11
+watchers_count: 11
+language: "Jupyter Notebook"
+open_issues_count: 23
+license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/gaow", "avatar_url": "https://avatars.githubusercontent.com/u/917985?v=4", "login": "gaow", "type": "User"}
+date: "2026-09-05 16:46:48.370188"
+---

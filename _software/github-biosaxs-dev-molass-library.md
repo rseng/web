@@ -1,0 +1,24 @@
+---
+parser: "github"
+uid: "github/biosaxs-dev/molass-library"
+url: "https://github.com/biosaxs-dev/molass-library"
+timestamp: "2026-08-30 02:09:13.467259"
+avatar: "https://avatars.githubusercontent.com/u/238115749?v=4"
+repo_url: "https://github.com/biosaxs-dev/molass-library"
+doi: "https://doi.org/10.5281/zenodo.21765736"
+name: "molass-library"
+full_name: "biosaxs-dev/molass-library"
+html_url: "https://github.com/biosaxs-dev/molass-library"
+created_at: "2025-03-05T06:31:20Z"
+updated_at: "2026-08-26T04:49:16Z"
+clone_url: "https://github.com/biosaxs-dev/molass-library.git"
+size: 17660
+stargazers_count: 1
+watchers_count: 1
+language: "Python"
+open_issues_count: 9
+license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
+subscribers_count: 1
+owner: {"html_url": "https://github.com/biosaxs-dev", "avatar_url": "https://avatars.githubusercontent.com/u/238115749?v=4", "login": "biosaxs-dev", "type": "Organization"}
+date: "2026-09-05 16:46:46.983207"
+---

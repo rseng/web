@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/systems-genomics-lab", "avatar_url": "https://avatars.githubusercontent.com/u/112728057?v=4", "login": "systems-genomics-lab", "type": "Organization"}
 topics: ["16s-rrna", "bert", "bioinformatics", "cnn", "cnn-classification", "convolutional-neural-networks", "deep-learning", "machine-learning", "microbiome", "python", "taxonomic-classification", "torch", "transformers"]
-date: "2026-08-29 17:42:12.260273"
+date: "2026-09-05 16:46:48.158819"
 ---

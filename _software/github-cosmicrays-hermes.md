@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/cosmicrays", "avatar_url": "https://avatars.githubusercontent.com/u/20685298?v=4", "login": "cosmicrays", "type": "Organization"}
 topics: ["astroparticle-physics", "gamma-ray-astronomy", "neutrino-astronomy", "synchrotron", "cosmic-rays", "galactic-radiative-processes", "healpix"]
-date: "2026-08-29 17:42:12.943005"
+date: "2026-09-05 16:46:47.738172"
 ---

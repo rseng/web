@@ -15,5 +15,5 @@ size: 70773
 language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/ssi-dk", "avatar_url": "https://avatars.githubusercontent.com/u/26898069?v=4", "login": "ssi-dk", "type": "Organization"}
-date: "2026-08-29 17:42:12.464375"
+date: "2026-09-05 16:46:47.742109"
 ---

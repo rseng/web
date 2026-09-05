@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 13
 owner: {"html_url": "https://github.com/fritzsedlazeck", "avatar_url": "https://avatars.githubusercontent.com/u/2081951?v=4", "login": "fritzsedlazeck", "type": "User"}
 topics: ["bioinformatics", "structural-variations", "simulator", "comparison", "survivor", "vcf", "bioconda"]
-date: "2026-08-29 17:42:12.434781"
+date: "2026-09-05 16:46:47.641227"
 ---

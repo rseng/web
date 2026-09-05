@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 108
 owner: {"html_url": "https://github.com/lammps", "avatar_url": "https://avatars.githubusercontent.com/u/5199009?v=4", "login": "lammps", "type": "Organization"}
 topics: ["molecular-dynamics", "lammps", "simulation"]
-date: "2026-08-29 17:42:12.517505"
+date: "2026-09-05 16:46:47.781736"
 ---

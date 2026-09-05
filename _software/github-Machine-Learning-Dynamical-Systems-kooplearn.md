@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/Machine-Learning-Dynamical-Systems", "avatar_url": "https://avatars.githubusercontent.com/u/157793605?v=4", "login": "Machine-Learning-Dynamical-Systems", "type": "Organization"}
 topics: ["kernel", "koopman", "ml", "torch"]
-date: "2026-08-29 17:42:12.750020"
+date: "2026-09-05 16:46:47.132018"
 ---

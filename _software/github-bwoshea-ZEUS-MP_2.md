@@ -20,5 +20,5 @@ watchers_count: 3
 language: "Fortran"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/bwoshea", "avatar_url": "https://avatars.githubusercontent.com/u/7969676?v=4", "login": "bwoshea", "type": "User"}
-date: "2026-08-29 17:42:12.328938"
+date: "2026-09-05 16:46:47.986346"
 ---

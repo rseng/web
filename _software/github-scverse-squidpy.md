@@ -24,5 +24,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 11
 owner: {"html_url": "https://github.com/scverse", "avatar_url": "https://avatars.githubusercontent.com/u/95305807?v=4", "login": "scverse", "type": "Organization"}
 topics: ["single-cell-rna-seq", "single-cell-genomics", "spatial-transcriptomics", "spatial-analysis", "image-analysis", "data-visualization", "squidpy"]
-date: "2026-08-29 17:42:12.611311"
+date: "2026-09-05 16:46:47.417121"
 ---

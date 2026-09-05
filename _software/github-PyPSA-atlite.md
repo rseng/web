@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 15
 subscribers_count: 9
 owner: {"html_url": "https://github.com/PyPSA", "avatar_url": "https://avatars.githubusercontent.com/u/32890768?v=4", "login": "PyPSA", "type": "Organization"}
-date: "2026-08-29 17:42:12.275485"
+date: "2026-09-05 16:46:47.000156"
 ---

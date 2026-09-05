@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 9
 owner: {"html_url": "https://github.com/jonescompneurolab", "avatar_url": "https://avatars.githubusercontent.com/u/37816136?v=4", "login": "jonescompneurolab", "type": "Organization"}
 topics: ["neuron-simulator", "eeg", "meg", "computational-modeling"]
-date: "2026-08-29 17:42:12.373505"
+date: "2026-09-05 16:46:46.906809"
 ---

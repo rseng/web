@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 16
 owner: {"html_url": "https://github.com/tseemann", "avatar_url": "https://avatars.githubusercontent.com/u/453972?v=4", "login": "tseemann", "type": "User"}
 topics: ["genome-assembler", "illumina-sequencing", "pipelines"]
-date: "2026-08-29 17:42:13.021206"
+date: "2026-09-05 16:46:47.262199"
 ---

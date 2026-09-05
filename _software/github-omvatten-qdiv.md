@@ -19,5 +19,5 @@ watchers_count: 3
 language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 owner: {"html_url": "https://github.com/omvatten", "avatar_url": "https://avatars.githubusercontent.com/u/45182909?v=4", "login": "omvatten", "type": "User"}
-date: "2026-08-29 17:42:12.342580"
+date: "2026-09-05 16:46:47.810544"
 ---

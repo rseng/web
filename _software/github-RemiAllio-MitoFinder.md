@@ -21,5 +21,5 @@ open_issues_count: 28
 subscribers_count: 4
 owner: {"html_url": "https://github.com/RemiAllio", "avatar_url": "https://avatars.githubusercontent.com/u/52577673?v=4", "login": "RemiAllio", "type": "User"}
 topics: ["mitochondrial-genomes", "mitochondrial-sequences", "trna-annotation", "mitochondrial-genes", "mitogenome", "mitochondrial-assembly", "mitochondrial-annotation"]
-date: "2026-08-29 17:42:12.250183"
+date: "2026-09-05 16:46:47.710984"
 ---

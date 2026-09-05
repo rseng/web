@@ -1,0 +1,27 @@
+---
+parser: "github"
+uid: "github/TUDelftGeodesy/sarxarray"
+url: "https://github.com/TUDelftGeodesy/sarxarray"
+timestamp: "2026-08-30 02:09:19.022407"
+description: "Xarray extension for Synthetic Aperture Radar (SAR) data"
+avatar: "https://avatars.githubusercontent.com/u/29211635?v=4"
+repo_url: "https://github.com/TUDelftGeodesy/sarxarray"
+doi: "https://doi.org/10.5281/zenodo.21338541"
+name: "sarxarray"
+full_name: "TUDelftGeodesy/sarxarray"
+html_url: "https://github.com/TUDelftGeodesy/sarxarray"
+created_at: "2022-11-09T10:21:22Z"
+updated_at: "2026-08-25T13:34:09Z"
+clone_url: "https://github.com/TUDelftGeodesy/sarxarray.git"
+homepage: "https://tudelftgeodesy.github.io/sarxarray/"
+size: 10072
+stargazers_count: 26
+watchers_count: 26
+language: "ReScript"
+open_issues_count: 3
+license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
+subscribers_count: 2
+owner: {"html_url": "https://github.com/TUDelftGeodesy", "avatar_url": "https://avatars.githubusercontent.com/u/29211635?v=4", "login": "TUDelftGeodesy", "type": "Organization"}
+topics: ["earth-observation", "insar", "radar", "sar", "interferometry"]
+date: "2026-09-05 16:46:47.253420"
+---

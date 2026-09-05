@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/elsoroka", "avatar_url": "https://avatars.githubusercontent.com/u/14230800?v=4", "login": "elsoroka", "type": "User"}
 topics: ["satisfiability-modulo-theories", "smt-lib"]
-date: "2026-08-29 17:42:12.949935"
+date: "2026-09-05 16:46:48.027875"
 ---

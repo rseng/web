@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/BogdanCiambur", "avatar_url": "https://avatars.githubusercontent.com/u/19526241?v=4", "login": "BogdanCiambur", "type": "User"}
 topics: ["galaxy-morphology", "galaxy", "decompose-galaxy-profiles", "astronomical-algorithms", "python", "profile", "lmfit"]
-date: "2026-08-29 17:42:12.812584"
+date: "2026-09-05 16:46:46.954925"
 ---

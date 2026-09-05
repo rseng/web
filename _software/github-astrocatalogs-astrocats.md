@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 9
 owner: {"html_url": "https://github.com/astrocatalogs", "avatar_url": "https://avatars.githubusercontent.com/u/16644580?v=4", "login": "astrocatalogs", "type": "Organization"}
 topics: ["catalog", "open-astronomy-catalogs"]
-date: "2026-08-29 17:42:12.289441"
+date: "2026-09-05 16:46:48.067070"
 ---

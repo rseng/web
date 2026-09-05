@@ -21,5 +21,5 @@ language: "Python"
 open_issues_count: 26
 subscribers_count: 13
 owner: {"html_url": "https://github.com/andycasey", "avatar_url": "https://avatars.githubusercontent.com/u/504436?v=4", "login": "andycasey", "type": "User"}
-date: "2026-08-29 17:42:12.705781"
+date: "2026-09-05 16:46:47.920802"
 ---

@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/casaluca", "avatar_url": "https://avatars.githubusercontent.com/u/35479737?v=4", "login": "casaluca", "type": "User"}
 topics: ["stars", "isochrones", "photometry", "colours", "bolometric-corrections", "synthetic-colours", "astronomy", "astrophysics"]
-date: "2026-08-29 17:42:12.594930"
+date: "2026-09-05 16:46:48.232332"
 ---
