@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 21
 owner: {"html_url": "https://github.com/gcorso", "avatar_url": "https://avatars.githubusercontent.com/u/22794353?v=4", "login": "gcorso", "type": "User"}
 topics: ["diffusion-models", "docking", "binding", "computational-biology", "equivariance", "machine-learning", "non-euclidean-geometry", "score-based-models"]
-date: "2026-09-05 16:46:47.175205"
+date: "2026-09-12 17:02:52.112932"
 ---

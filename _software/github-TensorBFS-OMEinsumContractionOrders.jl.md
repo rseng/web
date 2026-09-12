@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/TensorBFS", "avatar_url": "https://avatars.githubusercontent.com/u/54710663?v=4", "login": "TensorBFS", "type": "Organization"}
 topics: ["julia", "tensor-networks", "contraction-order", "omeinsum"]
-date: "2026-09-05 16:46:47.861302"
+date: "2026-09-12 17:02:52.913138"
 ---

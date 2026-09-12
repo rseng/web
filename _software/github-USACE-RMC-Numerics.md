@@ -21,5 +21,5 @@ license: {"key": "0bsd", "name": "BSD Zero Clause License", "spdx_id": "0BSD", "
 subscribers_count: 4
 owner: {"html_url": "https://github.com/USACE-RMC", "avatar_url": "https://avatars.githubusercontent.com/u/77857959?v=4", "login": "USACE-RMC", "type": "Organization"}
 topics: ["machine-learning", "mcmc-sampling", "optimization", "probability-distribution", "statistics"]
-date: "2026-09-05 16:46:47.070614"
+date: "2026-09-12 17:02:51.991159"
 ---

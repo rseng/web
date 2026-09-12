@@ -22,5 +22,5 @@ open_issues_count: 1
 subscribers_count: 8
 owner: {"html_url": "https://github.com/RTIP", "avatar_url": "https://avatars.githubusercontent.com/u/34025575?v=4", "login": "RTIP", "type": "Organization"}
 topics: ["radio-astronomy", "measurement-set", "casa", "pipeline", "python", "gmrt", "radio-telescopes", "automated"]
-date: "2026-09-05 16:46:46.950691"
+date: "2026-09-12 17:02:51.848122"
 ---

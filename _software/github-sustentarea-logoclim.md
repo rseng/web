@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/sustentarea", "avatar_url": "https://avatars.githubusercontent.com/u/171078414?v=4", "login": "sustentarea", "type": "Organization"}
 topics: ["agent-based-models", "climate-change", "climate-simulations", "cmip6", "complex-systems", "complexity-science", "environmental-sciences", "future-climate-scenarios", "historical-climate-data", "levelspace", "netlogo", "raster-data", "reproducible-research", "shared-socioeconomic-pathways", "simulations", "worldclim"]
-date: "2026-09-05 16:46:48.180964"
+date: "2026-09-12 17:02:53.286896"
 ---

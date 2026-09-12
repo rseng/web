@@ -23,5 +23,5 @@ topics: ["machine-learning", "python", "statistics", "data-science", "data-analy
 timestamp: "2020-07-04 13:22:05.158861"
 avatar: "https://avatars2.githubusercontent.com/u/365630?v=4"
 repo_url: "https://github.com/scikit-learn/scikit-learn"
-date: "2026-09-05 16:46:47.823297"
+date: "2026-09-12 17:02:52.869178"
 ---

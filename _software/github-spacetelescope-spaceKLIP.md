@@ -23,5 +23,5 @@ open_issues_count: 31
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/spacetelescope", "avatar_url": "https://avatars.githubusercontent.com/u/2751928?v=4", "login": "spacetelescope", "type": "Organization"}
-date: "2026-09-05 16:46:46.944935"
+date: "2026-09-12 17:02:51.841435"
 ---

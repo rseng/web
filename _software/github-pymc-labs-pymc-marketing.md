@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 34
 owner: {"html_url": "https://github.com/pymc-labs", "avatar_url": "https://avatars.githubusercontent.com/u/69535651?v=4", "login": "pymc-labs", "type": "Organization"}
 topics: ["clv", "data-science", "marketing", "mmm", "python", "btyd", "customer-lifetime-value", "media-mix-modeling", "buy-till-you-die", "marketing-mix-modeling"]
-date: "2026-09-05 16:46:47.846829"
+date: "2026-09-12 17:02:52.896346"
 ---

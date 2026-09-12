@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/UCL", "avatar_url": "https://avatars.githubusercontent.com/u/2951150?v=4", "login": "UCL", "type": "Organization"}
 topics: ["approximate-inference", "mcmc", "r"]
-date: "2026-09-05 16:46:47.029848"
+date: "2026-09-12 17:02:51.940189"
 ---

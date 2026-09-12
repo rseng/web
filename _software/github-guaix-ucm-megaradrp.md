@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 9
 owner: {"html_url": "https://github.com/guaix-ucm", "avatar_url": "https://avatars.githubusercontent.com/u/10961186?v=4", "login": "guaix-ucm", "type": "Organization"}
 topics: ["astronomy", "astrophysics"]
-date: "2026-09-05 16:46:47.818407"
+date: "2026-09-12 17:02:52.863471"
 ---

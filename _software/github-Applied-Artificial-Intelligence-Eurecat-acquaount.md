@@ -17,5 +17,5 @@ language: "Python"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Applied-Artificial-Intelligence-Eurecat", "avatar_url": "https://avatars.githubusercontent.com/u/106808865?v=4", "login": "Applied-Artificial-Intelligence-Eurecat", "type": "Organization"}
-date: "2026-09-05 16:46:47.762548"
+date: "2026-09-12 17:02:52.798089"
 ---

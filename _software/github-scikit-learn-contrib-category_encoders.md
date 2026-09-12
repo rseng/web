@@ -22,5 +22,5 @@ open_issues_count: 41
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 35
 owner: {"html_url": "https://github.com/scikit-learn-contrib", "avatar_url": "https://avatars.githubusercontent.com/u/17349883?v=4", "login": "scikit-learn-contrib", "type": "Organization"}
-date: "2026-09-05 16:46:48.304881"
+date: "2026-09-12 17:02:53.431801"
 ---

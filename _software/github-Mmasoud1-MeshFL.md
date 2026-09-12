@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Mmasoud1", "avatar_url": "https://avatars.githubusercontent.com/u/36082112?v=4", "login": "Mmasoud1", "type": "User"}
 topics: ["distributed-learning", "federated-learning", "nvflare", "semantic-segmentation"]
-date: "2026-09-05 16:46:47.224828"
+date: "2026-09-12 17:02:52.170593"
 ---

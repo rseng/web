@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 13
 owner: {"html_url": "https://github.com/stan-dev", "avatar_url": "https://avatars.githubusercontent.com/u/3374820?v=4", "login": "stan-dev", "type": "Organization"}
 topics: ["r-package", "bayesian", "mcmc", "bayes"]
-date: "2026-09-05 16:46:47.955846"
+date: "2026-09-12 17:02:53.024155"
 ---

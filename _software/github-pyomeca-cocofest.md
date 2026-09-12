@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/pyomeca", "avatar_url": "https://avatars.githubusercontent.com/u/36738416?v=4", "login": "pyomeca", "type": "Organization"}
 topics: ["fes", "muscle-model-identification", "musculoskeletal-models", "optimal-control", "bioptim", "casadi", "ding-models", "fatigue-dynamics", "forward-simulation", "functional-electrical-stimulation", "musculoskeletal-simulations"]
-date: "2026-09-05 16:46:47.811363"
+date: "2026-09-12 17:02:52.855209"
 ---

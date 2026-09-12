@@ -20,5 +20,5 @@ language: "Julia"
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 9
 owner: {"html_url": "https://github.com/sintefmath", "avatar_url": "https://avatars.githubusercontent.com/u/1901550?v=4", "login": "sintefmath", "type": "Organization"}
-date: "2026-09-05 16:46:47.666821"
+date: "2026-09-12 17:02:52.685897"
 ---
