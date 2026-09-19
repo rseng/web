@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/souradipp76", "avatar_url": "https://avatars.githubusercontent.com/u/20797533?v=4", "login": "souradipp76", "type": "User"}
 topics: ["inference", "llm", "multi-modal", "question-answering"]
-date: "2026-09-12 17:02:52.023423"
+date: "2026-09-19 17:14:07.352297"
 ---
