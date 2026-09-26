@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/mattpitkin", "avatar_url": "https://avatars.githubusercontent.com/u/1421092?v=4", "login": "mattpitkin", "type": "User"}
 topics: ["pulsar", "atnf", "catalogue", "python"]
-date: "2026-09-19 17:14:08.825951"
+date: "2026-09-26 17:44:06.250724"
 ---

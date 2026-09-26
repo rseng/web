@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 8
 owner: {"html_url": "https://github.com/pyroll-project", "avatar_url": "https://avatars.githubusercontent.com/u/100946430?v=4", "login": "pyroll-project", "type": "Organization"}
 topics: ["groove-rolling", "materials", "metal-forming", "pyroll", "python", "rolling", "simulation"]
-date: "2026-09-19 17:14:07.195676"
+date: "2026-09-26 17:44:06.927004"
 ---

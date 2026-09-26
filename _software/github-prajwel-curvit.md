@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/prajwel", "avatar_url": "https://avatars.githubusercontent.com/u/1685962?v=4", "login": "prajwel", "type": "User"}
 topics: ["astronomy", "uvit-data", "ultraviolet", "variability", "python", "science", "lightcurves", "astrosat", "uvit", "light-curves", "instrument-coordinate"]
-date: "2026-09-19 17:14:08.184525"
+date: "2026-09-26 17:44:06.135084"
 ---

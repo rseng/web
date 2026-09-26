@@ -20,5 +20,5 @@ language: "Jupyter Notebook"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/sndik16", "avatar_url": "https://avatars.githubusercontent.com/u/9065795?v=4", "login": "sndik16", "type": "User"}
 topics: ["astronomy", "galaxies", "quasars", "research", "survey"]
-date: "2026-09-19 17:14:07.412668"
+date: "2026-09-26 17:44:06.716806"
 ---

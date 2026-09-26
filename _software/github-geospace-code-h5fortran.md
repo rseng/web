@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/geospace-code", "avatar_url": "https://avatars.githubusercontent.com/u/61321120?v=4", "login": "geospace-code", "type": "Organization"}
 topics: ["fortran2018", "hdf5", "hdf5-wrapper", "modern-fortran", "object-oriented-fortran"]
-date: "2026-09-19 17:14:08.879999"
+date: "2026-09-26 17:44:06.422792"
 ---

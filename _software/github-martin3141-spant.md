@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/martin3141", "avatar_url": "https://avatars.githubusercontent.com/u/7724002?v=4", "login": "martin3141", "type": "User"}
 topics: ["cran", "mrs", "spectroscopy", "mri", "brain", "mrshub"]
-date: "2026-09-19 17:14:07.596657"
+date: "2026-09-26 17:44:06.819937"
 ---

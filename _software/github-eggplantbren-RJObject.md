@@ -20,5 +20,5 @@ watchers_count: 3
 language: "TeX"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/eggplantbren", "avatar_url": "https://avatars.githubusercontent.com/u/1578298?v=4", "login": "eggplantbren", "type": "User"}
-date: "2026-09-19 17:14:08.476357"
+date: "2026-09-26 17:44:06.394948"
 ---

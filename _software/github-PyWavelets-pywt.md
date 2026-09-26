@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 60
 owner: {"html_url": "https://github.com/PyWavelets", "avatar_url": "https://avatars.githubusercontent.com/u/13541085?v=4", "login": "PyWavelets", "type": "Organization"}
 topics: ["wavelets", "wavelet-transform", "signal-processing", "image-processing", "continuous-wavelet"]
-date: "2026-09-19 17:14:07.675635"
+date: "2026-09-26 17:44:06.917225"
 ---

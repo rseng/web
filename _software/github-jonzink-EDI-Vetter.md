@@ -21,5 +21,5 @@ language: "Python"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/jonzink", "avatar_url": "https://avatars.githubusercontent.com/u/44911960?v=4", "login": "jonzink", "type": "User"}
 topics: ["exoplanets", "transits", "k2-data-science", "python"]
-date: "2026-09-19 17:14:08.412598"
+date: "2026-09-26 17:44:06.475580"
 ---

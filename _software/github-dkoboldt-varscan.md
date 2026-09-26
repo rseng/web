@@ -21,5 +21,5 @@ watchers_count: 123
 open_issues_count: 57
 subscribers_count: 17
 owner: {"html_url": "https://github.com/dkoboldt", "avatar_url": "https://avatars.githubusercontent.com/u/5421635?v=4", "login": "dkoboldt", "type": "User"}
-date: "2026-09-19 17:14:07.964737"
+date: "2026-09-26 17:44:06.580574"
 ---

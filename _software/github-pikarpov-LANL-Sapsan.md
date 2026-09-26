@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/pikarpov-LANL", "avatar_url": "https://avatars.githubusercontent.com/u/57731529?v=4", "login": "pikarpov-LANL", "type": "User"}
 topics: ["turbulence", "astrophysics", "machine-learning"]
-date: "2026-09-19 17:14:07.646710"
+date: "2026-09-26 17:44:06.394345"
 ---

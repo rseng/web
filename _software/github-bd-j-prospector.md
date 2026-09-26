@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 20
 owner: {"html_url": "https://github.com/bd-j", "avatar_url": "https://avatars.githubusercontent.com/u/4146628?v=4", "login": "bd-j", "type": "User"}
 topics: ["stellar-population-properties", "fitting"]
-date: "2026-09-19 17:14:07.337136"
+date: "2026-09-26 17:44:06.324064"
 ---

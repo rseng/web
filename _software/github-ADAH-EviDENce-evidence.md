@@ -24,5 +24,5 @@ topics: ["corpus", "close-reading", "search", "humanities"]
 timestamp: "2020-07-26 00:17:00.842941"
 avatar: "https://avatars2.githubusercontent.com/u/37336361?v=4"
 repo_url: "https://github.com/ADAH-EviDENce/evidence"
-date: "2026-09-19 17:14:07.124663"
+date: "2026-09-26 17:44:06.463065"
 ---

@@ -20,5 +20,5 @@ open_issues_count: 4
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/EnergyModelsX", "avatar_url": "https://avatars.githubusercontent.com/u/138767365?v=4", "login": "EnergyModelsX", "type": "Organization"}
-date: "2026-09-19 17:14:08.171576"
+date: "2026-09-26 17:44:06.995955"
 ---

@@ -23,5 +23,5 @@ open_issues_count: 21
 subscribers_count: 35
 owner: {"html_url": "https://github.com/lh3", "avatar_url": "https://avatars.githubusercontent.com/u/480346?v=4", "login": "lh3", "type": "User"}
 topics: ["bioinformatics", "sequence-analysis"]
-date: "2026-09-19 17:14:07.780618"
+date: "2026-09-26 17:44:06.576555"
 ---

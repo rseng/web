@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/PetervanLunteren", "avatar_url": "https://avatars.githubusercontent.com/u/85185478?v=4", "login": "PetervanLunteren", "type": "User"}
 topics: ["linux", "macos", "megadetector", "python", "windows", "cameratraps", "object-detection", "yolov5", "annotation-tool", "deploy", "machine-learning", "train", "conservation", "ecology"]
-date: "2026-09-19 17:14:08.058001"
+date: "2026-09-26 17:44:06.782971"
 ---

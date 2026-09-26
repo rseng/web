@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 7
 owner: {"html_url": "https://github.com/vrodgom", "avatar_url": "https://avatars.githubusercontent.com/u/10121557?v=4", "login": "vrodgom", "type": "User"}
 topics: ["astronomy", "galaxies", "galaxy-morphology", "non-parametric"]
-date: "2026-09-19 17:14:07.207934"
+date: "2026-09-26 17:44:06.409110"
 ---

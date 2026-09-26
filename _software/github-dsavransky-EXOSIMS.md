@@ -22,5 +22,5 @@ open_issues_count: 63
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/dsavransky", "avatar_url": "https://avatars.githubusercontent.com/u/4950841?v=4", "login": "dsavransky", "type": "User"}
-date: "2026-09-19 17:14:08.269213"
+date: "2026-09-26 17:44:06.404280"
 ---

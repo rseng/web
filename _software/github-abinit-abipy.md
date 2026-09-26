@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 15
 owner: {"html_url": "https://github.com/abinit", "avatar_url": "https://avatars.githubusercontent.com/u/15837788?v=4", "login": "abinit", "type": "Organization"}
 topics: ["python", "abinit", "density-functional-theory", "materials-science", "materials-informatics", "science", "physics", "solid-state-physics"]
-date: "2026-09-19 17:14:07.441691"
+date: "2026-09-26 17:44:06.358192"
 ---

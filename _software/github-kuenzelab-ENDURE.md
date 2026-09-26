@@ -19,5 +19,5 @@ watchers_count: 3
 language: "Python"
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/kuenzelab", "avatar_url": "https://avatars.githubusercontent.com/u/121185423?v=4", "login": "kuenzelab", "type": "Organization"}
-date: "2026-09-19 17:14:07.864872"
+date: "2026-09-26 17:44:06.389308"
 ---

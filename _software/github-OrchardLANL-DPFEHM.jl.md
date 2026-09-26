@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 5
 owner: {"html_url": "https://github.com/OrchardLANL", "avatar_url": "https://avatars.githubusercontent.com/u/70452955?v=4", "login": "OrchardLANL", "type": "Organization"}
 topics: ["subsurface-flow", "differentiable-programming", "adjoint-method"]
-date: "2026-09-19 17:14:07.759821"
+date: "2026-09-26 17:44:06.740329"
 ---

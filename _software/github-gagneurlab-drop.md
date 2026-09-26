@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 6
 owner: {"html_url": "https://github.com/gagneurlab", "avatar_url": "https://avatars.githubusercontent.com/u/29893284?v=4", "login": "gagneurlab", "type": "Organization"}
 topics: ["pipeline", "rna-seq", "genetic-diagnosis"]
-date: "2026-09-19 17:14:07.359884"
+date: "2026-09-26 17:44:06.838307"
 ---

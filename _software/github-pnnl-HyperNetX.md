@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 20
 owner: {"html_url": "https://github.com/pnnl", "avatar_url": "https://avatars.githubusercontent.com/u/10872965?v=4", "login": "pnnl", "type": "Organization"}
 topics: ["hypergraph", "simplicial-homology", "property-hypergraphs", "s-linegraph", "hypergraphs", "knowledge-graph", "python", "simplicial-complexes"]
-date: "2026-09-19 17:14:08.295811"
+date: "2026-09-26 17:44:06.913489"
 ---

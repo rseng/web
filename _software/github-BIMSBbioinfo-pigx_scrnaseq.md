@@ -22,5 +22,5 @@ open_issues_count: 28
 subscribers_count: 10
 owner: {"html_url": "https://github.com/BIMSBbioinfo", "avatar_url": "https://avatars.githubusercontent.com/u/6482905?v=4", "login": "BIMSBbioinfo", "type": "Organization"}
 topics: ["dropseq", "single-cell-rna-seq", "snakemake-workflows", "guix"]
-date: "2026-09-19 17:14:07.390310"
+date: "2026-09-26 17:44:06.561860"
 ---

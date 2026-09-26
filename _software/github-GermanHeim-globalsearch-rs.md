@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/GermanHeim", "avatar_url": "https://avatars.githubusercontent.com/u/77305706?v=4", "login": "GermanHeim", "type": "User"}
 topics: ["math", "optimization", "optimization-algorithms", "rust", "scatter-search", "numerical-optimization"]
-date: "2026-09-19 17:14:07.705848"
+date: "2026-09-26 17:44:06.313705"
 ---

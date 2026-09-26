@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/cneverett", "avatar_url": "https://avatars.githubusercontent.com/u/151160791?v=4", "login": "cneverett", "type": "User"}
 topics: ["astrophysics", "julia", "julia-package", "boltzmann-equation", "distribution-function", "general-relativity", "phase-space-transport"]
-date: "2026-09-19 17:14:07.397756"
+date: "2026-09-26 17:44:06.727737"
 ---

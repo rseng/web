@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/vocalpy", "avatar_url": "https://avatars.githubusercontent.com/u/99543036?v=4", "login": "vocalpy", "type": "Organization"}
 topics: ["dataset", "annotation", "csv", "python", "python3", "annotation-format", "birdsong", "animal-communication", "animal-vocalizations", "bioacoustics", "bioacoustic-analysis"]
-date: "2026-09-19 17:14:07.284142"
+date: "2026-09-26 17:44:06.910109"
 ---

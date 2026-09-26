@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/CederGroupHub", "avatar_url": "https://avatars.githubusercontent.com/u/34322218?v=4", "login": "CederGroupHub", "type": "Organization"}
 topics: ["cluster-expansion", "materials-science", "monte-carlo", "statistical-mechanics"]
-date: "2026-09-19 17:14:08.786965"
+date: "2026-09-26 17:44:06.853692"
 ---

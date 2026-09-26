@@ -22,5 +22,5 @@ open_issues_count: 11
 subscribers_count: 2
 owner: {"html_url": "https://github.com/noriakis", "avatar_url": "https://avatars.githubusercontent.com/u/31095487?v=4", "login": "noriakis", "type": "User"}
 topics: ["bayesian", "network", "visualization"]
-date: "2026-09-19 17:14:08.501938"
+date: "2026-09-26 17:44:06.281184"
 ---

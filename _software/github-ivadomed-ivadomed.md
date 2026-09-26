@@ -22,5 +22,5 @@ open_issues_count: 137
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/ivadomed", "avatar_url": "https://avatars.githubusercontent.com/u/67157284?v=4", "login": "ivadomed", "type": "Organization"}
-date: "2026-09-19 17:14:07.381573"
+date: "2026-09-26 17:44:06.623806"
 ---
