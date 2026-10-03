@@ -22,5 +22,5 @@ open_issues_count: 218
 subscribers_count: 32
 owner: {"html_url": "https://github.com/ablab", "avatar_url": "https://avatars.githubusercontent.com/u/988606?v=4", "login": "ablab", "type": "Organization"}
 topics: ["genome-assembly", "sequence-assembler", "sequencing", "transcriptome-assembly", "illumina", "metagenome-assembly", "next-generation-sequencing"]
-date: "2026-09-26 17:44:06.477220"
+date: "2026-10-03 17:54:14.945186"
 ---

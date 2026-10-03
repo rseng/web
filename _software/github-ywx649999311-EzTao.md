@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/ywx649999311", "avatar_url": "https://avatars.githubusercontent.com/u/11515291?v=4", "login": "ywx649999311", "type": "User"}
 topics: ["carma", "drw", "agn", "astronomy", "time-series", "gaussian-processes"]
-date: "2026-09-26 17:44:07.001373"
+date: "2026-10-03 17:54:16.036301"
 ---

@@ -22,5 +22,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 2
 owner: {"html_url": "https://github.com/nuc-astro", "avatar_url": "https://avatars.githubusercontent.com/u/35767561?v=4", "login": "nuc-astro", "type": "Organization"}
 topics: ["astrophysics", "codes", "nuclear-physics"]
-date: "2026-09-26 17:44:06.757678"
+date: "2026-10-03 17:54:15.513930"
 ---

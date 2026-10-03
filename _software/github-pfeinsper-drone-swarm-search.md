@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/pfeinsper", "avatar_url": "https://avatars.githubusercontent.com/u/81260905?v=4", "login": "pfeinsper", "type": "Organization"}
 topics: ["pettingzoo", "rl", "ai", "pygame", "python", "multi-agent-reinforcement-learning", "multiagent-reinforcement-learning"]
-date: "2026-09-26 17:44:06.638604"
+date: "2026-10-03 17:54:15.272360"
 ---

@@ -20,5 +20,5 @@ web_url: "https://gitlab.com/casi-project/casi-3d"
 readme_url: "https://gitlab.com/casi-project/casi-3d/-/blob/master/README.md"
 last_activity_at: "2020-09-02T03:51:21.200Z"
 namespace: {"id": 4557972, "name": "CASI", "path": "casi-project", "kind": "group", "full_path": "casi-project", "parent_id": null, "avatar_url": null, "web_url": "https://gitlab.com/groups/casi-project"}
-date: "2026-09-26 17:44:07.026588"
+date: "2026-10-03 17:54:16.087912"
 ---

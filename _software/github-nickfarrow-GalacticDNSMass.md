@@ -21,5 +21,5 @@ language: "Jupyter Notebook"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/nickfarrow", "avatar_url": "https://avatars.githubusercontent.com/u/24557779?v=4", "login": "nickfarrow", "type": "User"}
 topics: ["physics", "bayesian-inference", "astrophysics", "neutron-star"]
-date: "2026-09-26 17:44:06.714578"
+date: "2026-10-03 17:54:15.426757"
 ---

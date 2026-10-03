@@ -20,5 +20,5 @@ language: "C"
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["evolution", "ecology", "community-ecology", "r", "rstats", "r-package", "characterevolution", "communitystructure", "Phylocom", "phylodiversity", "phylogeny", "species", "data-extraction"]
-date: "2026-09-26 17:44:06.148313"
+date: "2026-10-03 17:54:14.270196"
 ---

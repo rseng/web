@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Digdgeo", "avatar_url": "https://avatars.githubusercontent.com/u/11279617?v=4", "login": "Digdgeo", "type": "User"}
 topics: ["elter", "ndvi", "phenology", "remote-sensing", "sumhal"]
-date: "2026-09-26 17:44:06.275080"
+date: "2026-10-03 17:54:14.528757"
 ---

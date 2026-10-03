@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 10
 owner: {"html_url": "https://github.com/r-lib", "avatar_url": "https://avatars.githubusercontent.com/u/22618716?v=4", "login": "r-lib", "type": "Organization"}
 topics: ["scalereprod"]
-date: "2026-09-26 17:44:06.839272"
+date: "2026-10-03 17:54:15.678585"
 ---

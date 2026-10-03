@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 11
 owner: {"html_url": "https://github.com/camfort", "avatar_url": "https://avatars.githubusercontent.com/u/18264580?v=4", "login": "camfort", "type": "Organization"}
 topics: ["automated-refactoring", "fortran", "haskell", "parser", "static-analysis"]
-date: "2026-09-26 17:44:06.262764"
+date: "2026-10-03 17:54:14.503650"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/parmoo", "avatar_url": "https://avatars.githubusercontent.com/u/71412470?v=4", "login": "parmoo", "type": "Organization"}
 topics: ["multiobjective-optimization", "python3", "simulation-optimization", "surrogate-based-optimization", "blackbox-optimization", "mathematical-software", "multicriteria-optimization", "multiobjective", "numerical-optimization", "simulation-based-optimization", "response-surface-methodology"]
-date: "2026-09-26 17:44:07.000872"
+date: "2026-10-03 17:54:16.035313"
 ---

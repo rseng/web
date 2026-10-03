@@ -22,5 +22,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 6
 owner: {"html_url": "https://github.com/qcxms", "avatar_url": "https://avatars.githubusercontent.com/u/64989407?v=4", "login": "qcxms", "type": "Organization"}
 topics: ["mass-spectrometry", "computational-chemistry", "molecular-dynamics", "computational-mass-spectrometry"]
-date: "2026-09-26 17:44:06.900816"
+date: "2026-10-03 17:54:15.825504"
 ---

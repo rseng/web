@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 18
 owner: {"html_url": "https://github.com/ncbi", "avatar_url": "https://avatars.githubusercontent.com/u/3812119?v=4", "login": "ncbi", "type": "Organization"}
 topics: ["ngs", "rna-seq", "tpm"]
-date: "2026-09-26 17:44:06.435742"
+date: "2026-10-03 17:54:14.860215"
 ---

@@ -23,5 +23,5 @@ open_issues_count: 37
 subscribers_count: 10
 owner: {"html_url": "https://github.com/tardis-sn", "avatar_url": "https://avatars.githubusercontent.com/u/6108234?v=4", "login": "tardis-sn", "type": "Organization"}
 topics: ["python", "astronomy", "atomic-database"]
-date: "2026-09-26 17:44:06.678395"
+date: "2026-10-03 17:54:15.353292"
 ---

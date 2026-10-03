@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 40
 owner: {"html_url": "https://github.com/bwa-mem2", "avatar_url": "https://avatars.githubusercontent.com/u/43346774?v=4", "login": "bwa-mem2", "type": "Organization"}
 topics: ["bioinformatics", "genomics", "sequence-alignment"]
-date: "2026-09-26 17:44:06.762555"
+date: "2026-10-03 17:54:15.523730"
 ---

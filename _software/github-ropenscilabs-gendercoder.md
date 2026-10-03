@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/ropenscilabs", "avatar_url": "https://avatars.githubusercontent.com/u/16314060?v=4", "login": "ropenscilabs", "type": "Organization"}
 topics: ["ozunconf18", "unconf", "r", "r-package", "rstats", "gender-diversity", "gender-diversity", "ozunconf18", "unconf", "data-extraction"]
-date: "2026-09-26 17:44:06.248780"
+date: "2026-10-03 17:54:14.475596"
 ---

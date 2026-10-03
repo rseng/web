@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/tum-ens", "avatar_url": "https://avatars.githubusercontent.com/u/8157454?v=4", "login": "tum-ens", "type": "Organization"}
 topics: ["data-science", "database", "energy", "open-source", "modelling", "open-data-strategy", "kwp", "open-data"]
-date: "2026-09-26 17:44:06.840892"
+date: "2026-10-03 17:54:15.681880"
 ---

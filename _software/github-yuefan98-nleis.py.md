@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/yuefan98", "avatar_url": "https://avatars.githubusercontent.com/u/97193085?v=4", "login": "yuefan98", "type": "User"}
 topics: ["eis", "electrochemistry", "2nd-nleis", "lithium-ion-batteries", "impedance-py", "battery", "fuel-cell"]
-date: "2026-09-26 17:44:06.988583"
+date: "2026-10-03 17:54:16.010268"
 ---

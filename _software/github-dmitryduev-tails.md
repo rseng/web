@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/dmitryduev", "avatar_url": "https://avatars.githubusercontent.com/u/7557205?v=4", "login": "dmitryduev", "type": "User"}
 topics: ["tails", "deep-learning", "comets", "ztf", "ztf-ii", "astronomy", "solar-system"]
-date: "2026-09-26 17:44:06.285437"
+date: "2026-10-03 17:54:14.550459"
 ---

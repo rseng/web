@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 8
 owner: {"html_url": "https://github.com/phac-nml", "avatar_url": "https://avatars.githubusercontent.com/u/15620262?v=4", "login": "phac-nml", "type": "Organization"}
 topics: ["bioinformatics", "serotyping", "salmonella", "cgmlst", "sistr"]
-date: "2026-09-26 17:44:06.319916"
+date: "2026-10-03 17:54:14.621041"
 ---

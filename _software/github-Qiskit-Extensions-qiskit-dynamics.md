@@ -22,5 +22,5 @@ open_issues_count: 22
 license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-2.0", "url": "https://api.github.com/licenses/apache-2.0", "node_id": "MDc6TGljZW5zZTI="}
 subscribers_count: 12
 owner: {"html_url": "https://github.com/Qiskit-Extensions", "avatar_url": "https://avatars.githubusercontent.com/u/91233108?v=4", "login": "Qiskit-Extensions", "type": "Organization"}
-date: "2026-09-26 17:44:06.742987"
+date: "2026-10-03 17:54:15.484243"
 ---

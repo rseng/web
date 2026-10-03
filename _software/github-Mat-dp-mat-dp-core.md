@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Mat-dp", "avatar_url": "https://avatars.githubusercontent.com/u/104203060?v=4", "login": "Mat-dp", "type": "Organization"}
 topics: ["modelling-tool", "bulk-materials", "critical-materials", "embodied-emissions", "low-carbon-systems", "material-demand"]
-date: "2026-09-26 17:44:06.861460"
+date: "2026-10-03 17:54:15.723277"
 ---

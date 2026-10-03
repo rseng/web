@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 14
 owner: {"html_url": "https://github.com/silburt", "avatar_url": "https://avatars.githubusercontent.com/u/9949184?v=4", "login": "silburt", "type": "User"}
 topics: ["convnet", "tensorflow", "moon", "astrophysics", "keras", "python", "deep-learning", "machine-learning"]
-date: "2026-09-26 17:44:06.425865"
+date: "2026-10-03 17:54:14.840324"
 ---

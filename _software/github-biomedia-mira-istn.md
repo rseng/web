@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 6
 owner: {"html_url": "https://github.com/biomedia-mira", "avatar_url": "https://avatars.githubusercontent.com/u/52955096?v=4", "login": "biomedia-mira", "type": "Organization"}
 topics: ["image-registration", "deep-learning", "spatial-transformer-networks", "medical-imaging"]
-date: "2026-09-26 17:44:06.923420"
+date: "2026-10-03 17:54:15.876859"
 ---

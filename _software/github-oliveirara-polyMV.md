@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/oliveirara", "avatar_url": "https://avatars.githubusercontent.com/u/12023276?v=4", "login": "oliveirara", "type": "User"}
 topics: ["cosmology", "multipole-vectors", "frechet-vectors"]
-date: "2026-09-26 17:44:06.442231"
+date: "2026-10-03 17:54:14.873437"
 ---

@@ -22,5 +22,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/michalc", "avatar_url": "https://avatars.githubusercontent.com/u/13877?v=4", "login": "michalc", "type": "User"}
 topics: ["openttd"]
-date: "2026-09-26 17:44:06.532617"
+date: "2026-10-03 17:54:15.057946"
 ---

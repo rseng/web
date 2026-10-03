@@ -19,5 +19,5 @@ language: "Jupyter Notebook"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/podondra", "avatar_url": "https://avatars.githubusercontent.com/u/15136508?v=4", "login": "podondra", "type": "User"}
-date: "2026-09-26 17:44:06.384343"
+date: "2026-10-03 17:54:14.754947"
 ---

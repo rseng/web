@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/JuliaQuantumControl", "avatar_url": "https://avatars.githubusercontent.com/u/88603846?v=4", "login": "JuliaQuantumControl", "type": "Organization"}
 topics: ["julia", "grape", "quantum", "optimal-control"]
-date: "2026-09-26 17:44:06.490063"
+date: "2026-10-03 17:54:14.971292"
 ---

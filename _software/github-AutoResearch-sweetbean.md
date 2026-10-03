@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AutoResearch", "avatar_url": "https://avatars.githubusercontent.com/u/93661143?v=4", "login": "AutoResearch", "type": "Organization"}
 topics: ["automated-documentation", "behavioral-experiments", "online-behavioral-experiments", "synthetic-participants"]
-date: "2026-09-26 17:44:06.745718"
+date: "2026-10-03 17:54:15.489830"
 ---

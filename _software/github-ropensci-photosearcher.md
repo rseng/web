@@ -20,5 +20,5 @@ language: "HTML"
 open_issues_count: 4
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["data-access"]
-date: "2026-09-26 17:44:06.157671"
+date: "2026-10-03 17:54:14.289712"
 ---

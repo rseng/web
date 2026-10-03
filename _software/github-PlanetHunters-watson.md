@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/PlanetHunters", "avatar_url": "https://avatars.githubusercontent.com/u/78312991?v=4", "login": "PlanetHunters", "type": "Organization"}
 topics: ["exoplanets", "tess", "kepler", "k2", "pipeline", "transits"]
-date: "2026-09-26 17:44:06.939593"
+date: "2026-10-03 17:54:15.909731"
 ---

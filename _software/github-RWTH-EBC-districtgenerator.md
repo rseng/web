@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 12
 owner: {"html_url": "https://github.com/RWTH-EBC", "avatar_url": "https://avatars.githubusercontent.com/u/8121773?v=4", "login": "RWTH-EBC", "type": "Organization"}
 topics: ["maintained", "tool"]
-date: "2026-09-26 17:44:06.520142"
+date: "2026-10-03 17:54:15.032652"
 ---

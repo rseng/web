@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 11
 owner: {"html_url": "https://github.com/pcubillos", "avatar_url": "https://avatars.githubusercontent.com/u/2119263?v=4", "login": "pcubillos", "type": "User"}
 topics: ["mcmc", "python"]
-date: "2026-09-26 17:44:06.451975"
+date: "2026-10-03 17:54:14.893528"
 ---

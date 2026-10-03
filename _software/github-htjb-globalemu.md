@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/htjb", "avatar_url": "https://avatars.githubusercontent.com/u/40355093?v=4", "login": "htjb", "type": "User"}
 topics: ["astrophysics", "cosmology", "neural-networks", "emulator"]
-date: "2026-09-26 17:44:06.227794"
+date: "2026-10-03 17:54:14.432987"
 ---

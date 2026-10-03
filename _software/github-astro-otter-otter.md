@@ -22,5 +22,5 @@ open_issues_count: 5
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/astro-otter", "avatar_url": "https://avatars.githubusercontent.com/u/153562482?v=4", "login": "astro-otter", "type": "Organization"}
-date: "2026-09-26 17:44:06.226973"
+date: "2026-10-03 17:54:14.431277"
 ---

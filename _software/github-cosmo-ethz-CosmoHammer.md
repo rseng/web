@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/cosmo-ethz", "avatar_url": "https://avatars.githubusercontent.com/u/8969967?v=4", "login": "cosmo-ethz", "type": "User"}
 topics: ["cosmology", "outdated", "eth-zurich", "markov-chains"]
-date: "2026-09-26 17:44:06.501804"
+date: "2026-10-03 17:54:14.995345"
 ---

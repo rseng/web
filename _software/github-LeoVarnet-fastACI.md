@@ -21,5 +21,5 @@ open_issues_count: 1
 subscribers_count: 3
 owner: {"html_url": "https://github.com/LeoVarnet", "avatar_url": "https://avatars.githubusercontent.com/u/44163905?v=4", "login": "LeoVarnet", "type": "User"}
 topics: ["perception", "psychophysics", "revcorr", "aci", "audition", "asr"]
-date: "2026-09-26 17:44:06.327734"
+date: "2026-10-03 17:54:14.637330"
 ---

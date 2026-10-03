@@ -20,5 +20,5 @@ language: "R"
 open_issues_count: 19
 owner: {"html_url": "https://github.com/ropensci", "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4", "login": "ropensci", "type": "Organization"}
 topics: ["bicycle-hire-systems", "r", "rstats", "bike-hire", "bicycle-hire", "database", "bike-data", "r-package", "peer-reviewed", "bike-hire-systems", "data-access"]
-date: "2026-09-26 17:44:06.170183"
+date: "2026-10-03 17:54:14.315779"
 ---

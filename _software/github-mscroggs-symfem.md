@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/mscroggs", "avatar_url": "https://avatars.githubusercontent.com/u/9850599?v=4", "login": "mscroggs", "type": "User"}
 topics: ["finite-elements", "symbolic-algebra"]
-date: "2026-09-26 17:44:06.921393"
+date: "2026-10-03 17:54:15.872714"
 ---

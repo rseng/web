@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/argiopetech", "avatar_url": "https://avatars.githubusercontent.com/u/395366?v=4", "login": "argiopetech", "type": "User"}
 topics: ["bayesian-analysis", "mcmc", "astronomy", "bayesian-statistics", "c-plus-plus"]
-date: "2026-09-26 17:44:06.696708"
+date: "2026-10-03 17:54:15.390351"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 4
 owner: {"html_url": "https://github.com/arielmission-space", "avatar_url": "https://avatars.githubusercontent.com/u/72981825?v=4", "login": "arielmission-space", "type": "Organization"}
 topics: ["fresnel", "gui", "open-source", "optics", "optics-simulation", "paos", "psf", "python", "ray-tracing", "wavefront"]
-date: "2026-09-26 17:44:07.001130"
+date: "2026-10-03 17:54:16.035793"
 ---

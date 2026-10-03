@@ -23,5 +23,5 @@ open_issues_count: 313
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 62
 owner: {"html_url": "https://github.com/jwohlwend", "avatar_url": "https://avatars.githubusercontent.com/u/7190650?v=4", "login": "jwohlwend", "type": "User"}
-date: "2026-09-26 17:44:06.589461"
+date: "2026-10-03 17:54:15.173359"
 ---

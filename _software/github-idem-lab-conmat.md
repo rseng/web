@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/idem-lab", "avatar_url": "https://avatars.githubusercontent.com/u/146308556?v=4", "login": "idem-lab", "type": "Organization"}
 topics: ["contact-matrices", "population-data", "r", "public-health", "infectious-diseases"]
-date: "2026-09-26 17:44:06.458899"
+date: "2026-10-03 17:54:14.907612"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 1
 owner: {"html_url": "https://github.com/ShaunFell", "avatar_url": "https://avatars.githubusercontent.com/u/37465343?v=4", "login": "ShaunFell", "type": "User"}
 topics: ["general-relativity", "numerical-relativity"]
-date: "2026-09-26 17:44:06.960573"
+date: "2026-10-03 17:54:15.953077"
 ---

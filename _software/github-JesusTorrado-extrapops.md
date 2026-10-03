@@ -21,5 +21,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JesusTorrado", "avatar_url": "https://avatars.githubusercontent.com/u/2233649?v=4", "login": "JesusTorrado", "type": "User"}
 topics: ["binary-black-holes", "gravitational-waves"]
-date: "2026-09-26 17:44:06.550713"
+date: "2026-10-03 17:54:15.094631"
 ---

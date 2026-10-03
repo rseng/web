@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 728
 owner: {"html_url": "https://github.com/coder", "avatar_url": "https://avatars.githubusercontent.com/u/95932066?v=4", "login": "coder", "type": "Organization"}
 topics: ["vscode", "vscode-remote", "ide", "remote-work", "development-environment", "dev-tools", "browser-ide"]
-date: "2026-09-26 17:44:06.379233"
+date: "2026-10-03 17:54:14.744695"
 ---

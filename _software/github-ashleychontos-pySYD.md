@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/ashleychontos", "avatar_url": "https://avatars.githubusercontent.com/u/13820495?v=4", "login": "ashleychontos", "type": "User"}
 topics: ["time-series-analysis", "asteroseismology", "power-spectrum-analysis", "photometry", "kepler", "k2", "tess", "astronomy", "astrophysics", "fundamental-analysis", "stars", "stellar-parameters", "stellar-physics", "stellar-astrophysics", "python"]
-date: "2026-09-26 17:44:06.464133"
+date: "2026-10-03 17:54:14.918193"
 ---

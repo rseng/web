@@ -22,5 +22,5 @@ open_issues_count: 2
 license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "spdx_id": "AGPL-3.0", "url": "https://api.github.com/licenses/agpl-3.0", "node_id": "MDc6TGljZW5zZTE="}
 subscribers_count: 5
 owner: {"html_url": "https://github.com/open-aviation", "avatar_url": "https://avatars.githubusercontent.com/u/104085040?v=4", "login": "open-aviation", "type": "Organization"}
-date: "2026-09-26 17:44:06.486051"
+date: "2026-10-03 17:54:14.963128"
 ---

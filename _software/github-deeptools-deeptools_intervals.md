@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/deeptools", "avatar_url": "https://avatars.githubusercontent.com/u/6528975?v=4", "login": "deeptools", "type": "Organization"}
 topics: ["bioinformatics", "interval-tree", "gtf", "bed"]
-date: "2026-09-26 17:44:06.998712"
+date: "2026-10-03 17:54:16.030944"
 ---

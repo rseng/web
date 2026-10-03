@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 3
 owner: {"html_url": "https://github.com/PyProphet", "avatar_url": "https://avatars.githubusercontent.com/u/11459058?v=4", "login": "PyProphet", "type": "Organization"}
 topics: ["proteomics", "swath-ms", "openswath", "mass-spectrometry", "data-independent-acquisition", "semi-supervised-learning", "python"]
-date: "2026-09-26 17:44:06.963082"
+date: "2026-10-03 17:54:15.958153"
 ---

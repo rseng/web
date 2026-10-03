@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Marco-Congedo", "avatar_url": "https://avatars.githubusercontent.com/u/47817916?v=4", "login": "Marco-Congedo", "type": "User"}
 topics: ["brain-computer-interface", "eeg", "eeg-analysis", "eeg-classification", "eeg-signals-processing"]
-date: "2026-09-26 17:44:06.453187"
+date: "2026-10-03 17:54:14.895985"
 ---

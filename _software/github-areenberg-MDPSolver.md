@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/areenberg", "avatar_url": "https://avatars.githubusercontent.com/u/48519503?v=4", "login": "areenberg", "type": "User"}
 topics: ["decision-process", "markov-decision-process", "optimization", "predictive-maintenance", "reinforcement-learning", "solver"]
-date: "2026-09-26 17:44:06.323382"
+date: "2026-10-03 17:54:14.628210"
 ---

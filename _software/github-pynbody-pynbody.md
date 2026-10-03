@@ -22,5 +22,5 @@ language: "Python"
 open_issues_count: 112
 subscribers_count: 23
 owner: {"html_url": "https://github.com/pynbody", "avatar_url": "https://avatars.githubusercontent.com/u/4417908?v=4", "login": "pynbody", "type": "Organization"}
-date: "2026-09-26 17:44:06.569703"
+date: "2026-10-03 17:54:15.133164"
 ---

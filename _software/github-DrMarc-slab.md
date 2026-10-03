@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/DrMarc", "avatar_url": "https://avatars.githubusercontent.com/u/7555727?v=4", "login": "DrMarc", "type": "User"}
 topics: ["psychoacoustics", "audio", "sound"]
-date: "2026-09-26 17:44:06.888444"
+date: "2026-10-03 17:54:15.795134"
 ---

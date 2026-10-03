@@ -21,5 +21,5 @@ open_issues_count: 17
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 8
 owner: {"html_url": "https://github.com/SwissClinicalTrialOrganisation", "avatar_url": "https://avatars3.githubusercontent.com/u/44496957?v=4", "login": "SwissClinicalTrialOrganisation", "type": "Organization"}
-date: "2026-09-26 17:44:06.338396"
+date: "2026-10-03 17:54:14.659727"
 ---

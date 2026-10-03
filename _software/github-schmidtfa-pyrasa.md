@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 4
 owner: {"html_url": "https://github.com/schmidtfa", "avatar_url": "https://avatars.githubusercontent.com/u/50550513?v=4", "login": "schmidtfa", "type": "User"}
 topics: ["aperiodic-exponent", "eeg", "electrophysiology", "meg", "neuroscience", "oscillations", "power-spectral-density", "time-frequency-analysis"]
-date: "2026-09-26 17:44:06.423539"
+date: "2026-10-03 17:54:14.835461"
 ---

@@ -23,5 +23,5 @@ license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" Li
 subscribers_count: 6
 owner: {"html_url": "https://github.com/caseyjlaw", "avatar_url": "https://avatars.githubusercontent.com/u/1878317?v=4", "login": "caseyjlaw", "type": "User"}
 topics: ["astronomy", "interferometry", "radio", "casa", "python", "notebook", "binder", "jupyter-notebook", "transients"]
-date: "2026-09-26 17:44:06.991212"
+date: "2026-10-03 17:54:16.015700"
 ---

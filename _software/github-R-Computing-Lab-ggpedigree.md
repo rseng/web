@@ -22,5 +22,5 @@ open_issues_count: 12
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/R-Computing-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/70174445?v=4", "login": "R-Computing-Lab", "type": "Organization"}
-date: "2026-09-26 17:44:06.869471"
+date: "2026-10-03 17:54:15.739578"
 ---

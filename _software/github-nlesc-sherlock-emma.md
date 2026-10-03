@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:21.170967"
 avatar: "https://avatars1.githubusercontent.com/u/15137410?v=4"
 repo_url: "https://github.com/nlesc-sherlock/emma"
-date: "2026-09-26 17:44:06.369121"
+date: "2026-10-03 17:54:14.723729"
 ---

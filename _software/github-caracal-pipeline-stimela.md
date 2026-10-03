@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 10
 owner: {"html_url": "https://github.com/caracal-pipeline", "avatar_url": "https://avatars.githubusercontent.com/u/60778763?v=4", "login": "caracal-pipeline", "type": "Organization"}
 topics: ["radio-astronomy", "pipelines"]
-date: "2026-09-26 17:44:06.837505"
+date: "2026-10-03 17:54:15.675055"
 ---

@@ -25,5 +25,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/24686946/menura_
 star_count: 1
 last_activity_at: "2022-06-29T14:32:31.215Z"
 namespace: {"id": 844595, "name": "Etienne Behar", "path": "etienne.behar", "kind": "user", "full_path": "etienne.behar", "parent_id": null, "avatar_url": "/uploads/-/system/user/avatar/707353/avatar.png", "web_url": "https://gitlab.com/etienne.behar"}
-date: "2026-09-26 17:44:07.025873"
+date: "2026-10-03 17:54:16.086460"
 ---

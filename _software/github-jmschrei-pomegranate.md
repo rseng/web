@@ -23,5 +23,5 @@ topics: ["python", "machine-learning", "probabilistic-graphical-models", "cython
 timestamp: "2020-07-04 13:22:42.897086"
 avatar: "https://avatars2.githubusercontent.com/u/3916816?v=4"
 repo_url: "https://github.com/jmschrei/pomegranate"
-date: "2026-09-26 17:44:06.247111"
+date: "2026-10-03 17:54:14.472191"
 ---

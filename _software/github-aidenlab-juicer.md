@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 18
 owner: {"html_url": "https://github.com/aidenlab", "avatar_url": "https://avatars.githubusercontent.com/u/2790252?v=4", "login": "aidenlab", "type": "Organization"}
 topics: ["3d-genome", "3d-genome-browser", "genomics", "hi-c", "bioinformatics", "ngs"]
-date: "2026-09-26 17:44:06.645398"
+date: "2026-10-03 17:54:15.286179"
 ---
