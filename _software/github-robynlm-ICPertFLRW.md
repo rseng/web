@@ -20,5 +20,5 @@ language: "Fortran"
 license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id": "GPL-3.0", "url": "https://api.github.com/licenses/gpl-3.0", "node_id": "MDc6TGljZW5zZTk="}
 subscribers_count: 1
 owner: {"html_url": "https://github.com/robynlm", "avatar_url": "https://avatars.githubusercontent.com/u/111498435?v=4", "login": "robynlm", "type": "User"}
-date: "2026-10-03 17:54:15.360050"
+date: "2026-10-10 18:30:14.677451"
 ---

@@ -24,5 +24,5 @@ topics: ["kubernetes", "kubernetes-deployment", "opennebula", "ansible", "terraf
 timestamp: "2020-07-05 00:17:27.341390"
 avatar: "https://avatars0.githubusercontent.com/u/1705862?v=4"
 repo_url: "https://github.com/NLeSC/baklava"
-date: "2026-10-03 17:54:15.183570"
+date: "2026-10-10 18:30:14.503066"
 ---

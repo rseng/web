@@ -24,5 +24,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/DarkQuestCosmology", "avatar_url": "https://avatars.githubusercontent.com/u/63082669?v=4", "login": "DarkQuestCosmology", "type": "Organization"}
 topics: ["emulators", "cosmology"]
-date: "2026-10-03 17:54:15.467202"
+date: "2026-10-10 18:30:14.782870"
 ---

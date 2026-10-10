@@ -21,5 +21,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/AngryMaciek", "avatar_url": "https://avatars.githubusercontent.com/u/19755308?v=4", "login": "AngryMaciek", "type": "User"}
 topics: ["algebra", "mathematics", "precision", "cryptography", "post-quantum-cryptography"]
-date: "2026-10-03 17:54:15.868992"
+date: "2026-10-10 18:30:15.152952"
 ---

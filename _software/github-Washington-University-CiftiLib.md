@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 7
 owner: {"html_url": "https://github.com/Washington-University", "avatar_url": "https://avatars.githubusercontent.com/u/1493901?v=4", "login": "Washington-University", "type": "Organization"}
 topics: ["c-plus-plus", "cifti", "nifti"]
-date: "2026-10-03 17:54:15.637623"
+date: "2026-10-10 18:30:14.950936"
 ---

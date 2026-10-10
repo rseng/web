@@ -22,5 +22,5 @@ open_issues_count: 192
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 99
 owner: {"html_url": "https://github.com/samtools", "avatar_url": "https://avatars.githubusercontent.com/u/1518450?v=4", "login": "samtools", "type": "Organization"}
-date: "2026-10-03 17:54:14.750674"
+date: "2026-10-10 18:30:14.076063"
 ---

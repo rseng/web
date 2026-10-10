@@ -20,5 +20,5 @@ watchers_count: 7
 language: "Jupyter Notebook"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/Astroberta", "avatar_url": "https://avatars.githubusercontent.com/u/157313565?v=4", "login": "Astroberta", "type": "User"}
-date: "2026-10-03 17:54:15.504629"
+date: "2026-10-10 18:30:14.819647"
 ---

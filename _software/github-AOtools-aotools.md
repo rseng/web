@@ -23,5 +23,5 @@ license: {"key": "lgpl-3.0", "name": "GNU Lesser General Public License v3.0", "
 subscribers_count: 13
 owner: {"html_url": "https://github.com/AOtools", "avatar_url": "https://avatars.githubusercontent.com/u/17499079?v=4", "login": "AOtools", "type": "Organization"}
 topics: ["adaptive-optics", "python", "astronomy-library", "python-package"]
-date: "2026-10-03 17:54:15.439569"
+date: "2026-10-10 18:30:14.755867"
 ---

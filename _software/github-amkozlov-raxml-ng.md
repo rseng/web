@@ -23,5 +23,5 @@ license: {"key": "agpl-3.0", "name": "GNU Affero General Public License v3.0", "
 subscribers_count: 18
 owner: {"html_url": "https://github.com/amkozlov", "avatar_url": "https://avatars.githubusercontent.com/u/5624530?v=4", "login": "amkozlov", "type": "User"}
 topics: ["bioinformatics", "phylogenetics", "maximum-likelihood", "mpi", "pthreads"]
-date: "2026-10-03 17:54:15.245061"
+date: "2026-10-10 18:30:14.563988"
 ---
