@@ -21,5 +21,5 @@ open_issues_count: 19
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 subscribers_count: 14
 owner: {"html_url": "https://github.com/SciML", "avatar_url": "https://avatars.githubusercontent.com/u/21238080?v=4", "login": "SciML", "type": "Organization"}
-date: "2026-10-10 18:30:13.993891"
+date: "2026-10-17 17:04:13.041894"
 ---

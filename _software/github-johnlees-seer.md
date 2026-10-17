@@ -23,5 +23,5 @@ license: {"key": "gpl-2.0", "name": "GNU General Public License v2.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/johnlees", "avatar_url": "https://avatars.githubusercontent.com/u/6331837?v=4", "login": "johnlees", "type": "User"}
 topics: ["gwas", "bacteria", "k-mer"]
-date: "2026-10-10 18:30:15.221601"
+date: "2026-10-17 17:04:13.573755"
 ---

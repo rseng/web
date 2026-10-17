@@ -24,5 +24,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 15
 owner: {"html_url": "https://github.com/scikit-hep", "avatar_url": "https://avatars.githubusercontent.com/u/23454624?v=4", "login": "scikit-hep", "type": "Organization"}
 topics: ["python", "fitting", "optimization", "c-plus-plus", "scikit-hep"]
-date: "2026-10-10 18:30:14.870629"
+date: "2026-10-17 17:04:13.421944"
 ---

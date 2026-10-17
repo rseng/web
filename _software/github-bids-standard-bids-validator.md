@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 12
 owner: {"html_url": "https://github.com/bids-standard", "avatar_url": "https://avatars.githubusercontent.com/u/43044189?v=4", "login": "bids-standard", "type": "Organization"}
 topics: ["bids", "neuroimaging", "data-validation"]
-date: "2026-10-10 18:30:14.852294"
+date: "2026-10-17 17:04:13.413953"
 ---

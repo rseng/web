@@ -22,5 +22,5 @@ avatar_url: "https://gitlab.com/uploads/-/system/project/avatar/15981708/mobse_c
 star_count: 1
 last_activity_at: "2021-05-12T08:49:47.188Z"
 namespace: {"id": 6784590, "name": "MOBSE", "path": "mobse", "kind": "group", "full_path": "mobse", "parent_id": null, "avatar_url": "/uploads/-/system/group/avatar/6784590/logo_mobse.png", "web_url": "https://gitlab.com/groups/mobse"}
-date: "2026-10-10 18:30:15.357577"
+date: "2026-10-17 17:04:13.635859"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 3
 owner: {"html_url": "https://github.com/adamantine-sim", "avatar_url": "https://avatars.githubusercontent.com/u/82662955?v=4", "login": "adamantine-sim", "type": "Organization"}
 topics: ["3d-printing", "heat-transfer", "simulation"]
-date: "2026-10-10 18:30:15.087041"
+date: "2026-10-17 17:04:13.515798"
 ---

@@ -22,5 +22,5 @@ open_issues_count: 5
 subscribers_count: 16
 owner: {"html_url": "https://github.com/igmhub", "avatar_url": "https://avatars.githubusercontent.com/u/24413275?v=4", "login": "igmhub", "type": "Organization"}
 topics: ["c-plus-plus", "astronomy"]
-date: "2026-10-10 18:30:14.813243"
+date: "2026-10-17 17:04:13.397007"
 ---

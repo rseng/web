@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 7
 owner: {"html_url": "https://github.com/jteutenberg", "avatar_url": "https://avatars.githubusercontent.com/u/1536537?v=4", "login": "jteutenberg", "type": "User"}
 topics: ["genome-assembly", "long-read", "genome-scaffolding", "genome-mapping"]
-date: "2026-10-10 18:30:14.629240"
+date: "2026-10-17 17:04:13.317682"
 ---

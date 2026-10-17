@@ -20,5 +20,5 @@ language: "Julia"
 open_issues_count: 1
 license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https://api.github.com/licenses/mit", "node_id": "MDc6TGljZW5zZTEz"}
 owner: {"html_url": "https://github.com/anscoil", "avatar_url": "https://avatars.githubusercontent.com/u/5403036?v=4", "login": "anscoil", "type": "User"}
-date: "2026-10-10 18:30:14.299139"
+date: "2026-10-17 17:04:13.174949"
 ---

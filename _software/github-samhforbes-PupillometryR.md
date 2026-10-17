@@ -23,5 +23,5 @@ topics: []
 timestamp: "2020-07-04 13:22:46.938542"
 avatar: "https://avatars3.githubusercontent.com/u/18288098?v=4"
 repo_url: "https://github.com/samhforbes/PupillometryR"
-date: "2026-10-10 18:30:15.181922"
+date: "2026-10-17 17:04:13.556632"
 ---

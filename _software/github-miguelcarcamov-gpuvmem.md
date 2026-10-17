@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 7
 owner: {"html_url": "https://github.com/miguelcarcamov", "avatar_url": "https://avatars.githubusercontent.com/u/5432126?v=4", "login": "miguelcarcamov", "type": "User"}
 topics: ["telescope", "gpu-computing", "gpu-acceleration", "multi-gpu", "alma", "ska", "vla", "astronomical-images", "astronomy", "astrophysics", "optimization-methods", "complex-systems", "radioastronomy", "maximum-entropy", "astronomical-algorithms", "image-synthesis", "cuda", "radio-imaging", "radio-interferometry", "gpu"]
-date: "2026-10-10 18:30:14.699728"
+date: "2026-10-17 17:04:13.347861"
 ---

@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/Merck", "avatar_url": "https://avatars.githubusercontent.com/u/7306189?v=4", "login": "Merck", "type": "Organization"}
 topics: ["differential-equations", "dynamical-systems", "julia", "julia-language", "stochastic-processes"]
-date: "2026-10-10 18:30:14.806994"
+date: "2026-10-17 17:04:13.394308"
 ---

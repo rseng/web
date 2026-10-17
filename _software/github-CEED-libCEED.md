@@ -23,5 +23,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 27
 owner: {"html_url": "https://github.com/CEED", "avatar_url": "https://avatars.githubusercontent.com/u/23178852?v=4", "login": "CEED", "type": "Organization"}
 topics: ["ceed", "high-order", "exascale-computing", "api", "ecp", "high-performance-computing"]
-date: "2026-10-10 18:30:13.938410"
+date: "2026-10-17 17:04:13.018158"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 2
 owner: {"html_url": "https://github.com/soilwater", "avatar_url": "https://avatars.githubusercontent.com/u/73772799?v=4", "login": "soilwater", "type": "Organization"}
 topics: ["cosmic-rays", "cosmos", "neutron-detection", "python", "soil-moisture", "crnp"]
-date: "2026-10-10 18:30:14.401527"
+date: "2026-10-17 17:04:13.219304"
 ---

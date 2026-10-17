@@ -24,5 +24,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/edgardomortiz", "avatar_url": "https://avatars.githubusercontent.com/u/5767612?v=4", "login": "edgardomortiz", "type": "User"}
 topics: ["ngs", "phylogenomics", "alignment", "genome-skimming", "high-throughput-sequencing", "hybridization-capture", "next-generation-sequencing", "phylogenetics", "rna-seq", "whole-genome-sequencing", "phylotranscriptomics", "targeted-capture", "orthologs", "paralogs"]
-date: "2026-10-10 18:30:14.080995"
+date: "2026-10-17 17:04:13.079333"
 ---

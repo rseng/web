@@ -21,5 +21,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/josegcpa", "avatar_url": "https://avatars.githubusercontent.com/u/40271262?v=4", "login": "josegcpa", "type": "User"}
 topics: ["docker", "nnunet", "wrapper"]
-date: "2026-10-10 18:30:14.571140"
+date: "2026-10-17 17:04:13.292438"
 ---

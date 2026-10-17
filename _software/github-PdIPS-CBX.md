@@ -18,5 +18,5 @@ watchers_count: 6
 language: "TeX"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/PdIPS", "avatar_url": "https://avatars.githubusercontent.com/u/128069149?v=4", "login": "PdIPS", "type": "Organization"}
-date: "2026-10-10 18:30:14.331944"
+date: "2026-10-17 17:04:13.189186"
 ---

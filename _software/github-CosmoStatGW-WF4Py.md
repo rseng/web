@@ -21,5 +21,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 2
 owner: {"html_url": "https://github.com/CosmoStatGW", "avatar_url": "https://avatars.githubusercontent.com/u/78158898?v=4", "login": "CosmoStatGW", "type": "Organization"}
 topics: ["gravitational-waves", "waveforms"]
-date: "2026-10-10 18:30:13.709034"
+date: "2026-10-17 17:04:12.919620"
 ---

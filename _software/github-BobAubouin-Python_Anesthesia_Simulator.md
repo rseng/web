@@ -22,5 +22,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/BobAubouin", "avatar_url": "https://avatars.githubusercontent.com/u/32908518?v=4", "login": "BobAubouin", "type": "User"}
 topics: ["anesthesia", "simulation", "drug-dosage"]
-date: "2026-10-10 18:30:14.402254"
+date: "2026-10-17 17:04:13.219613"
 ---

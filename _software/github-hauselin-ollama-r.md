@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 4
 owner: {"html_url": "https://github.com/hauselin", "avatar_url": "https://avatars.githubusercontent.com/u/7620977?v=4", "login": "hauselin", "type": "User"}
 topics: ["llms", "r", "ollama", "ollama-api", "ai", "llm", "api"]
-date: "2026-10-10 18:30:15.016352"
+date: "2026-10-17 17:04:13.485323"
 ---

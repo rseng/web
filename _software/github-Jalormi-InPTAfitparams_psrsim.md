@@ -16,5 +16,5 @@ clone_url: "https://github.com/Jalormi/InPTAfitparams_psrsim.git"
 size: 77
 language: "Python"
 owner: {"html_url": "https://github.com/Jalormi", "avatar_url": "https://avatars.githubusercontent.com/u/231622938?v=4", "login": "Jalormi", "type": "User"}
-date: "2026-10-10 18:30:14.235617"
+date: "2026-10-17 17:04:13.147185"
 ---

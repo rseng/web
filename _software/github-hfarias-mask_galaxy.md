@@ -22,5 +22,5 @@ open_issues_count: 2
 subscribers_count: 2
 owner: {"html_url": "https://github.com/hfarias", "avatar_url": "https://avatars.githubusercontent.com/u/1410657?v=4", "login": "hfarias", "type": "User"}
 topics: ["computer-vision", "mask-rcnn", "astroinformatics", "astronomy"]
-date: "2026-10-10 18:30:14.827531"
+date: "2026-10-17 17:04:13.403156"
 ---

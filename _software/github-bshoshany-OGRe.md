@@ -21,5 +21,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 5
 owner: {"html_url": "https://github.com/bshoshany", "avatar_url": "https://avatars.githubusercontent.com/u/61846320?v=4", "login": "bshoshany", "type": "User"}
 topics: ["tensor", "tensors", "general-relativity", "differential-geometry", "scientific-computing"]
-date: "2026-10-10 18:30:14.602437"
+date: "2026-10-17 17:04:13.306011"
 ---

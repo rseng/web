@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 5
 owner: {"html_url": "https://github.com/rabix", "avatar_url": "https://avatars.githubusercontent.com/u/7840207?v=4", "login": "rabix", "type": "Organization"}
 topics: ["cwl", "code-formatter", "common-workflow-language"]
-date: "2026-10-10 18:30:13.977108"
+date: "2026-10-17 17:04:13.034708"
 ---

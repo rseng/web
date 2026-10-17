@@ -21,5 +21,5 @@ open_issues_count: 7
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 4
 owner: {"html_url": "https://github.com/TravisWheelerLab", "avatar_url": "https://avatars.githubusercontent.com/u/19337416?v=4", "login": "TravisWheelerLab", "type": "Organization"}
-date: "2026-10-10 18:30:15.003076"
+date: "2026-10-17 17:04:13.479677"
 ---

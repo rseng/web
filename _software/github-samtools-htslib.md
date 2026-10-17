@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 68
 owner: {"html_url": "https://github.com/samtools", "avatar_url": "https://avatars.githubusercontent.com/u/1518450?v=4", "login": "samtools", "type": "Organization"}
 topics: ["htslib", "bioinformatics", "sam", "bam", "cram", "vcf", "bcf", "ngs"]
-date: "2026-10-10 18:30:14.076559"
+date: "2026-10-17 17:04:13.077423"
 ---

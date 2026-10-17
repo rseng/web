@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 1
 owner: {"html_url": "https://github.com/mantzaris", "avatar_url": "https://avatars.githubusercontent.com/u/11978807?v=4", "login": "mantzaris", "type": "User"}
 topics: ["embedded", "julia", "julialang", "vector-database"]
-date: "2026-10-10 18:30:14.352845"
+date: "2026-10-17 17:04:13.198233"
 ---

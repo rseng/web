@@ -22,5 +22,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/TinkerTools", "avatar_url": "https://avatars.githubusercontent.com/u/39835945?v=4", "login": "TinkerTools", "type": "Organization"}
 topics: ["molecular-dynamics", "molecular-mechanics", "force-fields", "biomolecular-simulation", "molecular-modeling", "gpu-computing"]
-date: "2026-10-10 18:30:14.443835"
+date: "2026-10-17 17:04:13.237412"
 ---

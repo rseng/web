@@ -19,5 +19,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 3
 owner: {"html_url": "https://github.com/APGG-Lab", "avatar_url": "https://avatars.githubusercontent.com/u/81275407?v=4", "login": "APGG-Lab", "type": "Organization"}
 topics: ["genetic-algorithm", "genetic-programming", "public-goods-game"]
-date: "2026-10-10 18:30:14.500124"
+date: "2026-10-17 17:04:13.261776"
 ---

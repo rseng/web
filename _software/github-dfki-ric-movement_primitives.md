@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 8
 owner: {"html_url": "https://github.com/dfki-ric", "avatar_url": "https://avatars.githubusercontent.com/u/37366708?v=4", "login": "dfki-ric", "type": "Organization"}
 topics: ["python", "robotics"]
-date: "2026-10-10 18:30:15.209157"
+date: "2026-10-17 17:04:13.568353"
 ---

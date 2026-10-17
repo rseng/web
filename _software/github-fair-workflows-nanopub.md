@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 7
 owner: {"html_url": "https://github.com/fair-workflows", "avatar_url": "https://avatars3.githubusercontent.com/u/36536864?v=4", "login": "fair-workflows", "type": "Organization"}
 topics: ["nanopublications"]
-date: "2026-10-10 18:30:14.011362"
+date: "2026-10-17 17:04:13.049488"
 ---

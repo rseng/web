@@ -24,5 +24,5 @@ topics: []
 timestamp: "2020-07-05 00:17:06.840344"
 avatar: "https://avatars0.githubusercontent.com/u/14940717?v=4"
 repo_url: "https://github.com/3D-e-Chem/knime-plants"
-date: "2026-10-10 18:30:14.389596"
+date: "2026-10-17 17:04:13.214133"
 ---

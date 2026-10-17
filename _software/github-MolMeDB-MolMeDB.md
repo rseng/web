@@ -22,5 +22,5 @@ open_issues_count: 26
 subscribers_count: 4
 owner: {"html_url": "https://github.com/MolMeDB", "avatar_url": "https://avatars3.githubusercontent.com/u/62621831?v=4", "login": "MolMeDB", "type": "Organization"}
 topics: ["chemistry", "lipids", "membranes", "cheminformatics", "database", "small-molecule", "permeability"]
-date: "2026-10-10 18:30:15.129082"
+date: "2026-10-17 17:04:13.533970"
 ---

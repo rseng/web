@@ -21,5 +21,5 @@ language: "Rust"
 open_issues_count: 1
 subscribers_count: 2
 owner: {"html_url": "https://github.com/fxwiegand", "avatar_url": "https://avatars.githubusercontent.com/u/39430842?v=4", "login": "fxwiegand", "type": "User"}
-date: "2026-10-10 18:30:15.078000"
+date: "2026-10-17 17:04:13.511885"
 ---

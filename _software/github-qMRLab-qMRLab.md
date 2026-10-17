@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 18
 owner: {"html_url": "https://github.com/qMRLab", "avatar_url": "https://avatars3.githubusercontent.com/u/42773796?v=4", "login": "qMRLab", "type": "Organization"}
 topics: ["mri", "analysis", "data-simulation", "quantitative", "magnetization", "relaxometry", "mapping"]
-date: "2026-10-10 18:30:14.975194"
+date: "2026-10-17 17:04:13.467578"
 ---

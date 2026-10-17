@@ -23,5 +23,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 12
 owner: {"html_url": "https://github.com/IAMconsortium", "avatar_url": "https://avatars.githubusercontent.com/u/19565808?v=4", "login": "IAMconsortium", "type": "Organization"}
 topics: ["integrated-assessment", "scenario", "analysis", "iamc-format", "visualization", "macro-energy", "energy-systems", "modeling", "timeseries-format", "integrated-assessment-scenarios", "scenario-data", "pyam"]
-date: "2026-10-10 18:30:15.010788"
+date: "2026-10-17 17:04:13.482962"
 ---

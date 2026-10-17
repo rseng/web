@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/smirik", "avatar_url": "https://avatars.githubusercontent.com/u/354907?v=4", "login": "smirik", "type": "User"}
 topics: ["astronomy", "mean-motion-resonance", "solar-system-simulation"]
-date: "2026-10-10 18:30:15.204199"
+date: "2026-10-17 17:04:13.566209"
 ---

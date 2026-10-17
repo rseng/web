@@ -22,5 +22,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 4
 owner: {"html_url": "https://github.com/MedMaxLab", "avatar_url": "https://avatars.githubusercontent.com/u/119063619?v=4", "login": "MedMaxLab", "type": "Organization"}
 topics: ["deep-learning", "eeg", "self-supervised-learning"]
-date: "2026-10-10 18:30:14.566143"
+date: "2026-10-17 17:04:13.290305"
 ---

@@ -18,5 +18,5 @@ language: "Python"
 license: {"key": "bsd-3-clause", "name": "BSD 3-Clause \"New\" or \"Revised\" License", "spdx_id": "BSD-3-Clause", "url": "https://api.github.com/licenses/bsd-3-clause", "node_id": "MDc6TGljZW5zZTU="}
 subscribers_count: 2
 owner: {"html_url": "https://github.com/SALT-NIRWALS", "avatar_url": "https://avatars.githubusercontent.com/u/95205451?v=4", "login": "SALT-NIRWALS", "type": "Organization"}
-date: "2026-10-10 18:30:15.125281"
+date: "2026-10-17 17:04:13.532328"
 ---

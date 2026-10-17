@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 3
 owner: {"html_url": "https://github.com/Smith42", "avatar_url": "https://avatars.githubusercontent.com/u/8194280?v=4", "login": "Smith42", "type": "User"}
 topics: ["astronomy", "transformer", "large-observation-model"]
-date: "2026-10-10 18:30:14.092428"
+date: "2026-10-17 17:04:13.084280"
 ---

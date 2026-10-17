@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 2
 owner: {"html_url": "https://github.com/tldr-group", "avatar_url": "https://avatars.githubusercontent.com/u/78808638?v=4", "login": "tldr-group", "type": "Organization"}
 topics: ["materials-science", "segment-anything-model", "segmentation", "webapp"]
-date: "2026-10-10 18:30:14.625435"
+date: "2026-10-17 17:04:13.316032"
 ---

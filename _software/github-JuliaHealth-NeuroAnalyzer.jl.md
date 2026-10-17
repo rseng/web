@@ -22,5 +22,5 @@ license: {"key": "bsd-2-clause", "name": "BSD 2-Clause \"Simplified\" License", 
 subscribers_count: 2
 owner: {"html_url": "https://github.com/JuliaHealth", "avatar_url": "https://avatars.githubusercontent.com/u/64336345?v=4", "login": "JuliaHealth", "type": "Organization"}
 topics: ["ecog", "eeg", "ieeg", "meg", "neuroscience", "nirs", "psychology", "seeg", "tdcs", "brain", "julia", "tacs", "tms", "trns"]
-date: "2026-10-10 18:30:15.151067"
+date: "2026-10-17 17:04:13.543407"
 ---

@@ -23,5 +23,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 6
 owner: {"html_url": "https://github.com/RWTH-EBC", "avatar_url": "https://avatars.githubusercontent.com/u/8121773?v=4", "login": "RWTH-EBC", "type": "Organization"}
 topics: ["dwd", "epw", "tmy3", "try", "weather", "weatherdata", "weatherdatacollection", "converter"]
-date: "2026-10-10 18:30:14.354037"
+date: "2026-10-17 17:04:13.198750"
 ---

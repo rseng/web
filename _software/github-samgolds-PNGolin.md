@@ -20,5 +20,5 @@ watchers_count: 1
 language: "Cython"
 subscribers_count: 1
 owner: {"html_url": "https://github.com/samgolds", "avatar_url": "https://avatars.githubusercontent.com/u/51204145?v=4", "login": "samgolds", "type": "User"}
-date: "2026-10-10 18:30:15.074635"
+date: "2026-10-17 17:04:13.510417"
 ---

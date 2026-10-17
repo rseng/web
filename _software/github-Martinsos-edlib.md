@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 20
 owner: {"html_url": "https://github.com/Martinsos", "avatar_url": "https://avatars.githubusercontent.com/u/1536647?v=4", "login": "Martinsos", "type": "User"}
 topics: ["sequence-alignment", "edit-distance", "levehnstein-distance", "library", "c-plus-plus", "alignment-path", "python", "bioinformatics"]
-date: "2026-10-10 18:30:15.050290"
+date: "2026-10-17 17:04:13.499867"
 ---

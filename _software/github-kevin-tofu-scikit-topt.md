@@ -22,5 +22,5 @@ license: {"key": "apache-2.0", "name": "Apache License 2.0", "spdx_id": "Apache-
 subscribers_count: 1
 owner: {"html_url": "https://github.com/kevin-tofu", "avatar_url": "https://avatars.githubusercontent.com/u/85769623?v=4", "login": "kevin-tofu", "type": "User"}
 topics: ["topology-optimization", "scikit-fem", "fem", "scikit", "mesh", "mesh-based", "finite-element-analysis", "unstructured", "unstructured-meshes"]
-date: "2026-10-10 18:30:15.125521"
+date: "2026-10-17 17:04:13.532432"
 ---

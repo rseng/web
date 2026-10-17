@@ -23,5 +23,5 @@ open_issues_count: 27
 license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null, "node_id": "MDc6TGljZW5zZTA="}
 subscribers_count: 10
 owner: {"html_url": "https://github.com/sblunt", "avatar_url": "https://avatars.githubusercontent.com/u/20113975?v=4", "login": "sblunt", "type": "User"}
-date: "2026-10-10 18:30:14.041766"
+date: "2026-10-17 17:04:13.062473"
 ---

@@ -23,5 +23,5 @@ license: {"key": "mit", "name": "MIT License", "spdx_id": "MIT", "url": "https:/
 subscribers_count: 26
 owner: {"html_url": "https://github.com/pymatting", "avatar_url": "https://avatars0.githubusercontent.com/u/59248113?v=4", "login": "pymatting", "type": "Organization"}
 topics: ["alpha-matting", "image-processing", "foreground", "python3"]
-date: "2026-10-10 18:30:14.615864"
+date: "2026-10-17 17:04:13.311836"
 ---

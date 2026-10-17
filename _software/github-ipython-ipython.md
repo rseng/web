@@ -23,5 +23,5 @@ topics: ["ipython", "jupyter", "data-science", "notebook", "python", "repl"]
 timestamp: "2020-07-04 13:22:30.688587"
 avatar: "https://avatars3.githubusercontent.com/u/230453?v=4"
 repo_url: "https://github.com/ipython/ipython"
-date: "2026-10-10 18:30:15.219877"
+date: "2026-10-17 17:04:13.573015"
 ---

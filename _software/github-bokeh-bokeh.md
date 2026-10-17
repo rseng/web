@@ -23,5 +23,5 @@ topics: ["bokeh", "python", "interactive-plots", "javascript", "visualization", 
 timestamp: "2020-07-04 13:22:12.458971"
 avatar: "https://avatars2.githubusercontent.com/u/8440965?v=4"
 repo_url: "https://github.com/bokeh/bokeh"
-date: "2026-10-10 18:30:14.145080"
+date: "2026-10-17 17:04:13.107373"
 ---

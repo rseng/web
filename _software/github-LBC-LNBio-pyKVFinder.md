@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 4
 owner: {"html_url": "https://github.com/LBC-LNBio", "avatar_url": "https://avatars.githubusercontent.com/u/9485087?v=4", "login": "LBC-LNBio", "type": "Organization"}
 topics: ["cavity-detection", "cavity-characterization", "python-package", "numpy-arrays", "scripting"]
-date: "2026-10-10 18:30:14.479318"
+date: "2026-10-17 17:04:13.252684"
 ---

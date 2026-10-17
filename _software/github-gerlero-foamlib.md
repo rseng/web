@@ -23,5 +23,5 @@ license: {"key": "gpl-3.0", "name": "GNU General Public License v3.0", "spdx_id"
 subscribers_count: 5
 owner: {"html_url": "https://github.com/gerlero", "avatar_url": "https://avatars.githubusercontent.com/u/15150530?v=4", "login": "gerlero", "type": "User"}
 topics: ["asyncio", "openfoam", "parsing", "python", "cases", "dictionaries", "fields", "files", "slurm"]
-date: "2026-10-10 18:30:14.411672"
+date: "2026-10-17 17:04:13.223633"
 ---

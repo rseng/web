@@ -20,5 +20,5 @@ license: {"key": "other", "name": "Other", "spdx_id": "NOASSERTION", "url": null
 subscribers_count: 1
 owner: {"html_url": "https://github.com/atzberg", "avatar_url": "https://avatars.githubusercontent.com/u/8550758?v=4", "login": "atzberg", "type": "User"}
 topics: ["data-science", "machine-learning", "scientific-computation", "simulations"]
-date: "2026-10-10 18:30:13.916744"
+date: "2026-10-17 17:04:13.008926"
 ---
